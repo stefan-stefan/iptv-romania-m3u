@@ -171,40 +171,4 @@ http://81.196.0.126:80/utvedge/utvlive/index.m3u8
 http://82.76.40.76:80/utvedge/utvlive/playlist.m3u8
 #EXTINF:-1 tvg-id="U TV RO" tvg-name="U TV RO" tvg-logo="https://i.imgur.com/n0fNQkb.png" group-title="Music",UTV
 http://edge76.rcs-rds.ro/utvedge/utvlivehls/playlist.m3u8
-#EXTINF:0,●•★●•★ STEFAN- RADIO ●•★●•★
-#EXTVLCOPT:network-caching=1000
-http://test.romania★
-#EXTINF:-1 tvg-logo="http://documentarys.do.am/proba/logo/Rapsodia_TV_Botosani.png",Rapsodia Tv Botosani
-rtmp://rapsodia1.arya.ro/live/rapsodiatv1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UU1sNb3.jpg" group-title="",Radio ZU
-https://play.myovn.com/s1/cache/radiozu/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://cms.digitalag.ro/cms_websites/cms_radiozu/library/img/2014/03/zutv.JPG",Radio ZU Video(sopcast)
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265060&name=SopProg
-#EXTINF:0 tvg-logo="http://www.one.by/images/logo.png",[B]ONE BY HD[/B]
-http://rtmp.one.by:1300
-#EXTINF:0 tvg-logo="https://www.seekpng.com/png/full/87-877035_mtv-music-24-mtv-music-24-logo.png",[B]MTV Music 24[/B]
-http://unilivemtveu-lh.akamaihd.net/i/mtvmusic24_1@134926/index_3500_av-b.m3u8
-#EXTINF:0 tvg-logo="http://stvron.com/canale/mari/mcm-top.png",[B]MCM[/B]
-http://ott-cdn.ucom.am/s49/04.m3u8
-#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/MAGIC.png",[B]Magic TV[/B]
-http://46.20.136.59/live3/_definst_/magictv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://cdn.imgbin.com/22/13/19/imgbin-vh1-logo-tv-television-channel-television-show-discovery-channel-logo-9hderrL3Ss5P5theMH6BJ9PW4.jpg",[B]VH1[/B]
-http://89.38.8.130:39455
-#EXTINF:0 tvg-logo="http://stvron.com/canale/mari/alb-music.png",[B]Alb Music[/B]
-http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://wholanta.files.wordpress.com/2015/04/retrotv.jpg",[B]RETRO[/B]
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:0 tvg-logo="http://stvron.com/canale/mari/m2o-tv.png",[B]M2O TV[/B]
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-#EXTINF:0 tvg-logo="http://stvron.com/canale/mari/cmc-music.png",[B]CMC Music[/B]
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream.m3u8
-#EXTINF:0 tvg-logo="https://banner2.kisspng.com/20180816/zep/kisspng-logo-radio-deejay-disc-jockey-font-radio-deejay-lyngsatlogo-5b7544eac94c01.1271450415344120108245.jpg",[B]Dee Jay[/B]
-https://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-logo="http://www.one.by/images/logo.png",[B]ONE BY HD[/B]
-http://rtmp.one.by:1300
-#EXTINF:-1 tvg-logo="http://www.toplatino.net/wp-content/uploads/2011/06/logo_toplatino_horiz_300x131.jpg",[B]Top Latino[/B]
-http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
-#EXTINF:0 tvg-logo="http://www.tvsefasi.com/images/tvlogo/radio-51-tv.jpg",[B]51 Radio TV[/B]
-http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
-#EXTINF:0 tvg-logo="http://stvron.com/canale/mari/m2o-tv.png",[B]M2O TV[/B]
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+
