@@ -1,4 +1,4 @@
-#EXTM3U
+/home/stefan-cezar/Desktop/test ipvtv/tv-world-2/channels/ro.m3u#EXTM3U
 #EXTINF:0,■■■■■ ACTUALIZATA ■■■■■■■
 #EXTVLCOPT:network-caching=1000
 http://82.76.40.76/digi24edge/digi24hdhqhls/index.m3u8
