@@ -192,3 +192,114 @@ http://81.196.0.126:80/utvedge/utvlive/index.m3u8
 http://82.76.40.76:80/utvedge/utvlive/playlist.m3u8
 #EXTINF:-1 tvg-id="U TV RO" tvg-name="U TV RO" tvg-logo="https://i.imgur.com/n0fNQkb.png" group-title="Music",UTV
 http://edge76.rcs-rds.ro/utvedge/utvlivehls/playlist.m3u8
+#EXTINF:0,●•★●•★ STEFAN- RADIO ●•★●•★
+#EXTVLCOPT:network-caching=1000
+http://test.romania★
+#EXTINF:-1 tvg-logo="http://documentarys.do.am/proba/logo/Rapsodia_TV_Botosani.png",Rapsodia Tv Botosani
+rtmp://rapsodia1.arya.ro/live/rapsodiatv1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UU1sNb3.jpg" group-title="",Radio ZU
+https://play.myovn.com/s1/cache/radiozu/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://cms.digitalag.ro/cms_websites/cms_radiozu/library/img/2014/03/zutv.JPG",Radio ZU Video(sopcast)
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265060&name=SopProg
+#EXTINF:0 tvg-logo="http://www.one.by/images/logo.png",[B]ONE BY HD[/B]
+http://rtmp.one.by:1300
+#EXTINF:0 tvg-logo="https://www.seekpng.com/png/full/87-877035_mtv-music-24-mtv-music-24-logo.png",[B]MTV Music 24[/B]
+http://unilivemtveu-lh.akamaihd.net/i/mtvmusic24_1@134926/index_3500_av-b.m3u8
+#EXTINF:0 tvg-logo="http://stvron.com/canale/mari/mcm-top.png",[B]MCM[/B]
+http://ott-cdn.ucom.am/s49/04.m3u8
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/MAGIC.png",[B]Magic TV[/B]
+http://46.20.136.59/live3/_definst_/magictv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://cdn.imgbin.com/22/13/19/imgbin-vh1-logo-tv-television-channel-television-show-discovery-channel-logo-9hderrL3Ss5P5theMH6BJ9PW4.jpg",[B]VH1[/B]
+http://89.38.8.130:39455
+#EXTINF:0 tvg-logo="http://stvron.com/canale/mari/alb-music.png",[B]Alb Music[/B]
+http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://wholanta.files.wordpress.com/2015/04/retrotv.jpg",[B]RETRO[/B]
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:0 tvg-logo="http://stvron.com/canale/mari/m2o-tv.png",[B]M2O TV[/B]
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:0 tvg-logo="http://stvron.com/canale/mari/cmc-music.png",[B]CMC Music[/B]
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream.m3u8
+#EXTINF:0 tvg-logo="https://banner2.kisspng.com/20180816/zep/kisspng-logo-radio-deejay-disc-jockey-font-radio-deejay-lyngsatlogo-5b7544eac94c01.1271450415344120108245.jpg",[B]Dee Jay[/B]
+https://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-logo="http://www.one.by/images/logo.png",[B]ONE BY HD[/B]
+http://rtmp.one.by:1300
+#EXTINF:-1 tvg-logo="http://www.toplatino.net/wp-content/uploads/2011/06/logo_toplatino_horiz_300x131.jpg",[B]Top Latino[/B]
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
+#EXTINF:0 tvg-logo="http://www.tvsefasi.com/images/tvlogo/radio-51-tv.jpg",[B]51 Radio TV[/B]
+http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
+#EXTINF:0 tvg-logo="http://stvron.com/canale/mari/m2o-tv.png",[B]M2O TV[/B]
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:0,●•★●•★ STEFAN-TV-WORLD ●•★●•★
+#EXTVLCOPT:network-caching=1000
+http://test.world★
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",HBO2
+http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7d/8b/4c/7d8b4c3bc50471c093a4747a0b1113c1.jpg" group-title="Movies",HBO2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-1L5Qo-Hs6Qc/TXxCPre9m_I/AAAAAAAACG4/k6UmYBngn9g/s1600/Picture%2B20.png" group-title="Movies",HBO2
+http://161.0.157.5/PLTV/88888888/224/3221227026/3.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRVHMLBXY_Qp1yTenR0dqCEdtaZjp38qTXsU_eDeWRg_yHYvbva" group-title="Movies",HBO2
+http://161.0.157.51/PLTV/88888888/224/3221227026/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://liveitkodi.com/Logos/HBO2.png" group-title="Movies",HBO2
+http://161.0.157.5:80/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XIpsgye.png" group-title="",History 2
+http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iJldO7U.jpg" group-title="",NASA
+http://c742eca7-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/6540154/2/playlist.m3u8?authType=IP_BASED_IDENTITY&appType=12&appVersion=1&segmentType=ts&content=audiovideo&sgn=c24a2d4ff965b2ea7a189c91d27d57e7297dcbb9&cdnHost=uhs-akamai.ustream.tv/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iJldO7U.jpg" group-title="",NASA TV
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News
+http://92.43.140.249/s24/04.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KacMcVa.png" group-title="",CNN International
+http://92.43.140.249/s27/04.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Travel",Travel Channel
+http://bit.ly/2NHfoDb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FOFEg4F.png" group-title="",Nat Geo
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DcIYiLM.jpg" group-title="",Nat Geo People
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
+#EXTINF:0,●•★●•★ WORLD-SPORT-TV ●•★●•★
+#EXTVLCOPT:network-caching=1000
+http://test.romania★
+#EXTINF:-1 tvg-id="Abu Dhabi Sports ARB" tvg-name="Abu Dhabi Sports ARB" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="Sport",Abu Dhabi Sports
+http://adtv.ercdn.net/adsport1/adsport1_360p.m3u8
+#EXTINF:-1 tvg-id="Abu Dhabi Sports 2 ARB" tvg-name="Abu Dhabi Sports 2 ARB" tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="Sport",Abu Dhabi Sports 2
+http://adtv.ercdn.net/adsport2/adsport2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/o90fKsH.png" group-title="Sport",Al Kass Five
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:-1 tvg-id="Al Kass One ARB" tvg-name="Al Kass One ARB" tvg-logo="https://i.imgur.com/o90fKsH.png" group-title="Sport",Al Kass One
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fbKECO8.png" group-title="Sport",ARENA SPORT 1
+https://sportbar.biz/lba/123/g6/arena1rs.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KHRWK6Y.png" group-title="Sport",ARENA SPORT 3
+https://sportbar.biz/lba/123/g1/sportarena3rs.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oKLqSYI.png" group-title="Sport",ARENA SPORT 4
+https://sportbar.biz/lba/123/g3/arenaserbia4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2UJb01J.png" group-title="Sport",ARENA SPORT 5
+https://sportbar.biz/lba/123/g7/ar5sport.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PS6Bb8H.png" group-title="Sport",BT Sport 2
+https://sportbar.biz/lba/123/g3/ukbt2sport.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8vfNhjn.jpg" group-title="Sport",BT Sport ESPN
+https://sportbar.biz/lba/123/g7/btse.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/y5XN7Vd.png" group-title="Sport",DIGI Sport 1 HD
+http://37.152.135.169:9002/play/a002/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b9jOeMY.jpg" group-title="Sport",DIGI Sport 2 HD
+http://37.152.135.169:9002/play/a006/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/DSport_logo.png/300px-DSport_logo.png" group-title="Sport",DSport
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1 tvg-id="Dubai Racing ARB" tvg-name="Dubai Racing ARB" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sport",Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sport",Red Bull TV
+http://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8
+#EXTINF:0,SPORT TV 5 (s2)
+#EXTVLCOPT:network-caching=1000
+https://sportbar.biz/lba/123/g8/ptsport5.m3u8
+#EXTINF:0,Supersport 3
+#EXTVLCOPT:network-caching=1000
+https://sportbar.biz/lba/123/g8/albaniasport3.m3u8
+#EXTINF:0,SK 3
+#EXTVLCOPT:network-caching=1000
+https://sportbar.biz/lba/123/g8/rs3sk.m3u8
+#EXTINF:0,ARENA SPORT 1
+#EXTVLCOPT:network-caching=1000
+https://sportbar.biz/lba/123/g6/arena1rs.m3u8
