@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:0,Alfa Omega TV
+#EXTVLCOPT:network-caching=1000
+http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8?wowzasessionid=1441530266&time=1463063123262
+#EXTINF:0,TVR 1
+#EXTVLCOPT:network-caching=1000
+http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
+#EXTINF:0,TVR 2
+#EXTVLCOPT:network-caching=1000
+http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
+#EXTINF:0,TVR 3
+#EXTVLCOPT:network-caching=1000
+http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
+#EXTINF:0,TVR Cluj
+#EXTVLCOPT:network-caching=1000
+http://89.136.209.26:1935/liveedge/TVRCLUJ.stream/playlist.m3u8
+#EXTINF:0,TVR Craiova
+#EXTVLCOPT:network-caching=1000
+http://89.136.209.26:1935/liveedge/TVRCRAIOVA.stream/playlist.m3u8
+#EXTINF:0,TVR International
+#EXTVLCOPT:network-caching=1000
+http://89.136.209.33:1935/liveorigin/TVRI.stream/chunklist.m3u8
+#EXTINF:0,TVR Isasi
+#EXTVLCOPT:network-caching=1000
+http://82.208.151.107:8088/high/tvriasi/index.m3u8
+#EXTINF:0,TVR Moldova
+#EXTVLCOPT:network-caching=1000
+http://89.136.209.26:1935/liveedge/TVRMOLDOVA.stream/playlist.m3u8
