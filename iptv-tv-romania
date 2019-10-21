@@ -11,7 +11,12 @@ http://46.20.136.59/live3/_definst_/digi24/playlist.m3u8
 http://test.romania★
 #EXTM3U x-tvg-url="http://195.154.221.171/epg/guideromania.xml.gz"
 #EXTINF:-1 tvg-id="" tvg-name="Music Channel" tvg-logo="https://i.imgur.com/PRgvj4c.png" group-title="Music",1 Music Channel
-https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Viasat_Nature.png",[S]Viasat Nature[SOPCAST 1]
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265050&name=SopProg
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Viasat_Nature.png",[S]Viasat Nature[SOPCAST 2]
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149267&name=SopProg
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Viasat_Explorer.png",[S]Viasat Explorer[SOPCAST]
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265054&name=SopProg
 #EXTINF:-1 tvg-id="" tvg-name="6 TV" tvg-logo="https://i.imgur.com/f5Ddkx2.png" group-title="",6 TV
 http://telekomtv-ro.akamaized.net/shls/LIVE$6TV/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/n9igzhr.png" group-title="",Actualitatea TV
@@ -174,3 +179,9 @@ http://81.196.0.126:80/utvedge/utvlive/index.m3u8
 http://82.76.40.76:80/utvedge/utvlive/playlist.m3u8
 #EXTINF:-1 tvg-id="U TV RO" tvg-name="U TV RO" tvg-logo="https://i.imgur.com/n0fNQkb.png" group-title="Music",UTV
 http://edge76.rcs-rds.ro/utvedge/utvlivehls/playlist.m3u8
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Viasat_Nature.png",[S]Viasat Nature[SOPCAST 1]
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265050&name=SopProg
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Viasat_Nature.png",[S]Viasat Nature[SOPCAST 2]
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149267&name=SopProg
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Viasat_Explorer.png",[S]Viasat Explorer[SOPCAST]
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265054&name=SopProg
