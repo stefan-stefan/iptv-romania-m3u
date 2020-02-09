@@ -1,1 +1,25 @@
-
+#EXTM3U
+#EXTINF:-1,📺 Televiziune.Live-Stefan📺
+http://televiziune.live/imagini/tv.mp4
+#EXTINF:-1,📺 Vizionare placuta 📺
+http://46.20.136.59/live3/_definst_/digi24/playlist.m3u8
+#EXTINF:-1,🇷🇴TV-ROMANIA🇷🇴
+http://test.romania%E2%98%85
+#EXTINF:-1,🇷🇴 STEFAN-TV-ROMANIA 🇷🇴
+http://test.romania%E2%98%85
+#EXTINF:-1,🇷🇴🇷🇴🇷🇴🇷🇴🇷🇴🇷🇴🇷🇴🇷🇴🇷🇴
+http://89.136.209.26:1935/liveedge/TVRMOLDOVA.stream/playlist.m3u8?iptv=1
+#EXTINF:-1,PRO TV MOLDOVA 1🇷🇴
+http://188.138.235.61:80/hls/protv.m3u8
+#EXTINF:-1,MOLDOVA 2🇷🇴
+http://live.trm.md:1935/live/MoldovaDoi2/playlist.m3u8
+#EXTINF:-1,TVR Moldova🇷🇴
+http://89.136.209.26:1935/liveedge/TVRMOLDOVA.stream/playlist.m3u8?iptv=1
+#EXTINF:-1,Noroc TV🇷🇴
+http://live.noroc.tv/hls/noroctv_chisinau.m3u8
+#EXTINF:-1,Bucuresti TV🇷🇴
+http://89.38.8.130:39459
+#EXTINF:-1,AlfaOmegaTV🇷🇴
+http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
+#EXTINF:-1,RO | AgroTV🇷🇴
+http://mytvonline.nl:80/live/2YQyltguql/XwEAnAWfE0/15679.m3u8
