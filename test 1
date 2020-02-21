@@ -1,1 +1,44 @@
-test111
+# EXTM3U
+#EXTINF: -1 tvg-logo = " http://www.cuevana3.com/wp-content/uploads/2018/04/vengadores-infinity-war-4989-poster-180x260.jpg ", Avenger 3: Infinity War 
+ http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8 
+#EXTINF: -1 tvg-logo = " https://jennyinneverland.files.wordpress.com/2016/01/515275-150413 .jpg "group-title =" MOVIES ", Star Wars - The Force Awakens (2015)
+ http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8 
+#EXTINF: -1 tvg-logo = " http://stream.lhmtv.cf/logo/filmes.png " group-title = "Filmes", Cruise: Destino em Colisao
+ http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist. m3u8 
+#EXTINF: -1 tvg-logo = " http: //stream.lhmtv.cf / logo / bonus.png"group-title =" Bonus Sessao ", La La land 4K
+ http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8 
+#EXTINF: -1 tvg-logo =" https: // upload .wikimedia.org / wikipedia / ro / b / bc / Terminator_Genisys.JPG "group-title =" MOVIES ", Terminator Genisys (2015) 
+ http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist. m3u8 
+#EXTINF: -1 tvg-logo = " https://i.ytimg.com/vi/EAqEPQJBV2E/movieposter.jpg " group-title = "MOVIES", The Transporter Refueled (2015)
+ http: //s5.alfaomega .tv: 1935 / alfaomega / alfaomega1.sdp / playlist.m3u8 
+#EXTINF: -1 tvg-logo = " http://i.imgur.com/RqbqQny.jpg " group-title = "MOVIES", The Great Wall ( 2016)
+ http://s5.alfaomega.tv:1935 / alfaomega / alfaomega1.sdp / playlist.m3u8
+
+#EXTINF: -1 tvg-logo = " https://assets.corusent.com/wp-content/uploads/2016/03/logo_movietime-500x250.png ", TIMPUL FILMULUI
+ http://s5.alfaomega.tv:1935 /alfaomega/alfaomega1.sdp/playlist.m3u8
+
+#EXTINF: -1 tvg-logo = " http://i.imgur.com/RqbqQny.jpg " group-title = "FILMURI", Marele Zid (2016)
+ http://s5.alfaomega.tv:1935/ alfaomega / alfaomega1.sdp / playlist.m3u8
+
+#EXTINF: -1 tvg-id = "" tvg-name = "AL: 47 Ronin" tvg-logo = " http://c2.justlook.net:8880/images/pUH46wa0n4zXZytpriSaoNUXai4_small.jpg " group-title = "Albania ", 47 Ronin
+ http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
+
+#EXTINF: -1 tvg-id = "" tvg-name = "AL: Avengers: Age Of Ultron" tvg-logo = " http://c2.justlook.net:8880/images/t90Y3G8UGQp0f0DrP60wRu9gfrH_small.jpg " group-title = "Albania", Avengers: Age Of Ultron
+ http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
+
+#EXTINF: -1 tvg-id = "" tvg-name = "AL: Doctor Strange" tvg-logo = " http://c2.justlook.net:8880/images/4PiiNGXj1KENTmCBHeN6Mskj2Fq_small.jpg " group-title = "Albania ", Doctor Strange
+ http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
+
+#EXTINF: -1 tvg-id = "" tvg-name = "AL: Fast and Furious 8" tvg-logo = " http://c2.justlook.net:8880/images/dImWM7GJqryWJO9LHa3XQ8DD5NH_small.jpg " group-title = „Albania”, Fast and Furious 8
+ http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
+
+#EXTINF: -1 tvg-ID = "" tvg-name = "Aquaman" tvg-logo = " https://www.filmtv.it/imgbank/GALLERYXL/R201811/Aquaman-Poster-Italia-1.jpg " -title = "FILM AL CINEMA", Aquaman
+ http://62.210.208.170/Films/Aquaman.2018..MULTi.1080p.HDLight.x264.AC3-TOXIC.mkv
+
+#EXTINF: -1 tvg-ID = "" tvg-name = "Bumblebee" tvg-logo = " https://www.filmtv.it/imgbank/GALLERYXL/R201812/BB_1sht_ART_COREA_70x100_ITA.jpg " group-title = "FILM AL CINEMA ", Bumblebee
+ http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
+
+#EXTINF: -1 tvg-logo = " http://www.hollywoodreporter.com/sites/default/files/custom/Aaron/GOTG2_Teaser_Online_1_Sheet_v2_Lg.jpg " group-title = "MOVIES", Guardians of the Galaxy Vol.2 ( 2017)
+ http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8 
+#EXTINF: -1 tvg-logo = " https://i.imgur.com/EwNq2Mb.png " group-title = "Saga - Fast and Fourios", The Fast and the Furious [FHD]
+ http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
