@@ -1,0 +1,13 @@
+#EXTINF:#1 tvg-logo="https://yt3.ggpht.com/-D_Dt4745g04/AAAAAAAAAAI/AAAAAAAAAAA/WDvmapj0Lic/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",[COLOR blue]          ***      [/COLOR][COLOR red][B]      MUZICA    [/B][/COLOR][COLOR red]       ***[/COLOR]  
+http://0.0.0.0:12348
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/download-1-.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Impact TV
+http://89.36.10.12:8080/
+#EXTINF:#1  tvg-logo="http://4.bp.blogspot.com/-DC1wn7qRhoI/VLllUPC-NlI/AAAAAAAAAM4/yGuu40xYGTU/s1600/taraftv.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Taraf TV
+http://5.255.90.252:5004/play/a06w
+#EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/w580/ro.png" group-title="STIRI",[COLOR green]Http.[/COLOR][COLOR green]# 2[/COLOR]RADIO TRADITIONAL MANELE
+http://manele.radiotraditional.ro:3750/stream 
+#EXTINF:#1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0c/U_tv.png/revision/latest?cb=20140724130200" group-title="MUZICA",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] U TV
+http://5.255.90.252:5004/play/a084
+#EXTINF:-1 tvg-ID="Etno TV" tvg-name="RO: Etno TV HD" tvg-logo="https://iptvsensation.org/picons/etnohd.png" group-title="MUZICA",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Etno TV
+http://5.255.90.252:5004/play/a073
+#EXTINF:#1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0c/U_tv.png/revision/latest?cb=20140724130200" group-title="MUZICA",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] U TV
