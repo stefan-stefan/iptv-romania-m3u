@@ -1,0 +1,15 @@
+#EXTINF:#1 tvg-logo="http://www.desene-animate.com/wp-content/uploads/2016/02/logo.png",[COLOR blue]    ***      [/COLOR][COLOR red][B]    Desene [/B][/COLOR][COLOR pink][B] Animate[/B][/COLOR][COLOR red]     ***    [/COLOR]
+http://pro-iptv.stream:25461/condemariano75/FQuxXlmvUP/12096
+#EXTINF:-1 tvg-id="Minimax" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Minimax" tvg-logo="http://nextgen-iptv.com/logo/Minimax_SRB.png" group-title="Desene Animate",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Minimax
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265035&name=SopProg
+#EXTINF:-1 tvg-ID="" tvg-name="RO: Cartoon Network" tvg-logo="https://iptvsensation.org/logo/ro/CartoonNetwork.ro.png" group-title="Desene Animate",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Cartoon Network
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265032&name=SopProg
+#EXTINF:-1 tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2012/09/nickelodeon_logo_a_l.jpg" group-title="Desene Animate",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Nickelodeon
+ 
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265041&name=SopProg
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Megamax.png" group-title="Desene Animate",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] MegaMax
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265036&name=SopProg
+#EXTINF:-1 tvg-ID="DisneyJunior.ro" tvg-name="RO: Disney Junior" tvg-logo="https://iptvsensation.org/picons/disneyjunior.png" group-title="Desene Animate",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Disney Junior
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265034&name=SopProg
+#EXTINF:-1 tvg-ID="Boomerang" tvg-name="RO: Boomerang" tvg-logo="https://iptvsensation.org/picons/boomerang.png" group-title="Desene Animate",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Boomerang
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265031&name=SopProg
