@@ -1,5 +1,4 @@
-EXTINF:#1 tvg-logo="https://yt3.ggpht.com/-D_Dt4745g04/AAAAAAAAAAI/AAAAAAAAAAA/WDvmapj0Lic/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",[COLOR blue]          ***      [/COLOR][COLOR red][B]      MUZICA    [/B][/COLOR][COLOR red]       ***[/COLOR]  
-http://0.0.0.0:12348
+#EXTM3U
 #EXTINF: 1, Radio Intens
 http://51.254.103.133:8070/stream
 #EXTINF: 2, Radio Pentru Voi
