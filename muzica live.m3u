@@ -1,13 +1,19 @@
 #EXTINF:#1 tvg-logo="https://yt3.ggpht.com/-D_Dt4745g04/AAAAAAAAAAI/AAAAAAAAAAA/WDvmapj0Lic/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",[COLOR blue]          ***      [/COLOR][COLOR red][B]      MUZICA    [/B][/COLOR][COLOR red]       ***[/COLOR]  
 http://0.0.0.0:12348
-#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/download-1-.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Impact TV
-http://89.36.10.12:8080/
+#EXTINF:#1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0c/U_tv.png/revision/latest?cb=20140724130200" group-title="MUZICA",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] U TV
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264978&name=SopProg
+#EXTINF:-1 tvg-ID="Happy Channel" tvg-name="RO: Happy Channel HDTel" tvg-logo="https://iptvsensation.org/logo/ro/HappyChannel.ro.png" group-title="MUZICA",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Happy Channel HD
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264969&name=SopProg
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/logo_400x400.png" group-title="MUZICA",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Kiss TV
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264979&name=SopProg
+#EXTINF:-1 tvg-ID="Etno TV" tvg-name="RO: Etno TV HD" tvg-logo="https://iptvsensation.org/picons/etnohd.png" group-title="MUZICA",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Etno TV
+plugin://program.plexus/?mode=2&url=sop://185.122.59.8:3912/264976&name=SopProg
 #EXTINF:#1  tvg-logo="http://4.bp.blogspot.com/-DC1wn7qRhoI/VLllUPC-NlI/AAAAAAAAAM4/yGuu40xYGTU/s1600/taraftv.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Taraf TV
-http://5.255.90.252:5004/play/a06w
-#EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/w580/ro.png" group-title="STIRI",[COLOR green]Http.[/COLOR][COLOR green]# 2[/COLOR]RADIO TRADITIONAL MANELE
-http://manele.radiotraditional.ro:3750/stream 
-#EXTINF:#1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0c/U_tv.png/revision/latest?cb=20140724130200" group-title="MUZICA",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] U TV
-http://5.255.90.252:5004/play/a084
-#EXTINF:-1 tvg-ID="Etno TV" tvg-name="RO: Etno TV HD" tvg-logo="https://iptvsensation.org/picons/etnohd.png" group-title="MUZICA",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Etno TV
-http://5.255.90.252:5004/play/a073
-#EXTINF:#1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0c/U_tv.png/revision/latest?cb=20140724130200" group-title="MUZICA",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] U TV
+http://www.sansat.net:25461/029967155160/3BoMkfwLJBueaHN/49875
+#EXTINF:#1  tvg-logo="http://4.bp.blogspot.com/-DC1wn7qRhoI/VLllUPC-NlI/AAAAAAAAAM4/yGuu40xYGTU/s1600/taraftv.png" group-title="MUZICA",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Taraf TV
+plugin://program.plexus/?mode=2&url=sop://185.122.59.8:3912/264978&name=SopProg
+#EXTINF:#1 tvg-logo="http://www.invictory.com/public/pictures/news/16/15509/l3457692703c1bb81e85873494e8182651302701031.jpg" group-title="MUZICA",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Impact TV
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/108790&name=SopProg
+#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/hora_tv1.png" group-title="MUZICA",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR]Hora TV
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265061&name=SopProg
+#EXTINF:#1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/favorit_tv_ro.png" group-title="MUZICA",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Favorit Tv
