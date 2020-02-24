@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:-1,AMC
+http://92.249.148.48:8001/play/a00x
+#EXTINF:-1,ATV
+http://92.249.148.48:8001/play/atv
+#EXTINF:-1,Comedy Central
+http://92.249.148.48:8001/play/a00c
+#EXTINF:-1,Cool TV
+http://92.249.148.48:8001/play/a00j
+#EXTINF:-1,Cool TV HD
+http://92.249.148.48:8001/play/a00w
+#EXTINF:-1,Film Café
+http://92.249.148.48:8001/play/a00l
+#EXTINF:-1,Film+
+http://92.249.148.48:8001/play/fplus
+#EXTINF:-1,Film+ HD
+http://92.249.148.48:8001/play/a00y
+#EXTINF:-1,Galaxy4
+http://92.249.148.48:8001/play/a00v
+#EXTINF:-1,HISTORY HD
+http://92.249.148.48:8001/play/a00g
+#EXTINF:-1,Hír TV
+http://92.249.148.48:8001/play/a00i
+#EXTINF:-1,Jocky TV
+http://92.249.148.48:8001/play/a005
+#EXTINF:-1,M4 Sport
+http://92.249.148.48:8001/play/m4
+#EXTINF:-1,M4 Sport HD
+http://92.249.148.48:8001/play/m4hd
+#EXTINF:-1,M5
+http://92.249.148.48:8001/play/m5
+#EXTINF:-1,M5 HD
+http://92.249.148.48:8001/play/m5hd
+#EXTINF:-1,Minimax
+http://92.249.148.48:8001/play/a00n
+#EXTINF:-1,Moziverzum
+http://92.249.148.48:8001/play/a006
+#EXTINF:-1,Nick Jr.
+http://92.249.148.48:8001/play/a00f
+#EXTINF:-1,RTL Klub
+http://92.249.148.48:8001/play/rtlklub
+#EXTINF:-1,RTL Klub HD
+http://92.249.148.48:8001/play/rtlklubhd
+#EXTINF:-1,RTLII HD
+http://92.249.148.48:8001/play/rtl2hd
+#EXTINF:-1,Sony Max
+http://92.249.148.48:8001/play/a00e
+#EXTINF:-1,Sony Movie Channel
+http://92.249.148.48:8001/play/a00d
+#EXTINF:-1,Spíler1 TV
+http://92.249.148.48:8001/play/sp1
+#EXTINF:-1,Spíler1 TV HD
+http://92.249.148.48:8001/play/sp1hd
+#EXTINF:-1,Spíler2 TV
+http://92.249.148.48:8001/play/sp2
+#EXTINF:-1,Spíler2 TV HD
+http://92.249.148.48:8001/play/sp2hd
+#EXTINF:-1,Super TV2
+http://92.249.148.48:8001/play/stv2
+#EXTINF:-1,Super TV2 HD
+http://92.249.148.48:8001/play/stv2hd
+#EXTINF:-1,TV Paprika
+http://92.249.148.48:8001/play/a00m
+#EXTINF:-1,TV2
+http://92.249.148.48:8001/play/tv2
+#EXTINF:-1,TV4
+http://92.249.148.48:8001/play/a00t
+#EXTINF:-1,Viasat Explore
+http://92.249.148.48:8001/play/a00o
