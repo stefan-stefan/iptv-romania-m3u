@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:0,■■■■,[COLOR red]  [/COLOR][COLOR deeppink][B]* Aceste liste nu sant stabile! * [/B][/COLOR][COLOR deeppink] ***[/COLOR]  
-#EXTVLCOPT:network-caching=1000
-#EXTINF: 0 tvg-logo="https://www.transparentpng.com/thumb/tv/MSgsUr-tv-free-png.png",[COLORred][B][I]ACTUALIZATA 12.02.2020![/I][/B][/COLOR]
-http://89.136.209.26:1935/l
-#EXTINF:-1 tvg-id="" tvg-name="#STEFAN-TV-Romania #" tvg-logo="http://pici.life/RO/romania.png" group-title="Romania",#STEFAN-CEZAR-LISTA-TV #
-http://iptv.rent:8080/z57v4cnp7k/7cxiblicoh/5334
+#EXTINF:#1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAYV4Dm-YxpHIFgUIUHEQ15duuczTDtgichYQArF1k_oAu7hg_mg",[COLOR blue]          ***      [/COLOR][COLOR red][B]  LISTA-ACESTREAM-RO   [/B][/COLOR][COLOR red]       ***[/COLOR]  
+http://0.0.0.0:1234
 #EXTINF:0 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=227x10000:format=jpg/path/s5ae1a1830c4003af/image/ia3791d53db91695c/version/1466759255/image.jpg" group-title="GENERALE",[COLOR red]Http.[/COLOR][COLOR red]# 1[/COLOR]Arcadia World
 http://89.38.8.131:39553
 #EXTINF:-1 tvg-logo="http://www.crestinulazi.ro/wp-content/uploads/2010/02/alfa-omega-logo.png" group-title="STIRI",[COLOR lawngreen]Http.[/COLOR][COLOR lawngreen]# 1[/COLOR]AlfaOmegaTV
