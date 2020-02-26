@@ -5,7 +5,6 @@ plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265035&name=So
 #EXTINF:-1 tvg-ID="" tvg-name="RO: Cartoon Network" tvg-logo="https://iptvsensation.org/logo/ro/CartoonNetwork.ro.png" group-title="Desene Animate",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Cartoon Network
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265032&name=SopProg
 #EXTINF:-1 tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2012/09/nickelodeon_logo_a_l.jpg" group-title="Desene Animate",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Nickelodeon
- 
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265041&name=SopProg
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Megamax.png" group-title="Desene Animate",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] MegaMax
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265036&name=SopProg
