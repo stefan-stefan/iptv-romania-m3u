@@ -1,597 +1,125 @@
 #EXTM3U
-#EXTINF:0 tvg-id="Rai1.it" group-title="Channels",Rai 1 FHD
-http://newtechnology.best:80/anna.m/14.03.17/43783
-#EXTINF:0 tvg-id="Rai2.it" group-title="Channels",Rai 2  FHD
-http://newtechnology.best:80/anna.m/14.03.17/2
-#EXTINF:0 tvg-id="Rai3.it" group-title="Channels",Rai 3 FHD
-http://newtechnology.best:80/anna.m/14.03.17/3
-#EXTINF:0 tvg-id="Rete4.it" group-title="Channels",Rete 4 FHD
-http://newtechnology.best:80/anna.m/14.03.17/4
-#EXTINF:0 tvg-id="Canale5.it" group-title="Channels",Canale 5 FHD
-http://newtechnology.best:80/anna.m/14.03.17/28923
-#EXTINF:0 tvg-id="Italia1.it" group-title="Channels",Italia 1 FHD
-http://newtechnology.best:80/anna.m/14.03.17/6
-#EXTINF:0 tvg-id="La7.it" group-title="Channels",La 7 FHD
-http://newtechnology.best:80/anna.m/14.03.17/7
-#EXTINF:0 tvg-id="TV8.tr" group-title="Channels",Tv 8 FHD
-http://newtechnology.best:80/anna.m/14.03.17/8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Nove TV  HD
-http://newtechnology.best:80/anna.m/14.03.17/9
-#EXTINF:0 tvg-id="Cielo.it" group-title="Channels",Cielo FHD
-http://newtechnology.best:80/anna.m/14.03.17/133
-#EXTINF:0 tvg-id="RSILa1.ch" group-title="Channels",RSI La 1 FHD
-http://newtechnology.best:80/anna.m/14.03.17/10
-#EXTINF:0 tvg-id="RSILa2.ch" group-title="Channels",RSI La 2 FHD
-http://newtechnology.best:80/anna.m/14.03.17/11
-#EXTINF:0 tvg-id="Rai1.it" group-title="Channels",Rai 1  HD
-http://newtechnology.best:80/anna.m/14.03.17/12
-#EXTINF:0 tvg-id="Rai2.it" group-title="Channels",Rai 2 HD
-http://newtechnology.best:80/anna.m/14.03.17/14
-#EXTINF:0 tvg-id="Rai3.it" group-title="Channels",Rai 3 HD
-http://newtechnology.best:80/anna.m/14.03.17/16
-#EXTINF:0 tvg-id="Rete4.it" group-title="Channels",Rete 4 HD
-http://newtechnology.best:80/anna.m/14.03.17/15
-#EXTINF:0 tvg-id="Canale5.it" group-title="Channels",Canale 5 HD
-http://newtechnology.best:80/anna.m/14.03.17/17
-#EXTINF:0 tvg-id="Italia1.it" group-title="Channels",Italia 1 HD
-http://newtechnology.best:80/anna.m/14.03.17/19
-#EXTINF:0 tvg-id="La7.it" group-title="Channels",La 7 HD
-http://newtechnology.best:80/anna.m/14.03.17/22
-#EXTINF:0 tvg-id="TV8.tr" group-title="Channels",TV 8 HD
-http://newtechnology.best:80/anna.m/14.03.17/21
-#EXTINF:0 tvg-id="Canale5.it" group-title="Channels",Canale 5 SD
-http://newtechnology.best:80/anna.m/14.03.17/47914
-#EXTINF:0 tvg-id="Tv8.it" group-title="Channels",Tv 8 SD
-http://newtechnology.best:80/anna.m/14.03.17/47080
-#EXTINF:0 tvg-id="Canale5Plus1.it" group-title="Channels",Canale 5 FHD +1
-http://newtechnology.best:80/anna.m/14.03.17/22068
-#EXTINF:0 tvg-id="ext" group-title="Channels",Canale 5 FHD +24
-http://newtechnology.best:80/anna.m/14.03.17/22069
-#EXTINF:0 tvg-id="ext" group-title="Channels",Italia Uno +1
-http://newtechnology.best:80/anna.m/14.03.17/22011
-
-#EXTINF:0 tvg-id="ext" group-title="Cinema-FHD/HD",---------- Cinema-FHD/HD ----------
-http://newtechnology.best:80/anna.m/14.03.17/23
-#EXTINF:0 tvg-id="SkyCinemaUno.it" group-title="Cinema-FHD/HD",Sky Cinema Uno FHD
-http://newtechnology.best:80/anna.m/14.03.17/24
-#EXTINF:0 tvg-id="ext" group-title="Cinema-FHD/HD",Sky Cinema Uno FHD +1
-http://newtechnology.best:80/anna.m/14.03.17/21761
-#EXTINF:0 tvg-id="SkyCinemaDue.it" group-title="Cinema-FHD/HD",Sky Cinema Due FHD
-http://newtechnology.best:80/anna.m/14.03.17/25
-#EXTINF:0 tvg-id="SkyCinemaCollection.it" group-title="Cinema-FHD/HD",Sky Cinema Collection FHD
-http://newtechnology.best:80/anna.m/14.03.17/26
-#EXTINF:0 tvg-id="SkyCinemaFamily.de" group-title="Cinema-FHD/HD",Sky Cinema Family FHD
-http://newtechnology.best:80/anna.m/14.03.17/27
-#EXTINF:0 tvg-id="SkyAction.de" group-title="Cinema-FHD/HD",Sky Cinema Action FHD
-http://newtechnology.best:80/anna.m/14.03.17/28
-#EXTINF:0 tvg-id="SkyCinemaSuspense.it" group-title="Cinema-FHD/HD",Sky Cinema Suspense FHD
-http://newtechnology.best:80/anna.m/14.03.17/29
-#EXTINF:0 tvg-id="ext" group-title="Cinema-FHD/HD",Sky Cinema Suspense FHD +1
-http://newtechnology.best:80/anna.m/14.03.17/21762
-#EXTINF:0 tvg-id="SkyCinemaRomance.it" group-title="Cinema-FHD/HD",Sky Cinema Romance FHD
-http://newtechnology.best:80/anna.m/14.03.17/31
-#EXTINF:0 tvg-id="SkyMoviesDrama.uk" group-title="Cinema-FHD/HD",Sky Cinema Drama FHD
-http://newtechnology.best:80/anna.m/14.03.17/30
-#EXTINF:0 tvg-id="SkyComedy.de" group-title="Cinema-FHD/HD",Sky Cinema Comedy FHD
-http://newtechnology.best:80/anna.m/14.03.17/32
-#EXTINF:0 tvg-id="SkyCinemaPlus24.it" group-title="Cinema-FHD/HD",Sky Cinema Uno  +24  FHD
-http://newtechnology.best:80/anna.m/14.03.17/33
-#EXTINF:0 tvg-id="SkyCinemaDue+24.it" group-title="Cinema-FHD/HD",Sky Cinema Due +24 FHD
-http://newtechnology.best:80/anna.m/14.03.17/34
-#EXTINF:0 tvg-id="SkyCinemaUno.it" group-title="Cinema-FHD/HD",Sky Cinema Uno HD
-http://newtechnology.best:80/anna.m/14.03.17/35
-#EXTINF:0 tvg-id="SkyCinemaDue.it" group-title="Cinema-FHD/HD",Sky Cinema Due HD
-http://newtechnology.best:80/anna.m/14.03.17/37
-#EXTINF:0 tvg-id="SkyCinemaCollection.it" group-title="Cinema-FHD/HD",Sky Cinema Collection HD
-http://newtechnology.best:80/anna.m/14.03.17/38
-#EXTINF:0 tvg-id="SkyCinemaFamily.de" group-title="Cinema-FHD/HD",Sky Cinema Family HD
-http://newtechnology.best:80/anna.m/14.03.17/39
-#EXTINF:0 tvg-id="SkyAction.de" group-title="Cinema-FHD/HD",Sky Cinema Action HD
-http://newtechnology.best:80/anna.m/14.03.17/41
-#EXTINF:0 tvg-id="SkyCinemaSuspense.it" group-title="Cinema-FHD/HD",Sky Cinema Suspense HD
-http://newtechnology.best:80/anna.m/14.03.17/43
-#EXTINF:0 tvg-id="SkyMoviesDrama.uk" group-title="Cinema-FHD/HD",Sky Cinema Drama HD
-http://newtechnology.best:80/anna.m/14.03.17/44
-#EXTINF:0 tvg-id="SkyCinemaRomance.it" group-title="Cinema-FHD/HD",Sky Cinema Romance HD
-http://newtechnology.best:80/anna.m/14.03.17/45
-#EXTINF:0 tvg-id="SkyComedy.de" group-title="Cinema-FHD/HD",Sky Cinema Comedy HD
-http://newtechnology.best:80/anna.m/14.03.17/46
-#EXTINF:0 tvg-id="SkyCinemaPlus24.it" group-title="Cinema-FHD/HD",Sky Cinema Uno  +24 HD
-http://newtechnology.best:80/anna.m/14.03.17/47
-#EXTINF:0 tvg-id="SkyCinemaDue+24.it" group-title="Cinema-FHD/HD",Sky Cinema Due +24 HD
-http://newtechnology.best:80/anna.m/14.03.17/48
-
-#EXTINF:0 tvg-id="ext" group-title="Cinema-SD",---------- Cinema-SD ----------
-http://newtechnology.best:80/anna.m/14.03.17/54
-#EXTINF:0 tvg-id="SkyCinemaUno.it" group-title="Cinema-SD",Sky Cinema Uno SD
-http://newtechnology.best:80/anna.m/14.03.17/55
-#EXTINF:0 tvg-id="SkyCinemaDue.it" group-title="Cinema-SD",Sky Cinema Due SD
-http://newtechnology.best:80/anna.m/14.03.17/57
-#EXTINF:0 tvg-id="SkyCinemaCollection.it" group-title="Cinema-SD",Sky Cinema Collection SD
-http://newtechnology.best:80/anna.m/14.03.17/58
-#EXTINF:0 tvg-id="SkyCinemaFamily.de" group-title="Cinema-SD",Sky Cinema Family SD
-http://newtechnology.best:80/anna.m/14.03.17/59
-#EXTINF:0 tvg-id="SkyAction.de" group-title="Cinema-SD",Sky Cinema Action SD
-http://newtechnology.best:80/anna.m/14.03.17/21891
-#EXTINF:0 tvg-id="SkyCinemaSuspense.it" group-title="Cinema-SD",Sky Cinema Suspense SD
-http://newtechnology.best:80/anna.m/14.03.17/63
-#EXTINF:0 tvg-id="SkyCinemaRomance.it" group-title="Cinema-SD",Sky Cinema Romance SD
-http://newtechnology.best:80/anna.m/14.03.17/64
-#EXTINF:0 tvg-id="SkyMoviesDrama.uk" group-title="Cinema-SD",Sky Cinema Drama SD
-http://newtechnology.best:80/anna.m/14.03.17/65
-#EXTINF:0 tvg-id="SkyComedy.de" group-title="Cinema-SD",Sky Cinema Comedy SD
-http://newtechnology.best:80/anna.m/14.03.17/66
-#EXTINF:0 tvg-id="SkyCinemaUnoPlus24.it" group-title="Cinema-SD",Sky Cinema Uno  +24 SD
-http://newtechnology.best:80/anna.m/14.03.17/67
-#EXTINF:0 tvg-id="SkyCinemaDue+24.it" group-title="Cinema-SD",Sky Cinema Due +24 SD
-http://newtechnology.best:80/anna.m/14.03.17/68
-
-#EXTINF:0 tvg-id="ext" group-title="Premium FHD/HD-SD Cinema",---------- Premium FHD/HD-SD Cinema ----------
-http://newtechnology.best:80/anna.m/14.03.17/49
-#EXTINF:0 tvg-id="PremiumCinema.it" group-title="Premium FHD/HD-SD Cinema",Premium Cinema FHD
-http://newtechnology.best:80/anna.m/14.03.17/21892
-#EXTINF:0 tvg-id="PremiumCinemaPlus24.it" group-title="Premium FHD/HD-SD Cinema",Premium Cinema +24 FHD
-http://newtechnology.best:80/anna.m/14.03.17/21894
-#EXTINF:0 tvg-id="PremiumCinemaEnergy.it" group-title="Premium FHD/HD-SD Cinema",Premium Energy FHD
-http://newtechnology.best:80/anna.m/14.03.17/21896
-#EXTINF:0 tvg-id="PremiumCinemaComedy.it" group-title="Premium FHD/HD-SD Cinema",Premium Comedy FHD
-http://newtechnology.best:80/anna.m/14.03.17/21898
-#EXTINF:0 tvg-id="PremiumCinemaEmotion.it" group-title="Premium FHD/HD-SD Cinema",Premium Emotion FHD
-http://newtechnology.best:80/anna.m/14.03.17/21903
-#EXTINF:0 tvg-id="PremiumCinemaEmotion.it" group-title="Premium FHD/HD-SD Cinema",Premium Emotion HD
-http://newtechnology.best:80/anna.m/14.03.17/21904
-#EXTINF:0 tvg-id="PremiumCinema.it" group-title="Premium FHD/HD-SD Cinema",Premium Cinema HD
-http://newtechnology.best:80/anna.m/14.03.17/21893
-#EXTINF:0 tvg-id="PremiumCinemaPlus24.it" group-title="Premium FHD/HD-SD Cinema",Premium Cinema +24 HD
-http://newtechnology.best:80/anna.m/14.03.17/21895
-#EXTINF:0 tvg-id="PremiumCinemaEnergy.it" group-title="Premium FHD/HD-SD Cinema",Premium Energy HD
-http://newtechnology.best:80/anna.m/14.03.17/21897
-#EXTINF:0 tvg-id="PremiumCinemaComedy.it" group-title="Premium FHD/HD-SD Cinema",Premium Comedy HD
-http://newtechnology.best:80/anna.m/14.03.17/21899
-#EXTINF:0 tvg-id="PremiumCinema.it" group-title="Premium FHD/HD-SD Cinema",Premium Cinema
-http://newtechnology.best:80/anna.m/14.03.17/50
-#EXTINF:0 tvg-id="PremiumCinemaPlus24.it" group-title="Premium FHD/HD-SD Cinema",Premium Cinema +24
-http://newtechnology.best:80/anna.m/14.03.17/21905
-#EXTINF:0 tvg-id="PremiumCinemaEnergy.it" group-title="Premium FHD/HD-SD Cinema",Premium Cinema Energy
-http://newtechnology.best:80/anna.m/14.03.17/51
-#EXTINF:0 tvg-id="PremiumCinemaEmotion.it" group-title="Premium FHD/HD-SD Cinema",Premium Emotion
-http://newtechnology.best:80/anna.m/14.03.17/52
-#EXTINF:0 tvg-id="PremiumCinemaComedy.it" group-title="Premium FHD/HD-SD Cinema",Premium Comedy
-http://newtechnology.best:80/anna.m/14.03.17/53
-
-#EXTINF:0 tvg-id="ext" group-title="CSD CINEMA FULL HD",--------- CSD CINEMA FULL HD ----------
-http://newtechnology.best:80/anna.m/14.03.17/50702
-#EXTINF:0 tvg-id="ext" group-title="CSD CINEMA FULL HD",Csd | Brad Pitt
-http://newtechnology.best:80/anna.m/14.03.17/54004
-#EXTINF:0 tvg-id="ext" group-title="CSD CINEMA FULL HD",Csd | Celentano
-http://newtechnology.best:80/anna.m/14.03.17/54962
-#EXTINF:0 tvg-id="ext" group-title="CSD CINEMA FULL HD",Csd | Denzel Washington
-http://newtechnology.best:80/anna.m/14.03.17/54003
-#EXTINF:0 tvg-id="ext" group-title="CSD CINEMA FULL HD",Csd | Fast and Furios
-http://newtechnology.best:80/anna.m/14.03.17/54002
-#EXTINF:0 tvg-id="ext" group-title="CSD CINEMA FULL HD",Csd | Franco e Ciccio
-http://newtechnology.best:80/anna.m/14.03.17/54971
-#EXTINF:0 tvg-id="ext" group-title="CSD CINEMA FULL HD",Csd | George Clooney
-http://newtechnology.best:80/anna.m/14.03.17/54013
-#EXTINF:0 tvg-id="ext" group-title="CSD CINEMA FULL HD",Csd | Schwarzenegger
-http://newtechnology.best:80/anna.m/14.03.17/55200
-#EXTINF:0 tvg-id="ext" group-title="CSD CINEMA FULL HD",Csd | Sylvester Stallone
-http://newtechnology.best:80/anna.m/14.03.17/54001
-#EXTINF:0 tvg-id="ext" group-title="CSD CINEMA FULL HD",Csd | Will Smith
-http://newtechnology.best:80/anna.m/14.03.17/54775
-#EXTINF:0 tvg-id="ext" group-title="CSD CINEMA FULL HD",Csd | Horror Ch
-http://newtechnology.best:80/anna.m/14.03.17/54742
-#EXTINF:0 tvg-id="ext" group-title="CSD CINEMA FULL HD",Csd | Marvel Ch
-http://newtechnology.best:80/anna.m/14.03.17/55334
-
-#EXTINF:0 tvg-id="ext" group-title="Intrattenimento-FHD/HD",---------- Intrattenimento-FHD/HD ----------
-http://newtechnology.best:80/anna.m/14.03.17/69
-#EXTINF:0 tvg-id="SKYUno.it" group-title="Intrattenimento-FHD/HD",Sky Uno FHD
-http://newtechnology.best:80/anna.m/14.03.17/70
-#EXTINF:0 tvg-id="SKYUnoPlus1.it" group-title="Intrattenimento-FHD/HD",Sky Uno FHD +1
-http://newtechnology.best:80/anna.m/14.03.17/21766
-#EXTINF:0 tvg-id="SkyAtlanticHD.de" group-title="Intrattenimento-FHD/HD",Sky Atlantic  FHD
-http://newtechnology.best:80/anna.m/14.03.17/71
-#EXTINF:0 tvg-id="SkyAtlanticPlus1.de" group-title="Intrattenimento-FHD/HD",Sky Atlantic FHD +1
-http://newtechnology.best:80/anna.m/14.03.17/21767
-#EXTINF:0 tvg-id="Fox.de" group-title="Intrattenimento-FHD/HD",Fox FHD
-http://newtechnology.best:80/anna.m/14.03.17/72
-#EXTINF:0 tvg-id="fox-life-hd" group-title="Intrattenimento-FHD/HD",Fox Life FHD
-http://newtechnology.best:80/anna.m/14.03.17/73
-#EXTINF:0 tvg-id="fox-crime" group-title="Intrattenimento-FHD/HD",Fox Crime FHD
-http://newtechnology.best:80/anna.m/14.03.17/74
-#EXTINF:0 tvg-id="ext" group-title="Intrattenimento-FHD/HD",Crime + Inv. FHD
-http://newtechnology.best:80/anna.m/14.03.17/15144
-#EXTINF:0 tvg-id="BLAZE.uk" group-title="Intrattenimento-FHD/HD",Blaze FHD
-http://newtechnology.best:80/anna.m/14.03.17/77
-#EXTINF:0 tvg-id="SKYUno.it" group-title="Intrattenimento-FHD/HD",Sky Uno HD
-http://newtechnology.best:80/anna.m/14.03.17/78
-#EXTINF:0 tvg-id="SkyAtlanticHD.de" group-title="Intrattenimento-FHD/HD",Sky Atlantic HD
-http://newtechnology.best:80/anna.m/14.03.17/80
-#EXTINF:0 tvg-id="Fox.de" group-title="Intrattenimento-FHD/HD",Fox HD
-http://newtechnology.best:80/anna.m/14.03.17/82
-#EXTINF:0 tvg-id="fox-life-hd" group-title="Intrattenimento-FHD/HD",Fox Life HD
-http://newtechnology.best:80/anna.m/14.03.17/84
-#EXTINF:0 tvg-id="fox-crime" group-title="Intrattenimento-FHD/HD",Fox Crime HD
-http://newtechnology.best:80/anna.m/14.03.17/86
-#EXTINF:0 tvg-id="ext" group-title="Intrattenimento-FHD/HD",Crime + Inv. HD
-http://newtechnology.best:80/anna.m/14.03.17/91
-#EXTINF:0 tvg-id="BLAZE.uk" group-title="Intrattenimento-FHD/HD",Blaze HD
-http://newtechnology.best:80/anna.m/14.03.17/97
-#EXTINF:0 tvg-id="SkyUno.it" group-title="Intrattenimento-FHD/HD",Sky Uno SD
-http://newtechnology.best:80/anna.m/14.03.17/115
-#EXTINF:0 tvg-id="SkyAtlanticHD.de" group-title="Intrattenimento-FHD/HD",Sky Atlantic SD
-http://newtechnology.best:80/anna.m/14.03.17/117
-#EXTINF:0 tvg-id="Fox.de" group-title="Intrattenimento-FHD/HD",Fox SD
-http://newtechnology.best:80/anna.m/14.03.17/119
-#EXTINF:0 tvg-id="fox-life" group-title="Intrattenimento-FHD/HD",Fox Life SD
-http://newtechnology.best:80/anna.m/14.03.17/121
-#EXTINF:0 tvg-id="fox-crime" group-title="Intrattenimento-FHD/HD",Fox Crime SD
-http://newtechnology.best:80/anna.m/14.03.17/123
-#EXTINF:0 tvg-id="ext" group-title="Intrattenimento-FHD/HD",Crime + Inv. SD
-http://newtechnology.best:80/anna.m/14.03.17/126
-#EXTINF:0 tvg-id="BLAZE.uk" group-title="Intrattenimento-FHD/HD",Blaze SD
-http://newtechnology.best:80/anna.m/14.03.17/129
-#EXTINF:0 tvg-id="LEI.it" group-title="Intrattenimento-FHD/HD",Lei
-http://newtechnology.best:80/anna.m/14.03.17/93
-#EXTINF:0 tvg-id="ext" group-title="Intrattenimento-FHD/HD",DoveTv
-http://newtechnology.best:80/anna.m/14.03.17/92
-#EXTINF:0 tvg-id="LaEffe.it" group-title="Intrattenimento-FHD/HD",La Effe
-http://newtechnology.best:80/anna.m/14.03.17/95
-#EXTINF:0 tvg-id="ComedyCentralVIVA.de" group-title="Intrattenimento-FHD/HD",Comedy Central
-http://newtechnology.best:80/anna.m/14.03.17/99
-
-#EXTINF:0 tvg-id="ext" group-title="Premium FHD/HD-SD Intrat",---------- Premium FHD/HD-SD Intrat ----------
-http://newtechnology.best:80/anna.m/14.03.17/105
-#EXTINF:0 tvg-id="PremiumAction.it" group-title="Premium FHD/HD-SD Intrat",Premium Action FHD
-http://newtechnology.best:80/anna.m/14.03.17/21900
-#EXTINF:0 tvg-id="PremiumCrime.it" group-title="Premium FHD/HD-SD Intrat",Premium  Crime FHD
-http://newtechnology.best:80/anna.m/14.03.17/21901
-#EXTINF:0 tvg-id="PremiumStories.it" group-title="Premium FHD/HD-SD Intrat",Premium Stories FHD
-http://newtechnology.best:80/anna.m/14.03.17/21902
-#EXTINF:0 tvg-id="PremiumAction.it" group-title="Premium FHD/HD-SD Intrat",Premium Action HD
-http://newtechnology.best:80/anna.m/14.03.17/21906
-#EXTINF:0 tvg-id="PremiumCrime.it" group-title="Premium FHD/HD-SD Intrat",Premium  Crime HD
-http://newtechnology.best:80/anna.m/14.03.17/21907
-#EXTINF:0 tvg-id="PremiumStories.it" group-title="Premium FHD/HD-SD Intrat",Premium Stories HD
-http://newtechnology.best:80/anna.m/14.03.17/21908
-#EXTINF:0 tvg-id="PremiumAction.it" group-title="Premium FHD/HD-SD Intrat",Premium Action
-http://newtechnology.best:80/anna.m/14.03.17/109
-#EXTINF:0 tvg-id="PremiumCrime.it" group-title="Premium FHD/HD-SD Intrat",Premium Crime
-http://newtechnology.best:80/anna.m/14.03.17/110
-#EXTINF:0 tvg-id="PremiumStories.it" group-title="Premium FHD/HD-SD Intrat",Premium Stories
-http://newtechnology.best:80/anna.m/14.03.17/112
-#EXTINF:0 tvg-id="ext" group-title="Premium FHD/HD-SD Intrat",Grande Fratello VIP 2020 Reg 1
-http://newtechnology.best:80/anna.m/14.03.17/51754
-#EXTINF:0 tvg-id="ext" group-title="Premium FHD/HD-SD Intrat",Grande Fratello VIP 2020 Reg 2
-http://newtechnology.best:80/anna.m/14.03.17/51755
-#EXTINF:0 tvg-id="ext" group-title="Premium FHD/HD-SD Intrat",Grande Fratello VIP 2020 Reg 3
-http://newtechnology.best:80/anna.m/14.03.17/51756
-#EXTINF:0 tvg-id="ext" group-title="Premium FHD/HD-SD Intrat",Grande Fratello VIP 2020 Reg 4
-http://newtechnology.best:80/anna.m/14.03.17/51757
-#EXTINF:0 tvg-id="ext" group-title="Premium FHD/HD-SD Intrat",Grande Fratello VIP 2020 Reg 5
-http://newtechnology.best:80/anna.m/14.03.17/52964
-#EXTINF:0 tvg-id="ext" group-title="Premium FHD/HD-SD Intrat",Grande Fratello VIP 2020 Reg 6
-http://newtechnology.best:80/anna.m/14.03.17/52965
-
-#EXTINF:0 tvg-id="ext" group-title="CSD SERIE TV  HD",--------- CSD SERIE TV  HD ----------
-http://newtechnology.best:80/anna.m/14.03.17/50703
-#EXTINF:0 tvg-id="ext" group-title="CSD SERIE TV  HD",Csd | La Casa Di Carta 2019
-http://newtechnology.best:80/anna.m/14.03.17/50699
-#EXTINF:0 tvg-id="ext" group-title="CSD SERIE TV  HD",Csd | Gomorra - La Serie 2014-2019
-http://newtechnology.best:80/anna.m/14.03.17/50670
-#EXTINF:0 tvg-id="ext" group-title="CSD SERIE TV  HD",Csd | Il capo dei capi
-http://newtechnology.best:80/anna.m/14.03.17/51730
-#EXTINF:0 tvg-id="ext" group-title="CSD SERIE TV  HD",Csd | Super Car
-http://newtechnology.best:80/anna.m/14.03.17/54107
-
-#EXTINF:0 tvg-id="ext" group-title="Tv Sat Cinema",---------- Tv Sat Cinema ----------
-http://newtechnology.best:80/anna.m/14.03.17/55110
-#EXTINF:0 tvg-id="Cine34.it" group-title="Tv Sat Cinema",Cine 34
-http://newtechnology.best:80/anna.m/14.03.17/55307
-#EXTINF:0 tvg-id="RaiMovie.it" group-title="Tv Sat Cinema",Rai Movie FHD
-http://newtechnology.best:80/anna.m/14.03.17/139
-#EXTINF:0 tvg-id="Rai4.it" group-title="Tv Sat Cinema",Rai 4 FHD
-http://newtechnology.best:80/anna.m/14.03.17/21763
-#EXTINF:0 tvg-id="paramount" group-title="Tv Sat Cinema",Paramount Channel HD
-http://newtechnology.best:80/anna.m/14.03.17/113
-#EXTINF:0 tvg-id="Iris.it" group-title="Tv Sat Cinema",Iris
-http://newtechnology.best:80/anna.m/14.03.17/150
-#EXTINF:0 tvg-id="RaiMovie.it" group-title="Tv Sat Cinema",Rai Movie HD
-http://newtechnology.best:80/anna.m/14.03.17/55094
-#EXTINF:0 tvg-id="Rai4.it" group-title="Tv Sat Cinema",Rai 4 HD
-http://newtechnology.best:80/anna.m/14.03.17/55096
-#EXTINF:0 tvg-id="RaiMovie.it" group-title="Tv Sat Cinema",Rai Movie SD
-http://newtechnology.best:80/anna.m/14.03.17/55095
-#EXTINF:0 tvg-id="Rai4.it" group-title="Tv Sat Cinema",Rai 4 SD
-http://newtechnology.best:80/anna.m/14.03.17/55097
-
-#EXTINF:0 tvg-id="ext" group-title="Tvsa Intrattenimento",---------- Tvsa Intrattenimento ----------
-http://newtechnology.best:80/anna.m/14.03.17/55111
-#EXTINF:0 tvg-id="MTVGermany.de" group-title="Tvsa Intrattenimento",MTV FHD
-http://newtechnology.best:80/anna.m/14.03.17/131
-#EXTINF:0 tvg-id="Rai5.it" group-title="Tvsa Intrattenimento",Rai 5 FHD
-http://newtechnology.best:80/anna.m/14.03.17/135
-#EXTINF:0 tvg-id="20Mediaset.it" group-title="Tvsa Intrattenimento",20 Mediaset FHD
-http://newtechnology.best:80/anna.m/14.03.17/137
-#EXTINF:0 tvg-id="RaiPremium.it" group-title="Tvsa Intrattenimento",Rai Premium FHD
-http://newtechnology.best:80/anna.m/14.03.17/138
-#EXTINF:0 tvg-id="tv8-lt" group-title="Tvsa Intrattenimento",Tv8 FHD
-http://newtechnology.best:80/anna.m/14.03.17/55221
-#EXTINF:0 tvg-id="Nove.it" group-title="Tvsa Intrattenimento",Nove FHD
-http://newtechnology.best:80/anna.m/14.03.17/55222
-#EXTINF:0 tvg-id="ext" group-title="Tvsa Intrattenimento",Tv Cielo FHD
-http://newtechnology.best:80/anna.m/14.03.17/55223
-#EXTINF:0 tvg-id="RealTime.it" group-title="Tvsa Intrattenimento",Real Time  FHD
-http://newtechnology.best:80/anna.m/14.03.17/141
-#EXTINF:0 tvg-id="TopCrime.it" group-title="Tvsa Intrattenimento",Top Crime
-http://newtechnology.best:80/anna.m/14.03.17/151
-#EXTINF:0 tvg-id="Giallo.it" group-title="Tvsa Intrattenimento",Giallo
-http://newtechnology.best:80/anna.m/14.03.17/154
-#EXTINF:0 tvg-id="Italia2.it" group-title="Tvsa Intrattenimento",Mediaset Italia 2
-http://newtechnology.best:80/anna.m/14.03.17/148
-#EXTINF:0 tvg-id="MediasetExtra.it" group-title="Tvsa Intrattenimento",Mediaset Extra
-http://newtechnology.best:80/anna.m/14.03.17/149
-#EXTINF:0 tvg-id="LA5.it" group-title="Tvsa Intrattenimento",La 5
-http://newtechnology.best:80/anna.m/14.03.17/144
-#EXTINF:0 tvg-id="ext" group-title="Tvsa Intrattenimento",La7 D
-http://newtechnology.best:80/anna.m/14.03.17/21764
-#EXTINF:0 tvg-id="MTVGermany.de" group-title="Tvsa Intrattenimento",MTV HD
-http://newtechnology.best:80/anna.m/14.03.17/55100
-#EXTINF:0 tvg-id="Rai5.it" group-title="Tvsa Intrattenimento",Rai 5 HD
-http://newtechnology.best:80/anna.m/14.03.17/55098
-#EXTINF:0 tvg-id="20Mediaset.it" group-title="Tvsa Intrattenimento",20 Mediaset HD
-http://newtechnology.best:80/anna.m/14.03.17/147
-#EXTINF:0 tvg-id="RaiPremium.it" group-title="Tvsa Intrattenimento",Rai Premium HD
-http://newtechnology.best:80/anna.m/14.03.17/55092
-#EXTINF:0 tvg-id="RealTime.it" group-title="Tvsa Intrattenimento",Real Time HD
-http://newtechnology.best:80/anna.m/14.03.17/55090
-#EXTINF:0 tvg-id="MTVGermany.de" group-title="Tvsa Intrattenimento",MTV SD
-http://newtechnology.best:80/anna.m/14.03.17/55101
-#EXTINF:0 tvg-id="Rai5.it" group-title="Tvsa Intrattenimento",Rai 5 SD
-http://newtechnology.best:80/anna.m/14.03.17/55099
-#EXTINF:0 tvg-id="RaiPremium.it" group-title="Tvsa Intrattenimento",Rai Premium SD
-http://newtechnology.best:80/anna.m/14.03.17/55093
-#EXTINF:0 tvg-id="RealTime.it" group-title="Tvsa Intrattenimento",Real Time SD
-http://newtechnology.best:80/anna.m/14.03.17/55091
-
-#EXTINF:0 tvg-id="ext" group-title="Tv Sat Cultura",---------- Tv Sat Cultura ----------
-http://newtechnology.best:80/anna.m/14.03.17/55112
-#EXTINF:0 tvg-id="ext" group-title="Tv Sat Cultura",MotorTrend FHD
-http://newtechnology.best:80/anna.m/14.03.17/55117
-#EXTINF:0 tvg-id="RaiStoria.it" group-title="Tv Sat Cultura",Rai Storia FHD
-http://newtechnology.best:80/anna.m/14.03.17/21994
-#EXTINF:0 tvg-id="TV2000.it" group-title="Tv Sat Cultura",Tv 2000
-http://newtechnology.best:80/anna.m/14.03.17/21765
-#EXTINF:0 tvg-id="Focus.it" group-title="Tv Sat Cultura",Focus
-http://newtechnology.best:80/anna.m/14.03.17/157
-#EXTINF:0 tvg-id="Spike.uk" group-title="Tv Sat Cultura",Spike
-http://newtechnology.best:80/anna.m/14.03.17/153
-#EXTINF:0 tvg-id="RaiScuola.it" group-title="Tv Sat Cultura",Rai Scuola
-http://newtechnology.best:80/anna.m/14.03.17/29470
-#EXTINF:0 tvg-id="FoodNetwork.eu" group-title="Tv Sat Cultura",Food Network
-http://newtechnology.best:80/anna.m/14.03.17/155
-#EXTINF:0 tvg-id="Alice.it" group-title="Tv Sat Cultura",Alice
-http://newtechnology.best:80/anna.m/14.03.17/54960
-#EXTINF:0 tvg-id="Marcopolo.it" group-title="Tv Sat Cultura",Marcopolo
-http://newtechnology.best:80/anna.m/14.03.17/54961
-#EXTINF:0 tvg-id="TeleTicino.ch" group-title="Tv Sat Cultura",Teleticino HD
-http://newtechnology.best:80/anna.m/14.03.17/29469
-
-#EXTINF:0 tvg-id="ext" group-title="Sport FHD",-------- Sport FHD --------
-http://newtechnology.best:80/anna.m/14.03.17/15161
-#EXTINF:0 tvg-id="SKYSport24.it" group-title="Sport FHD",Sky Sport 24 FHD
-http://newtechnology.best:80/anna.m/14.03.17/164
-#EXTINF:0 tvg-id="SkySportUno.it" group-title="Sport FHD",Sky Sport  Uno FHD
-http://newtechnology.best:80/anna.m/14.03.17/165
-#EXTINF:0 tvg-id="SkySpFball.uk" group-title="Sport FHD",Sky Sport Football FHD
-http://newtechnology.best:80/anna.m/14.03.17/167
-#EXTINF:0 tvg-id="SkySpArena.uk" group-title="Sport FHD",Sky Sport Arena  FHD
-http://newtechnology.best:80/anna.m/14.03.17/166
-#EXTINF:0 tvg-id="ext" group-title="Sport FHD",Sky Sport Collection FHD
-http://newtechnology.best:80/anna.m/14.03.17/169
-#EXTINF:0 tvg-id="SkySportNBA.it" group-title="Sport FHD",Sky Sport NBA FHD
-http://newtechnology.best:80/anna.m/14.03.17/168
-#EXTINF:0 tvg-id="SkySportsF1.uk" group-title="Sport FHD",Sky Sport F1 FHD
-http://newtechnology.best:80/anna.m/14.03.17/170
-#EXTINF:0 tvg-id="SkySportMotoGP.it" group-title="Sport FHD",Sky Sport MotoGP FHD
-http://newtechnology.best:80/anna.m/14.03.17/171
-#EXTINF:0 tvg-id="ext" group-title="Sport FHD",Sky Sport Dazn 1 WEB
-http://newtechnology.best:80/anna.m/14.03.17/50420
-#EXTINF:0 tvg-id="BikeChannel.it" group-title="Sport FHD",Bike Channel FHD
-http://newtechnology.best:80/anna.m/14.03.17/172
-#EXTINF:0 tvg-id="SuperTennis.it" group-title="Sport FHD",SuperTennis FHD
-http://newtechnology.best:80/anna.m/14.03.17/174
-#EXTINF:0 tvg-id="RaiSport.it" group-title="Sport FHD",Rai Sport FHD
-http://newtechnology.best:80/anna.m/14.03.17/173
-#EXTINF:0 tvg-id="ext" group-title="Sport FHD",Unire Sat FHD
-http://newtechnology.best:80/anna.m/14.03.17/175
-
-#EXTINF:0 tvg-id="ext" group-title="Sport-HD",---------- Sport-HD ----------
-http://newtechnology.best:80/anna.m/14.03.17/163
-#EXTINF:0 tvg-id="SKYSport24.it" group-title="Sport-HD",Sky Sport 24 HD
-http://newtechnology.best:80/anna.m/14.03.17/176
-#EXTINF:0 tvg-id="SkySportUno.it" group-title="Sport-HD",Sky Sport Uno HD
-http://newtechnology.best:80/anna.m/14.03.17/177
-#EXTINF:0 tvg-id="SkySpFball.uk" group-title="Sport-HD",Sky Sport Football HD
-http://newtechnology.best:80/anna.m/14.03.17/180
-#EXTINF:0 tvg-id="SkySpArena.uk" group-title="Sport-HD",Sky Sport Arena  HD
-http://newtechnology.best:80/anna.m/14.03.17/178
-#EXTINF:0 tvg-id="ext" group-title="Sport-HD",Sky Sport Collection HD
-http://newtechnology.best:80/anna.m/14.03.17/182
-#EXTINF:0 tvg-id="SkySportNBA.it" group-title="Sport-HD",Sky Sport NBA HD
-http://newtechnology.best:80/anna.m/14.03.17/181
-#EXTINF:0 tvg-id="SkySportsF1.uk" group-title="Sport-HD",Sky Sport F1 HD
-http://newtechnology.best:80/anna.m/14.03.17/183
-#EXTINF:0 tvg-id="SkySportMotoGP.it" group-title="Sport-HD",Sky Sport MotoGP HD
-http://newtechnology.best:80/anna.m/14.03.17/184
-#EXTINF:0 tvg-id="BikeChannel.it" group-title="Sport-HD",Bike Channel HD
-http://newtechnology.best:80/anna.m/14.03.17/185
-#EXTINF:0 tvg-id="RaiSport.it" group-title="Sport-HD",Rai Sport HD
-http://newtechnology.best:80/anna.m/14.03.17/55108
-#EXTINF:0 tvg-id="RaiSport.it" group-title="Sport-HD",Rai Sport SD
-http://newtechnology.best:80/anna.m/14.03.17/55109
-#EXTINF:0 tvg-id="Eurosport1.de" group-title="Sport-HD",Eurosport 1 HD
-http://newtechnology.best:80/anna.m/14.03.17/186
-#EXTINF:0 tvg-id="Eurosport2.de" group-title="Sport-HD",Eurosport 2 HD
-http://newtechnology.best:80/anna.m/14.03.17/187
-#EXTINF:0 tvg-id="TopCalcio24.it" group-title="Sport-HD",Top Calcio 24
-http://newtechnology.best:80/anna.m/14.03.17/190
-#EXTINF:0 tvg-id="Sportitalia.it" group-title="Sport-HD",Sportitalia
-http://newtechnology.best:80/anna.m/14.03.17/191
-#EXTINF:0 tvg-id="ext" group-title="Sport-HD",Q13 AutoMoto TV
-http://newtechnology.best:80/anna.m/14.03.17/192
-#EXTINF:0 tvg-id="ClassHorse.it" group-title="Sport-HD",Class HorseTv
-http://newtechnology.best:80/anna.m/14.03.17/193
-#EXTINF:0 tvg-id="MilanTV.it" group-title="Sport-HD",Milan TV
-http://newtechnology.best:80/anna.m/14.03.17/198
-#EXTINF:0 tvg-id="InterChannel.it" group-title="Sport-HD",Inter Channel
-http://newtechnology.best:80/anna.m/14.03.17/199
-#EXTINF:0 tvg-id="LazioStyleChannel.it" group-title="Sport-HD",Lazio Channel
-http://newtechnology.best:80/anna.m/14.03.17/201
-#EXTINF:0 tvg-id="TorinoChannel.it" group-title="Sport-HD",Torino Channel
-http://newtechnology.best:80/anna.m/14.03.17/202
-#EXTINF:0 tvg-id="ext" group-title="Sport-HD",My Sports 1 HD (DE/FR/IT)
-http://newtechnology.best:80/anna.m/14.03.17/203
-#EXTINF:0 tvg-id="ext" group-title="Sport-HD",My Sports 2 HD (DE/FR/IT)
-http://newtechnology.best:80/anna.m/14.03.17/204
-#EXTINF:0 tvg-id="ext" group-title="Sport-HD",My Sports 3 HD  (DE/FR/IT)
-http://newtechnology.best:80/anna.m/14.03.17/205
-#EXTINF:0 tvg-id="ext" group-title="Sport-HD",My Sports 4 HD  (DE/FR/IT)
-http://newtechnology.best:80/anna.m/14.03.17/206
-#EXTINF:0 tvg-id="ext" group-title="Sport-HD",My Sports 5 HD (DE/FR/IT)
-http://newtechnology.best:80/anna.m/14.03.17/207
-#EXTINF:0 tvg-id="ext" group-title="Sport-HD",My Sports 6 HD (DE/FR/IT)
-http://newtechnology.best:80/anna.m/14.03.17/208
-#EXTINF:0 tvg-id="ext" group-title="Sport-HD",My Sports 7 HD (DE/FR/IT)
-http://newtechnology.best:80/anna.m/14.03.17/209
-#EXTINF:0 tvg-id="ext" group-title="Sport-HD",My Sports 8 HD (DE/FR/IT)
-http://newtechnology.best:80/anna.m/14.03.17/210
-#EXTINF:0 tvg-id="SkySport24.it" group-title="Sport-HD",Sky Sport 24 SD
-http://newtechnology.best:80/anna.m/14.03.17/215
-#EXTINF:0 tvg-id="SkySportUno.it" group-title="Sport-HD",Sky Sport uno SD
-http://newtechnology.best:80/anna.m/14.03.17/55331
-#EXTINF:0 tvg-id="SkySportArena.it" group-title="Sport-HD",Sky Sport Arena  SD
-http://newtechnology.best:80/anna.m/14.03.17/217
-#EXTINF:0 tvg-id="SkySportFootball.it" group-title="Sport-HD",Sky Sport Football SD
-http://newtechnology.best:80/anna.m/14.03.17/218
-#EXTINF:0 tvg-id="SkySportCollection.it" group-title="Sport-HD",Sky Sport Collection SD
-http://newtechnology.best:80/anna.m/14.03.17/220
-#EXTINF:0 tvg-id="SkySportNBA.it" group-title="Sport-HD",Sky Sport NBA SD
-http://newtechnology.best:80/anna.m/14.03.17/219
-#EXTINF:0 tvg-id="SkySportsF1.uk" group-title="Sport-HD",Sky Sport F1 SD
-http://newtechnology.best:80/anna.m/14.03.17/221
-#EXTINF:0 tvg-id="SkySportMotoGP.it" group-title="Sport-HD",Sky Sport MotoGP SD
-http://newtechnology.best:80/anna.m/14.03.17/222
-#EXTINF:0 tvg-id="BikeChannel.uk" group-title="Sport-HD",Bike Channel SD
-http://newtechnology.best:80/anna.m/14.03.17/223
-
-#EXTINF:0 tvg-id="ext" group-title="Calcio FHD",-------- Calcio FHD --------
-http://newtechnology.best:80/anna.m/14.03.17/15163
-#EXTINF:0 tvg-id="SkySportSerieA.it" group-title="Calcio FHD",Sky Sport Serie A FHD
-http://newtechnology.best:80/anna.m/14.03.17/225
-#EXTINF:0 tvg-id="ext" group-title="Calcio FHD",Sky Sport 251 FHD
-http://newtechnology.best:80/anna.m/14.03.17/226
-#EXTINF:0 tvg-id="ext" group-title="Calcio FHD",Sky Sport  252 FHD
-http://newtechnology.best:80/anna.m/14.03.17/227
-#EXTINF:0 tvg-id="ext" group-title="Calcio FHD",Sky Sport 253 FHD
-http://newtechnology.best:80/anna.m/14.03.17/228
-#EXTINF:0 tvg-id="ext" group-title="Calcio FHD",Sky Sport 254 FHD
-http://newtechnology.best:80/anna.m/14.03.17/39815
-#EXTINF:0 tvg-id="ext" group-title="Calcio FHD",Sky Sport 255 FHD
-http://newtechnology.best:80/anna.m/14.03.17/39817
-#EXTINF:0 tvg-id="ext" group-title="Calcio FHD",Sky Sport 256 FHD
-http://newtechnology.best:80/anna.m/14.03.17/39819
-#EXTINF:0 tvg-id="ext" group-title="Calcio FHD",Sky Sport 257 FHD
-http://newtechnology.best:80/anna.m/14.03.17/232
-#EXTINF:0 tvg-id="ext" group-title="Calcio FHD",Sky Sport 258 FHD
-http://newtechnology.best:80/anna.m/14.03.17/233
-#EXTINF:0 tvg-id="ext" group-title="Calcio FHD",Calcio Dazn 1 FHD
-http://newtechnology.best:80/anna.m/14.03.17/55275
-#EXTINF:0 tvg-id="ext" group-title="Calcio FHD",Sky Sport Serie A FHD +1
-http://newtechnology.best:80/anna.m/14.03.17/55333
-
-#EXTINF:0 tvg-id="ext" group-title="Calcio-HD",---------- Calcio-HD ----------
-http://newtechnology.best:80/anna.m/14.03.17/224
-#EXTINF:0 tvg-id="SkySportSerieA.it" group-title="Calcio-HD",Sky Sport Serie A  HD
-http://newtechnology.best:80/anna.m/14.03.17/234
-#EXTINF:0 tvg-id="ext" group-title="Calcio-HD",Sky Sport 251 HD
-http://newtechnology.best:80/anna.m/14.03.17/237
-#EXTINF:0 tvg-id="ext" group-title="Calcio-HD",Sky Sport 252 HD
-http://newtechnology.best:80/anna.m/14.03.17/238
-#EXTINF:0 tvg-id="ext" group-title="Calcio-HD",Sky Sport 253 HD
-http://newtechnology.best:80/anna.m/14.03.17/239
-#EXTINF:0 tvg-id="ext" group-title="Calcio-HD",Sky Sport 254 HD
-http://newtechnology.best:80/anna.m/14.03.17/39816
-#EXTINF:0 tvg-id="ext" group-title="Calcio-HD",Sky Sport 255 HD
-http://newtechnology.best:80/anna.m/14.03.17/39818
-#EXTINF:0 tvg-id="ext" group-title="Calcio-HD",Sky Sport 256 HD
-http://newtechnology.best:80/anna.m/14.03.17/242
-#EXTINF:0 tvg-id="ext" group-title="Calcio-HD",Sky Sport 257 HD
-http://newtechnology.best:80/anna.m/14.03.17/243
-#EXTINF:0 tvg-id="ext" group-title="Calcio-HD",Sky Sport 258 HD
-http://newtechnology.best:80/anna.m/14.03.17/244
-#EXTINF:0 tvg-id="ext" group-title="Calcio-HD",Sky Sport 259 HD
-http://newtechnology.best:80/anna.m/14.03.17/245
-#EXTINF:0 tvg-id="SkySport260.it" group-title="Calcio-HD",Sky Sport 260
-http://newtechnology.best:80/anna.m/14.03.17/246
-#EXTINF:0 tvg-id="SkySport261.it" group-title="Calcio-HD",Sky Sport 261
-http://newtechnology.best:80/anna.m/14.03.17/247
-#EXTINF:0 tvg-id="SkySport262.it" group-title="Calcio-HD",Sky Sport 262
-http://newtechnology.best:80/anna.m/14.03.17/248
-
-#EXTINF:0 tvg-id="ext" group-title="Calcio-SD",---------- Calcio-SD ----------
-http://newtechnology.best:80/anna.m/14.03.17/249
-#EXTINF:0 tvg-id="SkySportSerieA.it" group-title="Calcio-SD",Sky Sport Serie A SD
-http://newtechnology.best:80/anna.m/14.03.17/250
-#EXTINF:0 tvg-id="SkySport251.it" group-title="Calcio-SD",Sky Sport 251 SD
-http://newtechnology.best:80/anna.m/14.03.17/251
-#EXTINF:0 tvg-id="SkySport252.it" group-title="Calcio-SD",Sky Sport 252 SD
-http://newtechnology.best:80/anna.m/14.03.17/252
-#EXTINF:0 tvg-id="SkySport253.it" group-title="Calcio-SD",Sky Sport 253 SD
-http://newtechnology.best:80/anna.m/14.03.17/253
-#EXTINF:0 tvg-id="SkySport254.it" group-title="Calcio-SD",Sky Sport 254 SD
-http://newtechnology.best:80/anna.m/14.03.17/254
-#EXTINF:0 tvg-id="SkySport255.it" group-title="Calcio-SD",Sky Sport 255 SD
-http://newtechnology.best:80/anna.m/14.03.17/255
-#EXTINF:0 tvg-id="SkySport257.it" group-title="Calcio-SD",Sky Sport  257 SD
-http://newtechnology.best:80/anna.m/14.03.17/257
-#EXTINF:0 tvg-id="SkySport258.it" group-title="Calcio-SD",Sky Sport 258 SD
-http://newtechnology.best:80/anna.m/14.03.17/258
-
-#EXTINF:0 tvg-id="ext" group-title="Dazn",---------- Dazn ----------
-http://newtechnology.best:80/anna.m/14.03.17/259
-#EXTINF:0 tvg-id="ext" group-title="Dazn",Dazn 1 CSD Super HD (Sport209) Serie AeB
-http://newtechnology.best:80/anna.m/14.03.17/261
-#EXTINF:0 tvg-id="ext" group-title="Dazn",Dazn 1 CSD HD (Sport209) Serie AeB
-http://newtechnology.best:80/anna.m/14.03.17/263
-#EXTINF:0 tvg-id="ext" group-title="Dazn",Dazn 1 CSD SD (Sport209) Serie AeB
-http://newtechnology.best:80/anna.m/14.03.17/264
-#EXTINF:0 tvg-id="ext" group-title="Dazn",Dazn Sport 1 HD
-http://newtechnology.best:80/anna.m/14.03.17/55042
-#EXTINF:0 tvg-id="ext" group-title="Dazn",Dazn Sport 1 SD
-http://newtechnology.best:80/anna.m/14.03.17/28758
-#EXTINF:0 tvg-id="ext" group-title="Dazn",Dazn Sport 2 HD
-http://newtechnology.best:80/anna.m/14.03.17/28759
-#EXTINF:0 tvg-id="ext" group-title="Dazn",Dazn Sport 2 SD
-http://newtechnology.best:80/anna.m/14.03.17/28760
-#EXTINF:0 tvg-id="ext" group-title="Dazn",Dazn Sport 3 HD
-http://newtechnology.best:80/anna.m/14.03.17/28761
-#EXTINF:0 tvg-id="ext" group-title="Dazn",Dazn Sport 3 SD
-http://newtechnology.best:80/anna.m/14.03.17/28762
-#EXTINF:0 tvg-id="ext" group-title="Dazn",Dazn Sport 4 HD
-http://newtechnology.best:80/anna.m/14.03.17/28763
-#EXTINF:0 tvg-id="ext" group-title="Dazn",Dazn Sport 4 SD
-http://newtechnology.best:80/anna.m/14.03.17/28764
-#EXTINF:0 tvg-id="ext" group-title="Dazn",Dazn Sport 5 HD
-http://newtechnology.best:80/anna.m/14.03.17/54746
-#EXTINF:0 tvg-id="ext" group-title="Dazn",Dazn Sport 5 SD
-http://newtechnology.best:80/anna.m/14.03.17/54747
-#EXTINF:0 tvg-id="ext" group-title="Dazn",Dazn Sport  6 HD
-http://newtechnology.best:80/anna.m/14.03.17/55202
-#EXTINF:0 tvg-id="ext" group-title="Dazn",Dazn 6  SD
-http://newtechnology.best:80/anna.m/14.03.17/55203
-#EXTINF:0 tvg-id="ext" group-title="Dazn",Dazn Sport 7 HD
-http://newtechnology.best:80/anna.m/14.03.17/55204
-#EXTINF:0 tvg-id="ext" group-title="Dazn",Dazn Sport 7 SD
-http://newtechnology.best:80/anna.m/14.03.17/55205
+#EXTINF:0 tvg-id="Rai1.it" group-title="Tivùsat",Rai 1
+https://raiuno2-live.akamaized.net/hls/live/598309/raiuno2/raiuno2/rai1_2400/chunklist.m3u8
+#EXTINF:0 tvg-id="Rai2.it" group-title="Tivùsat",Rai 2
+https://raidue1-live.akamaized.net/hls/live/598309/raidue1/raidue1/rai2_2400/chunklist.m3u8
+#EXTINF:0 tvg-id="Rai3.it" group-title="Tivùsat",Rai 3
+https://raitre1-live.akamaized.net/hls/live/598309/raitre1/raitre1/rai3_2400/chunklist.m3u8
+#EXTINF:0 tvg-id="Rete4.it" group-title="Tivùsat",Rete 4
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/stream04/streamPlaylist.m3u8
+#EXTINF:0 tvg-id="Canale5.it" group-title="Tivùsat",Canale 5
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/stream04/streamPlaylist.m3u8
+#EXTINF:0 tvg-id="Italia1.it" group-title="Tivùsat",Italia 1
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(I1)/stream04/streamPlaylist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Tivùsat",LA7
+https://d15umi5iaezxgx.cloudfront.net/OUT/DASH/Live_640x360init.mp4
+#EXTINF:0 tvg-id="Tv8.it" group-title="Tivùsat",TV8 Italia
+https://vsd14.mycdn.me/dash/stream_560793389796/stream.manifest/sig/M0TTnofDk0o/expires/1582392400416/srcIp/31.164.130.215/clientType/0/srcAg/CHROME/mid/1488128384740/frag-high-6273276.dash
+#EXTINF:0 tvg-id="Nove.it" group-title="Tivùsat",Nove
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/index_1672_av-p.m3u8?sd=10&rebase=on&id=AgAfpILXwuZRxHqBUl5IWWpuCfAvrYKyPcDlb%2fmkq39de0zn8ucfrPiJyDQj6D8pA0D3oHDUXGPI9w%3d%3d
+#EXTINF:0 tvg-id="Rai4.it" group-title="Tivùsat",Rai 4
+http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1800_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="Iris.it" group-title="Tivùsat",Iris
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KI)/stream04/streamPlaylist.m3u8
+#EXTINF:0 tvg-id="LA5.it" group-title="Tivùsat",La5
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KA)/stream04/streamPlaylist.m3u8
+#EXTINF:0 tvg-id="Rai5.it" group-title="Tivùsat",Rai 5
+https://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="RaiMovie.it" group-title="Tivùsat",Rai Movie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="RaiPremium.it" group-title="Tivùsat",Rai Premium
+https://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="Italia2.it" group-title="Tivùsat",Italia 2
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(I2)/stream04/streamPlaylist.m3u8
+#EXTINF:0 tvg-id="MediasetExtra.it" group-title="Tivùsat",Mediaset Extra
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(B7)/stream04/streamPlaylist.m3u8
+#EXTINF:0 tvg-id="TV2000.it" group-title="Tivùsat",TV2000
+https://cld02wz.tv2000.it/HLS/Tv2000WZ/chunklist.m3u8
+#EXTINF:0 tvg-id="20Mediaset.it" group-title="Tivùsat",Mediaset 20
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(LB)/stream04/streamPlaylist.m3u8
+#EXTINF:0 tvg-id="RaiSport.it" group-title="Tivùsat",Rai Sport
+https://b2everyrai-lh.akamaihd.net/i/raisport_1@181837/index_1800_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="RaiNews.it" group-title="Tivùsat",Rai News 24
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews_1800/chunklist.m3u8
+#EXTINF:0 tvg-id="Spike.it" group-title="Tivùsat",Spike
+https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/index_2500_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="DMAX.it" group-title="Tivùsat",DMAX
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/index_1672_av-p.m3u8?sd=10&rebase=on&id=AgAfpILXwuZRrfKBUl4LWtQtYowwqu8M7NB5axGmtEYSyLZBbLMyw9kZMJKtbApv8x1yvP3MnelNNw%3d%3d
+#EXTINF:0 tvg-id="avi" group-title="Tivùsat",LA7d
+https://d15umi5iaezxgx.cloudfront.net/LA7D/OUT/DASH/Live_960x540init.mp4
+#EXTINF:0 tvg-id="RealTime.it" group-title="Tivùsat",Real Time
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/index_1672_av-p.m3u8?sd=10&rebase=on&id=AgAfpILXwuZRxDGCUl7z+PK%2fBFnVM4poPtoqJdD0AuzuOW+oTmILZZK7PN1NeiSIEVF06ryDyBsgkw%3d%3d
+#EXTINF:0 tvg-id="ext" group-title="Tivùsat",Cine34
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/stream04/streamPlaylist.m3u8
+#EXTINF:0 tvg-id="RadioItalia.it" group-title="Tivùsat",Radio Italia TV
+https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="RTL102.5TV.it" group-title="Tivùsat",RTL 102.5 TV
+https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/chunklist_b1196000.m3u8
+#EXTINF:0 tvg-id="Giallo.it" group-title="Tivùsat",Giallo
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/index_1672_av-p.m3u8?sd=10&rebase=on&id=AgAfpILXwuZRxH2CUl6HtCui2xJUpKY0TSp4ZuYXs3%2fNwrgo%2f1zaLi9yW+3pSYifpDNgijvXXAOQrg%3d%3d
+#EXTINF:0 tvg-id="TopCrime.it" group-title="Tivùsat",Top Crime
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(LT)/stream04/streamPlaylist.m3u8
+#EXTINF:0 tvg-id="Boing.it" group-title="Tivùsat",Boing
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KB)/stream04/streamPlaylist.m3u8
+#EXTINF:0 tvg-id="RaiGulp.it" group-title="Tivùsat",Rai Gulp
+https://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1800_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="RaiYoyo.it" group-title="Tivùsat",Rai Yoyo
+https://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1800_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="Cartoonito.it" group-title="Tivùsat",Cartoonito
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(LA)/stream04/streamPlaylist.m3u8
+#EXTINF:0 tvg-id="FoodNetwork.it" group-title="Tivùsat",Food Network
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/index_1672_av-b.m3u8?sd=10&rebase=on&id=AgAfpILXwuZRxAeDUl4ekOQ4r8y0zfVbeaGijlu%2fGy+Y2O7tRndUWE66+EE46aLjRHvwqVeTO9unsg%3d%3d
+#EXTINF:0 tvg-id="MotorTrend.it" group-title="Tivùsat",Motor Trend
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/index_1672_av-p.m3u8?sd=10&rebase=on&id=AgAfpILXwuZRxDODUl6EPaCZF3b7On4kEG2E06H6f9PzFK9IZLQ2FP4yK9Rk3Pey5DhtzXgXQ9sRCA%3d%3d
+#EXTINF:0 tvg-id="Focus.it" group-title="Tivùsat",Focus
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/stream04/streamPlaylist.m3u8
+#EXTINF:0 tvg-id="HGTV.it" group-title="Tivùsat",HGTV
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_7@106896/index_1672_av-p.m3u8?sd=10&rebase=on&id=AgAfpILXwuZRrXSDUl5+dTI9xehKuqMJ5MGo9sEURJN3WruNm%2fbbRk+31AD8kL906BgnAW%2fNJdQpug%3d%3d
+#EXTINF:0 tvg-id="ext" group-title="Tivùsat",Radio Zeta TV
+https://rtl-video3-stream.thron.com/live-video/video3/ngrp:video3/chunklist_b1196000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tivùsat",Radio Freccia TV
+https://rtl-video2-stream.thron.com/live-video/video2/ngrp:video2/chunklist_b1196000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tivùsat",RTL 102.5 TV Napulè
+https://rtl-video5-stream.thron.com/live-video/video5/ngrp:video5/chunklist_b1196000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tivùsat",RTL 102.5 TV Best
+https://rtl-video4-stream.thron.com/live-video/video4/ngrp:video4/chunklist_b1196000.m3u8
+#EXTINF:0 tvg-id="RadionorbaTV.it" group-title="Tivùsat",Radionorba TV
+https://flash7.xdevel.com/norbatv/smil:norbatv.smil/chunklist_w2020553337_b864000_slita.m3u8
+ 
+#EXTINF:0 tvg-id="RSILa1.ch" group-title="SRG/SSR",RSI LA 1
+https://rsila1-euwe.akamaized.net/333fb374-92b8-4a1d-90af-4529f56d683e/rsi1.ism/QualityLevels(499200)/Fragments(video=i,format=mpd-time-csf,encryption=cenc)
+#EXTINF:0 tvg-id="RSILa2.ch" group-title="SRG/SSR",RSI LA 2
+https://rsila2-euwe.akamaized.net/9944c781-cb19-4cca-8175-5729c1bb0247/rsi2.ism/QualityLevels(1999600)/Fragments(video=i,format=mpd-time-csf,encryption=cenc)
+ 
+#EXTINF:0 tvg-id="ext" group-title="Regionali",Antenna Blu
+https://5db313b643fd8.streamlock.net/AntennaBlu/AntennaBlu/chunklist_w1017106713.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Regionali",Antenna Sud
+https://59d8c0cee6f3d.streamlock.net/antennasud/antennasud/chunklist_w121407858.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Regionali",Bella TV
+https://server.bellaradio.it:5443/LiveApp/streams/729591642167928092854030.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Regionali",Cafè TV24
+https://srvx1.selftv.video/cafe/live/chunklist_w1514917851.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Regionali",CalabriaUno TV
+https://5926fc9c7c5b2.streamlock.net/9030/9030/chunklist_w1605876895.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Regionali",Canale 7
+https://59d8c0cee6f3d.streamlock.net/canale7/canale7/chunklist_w171658219.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Regionali",Canale 10
+http://37.187.142.147:1935/ch10live/high.stream/chunklist_w281593218.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Regionali",Canale 21 Campania
+http://live.sloode.com:1935/canale21/live/chunklist_w1794548032.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Regionali",Canale 21 Lazio
+http://live.sloode.com:1935/canale21/live2/chunklist_w468161374.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Regionali",Canale 85
+https://59d8c0cee6f3d.streamlock.net/canale85/canale85/chunklist_w212898097.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Regionali",Lira TV
+https://5bc42255bee71.streamlock.net/liratv/diretta01/chunklist_w1628807625.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Regionali",Lombardia TV
+https://5db313b643fd8.streamlock.net/LOMBARDIATV/LOMBARDIATV/chunklist_w653276668.m3u8
+#EXTINF:0 tvg-id="PadrePio.it" group-title="Regionali",Padre Pio TV
+https://5698c1463445c.streamlock.net/TRPP_live/smil:bcffcc98-ac2f-4b73-b0a5-ad1bfb96d845_all.smil/chunklist_w606320819_b227000_slita.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Regionali",Rete 8 VGA
+https://59af8c77bd5d6.streamlock.net/rete8/rete8/chunklist_w142917670.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Regionali",Rtv San Marino
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Regionali",TeleTicino
+https://teleticino720ptest.vedge.infomaniak.com/livecast/smil:teleticino720ptest.smil/chunklist_w1125890761_b3001080.m3u8
