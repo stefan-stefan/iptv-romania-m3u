@@ -5,8 +5,8 @@ http://019-163.sport365.tech:33911/ms/5015b1704b8931dd83881cc694a8e6c4a43828e310
 #EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "" group-title = "", Actualitatea TV (Opt-1)
 #EXTINF: -1 tvg-id = "" tvg-name = "6 TV" tvg-logo = "https://i.imgur.com/f5Ddkx2.png" group-title = "", 6 TV (Opt- 2)
 http://019-163.sport365.tech:33911/ms/5015b1704b8931dd83881cc694a8e6c4a43828e3100e98906f4401bacb950533aedafa1bc4aaf662f2d49b771d68f3325b5c126facf1d6f583e3fa2f5d6e24c8c5095a3c0b5a9c82bcf73365a4dc9d0d1c8a47fa332da8ab5413496448a44045fb1b9abc071f8c53/b7e20aaf69567e0c746cfe3bee8bea83/TfPcHbwFVJ0pKSKPwNFCpzKl8i1FOD7h/.0.m3u8?sid=b7251ff70f86c6d0b9c233f18132ad2a&rid=5e56b867f0391
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https://i.imgur.com/n9igzhr.png" group-title = "", Actualitatea TV (Opt-1)
-http://webmobile.xdev.ro:81/tv4/playlist.m3u8
+#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https://i.imgur.com/n9igzhr.png" group-title = "", film test (Opt-1)
+https://www38.fastplay.to/2tdvzd7xm4jtgz575oelrjobefujfufypvkihw7a54yyqqmfchkbeyeitk4q/v.mp4
 #EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "" group-title = "", Actualitatea TV (Opt-2)
 #EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = " https://i.imgur.com/n9igzhr.png " group-title = "", Actualitatea TV (Opt-2)
 http://46.214.146.46:81/tv4/playlist.m3u8
