@@ -1,267 +1,219 @@
-# EXTM3U x-tvg-url = "http://195.154.221.171/epg/guideromania.xml.gz"
-#EXTINF: -1 tvg-id = "" tvg-name = "Music Channel" tvg-logo = "https: // iptv.live/images/logo/channel/smalls/025fef3f53d612aee7f64a663fcdda9b .png" group-title = "Music ", 1 canal de muzică
-#EXTINF: -1 tvg-id = "" tvg-name = "6 TV" tvg-logo = "https: // i.imgur.com/f5Ddkx2 .png" group-title = "", 6 TV (Opt- 1)
-http://019-163.sport365.tech:33911/ms/5015b1704b8931dd83881cc694a8e6c4a43828e3100e98906f4401bacb950533aedafa1bc4aaf662f2d49b771d68f3325b5c126facf1d6f583e3fa2f5d6e24c8c5095a3c0b5a9c82bcf73365a4dc9d0d1c8a47fa332da8ab5413496448a44045fb1b9abc071f8c53/b7e20aaf69567e0c746cfe3bee8bea83/TfPcHbwFVJ0pKSKPwNFCpzKl8i1FOD7h/.0.m3u8?sid=b7251ff70f86c6d0b9c233f18132ad2a&rid=5e56b867f0391
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "" group-title = "", Actualitatea TV (Opt-1)
-#EXTINF: -1 tvg-id = "" tvg-name = "6 TV" tvg-logo = "https://i.imgur.com/f5Ddkx2.png" group-title = "", 6 TV (Opt- 2)
-http://019-163.sport365.tech:33911/ms/5015b1704b8931dd83881cc694a8e6c4a43828e3100e98906f4401bacb950533aedafa1bc4aaf662f2d49b771d68f3325b5c126facf1d6f583e3fa2f5d6e24c8c5095a3c0b5a9c82bcf73365a4dc9d0d1c8a47fa332da8ab5413496448a44045fb1b9abc071f8c53/b7e20aaf69567e0c746cfe3bee8bea83/TfPcHbwFVJ0pKSKPwNFCpzKl8i1FOD7h/.0.m3u8?sid=b7251ff70f86c6d0b9c233f18132ad2a&rid=5e56b867f0391
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https://i.imgur.com/n9igzhr.png" group-title = "", film test (Opt-1)
-https://www38.fastplay.to/2tdvzd7xm4jtgz575oelrjobefujfufypvkihw7a54yyqqmfchkbeyeitk4q/v.mp4
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "" group-title = "", Actualitatea TV (Opt-2)
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = " https://i.imgur.com/n9igzhr.png " group-title = "", Actualitatea TV (Opt-2)
-http://46.214.146.46:81/tv4/playlist.m3u8
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https://i.imgur.com/6PCCvYh.png" group-title = "", Acum TV (Opt-1)
-http://webmobile.xdev.ro:81/tv9/playlist.m3u8?fluxustv.m3u8
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "" group-title = "", Acum TV (Opt-2)
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = " https://i.imgur.com/6PCCvYh.png " group-title = "", Acum TV (Opt-2)
-http://webmobile.xdev.ro:81/tv9/playlist.m3u8
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https://i.imgur.com/dmdcwC6.png" group-title = "", Alfa Media TV
-http://webmobile.xdev.ro:81/tv27/playlist.m3u8?fluxustv.m3u8
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "" group-title = "Religios", Alfa Omega TV (Opt-1)
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https://i.imgur.com/StJg6Pu.png" group-title = "Religios", Alfa Omega TV (Opt- 1)
-http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/chunklist_w369018163_b780800.m3u8
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https://img00.deviantart.net/473b/i/2016/214/9/8/catali2016_s_logo_remake__alfa_omega_tv_2016_by_catali2016-dace34w.png" group-title = "Religios", Alfa Omega TV (Opt-2)
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https://i.imgur.com/StJg6Pu.png" group-title = "Religios", Alfa Omega TV (Opt- 2)
-http://telekomtv-ro.akamaized.net/shls/LIVE$AlfaOmegaTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https://i.imgur.com/StJg6Pu.png" group-title = "Religios", Alfa Omega TV (Opt- 3)
-http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8?wowzasessionid=1441530266&time=1463063123262
-#EXTINF: -1 tvg-id = "" tvg-name = "Alpha Media TV" tvg-logo = "http://stvron.com/canale/512/tv-alpha-media.png" group-title = " ", Alpha Media TV
-#EXTINF: -1 tvg-id = "" tvg-name = "Alpha Media TV" tvg-logo = "https://i.imgur.com/dmdcwC6.png" group-title = "", Alpha Media TV ( Opt-1)
-http://webmobile.xdev.ro:81/tv27/playlist.m3u8?fluxustv.m3u8
-#EXTINF: -1 tvg-id = "" tvg-name = "Alpha Media TV" tvg-logo = "https://i.imgur.com/dmdcwC6.png" group-title = "", Alpha Media TV ( Opt-2)
-http://webmobile.xdev.ro:81/tv27/playlist.m3u8
-#EXTINF: -1 tvg-id = "" tvg-name = "Antena Comedy" tvg-logo = "https: // assets.antenaplay.ro/2019/02/08/fsBW8DJnT3KdTKAcTVxS .png" group-title = "" , Antena Comedy
-#EXTINF: -1 tvg-id = "" tvg-name = "Antena Comedy" tvg-logo = "https: // i.imgur.com/tH624pc .png" group-title = "", Antena Comedy
-http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
-#EXTINF: -1 tvg-id = "" tvg-name = "Antena Monden" tvg-logo = "https: // assets.antenaplay.ro/2019/02/08/ASCEI8MhBY2ItX0av7KS .png" group-title = "" , Antena Monden
-#EXTINF: -1 tvg-id = "" tvg-name = "Antena Monden" tvg-logo = "https: // i.imgur.com/6R5TLlc .png" group-title = "", Antena Monden
-http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
-#EXTINF: -1 tvg-id = "B1 RO" tvg-name = "B1 RO" tvg-logo = "https: // www.b1.ro/static/images/b1 .jpg" group-title = "" , B1 (Opt-1)
-#EXTINF: -1 tvg-id = "B1 RO" tvg-name = "B1 RO" tvg-logo = "https: // i.imgur.com/VQqgkzw .jpg" group-title = "", B1 (Opt -1)
-http://stream.adunity.com/b1/b1_640-.m3u8
-#EXTINF: -1 TVG-id = "B1 RO" TVG-name = "B1 RO" TVG-logo - ul = "https: // . 2.bp.blogspot com / -diL-ndtqU2A / WFTv1oXXObI / AAAAAAAANW4 / HA5iscL25ycSaAvOWzGK1vnCP5KpXCBTACLcB / S1600 / B1tvrom .jpg "group-title =" ", B1 (Opt-2)
-#EXTINF: -1 tvg-id = "B1 RO" tvg-name = "B1 RO" tvg-logo = "https: // i.imgur. Com / VQqgkzw .jpg" group-title = "", B1 (Opt -2)
-http://stream.adunity.com/b1/b1.m3u8
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "" group-title = "", Bit TV
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = " https://i.imgur.com/5RcXm3M.png " group-title = "", Bit TV
-http://46.214.146.46:81/tv2/playlist.m3u8
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https://i.imgur.com/7QHdiTO.png" group-title = "", Bucovina TV
-http://46.4.14.12:9999/btvsvlive/playlist.m3u8?fluxustv.m3u8
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https://i0.wp.com/www.bucovinatv.ro/wp-content/uploads/2017/08/btv- logo-site-e1528828523204.png "group-title =" ", BucovinaTV
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https://i.imgur.com/JZW1rg4.png" group-title = "", BO TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https://i.imgur.com/JZW1rg4.png" group-title = "", BO CLASIC
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https://i.imgur.com/7QHdiTO.png" group-title = "", Bucovina TV (Opt-1)
-http://46.4.14.12:9999/btvsvlive/playlist.m3u8?fluxustv.m3u8 
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https://i.imgur.com/7QHdiTO.png" group-title = "", Bucovina TV (Opt-2)
-http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "" group-title = "", Bucuresti TV
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = " https://i.imgur.com/GeyE6to.png " group-title = "", Bucuresti TV
-http://77.36.61.147/hls/channel3/bitrate4.m3u8
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https: // keygroup.ro/wp-content/uploads/2016/02/canal33-x150px .png" group-title = "", Canal33
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https: // i.imgur.com/BxUibFh .png" group-title = "", Canal33
-https://fms-https1.mediadirect.ro/live3/_definst_/canal33.smil/playlist.m3u8?publisher=83
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = " http : // columna.mipadoweb.ro/wp-content/uploads/2019/01/lg2-320x92-300x86 .png" grup title = „“ Columna
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = " https : // i.imgur.com/hwdfJNU .png" group-title = "", Columna
-http://77.36.61.147/hls/channel4/bitrate4.m3u8
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "" group-title = "Muzică", Credo TV
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https://i.imgur.com/AX5NsOv.jpg" group-title = "Muzică", Credo TV (Opt-1 )
-http://telekomtv-ro.akamaized.net/shls/LIVE$CredoTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https://i.imgur.com/AX5NsOv.jpg" group-title = "Muzică", Credo TV (Opt-2 )
-http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https://yt3.ggpht.com/-48n8Ahbntvc/AAAAAAAAAAA//AAAAAAAAAAA/PudXnVCofrI/s900-ck-no-mo-rj -c0xffffff / photo.jpg "group-title =" ", Cromtel TV
-http://webmobile.xdev.ro:81/tv7/playlist.m3u8?time=1463062060161
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https://iptv.live/images/logo/channel/smalls/00c0b9b5fb0639dad390ef5b088e86c8.png" group-title = "News", Digi 24
-http://edge76.rcs-rds.ro/digi24edge/smil:digi24.smil/playlist.m3u8
-#EXTINF: -1 tvg-id = "Digi World RO" tvg-name = "Digi World RO" tvg-logo = "https://static.iptv-epg.com/hu/DigiWorld.hu.png" title = "", Digi World
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https://i.imgur.com/XzChc5P.jpg" group-title = "", Cromtel TV
-http://webmobile.xdev.ro:81/tv7/playlist.m3u8
-#EXTINF: -1 tvg-id = "Digi World RO" tvg-name = "Digi World RO" tvg-logo = "https://i.imgur.com/I2BUats.png" group-title = "", Digi Lume
-http://37.152.135.169:9002/play/a005/index.m3u8
-#EXTINF: -1 tvg-id = "Digi24 RO" tvg-name = "Digi24 RO" tvg-logo = " http : // www.digi24.ro/static/theme-1616-repo/dist/assets/imgs/ digi24.ro-logo .png "group-title =" Știri ", Digi24 (Opt-1)
-#EXTINF: -1 tvg-id = "Digi24 RO" tvg-name = "Digi24 RO" tvg-logo = " https : // i.imgur.com/MufRJgP .png" group-title = "News", Digi24 ( Opt-1)
-http://82.76.40.76/digi24edge/digi24.smil/chunklist.m3u8
-#EXTINF: -1 tvg-id = "Digi24 RO" tvg-name = "Digi24 RO" tvg-logo = "https: // www.digi24.ro/static/theme-repo/bin/images/digi24-logo . png "group-title =" Știri ", Digi24 (Opt-2)
-#EXTINF: -1 tvg-id = "Digi24 RO" tvg-name = "Digi24 RO" tvg-logo = "https: // i.imgur.com/MufRJgP .png" group-title = "News", Digi24 ( Opt-2)
-http://82.76.40.76/digi24edge/smil:digi24.smil/chunklist_w41349427_b2830400_sleng.m3u8
-#EXTINF: -1 tvg-id = "Digi24 RO" tvg-name = "Digi24 RO" tvg-logo = "" group-title = "Știri", Digi24 (Opt-3)
-#EXTINF: -1 tvg-id = "Digi24 RO" tvg-name = "Digi24 RO" tvg-logo = " https://i.imgur.com/MufRJgP.png " group-title = "Știri", Digi24 ( Opt-3)
-http://82.76.40.76/digi24edge/digi24.smil/.m3u8
-#EXTINF: -1 tvg-id = "Digi24 RO" tvg-name = "Digi24 RO" tvg-logo = " http : // content.iptvprivateserver.tv/stalker_portal/misc/logos/240/397 .png" group- title = "Știri", Digi24 (Opt-4)
-#EXTINF: -1 tvg-id = "Digi24 RO" tvg-name = "Digi24 RO" tvg-logo = " https : // i.imgur.com/MufRJgP .png" group-title = "News", Digi24 ( Opt-4)
-http://81.196.0.126/digi24edge/digi24hdhqhls/index.m3u8
-#EXTINF: -1 tvg-id = "Digi24 RO" tvg-name = "Digi24 RO" tvg-logo = "" group-title = "Știri", Digi24 (Opt-5)
-#EXTINF: -1 tvg-id = "Digi24 RO" tvg-name = "Digi24 RO" tvg-logo = " https://i.imgur.com/MufRJgP.png " group-title = "Știri", Digi24 ( Opt-5)
-http://81.196.0.126:80/digi24edge/digi24hdhqhls/index.m3u8
-#EXTINF: -1 tvg-id = "Digi24 RO" tvg-name = "Digi24 RO" tvg-logo = "" group-title = "Știri", Digi24 (Opt-6)
-#EXTINF: -1 tvg-id = "Digi24 RO" tvg-name = "Digi24 RO" tvg-logo = " https://i.imgur.com/MufRJgP.png " group-title = "Știri", Digi24 ( Opt-6)
-http://82.76.40.76/digi24edge/digi24hdhqhls/index.m3u8
-#EXTINF: -1 tvg-id = "Digi24 RO" tvg-name = "Digi24 RO" tvg-logo = "" group-title = "Știri", Digi24 (Opt-7)
-#EXTINF: -1 tvg-id = "Digi24 RO" tvg-name = "Digi24 RO" tvg-logo = " https://i.imgur.com/MufRJgP.png " group-title = "Știri", Digi24 ( Opt-7)
-http://82.76.40.76/digi24edge/digi24.smil/chunklist_w1778144118_b2830400_sleng.m3u8
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "" group-title = "", Elita TV
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https://i.imgur.com/MufRJgP.png" group-title = "News", Digi24 (Opt-8)
-http://edge76.rcs-rds.ro/digi24edge/smil:digi24.smil/playlist.m3u8
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https://i.imgur.com/Lmbmx3y.png" group-title = "", Elita TV
-http://46.55.111.242:8080/Rezina.m3u8
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "http://live.moldova9.com/wp-content/uploads/iasi-tv-life.png" group-title = "", Iasi TV Life (Opt-1)
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https://i.imgur.com/xAmYapr.jpg" group-title = "", Erdely TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$ErdelyTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https://i.imgur.com/JK6Rypn.jpg" group-title = "", Iasi TV Life (Opt-1 )
-http://webmobile.xdev.ro:81/tv24/playlist.m3u8?time=1464028219168
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = " http : // www.iasitvlife.ro/images/itv-logo.png " group-title = "", Iasi TV Life (opt-2)
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = " https : // i.imgur.com/JK6Rypn.jpg " group-title = "", Iasi TV Life (Opt-2 )
-http://webmobile.xdev.ro:81/tv24/playlist.m3u8
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "http://www.replicahd.ro/wp-content/uploads/2017/06/cropped-ANTET-300.png" group-title = "", Info HD
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https://i.imgur.com/0j1matP.jpg" group-title = "", Inedit
-http://telekomtv-ro.akamaized.net/shls/LIVE$IneditTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https://i.imgur.com/RiZA8Yu.png" group-title = "", Info HD
-http://163.172.172.80:8080/hls/InfoHd.m3u8
-#EXTINF: -1 tvg-id = "" tvg-name = "Intermedia TV" tvg-logo = " http : // www.intermediatv.ro/wp-content/uploads/2017/01/logo .png" group- title = "", Intermedia TV
-#EXTINF: -1 tvg-id = "" tvg-name = "Intermedia TV" tvg-logo = " https : // i.imgur.com/jo5fei5 .png" group-title = "", Intermedia TV
-http://46.4.14.12:9999/intermedia1/playlist.m3u8
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https: // i2.wp .com / movingrecords.ro/wp-content/uploads/2016/11/KapitalTV-Spot- Noiembrie-2016 .jpg "group-title =" ", Kaptial TV
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https: // i.imgur .com / b8bgnx7 .jpg" group-title = "", Kaptial TV
-http://163.172.172.80:8080/hls/livestream.m3u8
-#EXTINF: -1 tvg-id = "Kiss TV RO" tvg-name = "Kiss TV RO" tvg-logo = "https: // www.residentadvisor.net/images/promoter/ro-kissfmkisstv .jpg" group- title = "Muzică", Kiss TV
-#EXTINF: -1 tvg-id = "Kiss TV RO" tvg-name = "Kiss TV RO" tvg-logo = "https: // i.imgur.com/jfuFOjW .jpg" group-title = "Muzică", Kiss TV
-https://fms-https1.mediadirect.ro/live3/_definst_/kiss/playlist.m3u8
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https://iptv.live/images/logo/channel/smalls/a98d664fb0f2909992d398d5c843e468.png" group-title = "", Nasul televizor
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https://i.imgur.com/cgJNpv9.png" group-title = "", MOOZ RO
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https://i.imgur.com/LJTcfxk.png" group-title = "", Nasul TV
-https://5ab29cc78f681.streamlock.net:443/nasultvlive/nasultvlive/playlist.m3u8
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "" group-title = "", NEst TV
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = " https://i.imgur.com/ZUOylvd.png " group-title = "", NEst TV
-http://webmobile.xdev.ro:81/tv13/playlist.m3u8
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https: // iptv.live/images/logo/channel/smalls/666bdb756f29cd99c79036421c7d21a4 .png" group-title = "", Pro 2
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https: // i.imgur.com/MbyvzAU .png" group-title = "", Pro 2
-https://vid.hls.protv.ro/pro2n/pro2_high/index.m3u8?1
-#EXTINF: -1 tvg-id = "Pro Cinema RO" tvg-name = "Pro Cinema RO" tvg-logo = "https: // iptv.live/images/logo/channel/smalls/78119e8e985dcd1890fd7ef82280a02b .png" group- title = "", Pro Cinema
-#EXTINF: -1 tvg-id = "Pro Cinema RO" tvg-name = "Pro Cinema RO" tvg-logo = "https: // i.imgur.com/VMIsbL8 .png" group-title = "", Pro Cinema
-https://vid.hls.protv.ro/procineman/procinema_high/index.m3u8?1
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https: // iptv.live/images/logo/channel/smalls/a1534ad1fe249374953aaef783f9653c .png" group-title = "", Pro Aur
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https: // i.imgur.com/WSnBNnC .png" group-title = "", Pro Gold
-https://vid.hls.protv.ro/progoldn/progold_high/index.m3u8?1
-#EXTINF: -1 tvg-id = "Pro TV RO" tvg-name = "Pro TV RO" tvg-logo = "https: // iptv.live/images/logo/channel/smalls/86543fbc62afa899f4828c1ad44e0460 .png" group- title = "", Pro TV (Opt-1)
-#EXTINF: -1 tvg-id = "Pro TV RO" tvg-name = "Pro TV RO" tvg-logo = "https: // i.imgur.com/FWM790Y .png" group-title = "", Pro TV (Opt-1)
-https://vid.hls.protv.ro/protvhdn/protvhd_high/index.m3u8?1
-#EXTINF: -1 tvg-id = "Pro TV RO" tvg-name = "Pro TV RO" tvg-logo = "https://i.imgur.com/FWM790Y.png" group-title = "", Pro TV (Opt-2)
-http://stream1.protv.ro/news/stream:1.stream/chunklist_w1582750279.m3u8?fluxustv.m3u8
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https://iptv.live/images/logo/channel/smalls/3d7aea8f552c33e987eb82ed089e2516.png" group-title = "Sport", Pro X
-#EXTINF: -1 tvg-id = "" tvg-name = "ProTV News" tvg-logo = "https://i.imgur.com/Tx8sTbW.png" group-title = "", Știrile Pro TV
-http://vid.hls.protv.ro/protvnews/protvnews.m3u8?1
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https://i.imgur.com/iDDYzO5.png" group-title = "Sport", Pro X
-https://vid.hls.protv.ro/proxhdn/proxhd_high/index.m3u8?1
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = " http : // i0.1616.ro/media/2/2621/33347/18574712/12/profitro-vertical-al . png ? width = 300 "group-title =" ", Profit.ro
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = " https : // i.imgur.com/xM1dw57 .png" group-title = "", Profit.ro
-https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
-#EXTINF: -1 tvg-id = "" tvg-name = "ProTV News" tvg-logo = "https://vignette.wikia.nocookie.net/logopedia/images/5/56/Pro_TV_News_logo_2017.png/revision/ cel mai recent? cb = 20171005155753 "group-title =" ", Știrile ProTV
-http://vid.hls.protv.ro/protvnews/protvnews.m3u8?1
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https://upload.wikimedia.org/wikipedia/ro/d/d4/Zulogo.jpg" group-title = "" , Radio ZU
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https://i.imgur.com/UU1sNb3.jpg" group-title = "", Radio ZU
-https://e6.myovn.com/s1/cache/radiozu/playlist.m3u8
-#EXTINF: -1 tvg-id = "Realitatea TV RO" tvg-name = "Realitatea TV RO" tvg-logo = "https: // wp21-images-ro-dynamic.horizon.tv/RO/Logos/focused/ 38_10021_c_6bce87ba2ff5c640604d625ffe4e1264 .png "group-title =" ", Realitatea TV
-#EXTINF: -1 tvg-id = "Realitatea TV RO" tvg-name = "Realitatea TV RO" tvg-logo = "https: // i.imgur.com/dn1E2cE .png" group-title = "", Realitatea televizor
-http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https: // www.rockfm.ro/app/assets/layout/rock-logo-white .png" group-title = „Muzică”, Rock TV
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https: // i.imgur.com/IIbNOx6 .png" group-title = "Muzică", Rock TV
-http://46.20.136.59/live3/_definst_/rocktv/playlist.m3u8
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https: // www.somaxtv .com / wp-content / uploads / 2015/04 / logo_somax_t3 .png" group-title = "", TV Somax (Opt-1)
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https: // i.imgur .com / 3LdXQxm .png" group-title = "", Somax TV (Opt-1)
-http://webmobile.xdev.ro:81/tv12/playlist.m3u8
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https://i.imgur.com/3LdXQxm.png" group-title = "", Somax TV (Opt-2)
-http://webmobile.xdev.ro:81/tv12/playlist.m3u8?fluxustv.m3u8
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https://i.imgur.com/exdDHml.png" group-title = "", Speranta TV
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https://i.imgur.com/exdDHml.png" group-title = "", Speranta TV (Opt-1)
-http://amsix40.streamkit.tv/edge/_definst_/sperantatv_500/chunklist.m3u8
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "http://www.tezaurtv.ro/wp-content/uploads/2018/09/Tezaur-TV-online.jpg" group-title = "", Tezaur TV
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https://i.imgur.com/exdDHml.png" group-title = "", Speranta TV (Opt-2)
-http://telekomtv-ro.akamaized.net/shls/LIVE$SperantaTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https://i.imgur.com/1SapDQU.jpg" group-title = "", Tezaur TV
-http://86.125.216.66:1935/live/_definst_/tezaurtv/playlist.m3u8
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https: // iptv.live/images/logo/channel/smalls/7c8e496fe3c8465b4046cc1d768a2133 .png" group-title = "", Travel Amesteca
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https: // i.imgur.com/ppl3zRU .png" group-title = "", Travel Mix
-http://77.36.61.147/hls/channel1/adaptive.m3u8
-#EXTINF: -1 tvg-id = "TVR 1 RO" tvg-name = "TVR 1 RO" tvg-logo = "https://iptv.live/images/logo/channel/crops/30b4930c716885e45d6e7815bde19c6a.png" group- title = "", TVR 1 (Opt-1)
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https://i.imgur.com/0CbAlXu.png" group-title = "", TV CITY
-http://telekomtv-ro.akamaized.net/shls/LIVE$TVCITY/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF: -1 tvg-id = "TVR 1 RO" tvg-name = "TVR 1 RO" tvg-logo = "https://i.imgur.com/xyu1yKB.png" group-title = "", TVR 1 (Opt-1)
-http://mn-nl.mncdn.com/tvr_1/smil:TVR1.smil/playlist.m3u8
-#EXTINF: -1 tvg-id = "TVR 1 RO" tvg-name = "TVR 1 RO" tvg-logo = " http : // tvr1.tvr.ro/images/logo_main_tvr1 .png" group-title = "" , TVR 1 (Opt-2)
-#EXTINF: -1 tvg-id = "TVR 1 RO" tvg-name = "TVR 1 RO" tvg-logo = " https : // i.imgur.com/xyu1yKB .png" group-title = "", TVR 1 (Opt-2)
-http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
-#EXTINF: -1 tvg-id = "TVR 1 RO" tvg-name = "TVR 1 RO" tvg-logo = "https://i.imgur.com/ XSilDzX .png" group-title = "", TVR 1 (Opt-3)
-#EXTINF: -1 tvg-id = "TVR 1 RO" tvg-name = "TVR 1 RO" tvg-logo = "https://i.imgur.com/ xyu1yKB .png" group-title = "", TVR 1 (Opt-3)
-http://mn-nl.mncdn.com/tvr_1/smil:TVR1.smil/playlist.m3u8?fluxustv.m3u8
-#EXTINF: -1 tvg-id = "TVR 2 RO" tvg-name = "TVR 2 RO" tvg-logo = "https: // iptv.live/images/logo/channel/crops/c6d859baea548cc7e8ca08e876d0322e .png" group- title = "", TVR 2 (Opt-1)
-#EXTINF: -1 tvg-id = "TVR 2 RO" tvg-name = "TVR 2 RO" tvg-logo = "https: // i.imgur.com/pLDD3Qz .png" group-title = "", TVR 2 (Opt-1)
-http://mn-nl.mncdn.com/tvr_2/smil:TVR2.smil/playlist.m3u8
-#EXTINF: -1 tvg-id = "TVR 2 RO" tvg-name = "TVR 2 RO" tvg-logo = "https://i.imgur.com/ SMot2PE .png" group-title = "", TVR 2 (Opt-2)
-#EXTINF: -1 tvg-id = "TVR 2 RO" tvg-name = "TVR 2 RO" tvg-logo = "https://i.imgur.com/ pLDD3Qz .png" group-title = "", TVR 2 (Opt-2)
-http://mn-nl.mncdn.com/tvr_2/smil:TVR2.smil/playlist.m3u8?fluxustv.m3u8
-#EXTINF: -1 tvg-id = "TVR 3 RO" tvg-name = "TVR 3 RO" tvg-logo = "https://i.imgur.com/ dobeeMs .png" group-title = "", TVR 3 (Opt-1)
-#EXTINF: -1 tvg-id = "TVR 3 RO" tvg-name = "TVR 3 RO" tvg-logo = "https://i.imgur.com/ pb2nnKU .png" group-title = "", TVR 3 (Opt-1)
-http://mn-nl.mncdn.com/tvr_3/smil:TVR3.smil/playlist.m3u8?fluxustv.m3u8
-#EXTINF: -1 tvg-id = "TVR 3 RO" tvg-name = "TVR 3 RO" tvg-logo = "https: // iptv.live/images/logo/channel/smalls/859c1d753b0d0ed6d83ed0b03cdc2c23 .png" group- title = "", TVR 3 (Opt-2)
-#EXTINF: -1 tvg-id = "TVR 3 RO" tvg-name = "TVR 3 RO" tvg-logo = "https: // i.imgur.com/pb2nnKU .png" group-title = "", TVR 3 (Opt-2)
-http://mn-nl.mncdn.com/tvr_3/smil:TVR3.smil/playlist.m3u8
-#EXTINF: -1 tvg-id = "TVR 3 RO" tvg-name = "TVR 3 RO" tvg-logo = " http : // tvr3.tvr.ro/images/logo_main_tvr3 .png" group-title = "" , TVR 3 (Opt-3)
-#EXTINF: -1 tvg-id = "TVR 3 RO" tvg-name = "TVR 3 RO" tvg-logo = " https : // i.imgur.com/pb2nnKU .png" group-title = "", TVR 3 (Opt-3)
-http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
-#EXTINF: -1 tvg-id = "TVR Cluj RO" tvg-name = "TVR Cluj RO" tvg-logo = " http : // cluj.tvr.ro/images/logo_main_tvrcluj .png" group-title = "" , TVR Cluj (Opt-1)
-#EXTINF: -1 tvg-id = "TVR Cluj RO" tvg-name = "TVR Cluj RO" tvg-logo = " https : // i.imgur.com/2QPJrkY .png" group-title = "", TVR Cluj (Opt-1)
-http://89.136.209.26:1935/liveedge/TVRCLUJ.stream/playlist.m3u8
-#EXTINF: -1 tvg-id = "TVR Cluj RO" tvg-name = "TVR Cluj RO" tvg-logo = "https://i.imgur.com/ zFYfPjp .png" group-title = "", TVR Cluj (Opt-2)
-#EXTINF: -1 tvg-id = "TVR Cluj RO" tvg-name = "TVR Cluj RO" tvg-logo = "https://i.imgur.com/ 2QPJrkY .png" group-title = "", TVR Cluj (Opt-2)
-http://mn-nl.mncdn.com/tvr_moldova/smil:TVRCLUJ.smil/playlist.m3u8?fluxustv.m3u8
-#EXTINF: -1 tvg-id = "TVR Cluj RO" tvg-name = "TVR Cluj RO" tvg-logo = " http : // stvron. Com / canale / 512 / tvr-cluj .png" group-title = "", TVR Cluj (Opt-3)
-#EXTINF: -1 tvg-id = "TVR Cluj RO" tvg-name = "TVR Cluj RO" tvg-logo = " https : // i.imgur. Com / 2QPJrkY .png" group-title = "", TVR Cluj (Opt-3)
-http://mn-nl.mncdn.com/tvr_moldova/smil:TVRCLUJ.smil/chunklist_w720477026_b1200000.m3u8?__mn_sid=7215660395487330620
-#EXTINF: -1 tvg-id = "TVR Craiova RO" tvg-name = "TVR Craiova RO" tvg-logo = " http : // stvron. Com / canale / mari / tvr-craiova .png" group-title = "", TVR Craiova (Opt-1)
-#EXTINF: -1 tvg-id = "TVR Craiova RO" tvg-name = "TVR Craiova RO" tvg-logo = " https : // i.imgur. Com / zFYfPjp .png" group-title = "", TVR Craiova (Opt-1)
-http://mn-nl.mncdn.com/tvr_craiova/smil:TVRCRAIOVA.smil/chunklist_w570772822_b1200000.m3u8?__mn_sid=8512025290270500067
-#EXTINF: -1 tvg-id = "TVR Craiova RO" tvg-name = "TVR Craiova RO" tvg-logo = "https://i.imgur.com/zFYfPjp.png" group-title = "", TVR Craiova (Opt-2)
-http://mn-nl.mncdn.com/tvr_craiova/smil:TVRCRAIOVA.smil/playlist.m3u8?fluxustv.m3u8
-#EXTINF: -1 tvg-id = "TVR Craiova RO" tvg-name = "TVR Craiova RO" tvg-logo = " http : // craiova.tvr.ro/images/logo_main_tvrcraiova .png" group-title = "" , TVR Craiova (Opt-3)
-#EXTINF: -1 tvg-id = "TVR Craiova RO" tvg-name = "TVR Craiova RO" tvg-logo = " https : // i.imgur.com/zFYfPjp .png" group-title = "", TVR Craiova (Opt-3)
-http://89.136.209.26:1935/liveedge/TVRCRAIOVA.stream/playlist.m3u8
-#EXTINF: -1 tvg-id = "TVR HD RO" tvg-name = "TVR HD RO" tvg-logo = "https: // wp1-images-ro-dynamic.horizon.tv/RO/Logos/focused/ 38_10143_c_2fabd7ef29ff0e359820136f44886674 .png "group-title =" ", TVR HD (Opt-1)
-#EXTINF: -1 tvg-id = "TVR HD RO" tvg-name = "TVR HD RO" tvg-logo = "https: // i.imgur.com/ouVOW2q .png" group-title = "", TVR HD (Opt-1)
-http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
-#EXTINF: -1 tvg-id = "TVR HD RO" tvg-name = "TVR HD RO" tvg-logo = "https://i.imgur.com/ S4VBEgF .png" group-title = "", TVR HD (Opt-2)
-#EXTINF: -1 tvg-id = "TVR HD RO" tvg-name = "TVR HD RO" tvg-logo = "https://i.imgur.com/ ouVOW2q .png" group-title = "", TVR HD (Opt-2)
-http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8?fluxustv.m3u8
-#EXTINF: -1 tvg-id = "TVR Iasi RO" tvg-name = "TVR Iasi RO" tvg-logo = " http : // stvron. Com / canale / 512 / tvr-iasi .png" group-title = "", TVR Iași (Opt-1)
-#EXTINF: -1 tvg-id = "TVR Iasi RO" tvg-name = "TVR Iasi RO" tvg-logo = " https : // i.imgur. Com / zFYfPjp .png" group-title = "", TVR Iași (Opt-1)
-http://mn-nl.mncdn.com/tvr_iasi/smil:TVRIASI.smil/chunklist_w1257562025_b1200000.m3u8?__mn_sid=14755997706819151085
-#EXTINF: -1 tvg-id = "TVR Iasi RO" tvg-name = "TVR Iasi RO" tvg-logo = "https://i.imgur.com/zFYfPjp.png" group-title = "", TVR Iasi (Opt-2)
-http://mn-nl.mncdn.com/tvr_iasi/smil:TVRIASI.smil/playlist.m3u8?fluxustv.m3u8
-#EXTINF: -1 tvg-id = "TVR Iasi RO" tvg-name = "TVR Iasi RO" tvg-logo = " http : // iasi.tvr.ro/images/logo_main_tvriasi .png" group-title = "" , TVR Iași (Opt-3)
-#EXTINF: -1 tvg-id = "TVR Iasi RO" tvg-name = "TVR Iasi RO" tvg-logo = " https : // i.imgur.com/zFYfPjp .png" group-title = "", TVR Iasi (Opt-3)
-http://82.208.151.107:8088/high/tvriasi/index.m3u8
-#EXTINF: -1 tvg-id = "TVR International RO" tvg-name = "TVR International RO" tvg-logo = " http : // tvri.tvr.ro/images/logo_main_tvri .png" group-title = "" , TVR International
-#EXTINF: -1 tvg-id = "TVR International RO" tvg-name = "TVR International RO" tvg-logo = " https : // i.imgur.com/iuUsuit .png" group-title = "", TVR Internaţional
-http://89.136.209.33:1935/liveorigin/TVRI.stream/chunklist.m3u8
-#EXTINF: -1 tvg-id = "TVR Timișoara RO" tvg-name = "TVR Timișoara RO" tvg-logo = " http : // timisoara.tvr.ro/images/logo_main_tvrtimisoara .png" group-title = "" , TVR Timișoara
-#EXTINF: -1 tvg-id = "TVR Timișoara RO" tvg-name = "TVR Timișoara RO" tvg-logo = " https : // i.imgur.com/EA98bRr .png" group-title = "", TVR Timisoara
-http://89.136.209.26:1935/liveedge/TVRTIMISOARA.stream/playlist.m3u8
-#EXTINF: -1 tvg-id = "U TV RO" tvg-name = "U TV RO" tvg-logo = "https: // upload.wikimedia.org/wikipedia/ro/0/03/U-TV- HD .png "group-title =" Muzică ", UTV (Opt-1)
-#EXTINF: -1 tvg-id = "U TV RO" tvg-name = "U TV RO" tvg-logo = "https: // i.imgur.com/n0fNQkb .png" group-title = "Muzică", UTV (Opt-1)
-http://82.76.40.76:80/utvedge/utvlive/playlist.m3u8
-#EXTINF: -1 tvg-id = "U TV RO" tvg-name = "U TV RO" tvg-logo = "https: // wp26-images-ro-dynamic.horizon.tv/RO/Logos/focused/ 38_10147_c_aed9d99df5827b99be57d94840d28020 .png "group-title =" Muzică ", UTV (Opt-2)
-#EXTINF: -1 tvg-id = "U TV RO" tvg-name = "U TV RO" tvg-logo = "https: // i.imgur.com/n0fNQkb .png" group-title = "Muzică", UTV (Opt-2)
-http://81.196.0.126:80/utvedge/utvlive/index.m3u8
-#EXTINF: -1 tvg-id = "U TV RO" tvg-name = "U TV RO" tvg-logo = " http : // www.utv.ro/logo.jpg " group-title = "Muzică", UTV (Opt-3)
-#EXTINF: -1 tvg-id = "U TV RO" tvg-name = "U TV RO" tvg-logo = " https : // i.imgur.com/n0fNQkb.png " group-title = "Muzică", UTV (Opt-3)
-http://81.196.0.126/utvedge/utvlive/playlist.m3u8
-#EXTINF: -1 tvg-id = "U TV RO" tvg-name = "U TV RO" tvg-logo = "" group-title = "Muzică", UTV (Opt-4)
-#EXTINF: -1 tvg-id = "U TV RO" tvg-name = "U TV RO" tvg-logo = " https://i.imgur.com/n0fNQkb.png " group-title = "Muzică", UTV (Opt-4)
-http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8?iptvgratis?chile.m3u8
-#EXTINF: -1 tvg-id = "U TV RO" tvg-name = "U TV RO" tvg-logo = "https: // iptv.live/images/logo/channel/smalls/ca0e1766b1b8e6f4c78419eeb24ef5cb .png" group- title = "Muzică", UTV (Opt-5)
-#EXTINF: -1 tvg-id = "U TV RO" tvg-name = "U TV RO" tvg-logo = "https: // i.imgur.com/n0fNQkb .png" group-title = "Muzică", UTV (Opt-5)
-http://edge76.rcs-rds.ro/utvedge/utvlivehls/playlist.m3u8
-#EXTINF: -1 tvg-id = "U TV RO" tvg-name = "U TV RO" tvg-logo = "https: // vignette.wikia.nocookie.net/logopedia/images/8/85/Photo- 1467302546.jpg / revizie / cea mai recentă? Cb = 20160630160226 "group-title =" Muzică ", UTV (Opt-6)
-#EXTINF: -1 tvg-id = "U TV RO" tvg-name = "U TV RO" tvg-logo = "https: // i.imgur.com/n0fNQkb.png " group-title = "Muzică", UTV (Opt-6)
-http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8?GrupoTopIptv
+#EXTINF:#1 tvg-logo="  https://lh3.googleusercontent.com/wC0Y9BYziEOJIt-iYZPBM1lYLfVqg1nx1Rvt7Rtwe-nlxI7exDmtRlp9yPJyQvIAdLYw=w300",[COLOR blue]          ***      [/COLOR][COLOR yellow][B]      GENERALE    [/B][/COLOR][COLOR red]       ***[/COLOR]  
+http://0.0.0.0:12349
+"#EXTINF:#1  tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/08/Antena1_romania.png/revision/latest?cb=20150629191750" group-title="GENERALE",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR][B] Antena 1 [/B]
+sop://broker.sopcast.com:3912/151301"
+#EXTINF:#1  tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/08/Antena1_romania.png/revision/latest?cb=20150629191750" group-title="GENERALE",[COLOR orange]Serv.[/COLOR][COLOR blue]# 2[/COLOR][B] Antena 1 [/B]
+http://89.43.138.29/live/playlist13.m3u8
+#EXTINF:#1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/08/Antena1_romania.png/revision/latest?cb=20150629191750" group-title="GENERALE",[COLOR orange]Serv.[/COLOR][COLOR red]# 4[/COLOR][B] Antena 1 [/B]
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149257
+#EXTINF:#1  tvg-logo="http://www.logoeps.net/wp-content/uploads/2014/02/kanal_d.jpg" group-title="GENERALE",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR][B] Kanal D [/B]
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149258
+#EXTINF:#1 tvg-logo="http://www.nationaltv.ro/assets/img/logo-ntv.png" group-title="GENERALE",[COLOR orange]Serv.[/COLOR][COLOR green]#S1[/COLOR][B] National Tv [/B]
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/253030
+#EXTINF:#1  tvg-logo="http://ddee.ro/wp-content/uploads/2013/05/PrimaTV-Logo-inaaaalt.jpg" group-title="GENERALE",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR][B] Prima Tv [/B]
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/151610
+#EXTINF:#1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b5/Protv2016mare.jpg/revision/latest?cb=20160112150236" group-title="GENERALE",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR][B] Pro Tv [/B]
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149252
+#EXTINF:#1  tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b5/Protv2016mare.jpg/revision/latest?cb=20160112150236" group-title="GENERALE",[COLOR orange]Serv.[/COLOR][COLOR blue]# 2[/COLOR][B] Pro Tv [/B]
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/151380
+#EXTINF:#1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b5/Protv2016mare.jpg/revision/latest?cb=20160112150236" group-title="GENERALE",[COLOR orange]Serv.[/COLOR][COLOR red]# 3[/COLOR][B] Pro Tv (http)[/B]
+http://31.220.2.57:1935/live/_definst_/spstreamprotvx/playlist.m3u8?token=
+#EXTINF:#1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b5/Protv2016mare.jpg/revision/latest?cb=20160112150236" group-title="GENERALE",[COLOR orange]Serv.[/COLOR][COLOR white][B]# 4[/B][/COLOR][B] Pro Tv (rtmp)[/B]  
+rtmp://31.220.2.57:1935/live?token=/_definst_/spstreamprotvx
+#EXTINF:#1  tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/8/84/Pro_tv_hd_logo_2016_(deviantart_version).png/revision/latest?cb=20160621043632" group-title="GENERALE",[COLOR orange]Serv.[/COLOR][COLOR red][B]# 5[/B][/COLOR][B] Pro Tv HD [/B]
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149252
+#EXTINF:#1  tvg-logo="https://www.thematv.com/medias/channels/pro-tv-international/protv.jpg" group-title="GENERALE",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR][B] Pro TV International[/B]
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/90686
+#EXTINF:#1  tvg-logo="http://frr.ro/wp-content/uploads/2012/11/Desktop30.jpg" group-title="GENERALE",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR][B] Tvr 1[/B]
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148085
+#EXTINF:#1  tvg-logo="http://frr.ro/wp-content/uploads/2012/11/Desktop30.jpg" group-title="GENERALE",[COLOR orange]Serv.[/COLOR][COLOR blue]# 2[/COLOR][B] Tvr 1[/B]
+plugin://program.plexus/?mode=2&url=sop://151.80.76.190:3912/148085
+"#EXTINF:#1  tvg-logo="http://frr.ro/wp-content/uploads/2012/11/Desktop30.jpg" group-title="GENERALE",[COLOR orange]Serv.[/COLOR][COLOR green]# 4[/COLOR][B] Tvr 1[/B]
+http://89.163.148.31:8000/live/saban/saban/8276.ts"
+#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/7/7d/TVR# 2-Logo.svg/869px-TVR# 2-Logo.svg.png" group-title="GENERALE",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR][B]  Tvr 2[/B]
+http://89.163.148.31:8000/live/saban/saban/8277.ts
+#EXTINF:#1  tvg-logo="http://antenastars.ro/templates/default/img/logo-astars.png" group-title="GENERALE",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR][B] Antena Stars[/B]
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148255
+"#EXTINF:#1  tvg-logo="http://itutorial.ro/wp-content/uploads/2014/05/Euforia_Logo_fara_sloganCMYK-01_11d4cf8b9b.jpg" group-title="GENERALE",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR][B] Euforia[/B]
+ 
+#EXTINF:#1  tvg-logo="http://www.paginademedia.ro/wp-content/uploads/2016/03/happy_tb730_tb730.jpg" group-title="GENERALE",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR][B] Happi[/B]
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/253473
+#EXTINF:#1  tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/6/66/B1TV#1-.png/revision/latest?cb=20150801160913" group-title="GENERALE",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR][B] B1 Tv [/B]
+sop://broker.sopcast.com:3912/148087
+#EXTINF:#1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/6/66/B1TV#1-.png/revision/latest?cb=20150801160913" group-title="GENERALE",[COLOR orange]Serv.[/COLOR][COLOR red]# 3[/COLOR][B] B1 Tv [/B]  
+http://89.163.148.31:8000/live/saban/saban/8248.ts
+#EXTINF:#1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/3/38/Digi_life_ro.png/revision/latest?cb=20130717184115" group-title="GENERALE",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR][B] DIGI LIFE[/B]
+http://89.163.148.31:8000/live/saban/saban/8251.ts
+ 
+ 
+#EXTINF:#1 tvg-logo="https://yt3.ggpht.com/-D_Dt4745g04/AAAAAAAAAAI/AAAAAAAAAAA/WDvmapj0Lic/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",[COLOR blue]          ***      [/COLOR][COLOR yellow][B]      MUZICA    [/B][/COLOR][COLOR red]       ***[/COLOR]  
+http://0.0.0.0:12348
+#EXTINF:#1 tvg-logo="http://zutv.ro/templates/default/img/biglogo.png" group-title="MUZICA",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR][B] Zu Tv [/B]
+sop://broker.sopcast.com:3912/148252
+#EXTINF:#1 tvg-logo="http://www.livestream.com/filestore/logos/3b2fdfc1-ca40# 52ca-d7b9-dde430b43d96-banner.jpg" group-title="MUZICA",[COLOR orange]Serv.[/COLOR][COLOR green]# 4[/COLOR][B] Kiss TV [/B]
+http://fms75.mediadirect.ro:1937/live3/_definst_/kiss_low/playlist.m3u8?publisher=83&token=7bdb215d44e8244dbc593adece3c7a3eba57b54ba410258f
+"#EXTINF:#1 tvg-logo="http://www.livestream.com/filestore/logos/3b2fdfc1-ca40# 52ca-d7b9-dde430b43d96-banner.jpg" group-title="MUZICA",[COLOR orange]Serv.[/COLOR][COLOR green]# 4[/COLOR][B] Kiss TV [/B]
+"sop://broker.sopcast.com:3912/148883
+#EXTINF:#1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0c/U_tv.png/revision/latest?cb=20140724130200" group-title="MUZICA",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR][B] U TV[/B]
+http://81.196.0.126:80/utvedge/utvlivehls/index.m3u8
+"#EXTINF:#1  tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0c/U_tv.png/revision/latest?cb=20140724130200" group-title="MUZICA",[COLOR orange]Serv.[/COLOR][COLOR blue]# 2[/COLOR][B] U TV[/B]
+sop://broker.sopcast.com:3912/256332"
+"#EXTINF:#1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0c/U_tv.png/revision/latest?cb=20140724130200" group-title="MUZICA",[COLOR orange]Serv.[/COLOR][COLOR green]# 4[/COLOR][B] U TV[/B]
+acestream://14df6a45433ba386e132fa36ee9d7c164a5f4a3e  "
+#EXTINF:#1  tvg-logo="http://iamericaa.com/wp-content/uploads/2016/04/zatom.png" group-title="MUZICA",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR][B] Atomic TV[/B]
+http://5.154.185.153/hls/live.m3u8
+"#EXTINF:#1  tvg-logo="http://www.livetvswatch.com/uploads/1-music-channel-tv-live-from-romania#1446180705.jpg" group-title="MUZICA",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR][B] 1 Music Channel[/B]
+"http://ichunk.livestream.com/212.94/livestreamiphone/1_music_channel-musicchannel000020161101#165124_446/chunklist.m3u8?wowzasessionid=1500628962
+"#EXTINF:#1  tvg-logo="http://www.livetvswatch.com/uploads/1-music-channel-tv-live-from-romania#1446180705.jpg" group-title="MUZICA",[COLOR orange]Serv.[/COLOR][COLOR blue]# 2[/COLOR][B] 1 Music Channel[/B]
+"http://82.76.40.81/digiedge2/musicchannelehq/index.m3u8?is=25&src=digi-online.ro&t=00000000000000000000000000000000
+"#EXTINF:#1  tvg-logo="http://www.djing.com/img/facebook.png" group-title="MUZICA",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] DJing Tv
+"http://www.djing.com/tv/noaudio_RO.m3u8
+"#EXTINF:#1  tvg-logo="http://4.bp.blogspot.com/-DC1wn7qRhoI/VLllUPC-NlI/AAAAAAAAAM4/yGuu40xYGTU/s1600/taraftv.png" group-title="MUZICA",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR][B] Taraf TV [/B]
+"sop://broker.sopcast.com:3912/148250
+#EXTINF:#1 tvg-logo="http://www.invictory.com/public/pictures/news/16/15509/l3457692703c1bb81e85873494e8182651302701031.jpg" group-title="MUZICA",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR][B] Impact TV[/B]
+sop://broker.sopcast.com:3912/108790
+"#EXTINF:#1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/favorit_tv_ro.png" group-title="MUZICA",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR][B] Favorit Tv[/B]
+"http://fms75.mediadirect.ro:1937/live3/_definst_/favorit_low/playlist.m3u8?publisher=17&token=ec96ccac98c273d1d6838e150a388e0b9730642a44f61923
+ 
+#EXTINF:#1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAYV4Dm-YxpHIFgUIUHEQ15duuczTDtgichYQArF1k_oAu7hg_mg",[COLOR blue]          ***      [/COLOR][COLOR yellow][B]      FILME    [/B][/COLOR][COLOR red]       ***[/COLOR]  
+http://0.0.0.0:1234
+#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/Acasa_TV.png" group-title="FILME",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Acasa TV
+sop://broker.sopcast.com:3912/149256
+#EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/9/92/Logo-acasa-gold-high-rez.png/revision/latest?cb=20130310160556" group-title="FILME",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Acasa Gold
+sop://broker.sopcast.com:3912/253471
+#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="FILME",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Axn
+sop://broker.sopcast.com:3912/253035
+#EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/logosfake/images/e/e6/AXN_Black_logo.png/revision/20140311161504" group-title="FILME",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Axn Black
+sop://broker.sopcast.com:3912/149261
+#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/AXN_White_Logo.png" group-title="FILME",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Axn White
+sop://broker.sopcast.com:3912/149262
+"#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png" group-title="FILME",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Cinemax
+"sop://broker.sopcast.com:3912/148882
+#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Digi_Film.png" group-title="FILME",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Digi Film
+sop://broker.sopcast.com:3912/149253
+#EXTINF:#1 tvg-logo="https://pbs.twimg.com/media/CcDZKY_XIAA775w.png" group-title="FILME",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Diva
+sop://151.80.76.190:3912/253034
+#EXTINF:#1  tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/e6/Diva_Universal.png/revision/latest?cb=20101001090312" group-title="FILME",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Diva Universal
+sop://broker.sopcast.com:3912/253034
+#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Filmbox_pl.png" group-title="FILME",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Filmbox
+sop://broker.sopcast.com:3912/148981
+#EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/b/bf/Film_cafe_hu.png/revision/latest?cb=20130104060038" group-title="FILME",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Filmcafe
+sop://broker.sopcast.com:3912/256238
+#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2000px-HBO_logo.svg.png" group-title="FILME",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Hbo
+sop://broker.sopcast.com:3912/259497
+#EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/doblaje/images/3/3b/HBO2_logo.png/revision/latest?cb=20160102183730&path-prefix=es" group-title="FILME",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Hbo 2
+sop://broker.sopcast.com:3912/149259
+#EXTINF:#1  tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c9/HBO_3_1995.png/revision/latest?cb=20110911221502" group-title="FILME",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Hbo 3
+sop://broker.sopcast.com:3912/149255
+#EXTINF:#1  tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c9/HBO_3_1995.png/revision/latest?cb=20110911221502" group-title="FILME",[COLOR orange]Serv.[/COLOR][COLOR blue]# 2[/COLOR] Hbo 3
+http://89.163.148.31:8000/live/saban/saban/8262.ts
+#EXTINF:#1  tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/hbo_comedy_ro.png" group-title="FILME",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] HBO Comedy
+sop://broker.sopcast.com:3912/74845
+#EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/d9/Paramount_1988_Communications.png/revision/latest?cb=20121103012803" group-title="FILME",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Paramount
+sop://broker.sopcast.com:3912/253033
+#EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/7/7d/Pro_Cinema_Logo.jpg/revision/latest?cb=20130329130700" group-title="FILME",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Pro Cinema
+sop://broker.sopcast.com:3912/148249
+#EXTINF:#1  tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/2/25/TV1000_logo_2009.png/revision/latest?cb=20101226153307" group-title="FILME",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR]Tv1000
+sop://broker.sopcast.com:3912/256337
+#EXTINF:#1  tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/2/25/TV1000_logo_2009.png/revision/latest?cb=20101226153307" group-title="FILME", [COLOR orange]Serv.[/COLOR][COLOR blue]# 2[/COLOR] Tv1000
+http://89.163.148.31:8000/live/saban/saban/8275.ts
+ 
+#EXTINF:#1 tvg-logo="http://kutuphane.balikesir.edu.tr/img/belgesel.png",[COLOR blue]          ***      [/COLOR][COLOR yellow][B]      DOCUMENTARE    [/B][/COLOR][COLOR red]       ***[/COLOR]  
+http://0.0.0.0:12345
+#EXTINF:#1  tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/3/39/BBC_Earth_Alternate_Logo.png/revision/latest?cb=20151111053742" group-title="DOCUMENTARE",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Bbc Earth
+sop://broker.sopcast.com:3912/148257
+#EXTINF:#1  tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/2/21/Digi_world_ro.png/revision/latest?cb=20130717184621" group-title="DOCUMENTARE",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Digi World
+sop://broker.sopcast.com:3912/148260
+#EXTINF:#1  tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/2/21/Digi_world_ro.png/revision/latest?cb=20130717184621" group-title="DOCUMENTARE",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Digi World
+http://89.163.148.31:8000/live/saban/saban/8256.ts
+#EXTINF:#1  tvg-logo="https://cf.press.discovery.com/ugc/logos/2009/08/22/DSC_pos.png" group-title="DOCUMENTARE",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Discovery Channel
+sop://broker.sopcast.com:3912/256241
+#EXTINF:#1  tvg-logo="http://vignette3.wikia.nocookie.net/tvcable/images/a/ac/Investigation_Discovery.png/revision/latest?cb=20140409022854&path-prefix=es" group-title="DOCUMENTARE",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Discovery Id
+sop://broker.sopcast.com:3912/256244
+#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Discovery_Science_Canada_2011.PNG" group-title="DOCUMENTARE",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Discovery Science
+sop://broker.sopcast.com:3912/256243
+#EXTINF:#1  tvg-logo="http://vignette1.wikia.nocookie.net/indianajones/images/e/e3/History_channel_logo.png/revision/latest?cb=20100624030706" group-title="DOCUMENTARE",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] History Channel
+sop://broker.sopcast.com:3912/253032
+#EXTINF:#1  tvg-logo="http://vignette1.wikia.nocookie.net/indianajones/images/e/e3/History_channel_logo.png/revision/latest?cb=20100624030706" group-title="DOCUMENTARE",[COLOR orange]Serv.[/COLOR][COLOR blue]# 2[/COLOR] History Channel
+http://89.163.148.31:8000/live/saban/saban/8263.ts
+#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="DOCUMENTARE",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Nat Geo Wild
+sop://broker.sopcast.com:3912/253037
+#EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/f/ff/National_Geographic_Society.png/revision/latest?cb=20100927231400" group-title="DOCUMENTARE",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] National Geographic
+sop://broker.sopcast.com:3912/148248
+#EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/f/ff/National_Geographic_Society.png/revision/latest?cb=20100927231400" group-title="DOCUMENTARE",[COLOR orange]Serv.[/COLOR][COLOR blue]# 2[/COLOR] National Geographic
+http://89.163.148.31:8000/live/saban/saban/8268.ts
+ 
+#EXTINF:#1 tvg-logo="http://www.desene-animate.com/wp-content/uploads/2016/02/logo.png",[COLOR blue]    ***      [/COLOR][COLOR yellow][B]    Desene [/B][/COLOR][COLOR pink][B] Animate[/B][/COLOR][COLOR red]     ***    [/COLOR]
+http://0.0.0.0:12347
+#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="Desene Animate",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Boomerang  
+sop://broker.sopcast.com:3912/149264
+#EXTINF:#1  tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/1/1a/301px-Cartoon_Network_2004.svg.png/revision/latest?cb=20140721162109" group-title="Desene Animate",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Cartoon Network
+sop://broker.sopcast.com:3912/148254
+#EXTINF:#1 " tvg-logo="http://www.forbes.ro/wp-content/uploads/2014/07/Disney-Channel.jpg" group-title="Desene Animate",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Disney Channel
+sop://broker.sopcast.com:3912/253031
+#EXTINF:#1  tvg-logo="http://www.forbes.ro/wp-content/uploads/2014/07/Disney-Channel.jpg" group-title="Desene Animate",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Disney Channel
+sop://151.80.76.190:3912/253031
+#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Disney_Junior_Logo.png" group-title="Desene Animate",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Disney Junior
+sop://broker.sopcast.com:3912/256239
+#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Disney_Junior_Logo.png" group-title="Desene Animate",[COLOR orange]Serv.[/COLOR][COLOR blue]# 2[/COLOR] Disney Junior [
+http://89.163.148.31:8000/live/saban/saban/8257.ts
+#EXTINF:#1 tvg-logo="https://yt3.ggpht.com/-dR4Y8zCj64I/AAAAAAAAAAI/AAAAAAAAAAA/FKjacrrD_sc/s900-c-k-no-rj-c0xffffff/photo.jpg" group-title="Desene Animate",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Duck Tv
+sop://broker.sopcast.com:3912/148259
+#EXTINF:#1 tvg-logo="https://upload.wikimedia.org/wikipedia/ro/d/d6/268453-logo-megamax.jpg" group-title="Desene Animate",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Megamax Tv
+sop://broker.sopcast.com:3912/256328
+#EXTINF:#1 tvg-logo="https://upload.wikimedia.org/wikipedia/ro/d/d6/268453-logo-megamax.jpg" group-title="Desene Animate",[COLOR orange]Serv.[/COLOR][COLOR blue]# 2[/COLOR] Megamax Tv
+http://89.163.148.31:8000/live/saban/saban/8265.ts
+#EXTINF:#1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/minimax_ro1.png" group-title="Desene Animate",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Minimax
+sop://broker.sopcast.com:3912/148263
+#EXTINF:#1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/minimax_ro1.png" group-title="Desene Animate",[COLOR orange]Serv.[/COLOR][COLOR blue]# 2[/COLOR] Minimax
+http://89.163.148.31:8000/live/saban/saban/8266.ts
+#EXTINF:#1 tvg-logo="http://tvron.net/static/canal/nickelodeon.png" group-title="Desene Animate",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Nickelodeon
+sop://broker.sopcast.com:3912/253472
+ 
+#EXTINF:#1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logo_Sport.svg/1280px-Logo_Sport.svg.png",[COLOR blue]          ***      [/COLOR][COLOR yellow][B]      SPORT       [/B][/COLOR][COLOR red]       ***[/COLOR]  
+http://0.0.0.0:12346
+"#EXTINF:#1  tvg-logo="http://4.bp.blogspot.com/-UtjsvYBOnPk/VeKHlbGqcDI/AAAAAAAADlo/Besf8ug4LI0/s1600/canalplus%2BHD%2BLiga.png" group-title="SPORT",Canal + Hd Liga
+sop://broker.sopcast.com:3912/258921"
+#EXTINF:#1  tvg-logo="http://free-itv.com/wp-content/uploads/2013/08/DOLCE-SPORT-live.jpeg" group-title="SPORT",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Dolce Sport 2
+sop://broker.sopcast.com:3912/258991
+#EXTINF:#1  tvg-logo="http://1.bp.blogspot.com/-yUiUFeeseA4/Vk9qU0Fej9I/AAAAAAAAAok/QWXSDNXYXi4/s1600/digisport1.png" group-title="SPORT",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Digi Sport 1
+sop://broker.sopcast.com:3912/148886
+#EXTINF:#1  tvg-logo="http://cdn.nicobenz.com/2016/08/09/digi-sport# 2-live-sop-tv-sop-live-tv-sop-romania.png" group-title="SPORT",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Digi Sport 2
+sop://broker.sopcast.com:3912/146137
+#EXTINF:#1  tvg-logo="http://cdn.nicobenz.com/2016/08/09/digi-sport# 2-live-sop-tv-sop-live-tv-sop-romania.png" group-title="SPORT",[COLOR orange]Serv.[/COLOR][COLOR blue]# 2[/COLOR] Digi Sport 2  
+http://89.163.148.31:8000/live/saban/saban/8253.ts
+#EXTINF:#1  tvg-logo="http://www.frocus.net/images/logotv/original/digi-sport# 4-sk.jpg" group-title="SPORT",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Digi Sport 3
+sop://broker.sopcast.com:3912/144752
+#EXTINF:#1  tvg-logo="http://www.frocus.net/images/logotv/original/digi-sport# 4-sk.jpg" group-title="SPORT",[COLOR orange]Serv.[/COLOR][COLOR blue]# 2[/COLOR] Digi Sport 3  
+http://89.163.148.31:8000/live/saban/saban/8254.ts
+#EXTINF:#1  tvg-logo="http://oklivetv.com/wp-content/uploads/media/a269f18cae49989792ef2d8e873b18db.jpeg" group-title="SPORT",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Digi Sport 4  
+http://89.163.148.31:8000/live/saban/saban/8255.ts
+#EXTINF:#1  tvg-logo="http://free-itv.com/wp-content/uploads/2013/08/Dolce_Sport_HD.jpg" group-title="SPORT",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Dolce Tv  
+sop://broker.sopcast.com:3912/256341
+#EXTINF:#1  tvg-logo="http://latelete.tv/img/foxsports2.png" group-title="SPORT",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Fox Sports 2
+sop://124.232.150.188:3920/5730
+#EXTINF:#1  tvg-logo="http://lh6.googleusercontent.com/-hU13BnqZ2lE/UgWEyRdj_SI/AAAAAAAABN0/JfVIlRTSc9c/h230/eurosport+live.png" group-title="SPORT",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Eurosport
+sop://broker.sopcast.com:3912/145596
+#EXTINF:#1  tvg-logo="http://lh6.googleusercontent.com/-hU13BnqZ2lE/UgWEyRdj_SI/AAAAAAAABN0/JfVIlRTSc9c/h230/eurosport+live.png" group-title="SPORT",[COLOR orange]Serv.[/COLOR][COLOR blue]# 2[/COLOR] Eurosport
+http://89.163.148.31:8000/live/saban/saban/8260.ts
+#EXTINF:#1  tvg-logo="https://lh5.googleusercontent.com/-e393ZEo6prI/UgWF2uAJV7I/AAAAAAAABOE/O46JvRFvjus/h250/eurosport+2+live.png" group-title="SPORT",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Eurosport 2
+sop://broker.sopcast.com:3912/124991
+#EXTINF:#1  tvg-logo="https://lh5.googleusercontent.com/-e393ZEo6prI/UgWF2uAJV7I/AAAAAAAABOE/O46JvRFvjus/h250/eurosport+2+live.png" group-title="SPORT",[COLOR orange]Serv.[/COLOR][COLOR blue]# 2[/COLOR] Eurosport 2  
+http://89.163.148.31:8000/live/saban/saban/8261.ts
+ 
+ 
+ 
+#EXTINF:#1 tvg-logo="http://www.diseara.ro/images/conv/1522_0_1.jpg",[COLOR blue]          ***      [/COLOR][COLOR yellow][B]      STIRI       [/B][/COLOR][COLOR red]       ***[/COLOR]  
+http://0.0.0.0:123410
+#EXTINF:#1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1e/Antena3.png" group-title="STIRI",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Antena 3
+sop://broker.sopcast.com:3912/148084
+#EXTINF:#1 tvg-logo="http://media.realitatea.net/multimedia/image/201110/oar_full/logo_realitatea_urias_mare_32018600_01985700.jpg" group-title="STIRI",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Realitatea Tv
+sop://broker.sopcast.com:3912/253036
+#EXTINF:#1 tvg-logo="http://media.realitatea.net/multimedia/image/201110/oar_full/logo_realitatea_urias_mare_32018600_01985700.jpg" group-title="STIRI",[COLOR orange]Serv.[/COLOR][COLOR blue]# 2[/COLOR] Realitatea Tv
+http://89.163.148.31:8000/live/saban/saban/8272.ts
+#EXTINF:#1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/romania_tv_ro.png" group-title="STIRI",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Romania Tv
+sop://broker.sopcast.com:3912/148258
+#EXTINF:#1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/romania_tv_ro.png" group-title="STIRI",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Romania Tv
+http://89.163.148.31:8000/live/saban/saban/8273.ts
+#EXTINF:#1 tvg-logo="http://www.digi24.ro/static/theme#1616-repo/dist/assets/imgs/digi24.ro-logo.png" group-title="STIRI",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] DIGI 24
+http://89.163.148.31:8000/live/saban/saban/8273.ts
