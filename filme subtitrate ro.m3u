@@ -1,5 +1,4 @@
 #EXTINF: # 1 tvg-logo = "http://kutuphane.balikesir.edu.tr/img/belgesel.png", [COLOR COLOR] *** [/ COLOR] [COLOR roșu] [B] FILME SUBTITRATE [/ B] [/ COLOR] [COLOR roșu] *** [/ COLOR]  
 http://0.0.0.0:12345
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.filmdrive21.com/wp-content/uploads/2020/01/i8QWXu6dGuTKKerJtnd0A4lUpbv-60x90.jpg" group-title="NETIZEN | CINEMA",Terminator "Dark Fate" (2019)
-#EXTVLCOPT:network-caching=1000
 https://cloud2.videomega.co/cdn/176.31.126.40//freeload/5e1daae181507/97d5c7309592e6342d7012a3ac7e2f95?md5=LH8-HtLsEQpTNpz8BY6BMw&expires=1580834992&files=4b112a235905476f7afa0ce566288de7.mp4
