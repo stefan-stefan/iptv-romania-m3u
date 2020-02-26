@@ -1,21 +1,71 @@
 #EXTM3U
-#EXTINF:-1,Babestation 1
-http://publish2.firestormmedia.tv:1935/ingest_cellcast/livestream1/playlist.m3u8
- 
-#EXTINF:-1,Babestation 2
-http://publish2.firestormmedia.tv:1935/ingest_cellcast//livestream_two1/playlist.m3u8
- 
-#EXTINF:-1,Babestation 3
-http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder21/playlist.m3u8
- 
-#EXTINF:-1,Babestation 4
-http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder31/playlist.m3u8
- 
-#EXTINF:-1,Babestation 5
-http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder51/playlist.m3u8
- 
-#EXTINF:-1,Babestation 6
-http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder71/playlist.m3u8
- 
-#EXTINF:-1,Visit-X
-http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8
+#EXTINF:-1,Filme 01
+http://tv.minhalista.me:80/548548/548548/63119
+#EXTINF:-1,Filme 02
+http://tv.minhalista.me:80/548548/548548/63120
+#EXTINF:-1,Filme 03
+http://tv.minhalista.me:80/548548/548548/63121
+#EXTINF:-1,Filme 04
+http://tv.minhalista.me:80/548548/548548/63122
+#EXTINF:-1,Filme 05
+http://tv.minhalista.me:80/548548/548548/63123
+#EXTINF:-1,Filme 06
+http://tv.minhalista.me:80/548548/548548/63124
+#EXTINF:-1,Filme 07
+http://tv.minhalista.me:80/548548/548548/63125
+#EXTINF:-1,Filme 08
+http://tv.minhalista.me:80/548548/548548/63126
+#EXTINF:-1,Filme 09
+http://tv.minhalista.me:80/548548/548548/63127
+#EXTINF:-1,Filme 10
+http://tv.minhalista.me:80/548548/548548/63128
+#EXTINF:-1,Filme 11
+http://tv.minhalista.me:80/548548/548548/63129
+#EXTINF:-1,Filme 12
+http://tv.minhalista.me:80/548548/548548/63130
+#EXTINF:-1,Filme 13
+http://tv.minhalista.me:80/548548/548548/63131
+#EXTINF:-1,Filme 14
+http://tv.minhalista.me:80/548548/548548/63132
+#EXTINF:-1,Filme 15
+http://tv.minhalista.me:80/548548/548548/63133
+#EXTINF:-1,Filme 16
+http://tv.minhalista.me:80/548548/548548/63134
+#EXTINF:-1,Filme 17
+http://tv.minhalista.me:80/548548/548548/63135
+#EXTINF:-1,Filme 18
+http://tv.minhalista.me:80/548548/548548/63136
+#EXTINF:-1,Filme 19
+http://tv.minhalista.me:80/548548/548548/63137
+#EXTINF:-1,Filme 20
+http://tv.minhalista.me:80/548548/548548/63138
+#EXTINF:-1,Filme 21
+http://tv.minhalista.me:80/548548/548548/63139
+#EXTINF:-1,Filme 22
+http://tv.minhalista.me:80/548548/548548/63140
+#EXTINF:-1,Filme 23
+http://tv.minhalista.me:80/548548/548548/63141
+#EXTINF:-1,Filme 24
+http://tv.minhalista.me:80/548548/548548/63142
+#EXTINF:-1,Filme 25
+http://tv.minhalista.me:80/548548/548548/63143
+#EXTINF:-1,Filme 26
+http://tv.minhalista.me:80/548548/548548/63144
+#EXTINF:-1,Filme 27
+http://tv.minhalista.me:80/548548/548548/63145
+#EXTINF:-1,Filme 28
+http://tv.minhalista.me:80/548548/548548/63146
+#EXTINF:-1,Filme 29
+http://tv.minhalista.me:80/548548/548548/63147
+#EXTINF:-1,Filme 30
+http://tv.minhalista.me:80/548548/548548/63148
+#EXTINF:-1,Filme 31
+http://tv.minhalista.me:80/548548/548548/63149
+#EXTINF:-1,Filme 32
+http://tv.minhalista.me:80/548548/548548/63150
+#EXTINF:-1,Filme 33
+http://tv.minhalista.me:80/548548/548548/63151
+#EXTINF:-1,Filme 34
+http://tv.minhalista.me:80/548548/548548/63152
+#EXTINF:-1,Filme 35
+http://tv.minhalista.me:80/548548/548548/63153
