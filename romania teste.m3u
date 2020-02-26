@@ -1,7 +1,7 @@
 # EXTM3U x-tvg-url = "http://195.154.221.171/epg/guideromania.xml.gz"
 #EXTINF: -1 tvg-id = "" tvg-name = "Music Channel" tvg-logo = "https: // iptv.live/images/logo/channel/smalls/025fef3f53d612aee7f64a663fcdda9b .png" group-title = "Music ", 1 canal de muzică
 #EXTINF: -1 tvg-id = "" tvg-name = "Music Channel" tvg-logo = "https: // i.imgur.com/PRgvj4c .png" group-title = "Muzică", 1 canal de muzică
-https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
+http://019-163.sport365.tech:33911/ms/5015b1704b8931dd83881cc694a8e6c4a43828e3100e98906f4401bacb950533aedafa1bc4aaf662f2d49b771d68f3325b5c126facf1d6f583e3fa2f5d6e24c8c5095a3c0b5a9c82bcf73365a4dc9d0d1c8a47fa332da8ab5413496448a44045fb1b9abc071f8c53/b7e20aaf69567e0c746cfe3bee8bea83/cUPqjCb254rj3V7fvrbfp91mn3Bchfy2/.0.m3u8?sid=a6415cdb38f378c6bc49eee9f7efb296&rid=5e56b653d1536
 #EXTINF: -1 tvg-id = "" tvg-name = "6 TV" tvg-logo = "https: // new.6tv.ro/wp-content/uploads/2017/08/6tv_logo .png" group- title = "", 6 TV
 #EXTINF: -1 tvg-id = "" tvg-name = "6 TV" tvg-logo = "https: // i.imgur.com/f5Ddkx2 .png" group-title = "", 6 TV (Opt- 1)
 https://stream.chrominance.ro/enescu/encoder1/playlist.m3u8
