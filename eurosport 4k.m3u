@@ -1,0 +1,154 @@
+﻿#EXTM3U 
+#EXTINF:-1,EUROSPORT 4K
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2
+#EXTINF:-1,EUROSPORT 4K  /  -1
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1,EUROSPORT 4K  /  -2
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1,EUROSPORT 4K  /  -3
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1,EUROSPORT 4K  /  -4
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1,EUROSPORT 4K  /  -5
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1,EUROSPORT 4K  /  -6
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1,EUROSPORT 4K  /  -7
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-25200
+#EXTINF:-1,EUROSPORT 4K  /  -8
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-28800
+#EXTINF:-1,EUROSPORT 4K  /  -9
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-32400
+#EXTINF:-1,EUROSPORT 4K  / -10
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-36000
+#EXTINF:-1,EUROSPORT 4K  / -11
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-39600
+#EXTINF:-1,EUROSPORT 4K  / -12
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-43200
+#EXTINF:-1,EUROSPORT 4K  / -13
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-46800
+#EXTINF:-1,EUROSPORT 4K  / -14
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-50400
+#EXTINF:-1,EUROSPORT 4K  / -15
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-54000
+#EXTINF:-1,EUROSPORT 4K  / -16
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-57600
+#EXTINF:-1,EUROSPORT 4K  / -17
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-61200
+#EXTINF:-1,EUROSPORT 4K  / -18
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-64800
+#EXTINF:-1,EUROSPORT 4K  / -19
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-68400
+#EXTINF:-1,EUROSPORT 4K  / -20
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-72000
+#EXTINF:-1,EUROSPORT 4K  / -21
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-75600
+#EXTINF:-1,EUROSPORT 4K  / -22
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-79200
+#EXTINF:-1,EUROSPORT 4K  / -23
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-82800
+#EXTINF:-1,EUROSPORT 4K  / -24
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-86400
+#EXTINF:-1,EUROSPORT 4K  / -25
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-90000
+#EXTINF:-1,EUROSPORT 4K  / -26
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-93600
+#EXTINF:-1,EUROSPORT 4K  / -27
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-97200
+#EXTINF:-1,EUROSPORT 4K  / -28
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-100800
+#EXTINF:-1,EUROSPORT 4K  / -29
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-104400
+#EXTINF:-1,EUROSPORT 4K  / -30
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-108000
+#EXTINF:-1,EUROSPORT 4K  / -31
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-111600
+#EXTINF:-1,EUROSPORT 4K  / -32
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-115200
+#EXTINF:-1,EUROSPORT 4K  / -33
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-118800
+#EXTINF:-1,EUROSPORT 4K  / -34
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-122400
+#EXTINF:-1,EUROSPORT 4K  / -35
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-126000
+#EXTINF:-1,EUROSPORT 4K  / -36
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-129600
+#EXTINF:-1,EUROSPORT 4K  / -37
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-133200
+#EXTINF:-1,EUROSPORT 4K  / -38
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-136800
+#EXTINF:-1,EUROSPORT 4K  / -39
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-140400
+#EXTINF:-1,EUROSPORT 4K  / -40
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-144000
+#EXTINF:-1,EUROSPORT 4K  / -41
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-147600
+#EXTINF:-1,EUROSPORT 4K  / -42
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-151200
+#EXTINF:-1,EUROSPORT 4K  / -43
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-154800
+#EXTINF:-1,EUROSPORT 4K  / -44
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-158400
+#EXTINF:-1,EUROSPORT 4K  / -45
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-162000
+#EXTINF:-1,EUROSPORT 4K  / -46
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-165600
+#EXTINF:-1,EUROSPORT 4K  / -47
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-169200
+#EXTINF:-1,EUROSPORT 4K  / -48
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-172800
+#EXTINF:-1,EUROSPORT 4K  / -49
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-176400
+#EXTINF:-1,EUROSPORT 4K  / -50
+#EXTVLCOPT:http-user-agent=rostelecom
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-180000
