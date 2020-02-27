@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:1231,How to Make a Kodi Addon With Jen Template
+#EXTVLCOPT:network-caching=1000
+https://r8---sn-gvhuxax-cc0e7.googlevideo.com/videoplayback?expire=1582854606&ei=bh1YXt6sGo3B-ga-66aYAQ&ip=89.123.208.194&id=o-ABnu0_AFXy7Fx6H0AA26jWkjNxZ0TrUYMLq5lyBhGmdh&itag=244&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-gvhuxax-cc0e7%2Csn-4g5e6ney&ms=au%2Crdu&mv=m&mvi=7&pl=24&initcwndbps=782500&vprv=1&mime=video%2Fwebm&gir=yes&clen=20123002&dur=1231.363&lmt=1510467334967403&mt=1582832743&fvip=2&keepalive=yes&fexp=23842630&c=web&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=ALgxI2wwRgIhAPhYIhULPPzotPBlrYsTGxKzB_858bT0nVGG8dE91ji5AiEAnDppboL6DWzV0fhTV39MkCwlBPhIDfA-TdoR0voKBtk%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHylml4wRAIgQY8bd2gYngxuEQuxofA2myA91inwuaPKv5YkFff1KcsCICI9WIn_UaPLpuywSM_kKiJ4ZwUboMmncGEfzCCdMP3H&alr=yes&cpn=Pg4c6C7ot_BYS1bl&cver=html5&altitags=243%2C242&rn=1&rbuf=0
 #EXTINF:-1,Florida businesses brace for Hurricane Dorian, boarded up
 plugin://plugin.video.youtube/play/?video_id=NeHk_joNmxs
 #EXTINF:-1,For every benefit, there is a similar kind of cost': UBC professor on impact of climate change
