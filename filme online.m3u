@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:7385,.Jumanji: The Next Level
+#EXTVLCOPT:network-caching=1000
+http://019-163.sport365.tech:33911/ms/08f311f7d9ae765585a7f4ecd80d0733ce2d2badf4da3bd314c8918e49be05b9d519c10ca29c54b7a8c8442041bdde8a018b200582a919692a8346d0eaebfd7497c9e3faddee291293062f549f148b76accfd1104b91933dd3c02888af4f23a387dc525480ed770f/991375dcc4adfb8ff8a91a0e1b0b7564/JjjYA92Jer3meMAppoij5wd8mP7kGPzE/.0.m3u8?sid=69765f9443f122589785a41c0bf7dcb4&rid=5e5803f30118c
 #EXTINF:-1,The.Equalizer.2.2018
 http://aflamuna.com/aflam/en/The.Equalizer.2.2018.mkv
 #EXTINF:-1,Alcatraz.2018
