@@ -1,20 +1,68 @@
 #EXTINF:#1 tvg-logo="https://yt3.ggpht.com/-D_Dt4745g04/AAAAAAAAAAI/AAAAAAAAAAA/WDvmapj0Lic/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",[COLOR blue]          ***      [/COLOR][COLOR red][B]      MUZICA    [/B][/COLOR][COLOR red]       ***[/COLOR]  
 http://0.0.0.0:12348
-#EXTINF:#1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0c/U_tv.png/revision/latest?cb=20140724130200" group-title="MUZICA",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] U TV
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264978&name=SopProg
-#EXTINF:-1 tvg-ID="Happy Channel" tvg-name="RO: Happy Channel HDTel" tvg-logo="https://iptvsensation.org/logo/ro/HappyChannel.ro.png" group-title="MUZICA",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Happy Channel HD
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264969&name=SopProg
-#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/logo_400x400.png" group-title="MUZICA",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Kiss TV
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264979&name=SopProg
-#EXTINF:-1 tvg-ID="Etno TV" tvg-name="RO: Etno TV HD" tvg-logo="https://iptvsensation.org/picons/etnohd.png" group-title="MUZICA",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Etno TV
-plugin://program.plexus/?mode=2&url=sop://185.122.59.8:3912/264976&name=SopProg
-#EXTINF:#1  tvg-logo="http://4.bp.blogspot.com/-DC1wn7qRhoI/VLllUPC-NlI/AAAAAAAAAM4/yGuu40xYGTU/s1600/taraftv.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Taraf TV
-http://www.sansat.net:25461/029967155160/3BoMkfwLJBueaHN/49875
-#EXTINF:#1  tvg-logo="http://4.bp.blogspot.com/-DC1wn7qRhoI/VLllUPC-NlI/AAAAAAAAAM4/yGuu40xYGTU/s1600/taraftv.png" group-title="MUZICA",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Taraf TV
-plugin://program.plexus/?mode=2&url=sop://185.122.59.8:3912/264978&name=SopProg
-#EXTINF:#1 tvg-logo="http://www.invictory.com/public/pictures/news/16/15509/l3457692703c1bb81e85873494e8182651302701031.jpg" group-title="MUZICA",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Impact TV
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/108790&name=SopProg
-#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/hora_tv1.png" group-title="MUZICA",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR]Hora TV
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265061&name=SopProg
-#EXTINF:#1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/favorit_tv_ro.png" group-title="MUZICA",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Favorit Tv
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264977&name=SopProg
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC 80'S" tvg-logo="https://edgetv.biz:8443/img/musichoice.png" group-title="MUSIC",MUSIC 80'S
+http://edgetv.biz:8080/mpicard/vacances/11006
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC 90'S" tvg-logo="https://edgetv.biz:8443/img/musichoice.png" group-title="MUSIC",MUSIC 90'S
+http://edgetv.biz:8080/mpicard/vacances/1897
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC ALTERNATIVE" tvg-logo="https://edgetv.biz:8443/img/musichoice.png" group-title="MUSIC",MUSIC ALTERNATIVE
+http://edgetv.biz:8080/mpicard/vacances/177
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC ARTISTS TO WATCH" tvg-logo="https://edgetv.biz:8443/img/musichoice.png" group-title="MUSIC",MUSIC ARTISTS TO WATCH
+http://edgetv.biz:8080/mpicard/vacances/11012
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC BRITS + HITS" tvg-logo="https://edgetv.biz:8443/img/musichoice.png" group-title="MUSIC",MUSIC BRITS + HITS
+http://edgetv.biz:8080/mpicard/vacances/1898
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC COUNTRY HITS" tvg-logo="https://edgetv.biz:8443/img/musichoice.png" group-title="MUSIC",MUSIC COUNTRY HITS
+http://edgetv.biz:8080/mpicard/vacances/11022
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC DANCE EDM" tvg-logo="https://edgetv.biz:8443/img/musichoice.png" group-title="MUSIC",MUSIC DANCE EDM
+http://edgetv.biz:8080/mpicard/vacances/178
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC HIP HOP & R&B" tvg-logo="https://edgetv.biz:8443/img/musichoice.png" group-title="MUSIC",MUSIC HIP HOP & R&B
+http://edgetv.biz:8080/mpicard/vacances/179
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC HIT LIST" tvg-logo="https://edgetv.biz:8443/img/musichoice.png" group-title="MUSIC",MUSIC HIT LIST
+http://edgetv.biz:8080/mpicard/vacances/180
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC INDIE" tvg-logo="https://edgetv.biz:8443/img/musichoice.png" group-title="MUSIC",MUSIC INDIE
+http://edgetv.biz:8080/mpicard/vacances/1899
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC KIDZ BOP" tvg-logo="https://edgetv.biz:8443/img/musichoice.png" group-title="MUSIC",MUSIC KIDZ BOP
+http://edgetv.biz:8080/mpicard/vacances/1900
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC KIDZ ONLY!" tvg-logo="https://edgetv.biz:8443/img/musichoice.png" group-title="MUSIC",MUSIC KIDZ ONLY!
+http://edgetv.biz:8080/mpicard/vacances/1901
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC LADIES OF R&B" tvg-logo="https://edgetv.biz:8443/img/musichoice.png" group-title="MUSIC",MUSIC LADIES OF R&B
+http://edgetv.biz:8080/mpicard/vacances/11025
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC LATINO POP" tvg-logo="https://edgetv.biz:8443/img/musichoice.png" group-title="MUSIC",MUSIC LATINO POP
+http://edgetv.biz:8080/mpicard/vacances/181
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC MAX" tvg-logo="https://edgetv.biz:8443/img/musichoice.png" group-title="MUSIC",MUSIC MAX
+http://edgetv.biz:8080/mpicard/vacances/1902
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC METAL" tvg-logo="https://edgetv.biz:8443/img/musichoice.png" group-title="MUSIC",MUSIC METAL
+http://edgetv.biz:8080/mpicard/vacances/1903
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC MEXICANA" tvg-logo="https://edgetv.biz:8443/img/musichoice.png" group-title="MUSIC",MUSIC MEXICANA
+http://edgetv.biz:8080/mpicard/vacances/182
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC POP & COUNTRY" tvg-logo="https://edgetv.biz:8443/img/musichoice.png" group-title="MUSIC",MUSIC POP & COUNTRY
+http://edgetv.biz:8080/mpicard/vacances/183
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC POP HITS" tvg-logo="https://edgetv.biz:8443/img/musichoice.png" group-title="MUSIC",MUSIC POP HITS
+http://edgetv.biz:8080/mpicard/vacances/184
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC POP LATINO" tvg-logo="https://edgetv.biz:8443/img/musichoice.png" group-title="MUSIC",MUSIC POP LATINO
+http://edgetv.biz:8080/mpicard/vacances/1905
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC R&B" tvg-logo="https://edgetv.biz:8443/img/musichoice.png" group-title="MUSIC",MUSIC R&B
+http://edgetv.biz:8080/mpicard/vacances/1906
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC R&B SOUL" tvg-logo="https://edgetv.biz:8443/img/musichoice.png" group-title="MUSIC",MUSIC R&B SOUL
+http://edgetv.biz:8080/mpicard/vacances/185
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC RAP" tvg-logo="https://edgetv.biz:8443/img/musichoice.png" group-title="MUSIC",MUSIC RAP
+http://edgetv.biz:8080/mpicard/vacances/186
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC RAP 2K" tvg-logo="https://edgetv.biz:8443/img/musichoice.png" group-title="MUSIC",MUSIC RAP 2K
+http://edgetv.biz:8080/mpicard/vacances/187
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC ROCK" tvg-logo="https://edgetv.biz:8443/img/musichoice.png" group-title="MUSIC",MUSIC ROCK
+http://edgetv.biz:8080/mpicard/vacances/188
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC SOFT ROCK" tvg-logo="https://edgetv.biz:8443/img/musichoice.png" group-title="MUSIC",MUSIC SOFT ROCK
+http://edgetv.biz:8080/mpicard/vacances/11029
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC TEEN BEATS" tvg-logo="https://edgetv.biz:8443/img/musichoice.png" group-title="MUSIC",MUSIC TEEN BEATS
+http://edgetv.biz:8080/mpicard/vacances/189
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC TODAY'S COUNTRY: CMA AWARDS" tvg-logo="https://edgetv.biz:8443/img/musichoice.png" group-title="MUSIC",MUSIC TODAY'S COUNTRY: CMA AWARDS
+http://edgetv.biz:8080/mpicard/vacances/1908
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC TODDLER TUNES" tvg-logo="https://edgetv.biz:8443/img/musichoice.png" group-title="MUSIC",MUSIC TODDLER TUNES
+http://edgetv.biz:8080/mpicard/vacances/1909
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC TROPICALES" tvg-logo="https://edgetv.biz:8443/img/musichoice.png" group-title="MUSIC",MUSIC TROPICALES
+http://edgetv.biz:8080/mpicard/vacances/191
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC URBANA" tvg-logo="https://edgetv.biz:8443/img/musichoice.png" group-title="MUSIC",MUSIC URBANA
+http://edgetv.biz:8080/mpicard/vacances/1910
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC Y2K" tvg-logo="https://edgetv.biz:8443/img/musichoice.png" group-title="MUSIC",MUSIC Y2K
+http://edgetv.biz:8080/mpicard/vacances/1911
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC YOUTH HITS" tvg-logo="https://edgetv.biz:8443/img/musichoice.png" group-title="MUSIC",MUSIC YOUTH HITS
+http://edgetv.biz:8080/mpicard/vacances/11034
