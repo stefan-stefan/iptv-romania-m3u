@@ -1,1 +1,7 @@
-https://www.youtube.com/playlist?list=PLf6mXk8_EvmdGdwtbdIkLpSq62QOWX8-0
+#EXTM3U
+#EXTINF:-1,Florida businesses brace for Hurricane Dorian, boarded up
+plugin://plugin.video.youtube/play/?video_id=NeHk_joNmxs
+#EXTINF:-1,For every benefit, there is a similar kind of cost': UBC professor on impact of climate change
+plugin://plugin.video.youtube/play/?video_id=uviXQZ219Mk
+#EXTINF:-1,Hong Kong protesters rally in the central district
+plugin://plugin.video.youtube/play/?video_id=Xo9iyd1Tq_I
