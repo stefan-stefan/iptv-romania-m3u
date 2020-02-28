@@ -4,6 +4,70 @@ http://0.0.0.0:12348
 http://edgetv.biz:8080/mpicard/vacances/11006
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC 90'S" tvg-logo="https://edgetv.biz:8443/img/musichoice.png" group-title="MUSIC",MUSIC 90'S
 http://edgetv.biz:8080/mpicard/vacances/1897
+#EXTINF:0 ,UTV
+http://82.76.40.76:80/utvedge/utvlive/playlist.m3u8
+# ===========
+#EXTINF:0 ,MOOZ HD
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/6.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:0 ,MOOZ SD
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:0 ,MOOZ DANCE HD
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/6.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:0 ,MOOZ DANCE SD
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:0 ,MOOZ RO SD
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0 ,MOOZ HITS SD
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/6.m3u8/Level(545259)?start=LIVE&end=END
+# ==========
+#EXTINF:0 ,1 MUSIC CHANNEL
+http://edge24.rdsnet.ro/digiedge2/musicchannelehq/index.m3u8?is=25&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0 ,KISS TV
+http://edge24.rdsnet.ro/digiedge2/kisstvehq/index.m3u8?is=34&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0 ,HIT MUSIC
+http://edge24.rdsnet.ro/digiedge2/hitmusicchannelehq/index.m3u8?is=35&src=digi-online.ro&t=00000000000000000000000000000000
+# ==========
+#EXTINF:0 ,MAGIC TV-
+http://fms-https1.mediadirect.ro/live3/_definst_/magictv.smil/playlist.m3u8
+# ==========
+#EXTINF:0 ,MAGIC TV
+http://46.20.136.59/live3/_definst_/magictv/playlist.m3u8
+#EXTINF:0 ,KISS TV-
+http://46.20.136.59/live3/_definst_/kiss/playlist.m3u8
+#EXTINF:0 ,ROCK TV
+http://46.20.136.59/live3/_definst_/rocktv/playlist.m3u8
+# ==========
+#EXTINF:0 ,SUPER ROCK HD
+http://iptv.supertv.ro:8000/play/a004/index.m3u8
+# ======================
+#EXTINF:0 ,MTV MUSIC 24/7
+http://unilivemtveu-lh.akamaihd.net/i/mtvmusic24_1@134926/index_3500_av-b.m3u8
+#EXTINF:-1,MTV HITS
+http://185.176.117.243/live/eds/MTV_Hits/HLS_encr/MTV_Hits.m3u8
+#EXTINF:-1,MTV HITS-
+http://88.119.220.2/live/eds/MTV_Hits/HLS_encr/MTV_Hits.m3u8
+#EXTINF:-1,VH1
+http://185.176.117.243/live/eds/VH1/HLS_encr/VH1.m3u8
+#EXTINF:-1,VH1-
+http://88.119.220.2/live/eds/VH1/HLS_encr/VH1.m3u8
+# =======================================================
+#EXTINF:-1 ,IMPACT TV
+http://89.36.10.12:8080/
+# =======
+#EXTINF:-1 ,DIBI TV
+http://diasporamedia.go.ro:1935/dibitv/live/playlist.m3u8
+#EXTINF:-1 ,DIASPORA
+http://diasporamedia.go.ro:1935/diasporatv/live/playlist.m3u8
+#EXTINF:-1 ,ETNIC
+http://diasporamedia.go.ro:1935/etnictv/live/playlist.m3u8
+#EXTINF:-1 ,MIORITA
+http://diasporamedia.go.ro:1935/mioritatv/live/playlist.m3u8
+# =======
+#EXTINF:-1,ETNO TV
+http://78.109.108.62:6011/etno
+#EXTINF:-1 ,Tezaur TV
+http://86.125.216.66:1935/live/_definst_/tezaurtv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC ALTERNATIVE" tvg-logo="https://edgetv.biz:8443/img/musichoice.png" group-title="MUSIC",MUSIC ALTERNATIVE
 http://edgetv.biz:8080/mpicard/vacances/177
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC ARTISTS TO WATCH" tvg-logo="https://edgetv.biz:8443/img/musichoice.png" group-title="MUSIC",MUSIC ARTISTS TO WATCH
