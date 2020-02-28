@@ -1,14 +1,42 @@
-#EXTINF:#1 tvg-logo="http://www.desene-animate.com/wp-content/uploads/2016/02/logo.png",[COLOR blue]    ***      [/COLOR][COLOR red][B]    Desene [/B][/COLOR][COLOR pink][B] Animate[/B][/COLOR][COLOR red]     ***    [/COLOR]
-http://pro-iptv.stream:25461/condemariano75/FQuxXlmvUP/12096
-#EXTINF:-1 tvg-id="Minimax" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Minimax" tvg-logo="http://nextgen-iptv.com/logo/Minimax_SRB.png" group-title="Desene Animate",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Minimax
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265035&name=SopProg
-#EXTINF:-1 tvg-ID="" tvg-name="RO: Cartoon Network" tvg-logo="https://iptvsensation.org/logo/ro/CartoonNetwork.ro.png" group-title="Desene Animate",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Cartoon Network
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265032&name=SopProg
-#EXTINF:-1 tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2012/09/nickelodeon_logo_a_l.jpg" group-title="Desene Animate",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Nickelodeon
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265041&name=SopProg
-#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Megamax.png" group-title="Desene Animate",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] MegaMax
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265036&name=SopProg
-#EXTINF:-1 tvg-ID="DisneyJunior.ro" tvg-name="RO: Disney Junior" tvg-logo="https://iptvsensation.org/picons/disneyjunior.png" group-title="Desene Animate",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Disney Junior
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265034&name=SopProg
-#EXTINF:-1 tvg-ID="Boomerang" tvg-name="RO: Boomerang" tvg-logo="https://iptvsensation.org/picons/boomerang.png" group-title="Desene Animate",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Boomerang
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265031&name=SopProg
+#EXTINF:-1 group-title="5. KIDS",Animax
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
+#EXTINF:-1 group-title="5. KIDS",Aniplus
+http://210.210.155.35/dr9445/h/h02/01.m3u8
+#EXTINF:-1 group-title="5. KIDS",Baby First
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:-1 group-title="5. KIDS",CARTOON NETWORK
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+#EXTINF:-1 group-title="5. KIDS",DUCK TV
+http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
+#EXTINF:-1 group-title="5. KIDS",MY 5. KIDS
+http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
+#EXTINF:-1 group-title="5. KIDS",Gospel Cartoon
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105
+#EXTINF:-1 group-title="5. KIDS",DA VINCI LEARNING
+http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/02.m3u8
+#EXTINF:-1 group-title="5. KIDS",DISNEY JUNIOR Indo SD
+http://103.47.132.164/PLTV/88888888/224/3221226011/02.m3u8
+#EXTINF:-1 group-title="5. KIDS",EBS 5. KIDS
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/_definst_/tablet500k/chunklist_w1145871295.m3u8
+#EXTINF:-1 group-title="5. KIDS",NICKELODEON
+http://203.207.56.228/live/iptv014.m3u8
+#EXTINF:-1 group-title="5. KIDS",BOOMERANG
+http://203.207.56.228/live/iptv026.m3u8
+#EXTINF:-1 group-title="5. KIDS",CARTOON NETWORK
+http://203.207.56.228/live/iptv027.m3u8
+#EXTINF:-1 group-title="5. KIDS",Spacetoon
+http://livecdnh2.tvanywhere.ae/hls/spacetoon/index.m3u8
+#EXTINF:-1 group-title="5. KIDS",LARVA TV
+http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
+#EXTINF:-1 group-title="5. KIDS",KurdMax Papule
+http://31.14.40.139:1935/liveTrans/Kurmanci/chunklist.m3u8
+#EXTINF:-1 group-title="5. KIDS",Kuriakos 5. KIDS
+http://c2.manasat.com:1935/k5. KIDS/k5. KIDS3/FluxusTV.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="5. KIDS",ToonMax
+http://rr2.dens.tv/s/s50/01.m3u8
+#EXTINF:-1 group-title="5. KIDS",Captain Stubasa 2019 TV
+http://ws.flv.nimo.tv/live/su1599512427630rb9a94d5f0fa60cec1044ec85fbd76da7_high.flv
+#EXTINF:-1 group-title="5. KIDS",TOTALLY SPIES
+http://ws.flv.nimo.tv/live/su1599512427585r47e5a2be5769b2ce776bc4a992c9f6fd_high.flv
+#EXTINF:-1 group-title="5. KIDS",Greek 5. KIDS
+http://wpso.com:1936/hls/5. KIDShd.m3u8
