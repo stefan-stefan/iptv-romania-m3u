@@ -1,5 +1,5 @@
-#EXTINF: # 1 tvg-logo = "https://yt3.ggpht.com/-D_Dt4745g04/AAAAAAAAAAI/AAAAAAAAAAA/WDvmapj0Lic/s900-ck-no-mo-rj-c0xffffff/photo.jpg", COLOR *** [/ COLOR] [COLOR red] [B] LISTA FARA SONOR [/ B] [/ COLOR] [COLOR red] *** [/ COLOR]  
-http://0.0.0.0:12348
+#EXTINF:-1 tvg-logo="http://documentarys.do.am/tvonlineromy/romytvlist/tv-png-free-download-3-1-.png",[COLORred][B]LISTA FARA SONOR[/COLOR][/B]
+http://89.136.209.26
 #EXTINF: 0, Telekom Sport 3 HD🔇
 #EXTVLCOPT: rețea cashingul = 1000
 #EXTVLCOPT: rețea cashingul = 1000
