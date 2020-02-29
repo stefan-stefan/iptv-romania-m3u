@@ -1,5 +1,7 @@
 #EXTINF:-1 group-title="5. KIDS",Animax
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="http://img.myapp.st/1559753690_2ab895491643e3877cc6abc0e23db9f47d93f9fc.png" group-title="Infantil",BABY TV
+http://list.deeplist.nl:80/bbb11875/11875/52235
 #EXTINF:-1 group-title="5. KIDS",Aniplus
 http://210.210.155.35/dr9445/h/h02/01.m3u8
 #EXTINF:-1 group-title="5. KIDS",Baby First
