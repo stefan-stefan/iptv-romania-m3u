@@ -1,5 +1,29 @@
 #EXTINF:#1 tvg-logo="https://yt3.ggpht.com/-D_Dt4745g04/AAAAAAAAAAI/AAAAAAAAAAA/WDvmapj0Lic/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",[COLOR blue]          ***      [/COLOR][COLOR red][B]     RADIO ONLINE    [/B][/COLOR][COLOR red]       ***[/COLOR]  
 http://0.0.0.0:12348
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.astroawani.com/images/stdastro_300x250_arena_1.jpg" group-title="RADIO ", ARENA FM
+http://astro1.rastream.com/amp-arena
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static.mytuner.mobi/media/radios/whb4utLhtp.png" group-title="RADIO ", Era FM
+http://astro2.rastream.com/era
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static.mytuner.mobi/media/radios/U64mECYBuK.jpg" group-title="RADIO ", Hitz FM
+http://astro2.rastream.com/hitz
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static.mytuner.mobi/media/radios/cyqqphe6KP.png" group-title="RADIO ", Hot FM
+http://mediaprima.rastream.com/mediaprima-hotfm?awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Amediaprima-hotfm&playerid=Hot%20FM_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE0NzkxMDQyNzY1MDUsImV4cCI6M
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static.mytuner.mobi/media/radios/MFvmSRmJDc.jpg" group-title="RADIO ", Suria FM
+http://starrfm.rastream.com/starrfm-suria.android
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static.mytuner.mobi/media/radios/6WpzDY2yrH.jpg" group-title="RADIO ", Sinar FM
+http://astro2.rastream.com/sinar
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static.mytuner.mobi/media/radios/aYVbJaEnPR.png" group-title="RADIO ", Thr Gegar
+http://astro2.rastream.com/gegar
+ 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static.mytuner.mobi/media/radios/SqsVRYYchT.jpg" group-title="RADIO ", THR Raaga
+http://astro3.rastream.com/raaga
+
 #EXTINF: 1, Radio Intens
 http://51.254.103.133:8070/stream
 #EXTINF: 2, Radio Pentru Voi
