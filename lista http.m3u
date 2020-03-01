@@ -60,9 +60,9 @@ https://vid.hls.protv.ro/procineman/procinema_3_34/index.m3u8?1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Paramount Channel
 http://tv-he.orange.ro/shls/LIVE$paramountchannel/10.m3u8/Level%282306867%29?start=LIVE&end=END
 #EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Cinemax 
-http://ilnuovolook.xyz:80/live/amy3_bf14a8/940354/80807.ts
+http://zeroip.tv:8008/live/6ehm3uaK2h/RCxZqUVfdw/33843.ts
 #EXTINF:-1 tvg-ID="Cinemax2.ro" tvg-name="RO: Cinemax 2" tvg-logo="http://www.iptvsensation.org/picons/cinemax2.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Cinemax 2
-http://ilnuovolook.xyz:80/live/amy3_bf14a8/940354/80808.ts
+http://zeroip.tv:8008/live/6ehm3uaK2h/RCxZqUVfdw/33844.ts
 #EXTINF:-1 tvg-ID="AXN" tvg-name="RO: AXN" tvg-logo="https://iptvsensation.org/picons/axn.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] AXN
 http://82.76.40.81/digiedge2/smil:axn.smil/playlist.m3u8?is=44&src=app&t=00000000000000000000000000000000
 #EXTINF:-1 tvg-ID="AXN Black" tvg-name="RO: AXN Black" tvg-logo="https://iptvsensation.org/picons/axnblack.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] AXN Black
