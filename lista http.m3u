@@ -56,7 +56,21 @@ https://vid.hls.protv.ro/pro2n/pro2_3_34/index.m3u8?1
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Logo_Pro_Gold_%282017%29.svg/1280px-Logo_Pro_Gold_%282017%29.svg.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Pro Gold
 https://vid.hls.protv.ro/progoldn/progold_3_34/index.m3u8?1
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Pro_Cinema_logo_2014.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Pro Cinema
-https://vid.hls.protv.ro/procineman/procinema_3_34/index.m3u8?1
+https://vid.hls.protv.ro/procineman/procinema_3_34/index.m3u8?1#EXTINF:0, Film NOW
+#EXTVLCOPT:network-caching=1000
+http://zeroip.tv:8008/live/6ehm3uaK2h/RCxZqUVfdw/33831.ts
+#EXTINF:0, Film Now HD
+#EXTVLCOPT:network-caching=1000
+http://zeroip.tv:8008/live/6ehm3uaK2h/RCxZqUVfdw/33830.ts
+#EXTINF:0, FilmBox Premium
+#EXTVLCOPT:network-caching=1000
+http://zeroip.tv:8008/live/6ehm3uaK2h/RCxZqUVfdw/33856.ts
+#EXTINF:0, FilmNow 2K
+#EXTVLCOPT:network-caching=1000
+http://zeroip.tv:8008/live/6ehm3uaK2h/RCxZqUVfdw/34066.ts
+#EXTINF:0, Film Box Extra FHD
+#EXTVLCOPT:network-caching=1000
+http://zeroip.tv:8008/live/6ehm3uaK2h/RCxZqUVfdw/33854.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Paramount Channel
 http://tv-he.orange.ro/shls/LIVE$paramountchannel/10.m3u8/Level%282306867%29?start=LIVE&end=END
 #EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Cinemax 
