@@ -82,13 +82,13 @@ http://82.76.40.81/digiedge2/smil:tv1000.smil/playlist.m3u8?is=43&src=app&t=0000
 #EXTINF:-1 tvg-ID="TNT" tvg-name="RO: TNT" tvg-logo="http://iptvsensation.org/picons/tnt.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] TNT
 http://edge81.rcs-rds.ro/digiedge3/tntehq/index.m3u8?is=91&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:-1 tvg-ID="HBO" tvg-name="RO: HBO HD" tvg-logo="https://iptvsensation.org/logo/ro/HBO.ro.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] HBO
-http://ilnuovolook.xyz:80/live/amy3_bf14a8/940354/80770.ts
+http://zeroip.tv:8008/live/6ehm3uaK2h/RCxZqUVfdw/33833.ts
 #EXTINF:-1 tvg-ID="HBO" tvg-name="RO: HBO HD" tvg-logo="https://iptvsensation.org/logo/ro/HBO.ro.png" group-title="STIRI",[COLOR red]Http.[/COLOR][COLOR red]# 2[/COLOR] HBO Family
 http://dragoniptv.club:8080/live/Kara/Kara/6255.m3u8
 #EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/doblaje/images/3/3b/HBO2_logo.png/revision/latest?cb=20160102183730&path-prefix=es" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Hbo 2
-http://ilnuovolook.xyz:80/live/amy3_bf14a8/940354/80772.ts
+http://zeroip.tv:8008/live/6ehm3uaK2h/RCxZqUVfdw/33835.ts
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/HBO3_gradient.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] HBO 3
-http://ilnuovolook.xyz:80/live/amy3_bf14a8/940354/80771.ts
+http://zeroip.tv:8008/live/6ehm3uaK2h/RCxZqUVfdw/33837.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8G83qZu.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]BO CLASSIC
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d8mJYu0.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]BO TV
