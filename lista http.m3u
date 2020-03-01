@@ -171,8 +171,7 @@ http://edge81.rdsnet.ro/digiedge2/historychannelehq/index.m3u8?is=20&src=digi-on
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/history-2-canada.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]History Channel 2
 http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
 #EXTINF:-1 tvg-ID="Discovery Investigation" tvg-name="RO: Discovery ID" tvg-logo="https://iptvsensation.org/picons/discoveryid.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Discovery ID
-#EXTVLCOPT:network-caching=1000
-https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation-avc1_1000000=10-mp4a_98800_eng=3.m3u8
+http://zeroip.tv:8008/live/6ehm3uaK2h/RCxZqUVfdw/38427.ts
 #EXTINF:-1 tvg-id="" tvg-name="|RO| ANIMAL PLANET HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/ANIMALPLANET.png" group-title="STIRI",[COLOR red]Http.[/COLOR][COLOR red]# 2[/COLOR] ANIMAL PLANET 
 http://tv-he.orange.ro/shls/LIVE$animalplanethd/10.m3u8/Level%282306867%29?start=LIVE&end=END
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/digianimal.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Digi Animal World
