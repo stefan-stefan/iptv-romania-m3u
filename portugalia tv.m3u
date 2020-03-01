@@ -2,6 +2,14 @@
 http://dragoniptv.club:8080/jkJup8Fvdt/WtnWKKWqJF/1198
 #EXTINF: -1 tvg-id = "rtpHD" tvg-name = "PT | RTP 1 HD" tvg-logo = "http://tv.trexiptv.com/picons/logos/rtp1.png" group-title = "PORTUGALIA", PT | RTP 1 HD
 http://line.yo-ott.com:8000/Tony_All/KkaofF5opRFa/107451
+#EXTINF:-1,|PT| CANAL 11 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/265011182.m3u8
+#EXTINF:-1,|PT| TVI FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/265011199.m3u8
+#EXTINF:-1,|PT| INVESTIGATION DISCOVERY HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/265011152.m3u8
+#EXTINF:-1,(PT) SPORT TV 1 UHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/5335.m3u8
 #EXTINF: -1 tvg-id = "rtp1.pt" tvg-name = "PT | RTP 1 HEVC" tvg-logo = "http://vodpictures.ddns.net/picons/logos/portugal.png" group- title = "PORTUGALIA", PT | RTP 1 HEVC
 http://line.yo-ott.com:8000/Tony_All/KkaofF5opRFa/118450
 #EXTINF: -1 tvg-id = "rtp1.pt" tvg-name = "PT | RTP 1" tvg-logo = "http://tv.trexiptv.com/picons/logos/rtp1.png" group-title = "PORTUGALIA", PT | RTP 1
