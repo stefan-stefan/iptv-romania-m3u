@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR red]» TV ROMANIA HTTP (Aceste liste nu sant stabile!) [/COLOR]</title>
+<title>[COLOR FFff8000]» TV ROMANIA HTTP | Aceste liste nu sant stabile! [/COLOR]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -45,6 +45,20 @@
 <link>http://78.109.108.62:2001/protv</link>
 <thumbnail>http://documentarys.do.am/proba/logo/1200px-logo_pro_tv_international-2017-svg.png</thumbnail>
 <fanart>http://documentarys.do.am/proba/logo/1200px-logo_pro_tv_international-2017-svg.png</fanart>
+</item>
+ 
+<item>
+<title>Pro TV Chișinău</title>
+<link>http://hls.protv.md/hls/protv.m3u8</link>
+<thumbnail>https://adevarul.ro/assets/adevarul.ro/MRImage/2017/05/25/5926ccb25ab6550cb86f7cb0/646x404.png</thumbnail>
+<fanart>https://adevarul.ro/assets/adevarul.ro/MRImage/2017/05/25/5926ccb25ab6550cb86f7cb0/646x404.png</fanart>
+</item>
+ 
+<item>
+<title>KANAL D</title>
+<link>http://193.228.153.231:4240/bysid/50</link>
+<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo /kanal_d_tr.jpg</thumbnail>
+<fanart>http://www.tv-logo.com/pt-data/uploads/images/logo /kanal_d_tr.jpg</fanart>
 </item>
 
 
