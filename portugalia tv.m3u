@@ -1,5 +1,6 @@
-#EXTINF:-1 tvg-ID="" tvg-name="===== Portugal ====="
-http://dragoniptv.club:8080/jkJup8Fvdt/WtnWKKWqJF/1198
+#EXTM3U
+#EXTINF:0,■■■■,[COLOR red]  [/COLOR][COLOR deeppink][B]* Aceste liste nu sant stabile! * [/B][/COLOR][COLOR deeppink] ***[/COLOR]  
+#EXTVLCOPT:network-caching=1000
 #EXTINF: -1 tvg-id = "rtpHD" tvg-name = "PT | RTP 1 HD" tvg-logo = "http://tv.trexiptv.com/picons/logos/rtp1.png" group-title = "PORTUGALIA", PT | RTP 1 HD
 http://line.yo-ott.com:8000/Tony_All/KkaofF5opRFa/107451
 #EXTINF:-1,|PT| CANAL 11 FHD
