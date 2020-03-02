@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR FFff8000]» PORTUGUESE TV | Geo-Restrictions may occur [/COLOR]</title>
+<title>[COLOR FFff8000]» TV ROMANIA HTTP | Aceste liste nu sant stabile! [/COLOR]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -13,57 +13,687 @@
 </item>
  
 <item>
-<title>ANTENA 1</title>
+<title>PRO TV</title>
 <link>http://193.228.153.231:4240/bysid/50</link>
-<thumbnail>https://iptvsensation.org/picons/antena1.png</thumbnail>
-<fanart>https://iptvsensation.org/picons/antena1.png</fanart>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
  
 <item>
-<title>ANTENA 1</title>
+<title>AXN</title>
 <link>http://82.76.40.81/digiedge2/smil:axn.smil/playlist.m3u8?is=44&src=app&t=00000000000000000000000000000000</link>
 <thumbnail>https://iptvsensation.org/picons/antena1.png</thumbnail>
 <fanart>https://iptvsensation.org/picons/antena1.png</fanart>
 </item>
  
 <item>
-<title>ANTENA 1</title>
+<title>AXN 2</title>
 <link>http://edge81.rcs-rds.ro/digiedge2/axnspinehq/chunklist_w437727442.m3u8?is=57&src=digi-online.ro&t=00000000000000000000000000000000&q=hq&s=axnspin&p=browser&pe=site</link>
-<thumbnail>https://iptvsensation.org/picons/antena1.png</thumbnail>
-<fanart>https://iptvsensation.org/picons/antena1.png</fanart>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
  
 <item>
-<title>SIC NOTÍCIAS</title>
+<title>IN LUCRU</title>
 <link>http://live.impresa.pt/live/sicnot/sicnot540p.m3u8</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/rswvxv1433344605.png</thumbnail>
+<thumbnail></thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
 <title>RTP 3</title>
 <link>http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/uvtqyy1461670745.png</thumbnail>
+<thumbnail></thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>TVI 24</title>
+<title>IN LUCRU</title>
 <link>http://noscdn2.connectedviews.com:1935/cvo/smil:tvi24.smil/streamtvi24.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png</thumbnail>
+<thumbnail></thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>CM TV</title>
+<title>IN LUCRU</title>
 <link>http://teuportal.dyndns.org:25461/live/dinho/dinho/67.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/2d/CM_TV_logo.png</thumbnail>
+<thumbnail></thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>SIC Radical</title>
+<title>IN LUCRU</title>
 <link>http://live.impresa.pt/live/sicrad/sicrad540p.m3u8</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/ustqwy1436891230.png</thumbnail>
+<thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>IN LUCRU</title>
+<link>http://live.impresa.pt/live/sicnot/sicnot540p.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>RTP 3</title>
+<link>http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://noscdn2.connectedviews.com:1935/cvo/smil:tvi24.smil/streamtvi24.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://teuportal.dyndns.org:25461/live/dinho/dinho/67.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://live.impresa.pt/live/sicrad/sicrad540p.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>IN LUCRU</title>
+<link>http://live.impresa.pt/live/sicnot/sicnot540p.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>RTP 3</title>
+<link>http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://noscdn2.connectedviews.com:1935/cvo/smil:tvi24.smil/streamtvi24.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://teuportal.dyndns.org:25461/live/dinho/dinho/67.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://live.impresa.pt/live/sicrad/sicrad540p.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>IN LUCRU</title>
+<link>http://live.impresa.pt/live/sicnot/sicnot540p.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>RTP 3</title>
+<link>http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://noscdn2.connectedviews.com:1935/cvo/smil:tvi24.smil/streamtvi24.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://teuportal.dyndns.org:25461/live/dinho/dinho/67.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://live.impresa.pt/live/sicrad/sicrad540p.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>IN LUCRU</title>
+<link>http://live.impresa.pt/live/sicnot/sicnot540p.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>RTP 3</title>
+<link>http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://noscdn2.connectedviews.com:1935/cvo/smil:tvi24.smil/streamtvi24.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://teuportal.dyndns.org:25461/live/dinho/dinho/67.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://live.impresa.pt/live/sicrad/sicrad540p.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>IN LUCRU</title>
+<link>http://live.impresa.pt/live/sicnot/sicnot540p.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>RTP 3</title>
+<link>http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://noscdn2.connectedviews.com:1935/cvo/smil:tvi24.smil/streamtvi24.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://teuportal.dyndns.org:25461/live/dinho/dinho/67.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://live.impresa.pt/live/sicrad/sicrad540p.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>IN LUCRU</title>
+<link>http://live.impresa.pt/live/sicnot/sicnot540p.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>RTP 3</title>
+<link>http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://noscdn2.connectedviews.com:1935/cvo/smil:tvi24.smil/streamtvi24.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://teuportal.dyndns.org:25461/live/dinho/dinho/67.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://live.impresa.pt/live/sicrad/sicrad540p.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>IN LUCRU</title>
+<link>http://live.impresa.pt/live/sicnot/sicnot540p.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>RTP 3</title>
+<link>http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://noscdn2.connectedviews.com:1935/cvo/smil:tvi24.smil/streamtvi24.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://teuportal.dyndns.org:25461/live/dinho/dinho/67.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://live.impresa.pt/live/sicrad/sicrad540p.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>IN LUCRU</title>
+<link>http://live.impresa.pt/live/sicnot/sicnot540p.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>RTP 3</title>
+<link>http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://noscdn2.connectedviews.com:1935/cvo/smil:tvi24.smil/streamtvi24.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://teuportal.dyndns.org:25461/live/dinho/dinho/67.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://live.impresa.pt/live/sicrad/sicrad540p.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>IN LUCRU</title>
+<link>http://live.impresa.pt/live/sicnot/sicnot540p.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>RTP 3</title>
+<link>http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://noscdn2.connectedviews.com:1935/cvo/smil:tvi24.smil/streamtvi24.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://teuportal.dyndns.org:25461/live/dinho/dinho/67.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://live.impresa.pt/live/sicrad/sicrad540p.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>IN LUCRU</title>
+<link>http://live.impresa.pt/live/sicnot/sicnot540p.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>RTP 3</title>
+<link>http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://noscdn2.connectedviews.com:1935/cvo/smil:tvi24.smil/streamtvi24.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://teuportal.dyndns.org:25461/live/dinho/dinho/67.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://live.impresa.pt/live/sicrad/sicrad540p.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>IN LUCRU</title>
+<link>http://live.impresa.pt/live/sicnot/sicnot540p.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>RTP 3</title>
+<link>http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://noscdn2.connectedviews.com:1935/cvo/smil:tvi24.smil/streamtvi24.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://teuportal.dyndns.org:25461/live/dinho/dinho/67.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://live.impresa.pt/live/sicrad/sicrad540p.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>IN LUCRU</title>
+<link>http://live.impresa.pt/live/sicnot/sicnot540p.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>RTP 3</title>
+<link>http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://noscdn2.connectedviews.com:1935/cvo/smil:tvi24.smil/streamtvi24.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://teuportal.dyndns.org:25461/live/dinho/dinho/67.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://live.impresa.pt/live/sicrad/sicrad540p.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>IN LUCRU</title>
+<link>http://live.impresa.pt/live/sicnot/sicnot540p.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>RTP 3</title>
+<link>http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://noscdn2.connectedviews.com:1935/cvo/smil:tvi24.smil/streamtvi24.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://teuportal.dyndns.org:25461/live/dinho/dinho/67.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://live.impresa.pt/live/sicrad/sicrad540p.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>IN LUCRU</title>
+<link>http://live.impresa.pt/live/sicnot/sicnot540p.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>RTP 3</title>
+<link>http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://noscdn2.connectedviews.com:1935/cvo/smil:tvi24.smil/streamtvi24.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://teuportal.dyndns.org:25461/live/dinho/dinho/67.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://live.impresa.pt/live/sicrad/sicrad540p.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>IN LUCRU</title>
+<link>http://live.impresa.pt/live/sicnot/sicnot540p.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>RTP 3</title>
+<link>http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://noscdn2.connectedviews.com:1935/cvo/smil:tvi24.smil/streamtvi24.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://teuportal.dyndns.org:25461/live/dinho/dinho/67.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://live.impresa.pt/live/sicrad/sicrad540p.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>IN LUCRU</title>
+<link>http://live.impresa.pt/live/sicnot/sicnot540p.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>RTP 3</title>
+<link>http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://noscdn2.connectedviews.com:1935/cvo/smil:tvi24.smil/streamtvi24.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://teuportal.dyndns.org:25461/live/dinho/dinho/67.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://live.impresa.pt/live/sicrad/sicrad540p.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>IN LUCRU</title>
+<link>http://live.impresa.pt/live/sicnot/sicnot540p.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>RTP 3</title>
+<link>http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://noscdn2.connectedviews.com:1935/cvo/smil:tvi24.smil/streamtvi24.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://teuportal.dyndns.org:25461/live/dinho/dinho/67.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://live.impresa.pt/live/sicrad/sicrad540p.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>IN LUCRU</title>
+<link>http://live.impresa.pt/live/sicnot/sicnot540p.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>RTP 3</title>
+<link>http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://noscdn2.connectedviews.com:1935/cvo/smil:tvi24.smil/streamtvi24.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://teuportal.dyndns.org:25461/live/dinho/dinho/67.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>IN LUCRU</title>
+<link>http://live.impresa.pt/live/sicrad/sicrad540p.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
