@@ -1,4 +1,6 @@
-#EXTINF:0 tvg
+#EXTM3U
+#EXTINF:0,■■■■,[COLOR red]  [/COLOR][COLOR deeppink][B]* Aceste liste nu sant stabile! * [/B][/COLOR][COLOR deeppink] ***[/COLOR]  
+#EXTVLCOPT:network-caching=1000
 http://185.38.12.26/sec/1545803894/383238301f279348ce393d69efe748764e2ac8bb8f2434d0/ivs/4e/56/7e89a81fc2eb/hls/tracks-2,4/index.m3u8
 #EXTINF:0 tvg
 http://185.38.12.26/sec/1545803894/383238301f279348ce393d69efe748764e2ac8bb8f2434d0/ivs/4e/56/7e89a81fc2eb/hls/tracks-2,4/index.m3u8
