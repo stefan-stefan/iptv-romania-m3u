@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0,■■■■,[COLOR red]  [/COLOR][COLOR deeppink][B]* Aceste liste nu sant stabile! * [/B][/COLOR][COLOR deeppink] ***[/COLOR]  
+#EXTVLCOPT:network-caching=1000
 #EXTINF:0 tvg-id="Rai1.it" group-title="Tivùsat",Rai 1
 https://raiuno2-live.akamaized.net/hls/live/598309/raiuno2/raiuno2/rai1_2400/chunklist.m3u8
 #EXTINF:0 tvg-id="Rai2.it" group-title="Tivùsat",Rai 2
