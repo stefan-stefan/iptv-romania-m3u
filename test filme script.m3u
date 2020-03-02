@@ -1,10 +1,5 @@
-<item>
-<title>[COLOR white][B]Capitã Marvel[/B][/COLOR]</title>
-<link>http://185.38.12.26/sec/1545803894/383238301f279348ce393d69efe748764e2ac8bb8f2434d0/ivs/4e/56/7e89a81fc2eb/hls/tracks-2,4/index.m3u8</link>
-<thumbnail>https://bit.ly/2TIorSr</thumbnail>
-<fanart>https://bit.ly/2Wxtc36</fanart>
-
-</item>
+#EXTINF:0 tvg
+http://185.38.12.26/sec/1545803894/383238301f279348ce393d69efe748764e2ac8bb8f2434d0/ivs/4e/56/7e89a81fc2eb/hls/tracks-2,4/index.m3u8
 #EXTINF:0 tvg
 http://185.38.12.26/sec/1545803894/383238301f279348ce393d69efe748764e2ac8bb8f2434d0/ivs/4e/56/7e89a81fc2eb/hls/tracks-2,4/index.m3u8
 #EXTINF:0 tvg
