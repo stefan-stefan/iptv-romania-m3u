@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,■■■■,[COLOR red]  [/COLOR][COLOR deeppink][B]* Aceste liste nu sant stabile! * [/B][/COLOR][COLOR deeppink] ***[/COLOR]  
-#EXTVLCOPT:network-caching=1000
+http://0.0.0.0:1234
 #EXTINF: # 1  GRECIA 
 http://0.0.0.0:1234
 #EXTINF:0,KONTRA
