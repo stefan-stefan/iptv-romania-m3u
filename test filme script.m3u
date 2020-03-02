@@ -7,30 +7,30 @@
  
 <item>
 <title>ANTENA 1</title>
-<link>http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/rtysxv1466191624.png</thumbnail>
-<fanart></fanart>
+<link>http://193.228.153.231:4240/bysid/40</link>
+<thumbnail>https://iptvsensation.org/picons/antena1.png</thumbnail>
+<fanart>https://iptvsensation.org/picons/antena1.png</fanart>
 </item>
  
 <item>
-<title>PRO TV</title>
-<link>http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/yvttxv1466191438.png</thumbnail>
-<fanart></fanart>
+<title>ANTENA 1</title>
+<link>http://193.228.153.231:4240/bysid/40</link>
+<thumbnail>https://iptvsensation.org/picons/antena1.png</thumbnail>
+<fanart>https://iptvsensation.org/picons/antena1.png</fanart>
 </item>
  
 <item>
-<title>SIC</title>
-<link>http://live.impresa.pt/live/sic/sic540p.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png</thumbnail>
-<fanart></fanart>
+<title>ANTENA 1</title>
+<link>http://193.228.153.231:4240/bysid/40</link>
+<thumbnail>https://iptvsensation.org/picons/antena1.png</thumbnail>
+<fanart>https://iptvsensation.org/picons/antena1.png</fanart>
 </item>
  
 <item>
-<title>TVI</title>
-<link>https://video-auth5.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMTggMTE6NTk6NDkgQU0maGFzaF92YWx1ZT12eEJvMjNSTkJVVXlSdlRYTm1vZ1NBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MTgxNWFiYWUtMTc0Ni00NWYwLWE1OTgtN2Y0MTdkNmViMDg0</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/cdi6t51487621667.png</thumbnail>
-<fanart></fanart>
+<title>ANTENA 1</title>
+<link>http://193.228.153.231:4240/bysid/40</link>
+<thumbnail>https://iptvsensation.org/picons/antena1.png</thumbnail>
+<fanart>https://iptvsensation.org/picons/antena1.png</fanart>
 </item>
  
 <item>
