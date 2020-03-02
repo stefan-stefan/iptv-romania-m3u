@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1", ☆Generaliste☆
+#EXTINF:0,■■■■,[COLOR red]  [/COLOR][COLOR deeppink][B]* Aceste liste nu sant stabile! * [/B][/COLOR][COLOR deeppink] ***[/COLOR]  
+#EXTVLCOPT:network-caching=1000
 http://zeroip.tv:8008/live/6ehm3uaK2h/RCxZqUVfdw/33759.ts
 #EXTINF:0 type="stream" channelId="-1", Pro Tv
 http://zeroip.tv:8008/live/6ehm3uaK2h/RCxZqUVfdw/33762.ts
