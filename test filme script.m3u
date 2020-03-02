@@ -7,28 +7,28 @@
  
 <item>
 <title>ANTENA 1</title>
-<link>http://193.228.153.231:4240/bysid/40</link>
+<link>http://hls.protv.md/hls/protv.m3u8</link>
 <thumbnail>https://iptvsensation.org/picons/antena1.png</thumbnail>
 <fanart>https://iptvsensation.org/picons/antena1.png</fanart>
 </item>
  
 <item>
 <title>ANTENA 1</title>
-<link>http://193.228.153.231:4240/bysid/40</link>
+<link>http://193.228.153.231:4240/bysid/50</link>
 <thumbnail>https://iptvsensation.org/picons/antena1.png</thumbnail>
 <fanart>https://iptvsensation.org/picons/antena1.png</fanart>
 </item>
  
 <item>
 <title>ANTENA 1</title>
-<link>http://193.228.153.231:4240/bysid/40</link>
+<link>http://82.76.40.81/digiedge2/smil:axn.smil/playlist.m3u8?is=44&src=app&t=00000000000000000000000000000000</link>
 <thumbnail>https://iptvsensation.org/picons/antena1.png</thumbnail>
 <fanart>https://iptvsensation.org/picons/antena1.png</fanart>
 </item>
  
 <item>
 <title>ANTENA 1</title>
-<link>http://193.228.153.231:4240/bysid/40</link>
+<link>http://edge81.rcs-rds.ro/digiedge2/axnspinehq/chunklist_w437727442.m3u8?is=57&src=digi-online.ro&t=00000000000000000000000000000000&q=hq&s=axnspin&p=browser&pe=site</link>
 <thumbnail>https://iptvsensation.org/picons/antena1.png</thumbnail>
 <fanart>https://iptvsensation.org/picons/antena1.png</fanart>
 </item>
