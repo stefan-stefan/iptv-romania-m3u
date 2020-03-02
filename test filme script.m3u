@@ -1,33 +1,69 @@
-<dir >
-<title > [COLOR FFff8000] [B] SPORT TV 01 [/ B] [/ COLOR] </ title >
-<thumbnail > https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/stv1.png </ thumbnail >
-</ dir >
-<plugin >
-<title > [COLOR lightgreen] SPORT TV 01 [/ COLOR] - LINK 01 </ title >
-<link > plugin: //plugin.video.SportsDevil/? mode = 1 & amp; amp; item = catcher% 3dstreams% 26url = https: //www.stream2watch.ws/television/portugal/sport-tv-1-portugal-live-streaming </link >
-<thumbnail > https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/stv1.png </ thumbnail >
-<fanart > https://i.imgur.com/xtDfb70.jpg </ fanart >
-</ plugin >
-<plugin >
-<title > [COLOR lightgreen] SPORT TV 01 [/ COLOR] - LINK 02 </ title >
-<link > plugin: //plugin.video.SportsDevil/? mode = 1 & amp; amp; item = catcher% 3dstreams% 26url = http: //sportzonline.pw/channels/pt/sporttv1.php </link >
-<thumbnail > https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/stv1.png </ thumbnail >
-<fanart > https://i.imgur.com/xtDfb70.jpg </ fanart >
-</ plugin >
-<plugin >
-<title > [COLOR lightgreen] SPORT TV 01 [/ COLOR] - LINK 03 </ title >
-<link > plugin: //plugin.video.SportsDevil/? mode = 1 & amp; amp; item = catcher% 3dstreams% 26url = http: //2cfazefoot.blogspot.com/2018/01/kanal-50.html </link >
-<thumbnail > https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/stv1.png </ thumbnail >
-<fanart > https://i.imgur.com/xtDfb70.jpg </ fanart >
-</ plugin >
-<plugin >
-<title > [COLOR lightgreen] SPORT TV 01 [/ COLOR] - LINK 04 </ title >
-<link > plugin: //plugin.video.SportsDevil/? mode = 1 & amp; amp; item = catcher% 3dstreams% 26url = http: //buzztv.stream/pt1.php </link >
-<thumbnail > https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/stv1.png </ thumbnail >
-<fanart > https://i.imgur.com/xtDfb70.jpg </ fanart >
-</ plugin >
-###
-<dir >
-<title > [COLOR FFff8000] [B] SPORT TV 02 [/ B] [/ COLOR] </title >
-<thumbnail > https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/stv2.png </ thumbnail >
-</ dir >
+<item>
+<title>[COLOR FFff8000]» PORTUGUESE TV | Geo-Restrictions may occur [/COLOR]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>ANTENA 1</title>
+<link>http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rtysxv1466191624.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>PRO TV</title>
+<link>http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yvttxv1466191438.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>SIC</title>
+<link>http://live.impresa.pt/live/sic/sic540p.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>TVI</title>
+<link>https://video-auth5.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMTggMTE6NTk6NDkgQU0maGFzaF92YWx1ZT12eEJvMjNSTkJVVXlSdlRYTm1vZ1NBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MTgxNWFiYWUtMTc0Ni00NWYwLWE1OTgtN2Y0MTdkNmViMDg0</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/cdi6t51487621667.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>SIC NOTÍCIAS</title>
+<link>http://live.impresa.pt/live/sicnot/sicnot540p.m3u8</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/rswvxv1433344605.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>RTP 3</title>
+<link>http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uvtqyy1461670745.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>TVI 24</title>
+<link>http://noscdn2.connectedviews.com:1935/cvo/smil:tvi24.smil/streamtvi24.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>CM TV</title>
+<link>http://teuportal.dyndns.org:25461/live/dinho/dinho/67.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/2d/CM_TV_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>SIC Radical</title>
+<link>http://live.impresa.pt/live/sicrad/sicrad540p.m3u8</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/ustqwy1436891230.png</thumbnail>
+<fanart></fanart>
+</item>
