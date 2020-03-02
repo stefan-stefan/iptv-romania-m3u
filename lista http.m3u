@@ -97,6 +97,9 @@ http://82.76.40.81/digiedge2/smil:tv1000.smil/playlist.m3u8?is=43&src=app&t=0000
 http://edge81.rcs-rds.ro/digiedge3/tntehq/index.m3u8?is=91&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:-1 tvg-ID="HBO" tvg-name="RO: HBO HD" tvg-logo="https://iptvsensation.org/logo/ro/HBO.ro.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] HBO
 http://zeroip.tv:8008/live/6ehm3uaK2h/RCxZqUVfdw/33833.ts
+#EXTINF:-1 tvg-id="HBO RO.sp",HBO Romania
+#EXTGRP:Romania
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57085
 #EXTINF:-1 tvg-ID="HBO" tvg-name="RO: HBO HD" tvg-logo="https://iptvsensation.org/logo/ro/HBO.ro.png" group-title="STIRI",[COLOR red]Http.[/COLOR][COLOR red]# 2[/COLOR] HBO Family
 http://dragoniptv.club:8080/live/Kara/Kara/6255.m3u8
 #EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/doblaje/images/3/3b/HBO2_logo.png/revision/latest?cb=20160102183730&path-prefix=es" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Hbo 2
