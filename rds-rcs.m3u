@@ -1,5 +1,6 @@
-#EXTINF:0,▂▄☆RCS/RDS☆▄▂
-http://RCS
+#EXTM3U
+#EXTINF:0,■■■■,[COLOR red]  [/COLOR][COLOR deeppink][B]* Aceste liste nu sant stabile! * [/B][/COLOR][COLOR deeppink] ***[/COLOR]  
+#EXTVLCOPT:network-caching=1000
 #EXTINF:0 ,DIGISPORT 1 (rds)
 http://edge84.rdsnet.ro/digiedge/digisport1ehq/index.m3u8?is=1&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0 ,DIGISPORT 2 (rds)
