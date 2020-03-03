@@ -10,8 +10,8 @@ plugin://program.plexus/?mode=1&url=acestream://17c1ac3da033775b6412e678b47832b2
 plugin://program.plexus/?mode=1&url=acestream://5583e0b72dfdbdf4d758173896c371aa71693230&name=AceStream
 #EXTINF:#1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAYV4Dm-YxpHIFgUIUHEQ15duuczTDtgichYQArF1k_oAu7hg_mg",[COLOR blue]          ***      [/COLOR][COLOR red][B]      FILME    [/B][/COLOR][COLOR red]       ***[/COLOR]  
 http://0.0.0.0:1234
-#EXTINF:-1 tvg-ID="Happy Channel" tvg-name="RO: Happy Channel HDTel" tvg-logo="https://iptvsensation.org/logo/ro/HappyChannel.ro.png" group-title="MUZICA",[COLOR orange]Acestream.[/COLOR][COLOR green]# 1[/COLOR] Happy Channel HD
-plugin://program.plexus/?mode=1&url=acestream://1618ad4debdff785c863bd320b5e7d16d563a283&name=AceStream
+[/COLOR][COLOR green]# 1[/COLOR] Happy Channel HD
+plugin://program.plexus/?mode=1&url=acestream://1618ad4debdff785c863bd320b5e7d16d563a283&name=tvg-logo="https://iptvsensation.org/logo/ro/HappyChannel.ro.png
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Film_cafe_hu.png" group-title="GENERALE",[COLOR yellow]Acestream.[/COLOR][COLOR yellow]# 1[/COLOR]Film Cafe 
 
 plugin://program.plexus/?mode=1&url=acestream://e42976fa49ceb36c3b8cf16a84542b63d2b8b936&name=AceStream
