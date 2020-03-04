@@ -10,3 +10,6 @@ plugin://program.plexus/?mode=1&url=acestream://17c1ac3da033775b6412e678b47832b2
 plugin://program.plexus/?mode=1&url=acestream://5583e0b72dfdbdf4d758173896c371aa71693230&name=AceStream
 #EXTINF:#1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAYV4Dm-YxpHIFgUIUHEQ15duuczTDtgichYQArF1k_oAu7hg_mg",[COLOR blue]          ***      [/COLOR][COLOR red][B]      FILME    [/B][/COLOR][COLOR red]       ***[/COLOR]  
 http://0.0.0.0:1234
+
+#EXTINF:#1  
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265083&name=http://tvr1.tvr.ro/images/logo_main_tvr1.png
