@@ -1,6 +1,14 @@
 #EXTM3U
 #EXTINF:0,■■■■,[COLOR red]  [/COLOR][COLOR deeppink][B]* Aceste liste nu sant stabile! * [/B][/COLOR][COLOR deeppink] ***[/COLOR]  
 #EXTVLCOPT:network-caching=1000
+#EXTINF: -1 tvg-id = "" tvg-name = "RO049: CINEMAX 2" tvg-logo = "" group-title = "Romania", RO049: CINEMAX 2
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31827
+#EXTINF: -1 tvg-id = "" tvg-name = "RO029: HBO Romania" tvg-logo = "" group-title = "Romania", RO029: HBO Romania
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31847
+#EXTINF: -1 tvg-id = "" tvg-name = "RO030: HBO 3" tvg-logo = "" group-title = "Romania", RO030: HBO 3
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31846
+#EXTINF: -1 tvg-id = "" tvg-name = "RO031: HBO 2" tvg-logo = "" group-title = "Romania", RO031: HBO 2
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31845
 #EXTINF:-1,AMC
 http://92.249.148.48:8001/play/a00x
 #EXTINF:-1,ATV
