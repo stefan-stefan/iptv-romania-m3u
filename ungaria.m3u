@@ -1,42 +1,6 @@
 #EXTM3U
 #EXTINF:0,■■■■,[COLOR red]  [/COLOR][COLOR deeppink][B]* Aceste liste nu sant stabile! * [/B][/COLOR][COLOR deeppink] ***[/COLOR]  
 #EXTVLCOPT:network-caching=1000
-#EXTINF: -1 tvg-id = "" tvg-name = "RO049: CINEMAX 2" tvg-logo = "" group-title = "Romania", RO049: CINEMAX 2
-http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31827
-#EXTINF:-1 tvg-id="Viasat6.hu" tvg-name="|HU| VIASAT 6" tvg-logo="http://logo.iplay-tv.com:8000/logo/viasat6.png" group-title="HUNGARY | TV",|HU| VIASAT 6
-http://mytv.fun:8080/h0aoahfkhm/96nigw74ol/13251
-#EXTINF:-1 tvg-id="Viasat3.hu" tvg-name="|HU| VIASAT 3" tvg-logo="http://logo.iplay-tv.com:8000/logo/viasat3.png" group-title="HUNGARY | TV",|HU| VIASAT 3
-http://mytv.fun:8080/h0aoahfkhm/96nigw74ol/8040
-#EXTINF:-1 tvg-id="SuperTV2.hu" tvg-name="|HU| SUPER TV 2" tvg-logo="http://logo.iplay-tv.com:8000/logo/supertv2.png" group-title="HUNGARY | TV",|HU| SUPER TV 2
-http://mytv.fun:8080/h0aoahfkhm/96nigw74ol/13252
-#EXTINF:-1 tvg-id="MoziPlus.hu" tvg-name="|HU| MOZI+  HD" tvg-logo="http://logo.iplay-tv.com:8000/logo/moziplus.png" group-title="HUNGARY | TV",|HU| MOZI+  HD
-http://mytv.fun:8080/h0aoahfkhm/96nigw74ol/13270
-#EXTINF:-1 tvg-id="HBO.hu" tvg-name="|HU| HBO HD (HU)" tvg-logo="http://logo.iplay-tv.com:8000/logo/hbohu.png" group-title="HUNGARY | TV",|HU| HBO HD (HU
-http://mytv.fun:8080/h0aoahfkhm/96nigw74ol/13282
-#EXTINF:-1 tvg-id="HBO2.hu" tvg-name="|HU| HBO 2" tvg-logo="http://logo.iplay-tv.com:8000/logo/hbo2.png" group-title="HUNGARY | TV",|HU| HBO 2
-http://mytv.fun:8080/h0aoahfkhm/96nigw74ol/13281
-#EXTINF:-1 tvg-id="Galaxy4.hu" tvg-name="|HU| GALAXY4" tvg-logo="http://logo.iplay-tv.com:8000/logo/galaxy4.png" group-title="HUNGARY | TV",|HU| GALAXY4
-http://mytv.fun:8080/h0aoahfkhm/96nigw74ol/13283
-#EXTINF:-1 tvg-id="FilmboxPremium.hu" tvg-name="|HU| FILMBOX PREMIUM HU" tvg-logo="http://logo.iplay-tv.com:8000/logo/filmboxpremium.png" group-title="HUNGARY | TV",|HU| FILMBOX PREMIUM HU
-http://mytv.fun:8080/h0aoahfkhm/96nigw74ol/13286
-#EXTINF:-1 tvg-id="FilmboxFamily.hu" tvg-name="|HU| FILMBOX FAMILY HD" tvg-logo="http://logo.iplay-tv.com:8000/logo/filmboxfamily.png" group-title="HUNGARY | TV",|HU| FILMBOX FAMILY HD
-http://mytv.fun:8080/h0aoahfkhm/96nigw74ol/13288
-#EXTINF:-1 tvg-id="FilmboxPlus.hu" tvg-name="|HU| FILMBOX PLUS" tvg-logo="http://logo.iplay-tv.com:8000/logo/filmboxplus.png" group-title="HUNGARY | TV",|HU| FILMBOX PLUS
-http://mytv.fun:8080/h0aoahfkhm/96nigw74ol/13287
-#EXTINF:-1 tvg-id="FilmCafe.hu" tvg-name="|HU| FILM CAFE HU" tvg-logo="http://logo.iplay-tv.com:8000/logo/filmcafe.png" group-title="HUNGARY | TV",|HU| FILM CAFE HU
-http://mytv.fun:8080/h0aoahfkhm/96nigw74ol/13285
-#EXTINF:-1 tvg-id="SuperTV2.hu" tvg-name="|HU| SUPER TV 2" tvg-logo="http://logo.iplay-tv.com:8000/logo/supertv2.png" group-title="HUNGARY | TV",|HU| SUPER TV 2
-http://mytv.fun:8080/h0aoahfkhm/96nigw74ol/15611
-#EXTINF:-1 tvg-id="Cool.hu" tvg-name="|HU| COOL HD" tvg-logo="http://logo.iplay-tv.com:8000/logo/cool.png" group-title="HUNGARY | TV",|HU| COOL HD
-http://mytv.fun:8080/h0aoahfkhm/96nigw74ol/13296
-#EXTINF:-1 tvg-id="AXNWhite.cz" tvg-name="|HU| AXN WHITE" tvg-logo="http://logo.iplay-tv.com:8000/logo/axnwhite.png" group-title="HUNGARY | TV",|HU| AXN WHITE
-http://mytv.fun:8080/h0aoahfkhm/96nigw74ol/5329
-#EXTINF:-1 tvg-id="AXNBlack.cz" tvg-name="|HU| AXN BLACK" tvg-logo="http://logo.iplay-tv.com:8000/logo/axnblack.png" group-title="HUNGARY | TV",|HU| AXN BLACK
-http://mytv.fun:8080/h0aoahfkhm/96nigw74ol/5328
-#EXTINF:-1 tvg-id="AXN.hu" tvg-name="|HU| AXN" tvg-logo="http://logo.iplay-tv.com:8000/logo/axn.png" group-title="HUNGARY | TV",|HU| AXN
-http://mytv.fun:8080/h0aoahfkhm/96nigw74ol/13299
-#EXTINF:-1 tvg-id="RTLKlub.hu" tvg-name="|HU| RTL KLUB HD" tvg-logo="http://logo.iplay-tv.com:8000/logo/rtlklub.png" group-title="HUNGARY | TV",|HU| RTL KLUB HD
-http://mytv.fun:8080/h0aoahfkhm/96nigw74ol/8024
 #EXTINF:-1 tvg-id="RTLGold.hu" tvg-name="|HU| RTL GOLD HU" tvg-logo="http://logo.iplay-tv.com:8000/logo/rtlgold.png" group-title="HUNGARY | TV",|HU| RTL GOLD HU
 http://mytv.fun:8080/h0aoahfkhm/96nigw74ol/13265
 #EXTINF:-1 tvg-id="RTL2.hu" tvg-name="|HU| RTL 2 HD" tvg-logo="http://logo.iplay-tv.com:8000/logo/rtl2hu.png" group-title="HUNGARY | TV",|HU| RTL 2 HD
