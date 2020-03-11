@@ -3,72 +3,67 @@
 #EXTVLCOPT:network-caching=1000
 #EXTINF: -1 tvg-id = "" tvg-name = "RO049: CINEMAX 2" tvg-logo = "" group-title = "Romania", RO049: CINEMAX 2
 http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31827
-#EXTM3U
-#EXTINF:-1,AMC
-http://92.249.148.48:8001/play/a00x
-#EXTINF:-1,ATV
-http://92.249.148.48:8001/play/atv
-#EXTINF:-1,Comedy Central
-http://92.249.148.48:8001/play/a00c
-#EXTINF:-1,Cool TV
-http://92.249.148.48:8001/play/a00j
-#EXTINF:-1,Cool TV HD
-http://92.249.148.48:8001/play/a00w
-#EXTINF:-1,Film Café
-http://92.249.148.48:8001/play/a00l
-#EXTINF:-1,Film+
-http://92.249.148.48:8001/play/fplus
-#EXTINF:-1,Film+ HD
-http://92.249.148.48:8001/play/a00y
-#EXTINF:-1,Galaxy4
-http://92.249.148.48:8001/play/a00v
-#EXTINF:-1,HISTORY HD
-http://92.249.148.48:8001/play/a00g
-#EXTINF:-1,Hír TV
-http://92.249.148.48:8001/play/a00i
-#EXTINF:-1,Jocky TV
-http://92.249.148.48:8001/play/a005
-#EXTINF:-1,M4 Sport
-http://92.249.148.48:8001/play/m4
-#EXTINF:-1,M4 Sport HD
-http://92.249.148.48:8001/play/m4hd
-#EXTINF:-1,M5
-http://92.249.148.48:8001/play/m5
-#EXTINF:-1,M5 HD
-http://92.249.148.48:8001/play/m5hd
-#EXTINF:-1,Minimax
-http://92.249.148.48:8001/play/a00n
-#EXTINF:-1,Moziverzum
-http://92.249.148.48:8001/play/a006
-#EXTINF:-1,Nick Jr.
-http://92.249.148.48:8001/play/a00f
-#EXTINF:-1,RTL Klub
-http://92.249.148.48:8001/play/rtlklub
-#EXTINF:-1,RTL Klub HD
-http://92.249.148.48:8001/play/rtlklubhd
-#EXTINF:-1,RTLII HD
-http://92.249.148.48:8001/play/rtl2hd
-#EXTINF:-1,Sony Max
-http://92.249.148.48:8001/play/a00e
-#EXTINF:-1,Sony Movie Channel
-http://92.249.148.48:8001/play/a00d
-#EXTINF:-1,Spíler1 TV
-http://92.249.148.48:8001/play/sp1
-#EXTINF:-1,Spíler1 TV HD
-http://92.249.148.48:8001/play/sp1hd
-#EXTINF:-1,Spíler2 TV
-http://92.249.148.48:8001/play/sp2
-#EXTINF:-1,Spíler2 TV HD
-http://92.249.148.48:8001/play/sp2hd
-#EXTINF:-1,Super TV2
-http://92.249.148.48:8001/play/stv2
-#EXTINF:-1,Super TV2 HD
-http://92.249.148.48:8001/play/stv2hd
-#EXTINF:-1,TV Paprika
-http://92.249.148.48:8001/play/a00m
-#EXTINF:-1,TV2
-http://92.249.148.48:8001/play/tv2
-#EXTINF:-1,TV4
-http://92.249.148.48:8001/play/a00t
-#EXTINF:-1,Viasat Explore
-http://92.249.148.48:8001/play/a00o
+#EXTINF:-1 tvg-id="Viasat6.hu" tvg-name="|HU| VIASAT 6" tvg-logo="http://logo.iplay-tv.com:8000/logo/viasat6.png" group-title="HUNGARY | TV",|HU| VIASAT 6
+http://mytv.fun:8080/h0aoahfkhm/96nigw74ol/13251
+#EXTINF:-1 tvg-id="Viasat3.hu" tvg-name="|HU| VIASAT 3" tvg-logo="http://logo.iplay-tv.com:8000/logo/viasat3.png" group-title="HUNGARY | TV",|HU| VIASAT 3
+http://mytv.fun:8080/h0aoahfkhm/96nigw74ol/8040
+#EXTINF:-1 tvg-id="SuperTV2.hu" tvg-name="|HU| SUPER TV 2" tvg-logo="http://logo.iplay-tv.com:8000/logo/supertv2.png" group-title="HUNGARY | TV",|HU| SUPER TV 2
+http://mytv.fun:8080/h0aoahfkhm/96nigw74ol/13252
+#EXTINF:-1 tvg-id="MoziPlus.hu" tvg-name="|HU| MOZI+  HD" tvg-logo="http://logo.iplay-tv.com:8000/logo/moziplus.png" group-title="HUNGARY | TV",|HU| MOZI+  HD
+http://mytv.fun:8080/h0aoahfkhm/96nigw74ol/13270
+#EXTINF:-1 tvg-id="HBO.hu" tvg-name="|HU| HBO HD (HU)" tvg-logo="http://logo.iplay-tv.com:8000/logo/hbohu.png" group-title="HUNGARY | TV",|HU| HBO HD (HU
+http://mytv.fun:8080/h0aoahfkhm/96nigw74ol/13282
+#EXTINF:-1 tvg-id="HBO2.hu" tvg-name="|HU| HBO 2" tvg-logo="http://logo.iplay-tv.com:8000/logo/hbo2.png" group-title="HUNGARY | TV",|HU| HBO 2
+http://mytv.fun:8080/h0aoahfkhm/96nigw74ol/13281
+#EXTINF:-1 tvg-id="Galaxy4.hu" tvg-name="|HU| GALAXY4" tvg-logo="http://logo.iplay-tv.com:8000/logo/galaxy4.png" group-title="HUNGARY | TV",|HU| GALAXY4
+http://mytv.fun:8080/h0aoahfkhm/96nigw74ol/13283
+#EXTINF:-1 tvg-id="FilmboxPremium.hu" tvg-name="|HU| FILMBOX PREMIUM HU" tvg-logo="http://logo.iplay-tv.com:8000/logo/filmboxpremium.png" group-title="HUNGARY | TV",|HU| FILMBOX PREMIUM HU
+http://mytv.fun:8080/h0aoahfkhm/96nigw74ol/13286
+#EXTINF:-1 tvg-id="FilmboxFamily.hu" tvg-name="|HU| FILMBOX FAMILY HD" tvg-logo="http://logo.iplay-tv.com:8000/logo/filmboxfamily.png" group-title="HUNGARY | TV",|HU| FILMBOX FAMILY HD
+http://mytv.fun:8080/h0aoahfkhm/96nigw74ol/13288
+#EXTINF:-1 tvg-id="FilmboxPlus.hu" tvg-name="|HU| FILMBOX PLUS" tvg-logo="http://logo.iplay-tv.com:8000/logo/filmboxplus.png" group-title="HUNGARY | TV",|HU| FILMBOX PLUS
+http://mytv.fun:8080/h0aoahfkhm/96nigw74ol/13287
+#EXTINF:-1 tvg-id="FilmCafe.hu" tvg-name="|HU| FILM CAFE HU" tvg-logo="http://logo.iplay-tv.com:8000/logo/filmcafe.png" group-title="HUNGARY | TV",|HU| FILM CAFE HU
+http://mytv.fun:8080/h0aoahfkhm/96nigw74ol/13285
+#EXTINF:-1 tvg-id="SuperTV2.hu" tvg-name="|HU| SUPER TV 2" tvg-logo="http://logo.iplay-tv.com:8000/logo/supertv2.png" group-title="HUNGARY | TV",|HU| SUPER TV 2
+http://mytv.fun:8080/h0aoahfkhm/96nigw74ol/15611
+#EXTINF:-1 tvg-id="Cool.hu" tvg-name="|HU| COOL HD" tvg-logo="http://logo.iplay-tv.com:8000/logo/cool.png" group-title="HUNGARY | TV",|HU| COOL HD
+http://mytv.fun:8080/h0aoahfkhm/96nigw74ol/13296
+#EXTINF:-1 tvg-id="AXNWhite.cz" tvg-name="|HU| AXN WHITE" tvg-logo="http://logo.iplay-tv.com:8000/logo/axnwhite.png" group-title="HUNGARY | TV",|HU| AXN WHITE
+http://mytv.fun:8080/h0aoahfkhm/96nigw74ol/5329
+#EXTINF:-1 tvg-id="AXNBlack.cz" tvg-name="|HU| AXN BLACK" tvg-logo="http://logo.iplay-tv.com:8000/logo/axnblack.png" group-title="HUNGARY | TV",|HU| AXN BLACK
+http://mytv.fun:8080/h0aoahfkhm/96nigw74ol/5328
+#EXTINF:-1 tvg-id="AXN.hu" tvg-name="|HU| AXN" tvg-logo="http://logo.iplay-tv.com:8000/logo/axn.png" group-title="HUNGARY | TV",|HU| AXN
+http://mytv.fun:8080/h0aoahfkhm/96nigw74ol/13299
+#EXTINF:-1 tvg-id="RTLKlub.hu" tvg-name="|HU| RTL KLUB HD" tvg-logo="http://logo.iplay-tv.com:8000/logo/rtlklub.png" group-title="HUNGARY | TV",|HU| RTL KLUB HD
+http://mytv.fun:8080/h0aoahfkhm/96nigw74ol/8024
+#EXTINF:-1 tvg-id="RTLGold.hu" tvg-name="|HU| RTL GOLD HU" tvg-logo="http://logo.iplay-tv.com:8000/logo/rtlgold.png" group-title="HUNGARY | TV",|HU| RTL GOLD HU
+http://mytv.fun:8080/h0aoahfkhm/96nigw74ol/13265
+#EXTINF:-1 tvg-id="RTL2.hu" tvg-name="|HU| RTL 2 HD" tvg-logo="http://logo.iplay-tv.com:8000/logo/rtl2hu.png" group-title="HUNGARY | TV",|HU| RTL 2 HD
+http://mytv.fun:8080/h0aoahfkhm/96nigw74ol/13264
+#EXTINF:-1 tvg-id="SorozatPlus.hu" tvg-name="|HU| SOROZAT PLUS" tvg-logo="http://logo.iplay-tv.com:8000/logo/sorozatplus.png" group-title="HUNGARY | TV",|HU| SOROZAT PLUS
+http://mytv.fun:8080/h0aoahfkhm/96nigw74ol/13261
+#EXTINF:-1 tvg-id="Boomerang.hu" tvg-name="|HU| BOOMERANG" tvg-logo="http://logo.iplay-tv.com:8000/logo/boomerangcz.png" group-title="HUNGARY | TV",|HU| BOOMERANG
+http://mytv.fun:8080/h0aoahfkhm/96nigw74ol/14089
+#EXTINF:-1 tvg-id="CartoonNetworkTCM.hu" tvg-name="|HU| CARTOON NETWORK HU" tvg-logo="http://logo.iplay-tv.com:8000/logo/cartoonnetwork.png" group-title="HUNGARY | TV",|HU| CARTOON NETWORK HU
+http://mytv.fun:8080/h0aoahfkhm/96nigw74ol/14090
+#EXTINF:-1 tvg-id="Nickelodeon.hu" tvg-name="|HU| NICKELODEON EUROPE" tvg-logo="http://logo.iplay-tv.com:8000/logo/nickelodeoneurope.png" group-title="HUNGARY | TV",|HU| NICKELODEON EUROPE
+http://mytv.fun:8080/h0aoahfkhm/96nigw74ol/14092
+#EXTINF:-1 tvg-id="ComedyCentral.hu" tvg-name="|HU| COMEDY CENTRAL" tvg-logo="http://logo.iplay-tv.com:8000/logo/comedycentral.png" group-title="HUNGARY | TV",|HU| COMEDY CENTRAL
+http://magictv.live:25461/l5iL7PoGjE/giCOevxXsY/36639
+#EXTINF:-1 tvg-id="FilmNow.hu" tvg-name="|HU| FILM NOW" tvg-logo="http://logo.iplay-tv.com:8000/logo/filmnow.png" group-title="HUNGARY | TV",|HU| FILM NOW
+http://magictv.live:25461/l5iL7PoGjE/giCOevxXsY/36629
+#EXTINF:-1 tvg-id="FilmMania.hu" tvg-name="|HU| FILM MANIA" tvg-logo="http://logo.iplay-tv.com:8000/logo/filmmania.png" group-title="HUNGARY | TV",|HU| FILM MANIA
+http://magictv.live:25461/l5iL7PoGjE/giCOevxXsY/36613
+#EXTINF:-1 tvg-id="HumorPlus.hu" tvg-name="|HU| HUMOR PLUS" tvg-logo="http://logo.iplay-tv.com:8000/logo/humorplus.png" group-title="HUNGARY | TV",|HU| HUMOR PLUS
+http://magictv.live:25461/l5iL7PoGjE/giCOevxXsY/36602
+#EXTINF:-1 tvg-id="m2.hu" tvg-name="|HU| M2 HD" tvg-logo="http://logo.iplay-tv.com:8000/logo/m2hd.png" group-title="HUNGARY | TV",|HU| M2 HD
+http://magictv.live:25461/l5iL7PoGjE/giCOevxXsY/36595
+#EXTINF:-1 tvg-id="MoziPlus.hu" tvg-name="|HU| MOZI+  HD" tvg-logo="http://logo.iplay-tv.com:8000/logo/moziplus.png" group-title="HUNGARY | TV",|HU| MOZI+  HD
+http://magictv.live:25461/l5iL7PoGjE/giCOevxXsY/36589
+#EXTINF:-1 tvg-id="Minimax.hu" tvg-name="|HU| MINIMAX HU" tvg-logo="http://logo.iplay-tv.com:8000/logo/minimax.png" group-title="HUNGARY | TV",|HU| MINIMAX HU
+http://magictv.live:25461/l5iL7PoGjE/giCOevxXsY/36588
+EXTINF:-1 tvg-id="FilmMania.hu" tvg-name="|HU| FILM MANIA" tvg-logo="http://logo.iplay-tv.com:8000/logo/filmmania.png" group-title="HUNGARY | TV",|HU| FILM MANIA
+http://magictv.live:25461/l5iL7PoGjE/giCOevxXsY/36613
+#EXTINF:-1 tvg-id="MoziPlus.hu" tvg-name="|HU| MOZI+  HD" tvg-logo="http://logo.iplay-tv.com:8000/logo/moziplus.png" group-title="HUNGARY | TV",|HU| MOZI+  HD
+http://magictv.live:25461/l5iL7PoGjE/giCOevxXsY/36589
