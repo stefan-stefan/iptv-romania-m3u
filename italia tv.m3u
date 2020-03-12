@@ -1,127 +1,620 @@
 #EXTM3U
 #EXTINF: 0, ■■■■, [COLOR roșu] [/ COLOR] [COLOR deeppink] [B] * Lista mea este centrală! * [/ B] [/ COLOR] [COLOR deeppink] *** [/ COLOR]  
 http://0.0.0.0:1234
-#EXTINF:0 tvg-id="Rai1.it" group-title="Tivùsat",Rai 1
-https://raiuno2-live.akamaized.net/hls/live/598309/raiuno2/raiuno2/rai1_2400/chunklist.m3u8
-#EXTINF:0 tvg-id="Rai2.it" group-title="Tivùsat",Rai 2
-https://raidue1-live.akamaized.net/hls/live/598309/raidue1/raidue1/rai2_2400/chunklist.m3u8
-#EXTINF:0 tvg-id="Rai3.it" group-title="Tivùsat",Rai 3
-https://raitre1-live.akamaized.net/hls/live/598309/raitre1/raitre1/rai3_2400/chunklist.m3u8
-#EXTINF:0 tvg-id="Rete4.it" group-title="Tivùsat",Rete 4
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/stream04/streamPlaylist.m3u8
-#EXTINF:0 tvg-id="Canale5.it" group-title="Tivùsat",Canale 5
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/stream04/streamPlaylist.m3u8
-#EXTINF:0 tvg-id="Italia1.it" group-title="Tivùsat",Italia 1
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(I1)/stream04/streamPlaylist.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Tivùsat",LA7
-https://d15umi5iaezxgx.cloudfront.net/OUT/DASH/Live_640x360init.mp4
-#EXTINF:0 tvg-id="Tv8.it" group-title="Tivùsat",TV8 Italia
-https://vsd14.mycdn.me/dash/stream_560793389796/stream.manifest/sig/M0TTnofDk0o/expires/1582392400416/srcIp/31.164.130.215/clientType/0/srcAg/CHROME/mid/1488128384740/frag-high-6273276.dash
-#EXTINF:0 tvg-id="Nove.it" group-title="Tivùsat",Nove
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/index_1672_av-p.m3u8?sd=10&rebase=on&id=AgAfpILXwuZRxHqBUl5IWWpuCfAvrYKyPcDlb%2fmkq39de0zn8ucfrPiJyDQj6D8pA0D3oHDUXGPI9w%3d%3d
-#EXTINF:0 tvg-id="Rai4.it" group-title="Tivùsat",Rai 4
-http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1800_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-id="Iris.it" group-title="Tivùsat",Iris
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KI)/stream04/streamPlaylist.m3u8
-#EXTINF:0 tvg-id="LA5.it" group-title="Tivùsat",La5
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KA)/stream04/streamPlaylist.m3u8
-#EXTINF:0 tvg-id="Rai5.it" group-title="Tivùsat",Rai 5
-https://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-id="RaiMovie.it" group-title="Tivùsat",Rai Movie
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-id="RaiPremium.it" group-title="Tivùsat",Rai Premium
-https://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-id="Italia2.it" group-title="Tivùsat",Italia 2
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(I2)/stream04/streamPlaylist.m3u8
-#EXTINF:0 tvg-id="MediasetExtra.it" group-title="Tivùsat",Mediaset Extra
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(B7)/stream04/streamPlaylist.m3u8
-#EXTINF:0 tvg-id="TV2000.it" group-title="Tivùsat",TV2000
-https://cld02wz.tv2000.it/HLS/Tv2000WZ/chunklist.m3u8
-#EXTINF:0 tvg-id="20Mediaset.it" group-title="Tivùsat",Mediaset 20
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(LB)/stream04/streamPlaylist.m3u8
-#EXTINF:0 tvg-id="RaiSport.it" group-title="Tivùsat",Rai Sport
-https://b2everyrai-lh.akamaihd.net/i/raisport_1@181837/index_1800_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-id="RaiNews.it" group-title="Tivùsat",Rai News 24
-https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews_1800/chunklist.m3u8
-#EXTINF:0 tvg-id="Spike.it" group-title="Tivùsat",Spike
-https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/index_2500_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-id="DMAX.it" group-title="Tivùsat",DMAX
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/index_1672_av-p.m3u8?sd=10&rebase=on&id=AgAfpILXwuZRrfKBUl4LWtQtYowwqu8M7NB5axGmtEYSyLZBbLMyw9kZMJKtbApv8x1yvP3MnelNNw%3d%3d
-#EXTINF:0 tvg-id="avi" group-title="Tivùsat",LA7d
-https://d15umi5iaezxgx.cloudfront.net/LA7D/OUT/DASH/Live_960x540init.mp4
-#EXTINF:0 tvg-id="RealTime.it" group-title="Tivùsat",Real Time
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/index_1672_av-p.m3u8?sd=10&rebase=on&id=AgAfpILXwuZRxDGCUl7z+PK%2fBFnVM4poPtoqJdD0AuzuOW+oTmILZZK7PN1NeiSIEVF06ryDyBsgkw%3d%3d
-#EXTINF:0 tvg-id="ext" group-title="Tivùsat",Cine34
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/stream04/streamPlaylist.m3u8
-#EXTINF:0 tvg-id="RadioItalia.it" group-title="Tivùsat",Radio Italia TV
-https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-id="RTL102.5TV.it" group-title="Tivùsat",RTL 102.5 TV
-https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/chunklist_b1196000.m3u8
-#EXTINF:0 tvg-id="Giallo.it" group-title="Tivùsat",Giallo
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/index_1672_av-p.m3u8?sd=10&rebase=on&id=AgAfpILXwuZRxH2CUl6HtCui2xJUpKY0TSp4ZuYXs3%2fNwrgo%2f1zaLi9yW+3pSYifpDNgijvXXAOQrg%3d%3d
-#EXTINF:0 tvg-id="TopCrime.it" group-title="Tivùsat",Top Crime
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(LT)/stream04/streamPlaylist.m3u8
-#EXTINF:0 tvg-id="Boing.it" group-title="Tivùsat",Boing
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KB)/stream04/streamPlaylist.m3u8
-#EXTINF:0 tvg-id="RaiGulp.it" group-title="Tivùsat",Rai Gulp
-https://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1800_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-id="RaiYoyo.it" group-title="Tivùsat",Rai Yoyo
-https://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1800_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-id="Cartoonito.it" group-title="Tivùsat",Cartoonito
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(LA)/stream04/streamPlaylist.m3u8
-#EXTINF:0 tvg-id="FoodNetwork.it" group-title="Tivùsat",Food Network
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/index_1672_av-b.m3u8?sd=10&rebase=on&id=AgAfpILXwuZRxAeDUl4ekOQ4r8y0zfVbeaGijlu%2fGy+Y2O7tRndUWE66+EE46aLjRHvwqVeTO9unsg%3d%3d
-#EXTINF:0 tvg-id="MotorTrend.it" group-title="Tivùsat",Motor Trend
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/index_1672_av-p.m3u8?sd=10&rebase=on&id=AgAfpILXwuZRxDODUl6EPaCZF3b7On4kEG2E06H6f9PzFK9IZLQ2FP4yK9Rk3Pey5DhtzXgXQ9sRCA%3d%3d
-#EXTINF:0 tvg-id="Focus.it" group-title="Tivùsat",Focus
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/stream04/streamPlaylist.m3u8
-#EXTINF:0 tvg-id="HGTV.it" group-title="Tivùsat",HGTV
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_7@106896/index_1672_av-p.m3u8?sd=10&rebase=on&id=AgAfpILXwuZRrXSDUl5+dTI9xehKuqMJ5MGo9sEURJN3WruNm%2fbbRk+31AD8kL906BgnAW%2fNJdQpug%3d%3d
-#EXTINF:0 tvg-id="ext" group-title="Tivùsat",Radio Zeta TV
-https://rtl-video3-stream.thron.com/live-video/video3/ngrp:video3/chunklist_b1196000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Tivùsat",Radio Freccia TV
-https://rtl-video2-stream.thron.com/live-video/video2/ngrp:video2/chunklist_b1196000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Tivùsat",RTL 102.5 TV Napulè
-https://rtl-video5-stream.thron.com/live-video/video5/ngrp:video5/chunklist_b1196000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Tivùsat",RTL 102.5 TV Best
-https://rtl-video4-stream.thron.com/live-video/video4/ngrp:video4/chunklist_b1196000.m3u8
-#EXTINF:0 tvg-id="RadionorbaTV.it" group-title="Tivùsat",Radionorba TV
-https://flash7.xdevel.com/norbatv/smil:norbatv.smil/chunklist_w2020553337_b864000_slita.m3u8
+#EXTINF: -1 tvg-logo = "https://cdn3.iconfinder.com/data/icons/finalflags/128/Italy-Flag.png" group-title = "SKY ITALIA | LIVE", | IT | ** ***** ******* ITALIANĂ | IT |
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23657
  
-#EXTINF:0 tvg-id="RSILa1.ch" group-title="SRG/SSR",RSI LA 1
-https://rsila1-euwe.akamaized.net/333fb374-92b8-4a1d-90af-4529f56d683e/rsi1.ism/QualityLevels(499200)/Fragments(video=i,format=mpd-time-csf,encryption=cenc)
-#EXTINF:0 tvg-id="RSILa2.ch" group-title="SRG/SSR",RSI LA 2
-https://rsila2-euwe.akamaized.net/9944c781-cb19-4cca-8175-5729c1bb0247/rsi2.ism/QualityLevels(1999600)/Fragments(video=i,format=mpd-time-csf,encryption=cenc)
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_213F_3070_13E_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | RAI 1 HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23655
  
-#EXTINF:0 tvg-id="ext" group-title="Regionali",Antenna Blu
-https://5db313b643fd8.streamlock.net/AntennaBlu/AntennaBlu/chunklist_w1017106713.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Regionali",Antenna Sud
-https://59d8c0cee6f3d.streamlock.net/antennasud/antennasud/chunklist_w121407858.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Regionali",Bella TV
-https://server.bellaradio.it:5443/LiveApp/streams/729591642167928092854030.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Regionali",Cafè TV24
-https://srvx1.selftv.video/cafe/live/chunklist_w1514917851.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Regionali",CalabriaUno TV
-https://5926fc9c7c5b2.streamlock.net/9030/9030/chunklist_w1605876895.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Regionali",Canale 7
-https://59d8c0cee6f3d.streamlock.net/canale7/canale7/chunklist_w171658219.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Regionali",Canale 10
-http://37.187.142.147:1935/ch10live/high.stream/chunklist_w281593218.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Regionali",Canale 21 Campania
-http://live.sloode.com:1935/canale21/live/chunklist_w1794548032.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Regionali",Canale 21 Lazio
-http://live.sloode.com:1935/canale21/live2/chunklist_w468161374.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Regionali",Canale 85
-https://59d8c0cee6f3d.streamlock.net/canale85/canale85/chunklist_w212898097.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Regionali",Lira TV
-https://5bc42255bee71.streamlock.net/liratv/diretta01/chunklist_w1628807625.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Regionali",Lombardia TV
-https://5db313b643fd8.streamlock.net/LOMBARDIATV/LOMBARDIATV/chunklist_w653276668.m3u8
-#EXTINF:0 tvg-id="PadrePio.it" group-title="Regionali",Padre Pio TV
-https://5698c1463445c.streamlock.net/TRPP_live/smil:bcffcc98-ac2f-4b73-b0a5-ad1bfb96d845_all.smil/chunklist_w606320819_b227000_slita.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Regionali",Rete 8 VGA
-https://59af8c77bd5d6.streamlock.net/rete8/rete8/chunklist_w142917670.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Regionali",Rtv San Marino
-https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Regionali",TeleTicino
-https://teleticino720ptest.vedge.infomaniak.com/livecast/smil:teleticino720ptest.smil/chunklist_w1125890761_b3001080.m3u8
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_2140_3070_13E_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | RAI 2 HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23654
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_2141_3070_13E_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | RAI 3 HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23653
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_2142_3070_13E_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | RAI 4
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23652
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_CEE_1518_13E_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | RAI 5
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23651
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_4536_30D4_13E_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | RAI MOVIE HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23650
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_D4C_1450_13E_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | RAI SPORT
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23649
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_CED_1518_13E_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | RAI PREMIUM
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23648
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | ȘTIRI RAI 24
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23647
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | ȘTIRI RAI 24
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23646
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_4530_30D4_13E_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | RAI GULP
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23645
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_CEA_1518_13E_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | RAI YOYO
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23644
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | RADIO MONTECARLO
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23643
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_2_69_1770_110_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | RADIO 105
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23642
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | PT | • ------ • CULTURA • ------ • | PT |
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23641
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_1_1770_110_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | ITALIA 1
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23640
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_2_1770_110_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | CANALE 5 HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23638
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_2_1770_110_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | CANALE 5
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23637
+ 
+#EXTINF: -1 tvg-logo = "http://163.172.43.62/logo/pro.leaderiptv.com/logo/italie/donna_and_sposa_it.png" group-title = "SKY ITALIA | LIVE", | IT | DONNA TV
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23636
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_7_1770_110_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | LA 5
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23635
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | LA 7 HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23634
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_47_1770_110_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | LA7d
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23633
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | MEDIASET ITALA 2
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23632
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | MEDIASET EXTRA
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23631
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_E3F_16A8_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | TV8
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23630
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_19_36E3_6A4_13E_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | RSI LA 1
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23629
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_19_36E4_6A4_13E_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | RSI LA 2
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23628
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_82_10E7_1644_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | Tgcom
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23626
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | *** CINEMA *** | IT |
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23625
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_19_1E5D_15E0_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | SKY CINEMA UNO
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23624
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_19_1E5D_15E0_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | CINEMA SKY UNO 1
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23623
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_19_1C38_206C_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | SKY CINEMA 24 HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23622
+ 
+#EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8MAtzrenv6V5Y6YuItmnldz5OYDMgtv42AFBcqMxk_ln-TorH&s" group-title = LY | SKY CINEMA HITS HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23621
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_19_1C57_206C_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | FAMILIE SKY CINEMA HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23620
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_19_2CF4_206C_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | FAMILIE CINEMA SKY 1
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23619
+ 
+#EXTINF: -1 tvg-logo = "http://163.172.43.62/logo/pro.leaderiptv.com/logo/italie/sky_it_cinema_passion_hd.png" group-title = "SKY ITALIA | LIVE", | IT | SKY CINEMA PASSION HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23617
+ 
+#EXTINF: -1 tvg-logo = "http://163.172.43.62/logo/pro.leaderiptv.com/logo/italie/sky_it_cinema_passion_hd.png" group-title = "SKY ITALIA | LIVE", | IT | SKY- CINEMA-PASSION.HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23618
+ 
+#EXTINF: -1 tvg-logo = "https://senderlogos.images.dvbdata.com/302x190_w/617.png" group-title = "SKY ITALIA | LIVE", | IT | SKY CINEMA COMEDY HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23616
+ 
+#EXTINF: -1 tvg-logo = "http://163.172.43.62/logo/pro.leaderiptv.com/logo/italie/sky_it_cinema_max_hd.png" group-title = "SKY ITALIA | LIVE", | IT | SKY CINEMA MAX HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23615
+ 
+#EXTINF: -1 tvg-logo = "http://163.172.43.62/logo/pro.leaderiptv.com/logo/italie/sky_it_cinema_max_plus1_hd.png" group-title = "SKY ITALIA | LIVE", | IT | SKY CINEMA MAX 1
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23614
+ 
+#EXTINF: -1 tvg-logo = "http://163.172.43.62/logo/pro.leaderiptv.com/logo/italie/sky_it_cinema_cult_hd.png" group-title = "SKY ITALIA | LIVE", | IT | SKY CINEMA CULT HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23613
+ 
+#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Sky_Cinema_Classics_HD_-_Logo_2016.svg/512px-Sky_Cinema_Classics_HD_-_Logo_2016.svg. group" "SKY ITALIA | LIVE", | IT | SKY CINEMA CLASSIC HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23612
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_D_3200_13E_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | CANALUL PARAMOUNT
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23611
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_4_1770_110_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | IRIS
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23610
+ 
+#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/it/thumb/b/b4/Sky3D-IT-channel-plinth-RGB-3.png/260px-Sky3D-IT- channel-plinth-RGB-3.png "group-title =" SKY ITALIA | LIVE ", | IT | SKY CINEMA 3D
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23609
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | *** Intrattenimento *** | IT |
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23608
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_19_2505_2008_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | SKY UNO HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23607
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | SKY UNO 1 HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23606
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_19_3792_2008_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | SKY ATLANTIC HD.
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23605
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_19_2D00_206C_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | SKY ATLANTIC 1
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23604
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_19_2B42_1900_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | SKY ARTE HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23603
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_C2D_1E78_71_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | FOX HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23602
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_19_DB8_1AF4_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | FOX LIFE HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23601
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_19_379E_14B4_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | FOX CRIME HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23600
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_FCA_2580_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | FOX ANIMATION HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23598
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_57C_320_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | COMEDY CENTRAL HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23597
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | BLAZE HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23596
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_E47_16A8_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | GIALLO
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23595
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_E2A_708_C8_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | NOVE HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23594
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_5BD_2774_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | TIMP REAL
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23593
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_C_1770_110_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | TOPCRIME
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23592
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_3C03_2260_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | LEI HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23591
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astra28.2/1_0_1_1E32_809_2_11A0000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | SPIKE
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23590
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | *** SKY Sport *** | IT |
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23589
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_19_2B1B_1900_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | SKY SPORT 24 HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23588
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_19_2B0F_2008_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | SKY SPORT UNO HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23587
+ 
+#EXTINF: -1 tvg-logo = "https://net-storage.tccstatic.com/storage/pianetabasket.com/img_notizie/thumb1/43/43e1a1f39a13a3b1e4f56b297b8b2ca0-35173-d41d8cd98f00b204e9800998 | LIVE ", | IT | SKY SPORT 2 HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23586
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_2AA9_1838_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | FUTBOL SKY SPORT HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23585
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_19_1C50_206C_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | SKY SPORT ARENA FHD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23584
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | SKY SPORT COLLECTION HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23583
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | SKY SPORT WWE HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23582
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_19_2506_170C_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | SKY SPORT F1
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23580
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_19_250B_170C_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | SKY MOTO GP
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23579
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_3E25_2EE0_13E_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | EUROSPORT 1 HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23578
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | EUROSPORT 2 HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23577
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/sportitalia.png" group-title = "SKY ITALIA | LIVE", | IT | SPORT ITALIA
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23576
+ 
+#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Fight_Channel_official_logo.png/176px-Fight_Channel_official_logo.png" group-title = "SKY ITALIA | LIVE" , | IT | CANALĂ DE LUPĂ
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23575
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | SUPER TENNIS HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23574
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/automoto.png" group-title = "SKY ITALIA | LIVE", | IT | AutoMoto
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23573
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | BANNE CANALĂ HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23572
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_57E_320_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | CANAL MILAN HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23571
+ 
+#EXTINF: -1 tvg-logo = "http://163.172.43.62/logo/pro.leaderiptv.com/logo/italie/juventus_tv_it.png" group-title = "SKY ITALIA | LIVE", | IT | JUVENTUS TV
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23570
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_2CC0_2580_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | CANAL INTER
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23569
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_CEE_1518_13E_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | RAI 5
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23651
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_FED_1E14_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | CANAL LAZIO HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23567
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_19_2C77_251C_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | TOP CALCIO 24
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23566
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | *** CALCIO *** | IT |
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/24989
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_19_F4D_2198_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | SKY SPORT 251 HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23564
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_2BCF_1A90_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | SKY SPORT 252 HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23563
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_2BD1_1A90_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | SKY SPORT 253 HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23562
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_2BD3_1A90_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | SKY SPORT 254 HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23561
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_2BD5_1A90_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | SKY SPORT 255 HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23560
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_2BD7_1A90_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | SKY SPORT 256 HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23559
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_19_1E5F_15E0_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | SKY SPORT 257 HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23558
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | SKY CALCIO 8
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23557
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | SKY CALCIO 9
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23556
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | SKY CALCIO 10
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23555
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | ***** CULTURA ***** | IT |
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23554
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | CANAL DESCOPERIRE
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23553
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_19_2B13_1900_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | SCOPĂ ȘTIINȚA
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23552
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_FDB_1E14_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | CRIME & INVESTIGARE HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23551
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_5B9_320_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | DESCOPERIȚI Călătorie și LIVE HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23550
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_19_379C_2008_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | HD GEOGRAFIC NAȚIONAL
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23549
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_19_DBA_1AF4_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | NAT GEO OAMENI
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23548
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_19_DBB_1AF4_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | NAT GEO WILD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23547
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_2C90_2580_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | PLANETA ANIMALELOR
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23546
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_2FC4_2DB4_13E_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | GAMBERO ROSSO
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23545
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_3C01_1A90_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | DOVE TV HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23544
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_E4B_16A8_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | FOCUS
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23543
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_E50_320_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | DMAX
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23542
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_19_1018_1D4C_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | CIELO HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23541
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | MARCO POLO
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23540
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_35C4_1388_13E_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | ALICE
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23539
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_19_104A_1D4C_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | CLASSICA HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23538
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_CE8_1518_13E_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | RAI STORIA
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23537
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_3BF0_2260_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | CACCIA HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23536
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_3BF0_2260_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | PESCA HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23535
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_3BF0_2260_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | PESCARE E CACCIARE
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23534
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_FE3_1E14_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | PESCUIT ITALIAN
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23533
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | ISTORIE HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23532
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | *** Bambini *** | IT |
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23531
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_19_1020_1D4C_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | CANALUL DISNEY HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23530
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_2B7C_19C8_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | DISNEY JUNIOR HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23529
+ 
+#EXTINF: -1 tvg-logo = "http://163.172.43.62/logo/pro.leaderiptv.com/logo/italie/disney_xd_us.png" group-title = "SKY ITALIA | LIVE", | IT | DISNEY XD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23528
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_590_320_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | NICK JR
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23527
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_7_1770_110_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | Cartoonito
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23526
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/cartoonnetwork.png" group-title = "SKY ITALIA | LIVE", | IT | CARTOON NETWORK
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23525
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_2C31_251C_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | DEA JUNIOR
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23524
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_2CC4_2580_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | DEA KIDS
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23523
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_3C07_2260_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | BUMERANG
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23522
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/nickelodeon.png" group-title = "SKY ITALIA | LIVE", | IT | NICKELODEON
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23521
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_2CCA_2580_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | K2
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23520
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_6_1770_110_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | Boing
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23519
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_2C9D_2580_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | SUPER
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23518
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/mangas.png" group-title = "SKY ITALIA | LIVE", | IT | MANGA
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23517
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/astrahotbird/1_0_1_2C9A_2580_FBFF_820000_0_0_0.png" group-title = "SKY ITALIA | LIVE", | IT | frisbee
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23516
+ 
+#EXTINF: -1 tvg-logo = "http://163.172.43.62/logo/pro.leaderiptv.com/logo/italie/pop_it.png" group-title = "SKY ITALIA | LIVE", | IT | POP
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23515
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | ***** PRIMAFILA ***** | IT |
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23514
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | PRIMAFILA 1
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23513
+ 
+#EXTINF: -1 tvg-logo = "http://163.172.43.62/logo/pro.leaderiptv.com/logo/italie/sky_it_primafila.png" group-title = "SKY ITALIA | LIVE", | IT | PRIMAFILA 2
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23512
+ 
+#EXTINF: -1 tvg-logo = "http://163.172.43.62/logo/pro.leaderiptv.com/logo/italie/sky_it_primafila.png" group-title = "SKY ITALIA | LIVE", | IT | PRIMAFILA 3
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23511
+ 
+#EXTINF: -1 tvg-logo = "http://163.172.43.62/logo/pro.leaderiptv.com/logo/italie/sky_it_primafila.png" group-title = "SKY ITALIA | LIVE", | IT | PRIMAFILA 4
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23510
+ 
+#EXTINF: -1 tvg-logo = "http://163.172.43.62/logo/pro.leaderiptv.com/logo/italie/sky_it_primafila.png" group-title = "SKY ITALIA | LIVE", | IT | PRIMAFILA 5
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23509
+ 
+#EXTINF: -1 tvg-logo = "http://163.172.43.62/logo/pro.leaderiptv.com/logo/italie/sky_it_primafila.png" group-title = "SKY ITALIA | LIVE", | IT | PRIMAFILA 6
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23508
+ 
+#EXTINF: -1 tvg-logo = "http://163.172.43.62/logo/pro.leaderiptv.com/logo/italie/sky_it_primafila.png" group-title = "SKY ITALIA | LIVE", | IT | PRIMAFILA 7
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23507
+ 
+#EXTINF: -1 tvg-logo = "http://163.172.43.62/logo/pro.leaderiptv.com/logo/italie/sky_it_primafila.png" group-title = "SKY ITALIA | LIVE", | IT | PRIMAFILA 8
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23506
+ 
+#EXTINF: -1 tvg-logo = "http://163.172.43.62/logo/pro.leaderiptv.com/logo/italie/sky_it_primafila.png" group-title = "SKY ITALIA | LIVE", | IT | PRIMAFILA 9
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23505
+ 
+#EXTINF: -1 tvg-logo = "http://163.172.43.62/logo/pro.leaderiptv.com/logo/italie/sky_it_primafila.png" group-title = "SKY ITALIA | LIVE", | IT | PRIMAFILA 10
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23504
+ 
+#EXTINF: -1 tvg-logo = "http://163.172.43.62/logo/pro.leaderiptv.com/logo/italie/sky_it_primafila.png" group-title = "SKY ITALIA | LIVE", | IT | PRIMAFILA 11
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23503
+ 
+#EXTINF: -1 tvg-logo = "http://163.172.43.62/logo/pro.leaderiptv.com/logo/italie/sky_it_primafila.png" group-title = "SKY ITALIA | LIVE", | IT | PRIMAFILA 12
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23502
+ 
+#EXTINF: -1 tvg-logo = "http://163.172.43.62/logo/pro.leaderiptv.com/logo/italie/sky_it_primafila.png" group-title = "SKY ITALIA | LIVE", | IT | PRIMAFILA 13
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23501
+ 
+#EXTINF: -1 tvg-logo = "http://163.172.43.62/logo/pro.leaderiptv.com/logo/italie/sky_it_primafila.png" group-title = "SKY ITALIA | LIVE", | IT | PRIMAFILA 14
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23500
+ 
+#EXTINF: -1 tvg-logo = "http://163.172.43.62/logo/pro.leaderiptv.com/logo/italie/sky_it_primafila.png" group-title = "SKY ITALIA | LIVE", | IT | PRIMAFILA 15
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23499
+ 
+#EXTINF: -1 tvg-logo = "http://163.172.43.62/logo/pro.leaderiptv.com/logo/italie/sky_it_primafila.png" group-title = "SKY ITALIA | LIVE", | IT | PRIMAFILA 16
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23498
+ 
+#EXTINF: -1 tvg-logo = "http://163.172.43.62/logo/pro.leaderiptv.com/logo/italie/sky_it_primafila.png" group-title = "SKY ITALIA | LIVE", | IT | PRIMAFILA 17
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23497
+ 
+#EXTINF: -1 tvg-logo = "http://163.172.43.62/logo/pro.leaderiptv.com/logo/italie/sky_it_primafila.png" group-title = "SKY ITALIA | LIVE", | IT | PRIMAFILA 18
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23496
+ 
+#EXTINF: -1 tvg-logo = "http://163.172.43.62/logo/pro.leaderiptv.com/logo/italie/sky_it_primafila.png" group-title = "SKY ITALIA | LIVE", | IT | PRIMAFILA 19
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23495
+ 
+#EXTINF: -1 tvg-logo = "http://163.172.43.62/logo/pro.leaderiptv.com/logo/italie/sky_it_primafila.png" group-title = "SKY ITALIA | LIVE", | IT | PRIMAFILA 20
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23494
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | *** PREMIUM *** | IT |
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23493
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/PremiumItalia/Premium Cinema HD.png" group-title = "SKY ITALIA | LIVE", | IT | PREMIUM CINEMA HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23492
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/PremiumItalia/Premium Cinema + 24.png" group-title = "SKY ITALIA | LIVE", | IT | CINEMA PREMIUM2 24
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23489
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/PremiumItalia/Premium Cinema + 24.png" group-title = "SKY ITALIA | LIVE", | IT | CINEMA PREMIUM 24
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23491
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | ACȚIUNEA CINEMA PREMIUM
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23488
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | ACȚIUNEA CINEMA PREMIUM 24
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23487
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | ENERGIE PREMIUM
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23486
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | ENERGIA PREMIUM 24
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23485
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | EMOȚIE PREMIUM
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23484
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | COMEDIA PREMIUM
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23483
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | CRIME PREMIUM
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23482
+ 
+#EXTINF: -1 tvg-logo = "http://163.172.43.62/logo/pro.leaderiptv.com/logo/italie/mediaset_premium_crime_plus24.png" group-title = "SKY ITALIA | LIVE", | IT | CRIME PREMIUM 24
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23481
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | PREMIUM STUDIO UNIVERSAL
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23480
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/PremiumItalia/Premium Emotion.png" group-title = "SKY ITALIA | LIVE", | IT | EMOȚIE DE CINEMA PREMIUM
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23479
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | PĂTURI PREMIUM
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23478
+ 
+#EXTINF: -1 tvg-logo = "http://163.172.43.62/logo/pro.leaderiptv.com/logo/italie/mediaset_premium_joi.png" group-title = "SKY ITALIA | LIVE", | IT | PREMIUM JOI
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23477
+ 
+#EXTINF: -1 tvg-logo = "http://163.172.43.62/logo/pro.leaderiptv.com/logo/italie/mediaset_premium_joi_plus24.png" group-title = "SKY ITALIA | LIVE", | IT | PREMIUM JOI 24
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23476
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", PREMIUM STUDIO UNIVERSAL
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23475
+ 
+#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Logo_id.png/150px-Logo_id.png" group-title = "SKY ITALIA | LIVE" , | IT | INVESTIGAȚIA PRIVIND DESCOPERIREA
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23474
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | REțEA DE CARTOON PREMIUM
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23473
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | PREMIUM DISNEY JUNIOR
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23472
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | PREMIUM SPORT HD
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23471
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | SPORT PREMIUM 2
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23470
+ 
+#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/it/thumb/e/e0/Fox_Sports_Logo_2015.png/260px-Fox_Sports_Logo_2015.png" group-title = "SKY ITALIA | LIVE" , | IT | FOX SPORT
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23581
+ 
+#EXTINF: -1 tvg-logo = "http://163.172.43.62/logo/pro.leaderiptv.com/logo/italie/eurosport_fr_1.png" group-title = "SKY ITALIA | LIVE", IT | PREMIUM EUROSPORT 1
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23468
+ 
+#EXTINF: -1 tvg-logo = "http://163.172.43.62/logo/pro.leaderiptv.com/logo/italie/eurosport_fr_2.png" group-title = "SKY ITALIA | LIVE", PREMIUM_EUROSPORT-2
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23467
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | CALCIO PREMIUM 1
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23466
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | CALCIO PREMIUM 2
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23465
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | CALCIO PREMIUM 3
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23464
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | CALCIO PREMIUM 4
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23463
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | CALCIO PREMIUM 5
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23462
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | CALCIO PREMIUM 6
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23461
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | CALCIO PREMIUM 7
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23460
+ 
+#EXTINF: -1 tvg-logo = "http://163.172.43.62/logo/pro.leaderiptv.com/logo/italie/fox_sports_global.png" group-title = "SKY ITALIA | LIVE", | IT | SPORT PREMIUM FOX
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23469
+ 
+#EXTINF: -1 tvg-logo = "http://x.iptv-pure.com/PremiumItalia/Premium Cinema HD.png" group-title = "SKY ITALIA | LIVE", | IT | PREMIUM CINEMA2
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/23490
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | DAZN Info
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/29589
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | DAZN Sport 0
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/29588
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | DAZN Sport 1
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/29587
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | DAZN Sport 2
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/29585
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | DAZN Sport 3
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/29584
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | DAZN sport 4
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/29583
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | DAZN Sport 5
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/29582
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | DAZN Sport 6
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/29581
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | DAZN Sport 7
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/29580
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | DAZN Sport 8
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/29579
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | DAZN Sport 9
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/29578
+ 
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "SKY ITALIA | LIVE", | IT | DAZN Sport 10
+http://iptvpro.premium-itv.com:8789/BXBz2RARsE/QRxfbh5j7y/29586
