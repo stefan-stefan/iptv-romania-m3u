@@ -2,36 +2,3 @@
 http://0.0.0.0:12345
 #EXTINF:-1 tvg-ID="CBSReality.ro" tvg-name="RO: CBS REALITY" tvg-logo="https://iptvsensation.org/picons/cbsreality.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] CBS REALITY
 http://edge81.rdsnet.ro/digiedge3/cbsrealityehq/chunklist_w1543359106.m3u8?is=65&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1 tvg-ID="DiscoveryChannel.ro" tvg-name="RO: Discovery" tvg-logo="https://iptvsensation.org/picons/discovery.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Discovery
-http://82.76.40.81/digiedge2/smil:discovery.smil/playlist.m3u8?is=71&src=app&t=00000000000000000000000000000000
-#EXTINF:-1 tvg-ID="NatGeoWildHD.ro" tvg-name="RO: Nat Geo Wild" tvg-logo="https://iptvsensation.org/picons/natgeowild.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Nat Geo Wild
-http://82.76.40.81/digiedge2/nationalgeographicwildehq/index.m3u8?is=33&src=app&t=00000000000000000000000000000000
-#EXTINF:-1 tvg-ID="National Geographic" tvg-name="RO: National Geographic HD" tvg-logo="https://iptvsensation.org/logo/ro/NatGeo.ro.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] National Geographic HD
-http://82.76.40.81/digiedge2/smil:nationalgeographic.smil/playlist.m3u8?is=19&src=app&t=00000000000000000000000000000000
-#EXTINF:0 tvg-logo="http://stvron.com/canale/512/dtx.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]DTX (Discovery Turbo Xtra)
-http://94.177.136.29:7478/play/a03b
-#EXTINF:-1 tvg-id="" tvg-name="|RO| HISTORY" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/HISTORY.png" group-title="STIRI",[COLOR deeppink]Http.[/COLOR][COLOR red]# 1[/COLOR] HISTORY
-#EXTVLCOPT:network-caching=1000
-http://edge81.rdsnet.ro/digiedge2/historychannelehq/index.m3u8?is=20&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/history-2-canada.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]History Channel 2
-http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
-#EXTINF:-1 tvg-ID="Discovery Investigation" tvg-name="RO: Discovery ID" tvg-logo="https://iptvsensation.org/picons/discoveryid.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Discovery ID
-#EXTVLCOPT:network-caching=1000
-https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation-avc1_1000000=10-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|RO| ANIMAL PLANET HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/ANIMALPLANET.png" group-title="STIRI",[COLOR red]Http.[/COLOR][COLOR red]# 2[/COLOR] ANIMAL PLANET 
-http://tv-he.orange.ro/shls/LIVE$animalplanethd/10.m3u8/Level%282306867%29?start=LIVE&end=END
-#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/digianimal.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Digi Animal World
-http://edge81.rdsnet.ro/digiedge2/digianimalworldehq/index.m3u8?is=16&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Viasat_Explorer.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Viasat Explorer
-http://82.76.40.81/digiedge2/viasatexplorerehq/index.m3u8?is=40&src=app&t=00000000000000000000000000000000
-#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Viasat_History.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Viasat Nature   
-http://82.76.40.81/digiedge2/viasatnatureehq/index.m3u8?is=42&src=app&t=00000000000000000000000000000000
-#EXTINF:0 tvg-logo="https://tvlogo.files.wordpress.com/2010/03/11397-pv_tv.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Fishing and Hunting
-#EXTVLCOPT:network-caching=1000
-http://edge81.rdsnet.ro/digiedge3/fishingandhuntingehq/index.m3u8?is=92&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1 tvg-ID="E! Entertainment" tvg-name="RO: E! Entertainment" tvg-logo="https://iptvsensation.org/picons/eentertainment.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] E! Entertainment
-http://edge81.rdsnet.ro/digiedge2/eentertainmentehq/index.m3u8?is=73&src=app&t=00000000000000000000000000000000
-#EXTINF:-1 tvg-ID="ViasatHistory.ro" tvg-name="RO: Viasat History" tvg-logo="https://iptvsensation.org/logo/ro/ViasatHistory.ro.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Viasat History
-http://82.76.40.81/digiedge2/smil:viasathistory.smil/playlist.m3u8?is=41&src=app&t=00000000000000000000000000000000
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="STIRI",[COLOR red]Http.[/COLOR][COLOR red]# 2[/COLOR] BBC EARTH
-http://edge81.rdsnet.ro/digiedge2/bbcearthehq/index.m3u8?is=67&src=digi-online.&t=00000000000000000000000000000000
