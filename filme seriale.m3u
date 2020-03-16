@@ -1,6 +1,2 @@
-<item>
-<title>test seriale 123</title>
-<link>http://cliente.kudaplay.tv/getCanaisSSIPTVList?token=9d99354de0721d61f41f027b52110ac2&type=list_serie&output=download&category=19</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", ACTIUNE
+http://cliente.kudaplay.tv/getCanaisSSIPTVList?token=9d99354de0721d61f41f027b52110ac2&type=list_serie&output=download&category=25
