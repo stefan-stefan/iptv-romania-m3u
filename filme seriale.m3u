@@ -1,2 +1,20 @@
-# EXTM3U
+#EXTM3U size="Medium"
+#EXTINF:0 type="playlist" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/rolo-de-filme-png-com-fundo-transparente-2.png", STEFANTEST
+https://raw.githubusercontent.com/stefan-stefan/filme-online/master/test%20seriale%20tv2.m3u
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", NOVIDADES
+http://cliente.kudaplay.tv/getCanaisSSIPTVList?token=9d99354de0721d61f41f027b52110ac2&type=list_serie&output=download&category=37
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", AVENTURA
+http://cliente.kudaplay.tv/getCanaisSSIPTVList?token=9d99354de0721d61f41f027b52110ac2&type=list_serie&output=download&category=19
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", AÇÃO
+http://cliente.kudaplay.tv/getCanaisSSIPTVList?token=9d99354de0721d61f41f027b52110ac2&type=list_serie&output=download&category=18
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", TERROR
+http://cliente.kudaplay.tv/getCanaisSSIPTVList?token=9d99354de0721d61f41f027b52110ac2&type=list_serie&output=download&category=17
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", SUSPENSE
+http://cliente.kudaplay.tv/getCanaisSSIPTVList?token=9d99354de0721d61f41f027b52110ac2&type=list_serie&output=download&category=31
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", MISTÉRIO
+http://cliente.kudaplay.tv/getCanaisSSIPTVList?token=9d99354de0721d61f41f027b52110ac2&type=list_serie&output=download&category=35
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", POLICIAL 
+http://cliente.kudaplay.tv/getCanaisSSIPTVList?token=9d99354de0721d61f41f027b52110ac2&type=list_serie&output=download&category=34
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", CRIME
+http://cliente.kudaplay.tv/getCanaisSSIPTVList?token=9d99354de0721d61f41f027b52110ac2&type=list_serie&output=download&category=23
 
