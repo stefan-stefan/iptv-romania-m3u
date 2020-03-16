@@ -1,46 +1,6 @@
-#EXTM3U size="Medium"
-
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", NOVIDADES
-http://cliente.kudaplay.tv/getCanaisSSIPTVList?token=9d99354de0721d61f41f027b52110ac2&type=list_serie&output=download&category=37
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", AVENTURA
-http://cliente.kudaplay.tv/getCanaisSSIPTVList?token=9d99354de0721d61f41f027b52110ac2&type=list_serie&output=download&category=19
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", AÇÃO
-http://cliente.kudaplay.tv/getCanaisSSIPTVList?token=9d99354de0721d61f41f027b52110ac2&type=list_serie&output=download&category=18
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", TERROR
-http://cliente.kudaplay.tv/getCanaisSSIPTVList?token=9d99354de0721d61f41f027b52110ac2&type=list_serie&output=download&category=17
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", SUSPENSE
-http://cliente.kudaplay.tv/getCanaisSSIPTVList?token=9d99354de0721d61f41f027b52110ac2&type=list_serie&output=download&category=31
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", MISTÉRIO
-http://cliente.kudaplay.tv/getCanaisSSIPTVList?token=9d99354de0721d61f41f027b52110ac2&type=list_serie&output=download&category=35
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", POLICIAL 
-http://cliente.kudaplay.tv/getCanaisSSIPTVList?token=9d99354de0721d61f41f027b52110ac2&type=list_serie&output=download&category=34
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", CRIME
-http://cliente.kudaplay.tv/getCanaisSSIPTVList?token=9d99354de0721d61f41f027b52110ac2&type=list_serie&output=download&category=23
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", FAROESTE
-http://cliente.kudaplay.tv/getCanaisSSIPTVList?token=9d99354de0721d61f41f027b52110ac2&type=list_serie&output=download&category=28
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", GUERRA
-http://cliente.kudaplay.tv/getCanaisSSIPTVList?token=9d99354de0721d61f41f027b52110ac2&type=list_serie&output=download&category=29
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", FANTASIA
-http://cliente.kudaplay.tv/getCanaisSSIPTVList?token=9d99354de0721d61f41f027b52110ac2&type=list_serie&output=download&category=25
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", FICÇÃO CIENTIFICA
-http://cliente.kudaplay.tv/getCanaisSSIPTVList?token=9d99354de0721d61f41f027b52110ac2&type=list_serie&output=download&category=26
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", COMEDIA
-http://cliente.kudaplay.tv/getCanaisSSIPTVList?token=9d99354de0721d61f41f027b52110ac2&type=list_serie&output=download&category=21
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", ROMANCE
-http://cliente.kudaplay.tv/getCanaisSSIPTVList?token=9d99354de0721d61f41f027b52110ac2&type=list_serie&output=download&category=27
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", DRAMA
-http://cliente.kudaplay.tv/getCanaisSSIPTVList?token=9d99354de0721d61f41f027b52110ac2&type=list_serie&output=download&category=24
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", FAMILIAR
-http://cliente.kudaplay.tv/getCanaisSSIPTVList?token=9d99354de0721d61f41f027b52110ac2&type=list_serie&output=download&category=33
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", MUSICAL
-http://cliente.kudaplay.tv/getCanaisSSIPTVList?token=9d99354de0721d61f41f027b52110ac2&type=list_serie&output=download&category=30
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", INFANTIL
-http://cliente.kudaplay.tv/getCanaisSSIPTVList?token=9d99354de0721d61f41f027b52110ac2&type=list_serie&output=download&category=2
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", ANIMAÇÃO
-http://cliente.kudaplay.tv/getCanaisSSIPTVList?token=9d99354de0721d61f41f027b52110ac2&type=list_serie&output=download&category=20
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", BIOGRAFIA
-http://cliente.kudaplay.tv/getCanaisSSIPTVList?token=9d99354de0721d61f41f027b52110ac2&type=list_serie&output=download&category=32
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", DOCUMENTARIO
-http://cliente.kudaplay.tv/getCanaisSSIPTVList?token=9d99354de0721d61f41f027b52110ac2&type=list_serie&output=download&category=11
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", ESPORTE
-http://cliente.kudaplay.tv/getCanaisSSIPTVList?token=9d99354de0721d61f41f027b52110ac2&type=list_serie&output=download&category=1
+<item>
+<title>test seriale 123</title>
+<link>http://cliente.kudaplay.tv/getCanaisSSIPTVList?token=9d99354de0721d61f41f027b52110ac2&type=list_serie&output=download&category=19</link>
+<thumbnail>https://banner2.cleanpng.com/20180608/phz/kisspng-tom-cat-jerry-mouse-tom-and-jerry-television-show-tom-and-jerry-5b1a080955a278.5774855815284326493508.jpg</thumbnail>
+<fanart>https://banner2.cleanpng.com/20180608/phz/kisspng-tom-cat-jerry-mouse-tom-and-jerry-television-show-tom-and-jerry-5b1a080955a278.5774855815284326493508.jpg</fanart>
+</item>
