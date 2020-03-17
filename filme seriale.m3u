@@ -31,3 +31,9 @@
 <animated_fanart></animated_fanart>
 <fanart>https://ia.media-imdb.com/images/M/MV5BMTZiMGY5NjctMTQ3Mi00NzI2LThkMWEtNmQ0OTE1MzZkMDg0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg</fanart>
 </item>
+<plugin>
+<title>Search Music</title>
+<link>plugin://plugin.video.youtube/kodion/search/list/</link>
+<thumbnail></thumbnail>
+</plugin>
+
