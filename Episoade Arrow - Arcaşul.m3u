@@ -1,0 +1,90 @@
+<item>
+<title>[COLORgreen][B]TEST[/B][/COLOR]</title>
+<meta>
+<content>movie</content>
+<imdb>tt5563334</imdb>
+<title>TEST</title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>[COLORred][B]search[/B][/COLOR]</sublink>
+<sublink>[COLORwhite][B]searchsd[/B][/COLOR]</sublink>
+</link>
+<animated_thumbnail></animated_thumbnail>
+<thumbnail>https://i.pinimg.com/originals/0b/60/07/0b600730a91d081ddb94e215ef6a181c.png</thumbnail>
+<animated_fanart></animated_fanart>
+<fanart>https://i.pinimg.com/originals/0b/60/07/0b600730a91d081ddb94e215ef6a181c.png</fanart>
+</item>
+
+
+<dir>
+  <title>[COLOR white][B]SEZONUL - 01 [/B][/COLOR]</title>
+  <thumbnail>https://i.pinimg.com/originals/0b/60/07/0b600730a91d081ddb94e215ef6a181c.png</thumbnail>
+  <fanart>https://i.pinimg.com/originals/0b/60/07/0b600730a91d081ddb94e215ef6a181c.png</fanart>
+  <link>https://raw.githubusercontent.com/stefan-stefan/iptv-romania-m3u/master/Urzeala%20tronurilor%20sezonul%201.m3u</link>
+  <info><info>
+  <genre>Aventura, Drama, Fantasia</genre>
+</dir>
+ 
+  <dir>
+  <title>[COLOR white][B]SEZONUL - 02 [/B][/COLOR]</title>
+  <thumbnail>https://i.pinimg.com/originals/0b/60/07/0b600730a91d081ddb94e215ef6a181c.png</thumbnail>
+  <fanart>https://i.pinimg.com/originals/0b/60/07/0b600730a91d081ddb94e215ef6a181c.png</fanart>
+  <link>https://raw.githubusercontent.com/stefan-stefan/iptv-romania-m3u/master/Urzeala%20tronurilor%20sezonul%201.m3u</link>
+  <info<info>
+  <genre>Aventura, Drama, Fantasia</genre>
+</dir>
+
+  <dir>
+  <title>[COLOR white][B]SEZONUL - 03 [/B][/COLOR]</title>
+  <thumbnail>https://i.pinimg.com/originals/0b/60/07/0b600730a91d081ddb94e215ef6a181c.png</thumbnail>
+  <fanart>https://i.pinimg.com/originals/0b/60/07/0b600730a91d081ddb94e215ef6a181c.png</fanart>
+  <link>https://raw.githubusercontent.com/stefan-stefan/iptv-romania-m3u/master/Urzeala%20tronurilor%20(sezonul%201).m3u</link>
+  <info><info>
+  <genre>Aventura, Drama, Fantasia</genre>
+</dir>
+
+  <dir>
+  <title>[COLOR white][B]SEZONUL - 04 - [/B][/COLOR]</title>
+  <thumbnail>https://i.pinimg.com/originals/0b/60/07/0b600730a91d081ddb94e215ef6a181c.png</thumbnail>
+  <fanart>https://i.pinimg.com/originals/0b/60/07/0b600730a91d081ddb94e215ef6a181c.png</fanart>
+  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=15qsxkUn5OpRk9zkBbKkariqVmAYW4537</link>
+  <info><info>
+  <genre>Aventura, Drama, Fantasia</genre>
+</dir>
+
+  <dir>
+  <title>[COLOR white][B]SEZONUL - 05 - [/B][/COLOR]</title>
+  <thumbnail>https://i.pinimg.com/originals/0b/60/07/0b600730a91d081ddb94e215ef6a181c.png</thumbnail>
+  <fanart>https://i.pinimg.com/originals/0b/60/07/0b600730a91d081ddb94e215ef6a181c.png</fanart>
+  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1XFrdJpD1KC-ck-CWeeB9ttTxoF1mv6PK</link>
+  <info>O MELHOR DAS SERIES VOCE ENCONTRA AQUI<info>
+  <genre>Aventura, Drama, Fantasia</genre>
+</dir>
+
+  <dir>
+  <title>[COLOR white][B]SEZONUL - 06 - [/B][/COLOR]</title>
+  <thumbnail>https://i.pinimg.com/originals/0b/60/07/0b600730a91d081ddb94e215ef6a181c.png</thumbnail>
+  <fanart>https://i.pinimg.com/originals/0b/60/07/0b600730a91d081ddb94e215ef6a181c.png</fanart>
+  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1OE40uAzDeUZVvloq5CNJaxPNyfvCGojZ</link>
+  <info>O MELHOR DAS SERIES VOCE ENCONTRA AQUI<info>
+  <genre>Aventura, Drama, Fantasia</genre>
+</dir>
+
+  <dir>
+  <title>[COLOR white][B]SEZONUL - 07 - [/B][/COLOR]</title>
+  <thumbnail>https://i.pinimg.com/originals/0b/60/07/0b600730a91d081ddb94e215ef6a181c.png</thumbnail>
+  <fanart>https://i.pinimg.com/originals/0b/60/07/0b600730a91d081ddb94e215ef6a181c.png</fanart>
+  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=14pJ_nFgaSog3M0X6Zf14Tno2ZDi2zd6M</link>
+  <info>O MELHOR DAS SERIES VOCE ENCONTRA AQUI<info>
+  <genre>Aventura, Drama, Fantasia</genre>
+</dir>
+
+  <dir>
+  <title>[COLOR white][B]SEZONUL - 08 - [/B][/COLOR]</title>
+  <thumbnail>https://i.pinimg.com/originals/0b/60/07/0b600730a91d081ddb94e215ef6a181c.png</thumbnail>
+  <fanart>https://i.pinimg.com/originals/0b/60/07/0b600730a91d081ddb94e215ef6a181c.png</fanart>
+  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1qwCxe03RI-grUBai3FF3DwqR3377PwE7</link>
+  <info>O MELHOR DAS SERIES VOCE ENCONTRA AQUI<info>
+  <genre>Aventura, Drama, Fantasia</genre>
+</dir>
