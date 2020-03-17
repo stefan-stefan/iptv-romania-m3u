@@ -1,16 +1,19 @@
 <item>
-    <title>[COLOR orange][B]....TEST....[/B][/COLOR]</title>
-    <link>
-        <sublink>tt0678477</sublink>
-    </link>
-    <thumbnail>https://i.pinimg.com/originals/50/b8/97/50b8973ec083d449d20b73222f2b2d56.jpg</thumbnail>
-    <fanart>https://i.pinimg.com/originals/50/b8/97/50b8973ec083d449d20b73222f2b2d56.jpg</fanart>
-    <content>movie</content>
-    <meta>
-        <title>Aventura, Drama, Fantasia</title>
-        <year>2020</year>
-        <imdb>tt0424279</imdb>
-    </meta>
+<title>TEST </title>
+<meta>
+<content>movie</content>
+<imdb>tt2527336</imdb>
+<title>Star Wars: The Last Jedi</title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>search</sublink>
+<sublink></sublink>
+</link>
+<animated_thumbnail></animated_thumbnail>
+<thumbnail>https://1.bp.blogspot.com/-moV4FiIG4pk/VK68P6pSJII/AAAAAAAAACA/hObxqmpbL1Y/s280/gameofthrones_20110412171451.png</thumbnail>
+<animated_fanart></animated_fanart>
+<fanart>https://1.bp.blogspot.com/-moV4FiIG4pk/VK68P6pSJII/AAAAAAAAACA/hObxqmpbL1Y/s280/gameofthrones_20110412171451.png</fanart>
 </item>
 
 
