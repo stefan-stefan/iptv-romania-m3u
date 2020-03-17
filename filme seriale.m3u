@@ -1,5 +1,5 @@
 <item>
-<title>The Flash (Sezonul 1 test)</title>
+<title>The Flash (Sezonul 1)</title>
 <meta>
 <content>movie</content>
 <imdb>17fc0d8</imdb>
@@ -54,24 +54,6 @@
 </item>
 
 
-<item>
-        <title>[COLORgreenyellow]Star Wars: The Force Awakens test (2015)[/COLOR]</title>
-        <meta>
-                <content>movie</content>
-                <imdb>17fc0d8</imdb>
-                <title>Star Wars: The Force Awakens</title>
-                <year>2015</year>
-        </meta>
-        <link>
-                <sublink>https://www.imdb.com/video/vi3249847833</sublink>
-                <sublink>search</sublink>
-                <sublink>searchsd</sublink>
-        </link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://image.tmdb.org/t/p/original/weUSwMdQIa3NaXVzwUoIIcAi85d.jpg</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart>https://image.tmdb.org/t/p/original/to4AKd4SOyXE1YR8QZ34xSTCtjO.jpg</fanart>
-</item>
 
 
 
