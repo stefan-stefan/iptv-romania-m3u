@@ -1,5 +1,5 @@
 <item>
-<title>TEST </title>
+<title>[COLORred][B]TEST[/B][/COLOR]</title>
 <meta>
 <content>movie</content>
 <imdb>tt2527336</imdb>
@@ -7,8 +7,8 @@
 <year>2017</year>
 </meta>
 <link>
-<sublink>search</sublink>
-<sublink></sublink>
+<sublink>[COLORred][B]search[/B][/COLOR]</sublink>
+<sublink>[COLORwhite][B]searchsd[/B][/COLOR]</sublink>
 </link>
 <animated_thumbnail></animated_thumbnail>
 <thumbnail>https://1.bp.blogspot.com/-moV4FiIG4pk/VK68P6pSJII/AAAAAAAAACA/hObxqmpbL1Y/s280/gameofthrones_20110412171451.png</thumbnail>
