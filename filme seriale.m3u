@@ -167,7 +167,26 @@
         <animated_fanart></animated_fanart>
         <fanart>https://image.tmdb.org/t/p/original/to4AKd4SOyXE1YR8QZ34xSTCtjO.jpg</fanart>
 </item>
- 
+
+
+ <item>
+        <title>[COLORgreenyellow]test[/COLOR]</title>
+        <meta>
+                <content>movie</content>
+                <imdb>12943f27</imdb>
+                <title>Star Wars: The Force Awakens</title>
+                <year>2015</year>
+        </meta>
+        <link>
+                <sublink>http://uptobox.com/pw8s20p98q55</sublink>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/weUSwMdQIa3NaXVzwUoIIcAi85d.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/to4AKd4SOyXE1YR8QZ34xSTCtjO.jpg</fanart>
+</item>
 
 
 
