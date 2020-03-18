@@ -1,19 +1,16 @@
 <item>
-<title>[COLORred][B]TEST[/B][/COLOR]</title>
-<meta>
-<content>movie</content>
-<imdb></imdb>
-<title>TEST</title>
-<year>2017</year>
-</meta>
-<link>
-<sublink>[COLORred][B]search[/B][/COLOR]</sublink>
-<sublink>[COLORwhite][B]searchsd[/B][/COLOR]</sublink>
-</link>
-<animated_thumbnail></animated_thumbnail>
-<thumbnail>https://i.pinimg.com/originals/0b/60/07/0b600730a91d081ddb94e215ef6a181c.png</thumbnail>
-<animated_fanart></animated_fanart>
-<fanart>https://i.pinimg.com/originals/0b/60/07/0b600730a91d081ddb94e215ef6a181c.png</fanart>
+    <title>[COLOR orange]....[B]Arrow All Flashbacks Season One - The Beginning....[/B][/COLOR]</title>
+    <link>
+        <sublink>https://www.youtube.com/watch?v=txT7sWmhNR8</sublink>
+    </link>
+    <thumbnail>https://www.pngkey.com/png/detail/394-3946794_green-arrow-movie-tv-arrow-season-7-characters.png</thumbnail>
+    <fanart>https://www.pngkey.com/png/detail/394-3946794_green-arrow-movie-tv-arrow-season-7-characters.png</fanart>
+    <content>movie</content>
+    <meta>
+        <title>Arrow</title>
+        <year>2020</year>
+        <imdb>tt0424279</imdb>
+    </meta>
 </item>
 
 
