@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:0,■■■■,[COLOR red]  [/COLOR][COLOR deeppink][B]* Aceste liste nu sant stabile! * [/B][/COLOR][COLOR deeppink] ***[/COLOR]  
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="ANTENA3 RO.sp" tvg-name="Antena 3",Antena 3 HD
-#EXTGRP:Romania
-https://live3vox.antenaplay.ro/a3free/250.m3u8?starttime=1573829106&endtime=1573836336&source=web&token=SWHFm7NqeC66YTc2nu90ef1bc0o=
- 
