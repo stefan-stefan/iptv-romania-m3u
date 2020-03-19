@@ -20,5 +20,28 @@
 <animated_fanart></animated_fanart>
 <fana>rthttps://fsgratis.com/wp-content/uploads/2019/12/the-witcher-48007-poster-scaled.jpg</fanart>
 </item>
-   
+
+
+   <item>
+<title>TEST</title>
+<meta>
+  <content>episode</content>
+  <imdb>tt2527338</imdb>
+  <tvdb>7492537</tvdb>
+  <tvshowtitle></tvshowtitle>
+  <year>2020</year>
+  <title>test</title>
+  <premiered></premiered>
+  <season>1</season>
+  <episode>3</episode>
+</meta>
+<link>
+  <sublink>search</sublink>
+  <sublink>searchsd</sublink>
+</link>
+<animated_thumbnail></animated_thumbnail>
+<thumbnail></thumbnail>
+<animated_fanart></animated_fanart>
+<fanart></fanart>
+</item>
 
