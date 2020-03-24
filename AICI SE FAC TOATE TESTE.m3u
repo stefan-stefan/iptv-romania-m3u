@@ -1,14 +1,27 @@
-<dir>
-        <title>IMDB Action TV Shows</title>
-        <imdburl>genres/action</imdburl>
-        <thumbnail>http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSikE0-7qW7W8sOU_VWa8WbInaqxLTYmmloXA4FUITT7WSRuMZgIQ</thumbnail>
-</dir>
- 
-<dir>
-        <title>IMDB crime TV Shows</title>
-        <imdburl>genres/crime</imdburl>
-        <thumbnail>http://icons.iconarchive.com/icons/3xhumed/mega-games-pack-40/512/True-Crime-Streets-of-LA-1-icon.png</thumbnail>
-</dir>
+<plugin>
+    <title>[COLOR orchid][/COLOR] [B][COLOR white]LISTA HTTP[/COLOR] [COLOR blue]ROMANIA[/COLOR][/B] [COLOR orchid][/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/stefan-stefan/filme-online/master/lista%202%20teste%20http.m3u</link>
+    <thumbnail>https://thumbs.gfycat.com/ExemplaryPeskyGecko-small.gif</thumbnail>
+    <fanart>https://thumbs.gfycat.com/ExemplaryPeskyGecko-small.gif</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid][/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR blue]ALGERIA[/COLOR][/B] [COLOR orchid][/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/dz.m3u</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/iptv.png</thumbnail>
+    <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/800px-Flag_of_Algeria.svg.png</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid][/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]ANDORRA[/COLOR][/B] [COLOR orchid][/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/ad.m3u</link>
+    <thumbnail></thumbnail>
+    <fanart>https://cdn.pixabay.com/photo/2017/08/19/01/34/andorra-2657051_960_720.png</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid][/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]ANGOLA[/COLOR][/B] [COLOR orchid][/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/ao.m3u</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/iptv.png</thumbnail>
+    <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/1200px-Flag_of_Angola.svg.png</fanart>
+</plugin>
 
 <item>
         <title>***************************************</title>
