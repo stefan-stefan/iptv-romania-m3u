@@ -1,6 +1,4 @@
 <dir>
-<title>[COLORwhite]NETFLIX[/COLOR]</title>
-<tmdb>network/shows/213</tmdb>
-<thumbnail></thumbnail>
-<fanart></fanart>
+  <title>Trending Shows</title>
+  <trakt>https://trakt.tv/shows/trending</trakt>
 </dir>
