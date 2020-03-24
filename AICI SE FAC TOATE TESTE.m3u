@@ -1,6 +1,6 @@
 <plugin>
     <title>[COLOR orchid][/COLOR] [B][COLOR white]LISTA HTTP[/COLOR] [COLOR blue]ROMANIA(test)[/COLOR][/B] [COLOR orchid][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://github.com/stefan-stefan/filme-online/blob/master/lista%202%20teste%20http.m3u</link>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://github.com/stefan-stefan/lista-tv-romania/blob/master/romania%20ts</link>
     <thumbnail>https://thumbs.gfycat.com/ExemplaryPeskyGecko-small.gif</thumbnail>
     <fanart>https://thumbs.gfycat.com/ExemplaryPeskyGecko-small.gif</fanart>
 </plugin>
@@ -11,14 +11,14 @@
     <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/800px-Flag_of_Algeria.svg.png</fanart>
 </plugin>
 <plugin>
-    <title>[COLOR orchid][/COLOR] [B][COLOR white]TEST[/COLOR] [COLOR orchid]3[/COLOR][/B] [COLOR orchid][/COLOR]</title>
+    <title>[COLOR orchid][/COLOR] [B][COLOR white]TEST[/COLOR] [COLOR orchid]33[/COLOR][/B] [COLOR orchid][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/ad.m3u</link>
     <thumbnail></thumbnail>
     <fanart>https://cdn.pixabay.com/photo/2017/08/19/01/34/andorra-2657051_960_720.png</fanart>
 </plugin>
 
 <plugin>
-    <title>[COLOR orchid][/COLOR] [B][COLOR white]TEST[/COLOR] [COLOR orchid]4[/COLOR][/B] [COLOR orchid][/COLOR]</title>
+    <title>[COLOR orchid][/COLOR] [B][COLOR white]TEST[/COLOR] [COLOR orchid]44[/COLOR][/B] [COLOR orchid][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/ad.m3u</link>
     <thumbnail></thumbnail>
     <fanart>https://cdn.pixabay.com/photo/2017/08/19/01/34/andorra-2657051_960_720.png</fanart>
