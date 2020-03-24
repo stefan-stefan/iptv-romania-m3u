@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF: 0 tvg-logo="https://softgetic.com/wp-content/uploads/2018/12/ACE-Stream-3.1.32-Free-Download.jpg",[COLORred][B][I]SOPCAST(Necesita Plexus) [/I][/B][/COLOR]
+http://89.136.209.26:1935/l
+#EXTINF:#1 tvg-logo="  https://lh3.googleusercontent.com/wC0Y9BYziEOJIt-iYZPBM1lYLfVqg1nx1Rvt7Rtwe-nlxI7exDmtRlp9yPJyQvIAdLYw=w300",[COLOR blue]          ***      [/COLOR][COLOR yellow][B]      GENERALE    [/B][/COLOR][COLOR red]       ***[/COLOR]  
+http://0.0.0.0:12349
