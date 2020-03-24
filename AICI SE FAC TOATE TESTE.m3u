@@ -1,42 +1,42 @@
-<item>
-<title>Episode 1</title>
-<link>https://real-debrid.com/d/ZAKEXMHQWPYPY</link>
-<thumbnail>https://i.imgur.com/wsMzI5o.jpg</thumbnail>
-<fanart>http://</fanart>
-<info></info>
-</item>
- 
-<item>
-<title>Episode 2</title>
-<link>https://real-debrid.com/d/JW6TQYNVBRTHE</link>
-<thumbnail>https://i.imgur.com/wsMzI5o.jpg</thumbnail>
-<fanart>http://</fanart>
-<info></info>
-</item>
- 
-<item>
-<title>Episode 3</title>
-<link>https://real-debrid.com/d/5AN72S6VZHXYK</link>
-<thumbnail>https://i.imgur.com/wsMzI5o.jpg</thumbnail>
-<fanart>http://</fanart>
-<info></info>
-</item>
- 
-<item>
-<title>Episode 4</title>
-<link>https://real-debrid.com/d/VXL6B2L5T37PU</link>
-<thumbnail>https://i.imgur.com/wsMzI5o.jpg</thumbnail>
-<fanart>http://</fanart>
-<info></info>
-</item>
- 
-<item>
-<title>Episode 5</title>
-<link>https://real-debrid.com/d/TBIH6OVRIQ24A</link>
-<thumbnail>https://i.imgur.com/wsMzI5o.jpg</thumbnail>
-<fanart>http://</fanart>
-<info></info>
-</item>
+<dir>
+    <title>[COLOR blue][B]»»»»»PLAY Real-Debrid[/COLOR] [COLOR blue]Addons»»»»»[/B][/COLOR]</title>
+    <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/Real-Debrid%20plugin.m3u</link>
+    <fanart>https://troypoint.com/wp-content/uploads/2020/02/real-debrid-exclusively-movies-kodi.png</fanart>
+    <thumbnail>https://www.kodifiretvstick.com/wp-content/uploads/2017/11/Real-Debrid-Kodi-Header.jpg</thumbnail>
+    <summary>Universo Marvel</summary>
+</dir>
+
+<dir>
+  <title>[COLOR blue][B]»»»»»PLAY Ghost[/COLOR] [COLOR blue]Addon»»»»»[/B][/COLOR]</title>
+  <link>http://www.ezzer-mac.com/frank/ghost/ghostxmls/xmls1/main2.xml</link>
+  <thumbnail>https://www.yourkodi.com/wp-content/uploads/2019/01/ghost-kodi.png</thumbnail>
+  <fanart>https://www.yourkodi.com/wp-content/uploads/2019/01/ghost-kodi.png</fanart>
+  <summary>Ghost Addon</summary>
+  </dir>
+  Chain Reaction
+  <dir>
+  <title>[COLOR blue][B]»»»»»PLAY Chain Reaction[/COLOR] [COLOR blue]Addon»»»»»[/B][/COLOR]</title>
+  <link>https://pastebin.com/raw/siAAPMdk</link>
+  <thumbnail>https://kodidroid.com/wp-content/uploads/2019/12/Chain-Reaction-Kodi-Addon-Repo-700x394.jpg</thumbnail>
+  <fanart>https://kodidroid.com/wp-content/uploads/2019/12/Chain-Reaction-Kodi-Addon-Repo-700x394.jpg</fanart>
+  <summary>Chain Reaction Addon</summary>
+  </dir>
+
+<dir>
+<title>[COLOR blue][B]»»»»»PLAY TITAN[/COLOR] [COLOR blue]MOVIES»»»»»[/B][/COLOR]</title>
+<link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/*Welcome%20To%20The%20Mad%20Titan.m3u</link>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/mad%20titan%20icons.png</thumbnail>
+<fanart>https://magnetic.website/menu%20icons/movies%20%20fanart.jpg</fanart>
+<summary>movies</summary>
+</dir>
+
+  <dir>
+<title>[COLOR blue][B]»»»»»»»»»»PLAY Ezzer[/COLOR] [COLOR blue]-Mac»»»»»»»»»»[/B][/COLOR]</title>
+<link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/EzzerMac.m3u</link>
+<thumbnail>https://www.kindpng.com/picc/m/247-2470317_ezzermac-wizard-emblem-hd-png-download.png</thumbnail>
+<fanart>https://www.kindpng.com/picc/m/247-2470317_ezzermac-wizard-emblem-hd-png-download.png</fanart>
+<summary>movies</summary>
+</dir>
  
 <item>
 <title>Episode 6</title>
