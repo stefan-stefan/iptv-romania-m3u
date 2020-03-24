@@ -4,12 +4,12 @@
     <thumbnail>https://thumbs.gfycat.com/ExemplaryPeskyGecko-small.gif</thumbnail>
     <fanart>https://thumbs.gfycat.com/ExemplaryPeskyGecko-small.gif</fanart>
 </plugin>
-<plugin>
+<dir>
     <title>[COLOR orchid][/COLOR] [B][COLOR white]TEST[/COLOR] [COLOR blue]2[/COLOR][/B] [COLOR orchid][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/5aXETiyh</link>
     <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/iptv.png</thumbnail>
     <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/800px-Flag_of_Algeria.svg.png</fanart>
-</plugin>
+</dir>
 <plugin>
     <title>[COLOR orchid][/COLOR] [B][COLOR white]TEST[/COLOR] [COLOR orchid]33[/COLOR][/B] [COLOR orchid][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/ad.m3u</link>
