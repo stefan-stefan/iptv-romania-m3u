@@ -7,10 +7,10 @@
 </plugin>
 
 <plugin>
-    <title>[COLOR orchid][/COLOR] [B][COLOR white]LISTA ACESTREAM[/COLOR] [COLOR blue]ROMANIA(Necesita PLEXUS  ACESTREAM)[/COLOR][/B] [COLOR orchid][/COLOR]</title>
+    <title>[COLOR orchid][/COLOR] [B][COLOR white]LISTA ACESTREAM[/COLOR] [COLOR blue]ROMANIA[/COLOR][/B] [COLOR orchid][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://github.com/stefan-stefan/iptv-romania-m3u/blob/master/acestream.m3u</link>
-    <thumbnail>https://media.giphy.com/media/pHiPVy4RAMY80/giphy.gif</thumbnail>
-    <fanart>https://media.giphy.com/media/9A7T09r0KLSqQ/giphy.gif</fanart>
+    <thumbnail>https://cdn.android-data-recovery.org/wp-content/uploads/2019/06/How-to-Use-Ace-Stream.png</thumbnail>
+    <fanart>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</fanart>
 </plugin>
 
 
