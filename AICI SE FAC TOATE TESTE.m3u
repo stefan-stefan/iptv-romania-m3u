@@ -19,7 +19,7 @@
 
 <plugin>
     <title>[COLOR orchid][/COLOR] [B][COLOR white]TEST[/COLOR] [COLOR orchid]44[/COLOR][/B] [COLOR orchid][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/ad.m3u</link>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://github.com/stefan-stefan/lista-tv-romania/blob/master/romania%20ts</link>
     <thumbnail></thumbnail>
     <fanart>https://cdn.pixabay.com/photo/2017/08/19/01/34/andorra-2657051_960_720.png</fanart>
 </plugin>
