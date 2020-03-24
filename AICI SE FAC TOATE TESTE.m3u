@@ -1,9 +1,6 @@
 <item>
 <title>[B][COLOR gold]Agenda Deporte2s[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>>
- 
- 
- 
  <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
@@ -13,23 +10,16 @@
 <expres><![CDATA[.body.\n(.*?)<.*?.br /.|.br /.\s*([A-Z](.*?)).br /.|target="<a href="c(.*?).php". (.*?) <]]></expres>
 <page>https://raw.githubusercontent.com/9NJ5zMjVR2QJ7t3r/Betas/master/Test</page>
 <agent>Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36</agent>
- 
 <Referer>https://tumarcador.xyz/</Referer>
 <Accept>*/*</Accept>
 <Connection>keep-alive</Connection>
- 
 </regex>
  <regex>
 <name>select</name>
 <expres>file: '(.*t[makelist.param4].*)'</expres>
 <page>https://raw.githubusercontent.com/9NJ5zMjVR2QJ7t3r/Betas/master/Link</page>
 <agent>Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36</agent>
- 
 <Referer>https://cdx.dailysport.pw/8/8.m3u8</Referer>
 <Accept>*/*</Accept>
- 
 </regex>
- 
- 
- 
 </item>
