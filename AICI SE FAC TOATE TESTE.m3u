@@ -1,4 +1,74 @@
 <dir>
+  <title>My lists</title>
+  <trakt>https://api.trakt.tv/users/me/lists/</trakt>
+</dir>
+ 
+<dir>
+  <title>My Liked Lists</title>
+  <trakt>https://api.trakt.tv/users/likes/lists</trakt>
+</dir>
+ 
+<dir>
+  <title>Reddit Top 250 (2017 Edition)</title>
+  <trakt>https://api.trakt.tv/users/philrivers/lists/reddit-top-250-2017-edition/items</trakt>
+</dir>
+ 
+<dir>
+  <title>Rotten Tomatoes: Best of 2017</title>
+  <trakt>https://api.trakt.tv/users/lish408/lists/rotten-tomatoes-best-of-2017/items</trakt>
+</dir>
+ 
+<dir>
+  <title>TMDB List: Animal Kingdom</title>
+  <tmdb>list/13488</tmdb>
+</dir>
+ 
+<dir>
   <title>Trending Shows</title>
-  <trakt>https://trakt.tv/shows/trending</trakt>
+  <trakt>https://api.trakt.tv/shows/trending</trakt>
+</dir>
+ 
+<dir>
+  <title>Popular Shows</title>
+  <trakt>https://api.trakt.tv/shows/popular</trakt>
+</dir>
+ 
+<dir>
+  <title>TV Watchlist</title>
+  <trakt>https://api.trakt.tv/sync/watchlist/shows</trakt>
+</dir>
+ 
+<dir>
+  <title>TV Collection</title>
+  <trakt>https://api.trakt.tv/sync/collection/shows</trakt>
+</dir>
+ 
+<dir>
+  <title>TMDB Popular</title>
+  <tmdb>tv/popular</tmdb>
+</dir>
+ 
+<dir>
+  <title>TMDB Top Rated</title>
+  <tmdb>tv/top_rated</tmdb>
+</dir>
+ 
+<dir>
+  <title>Shan Animated</title>
+  <tmdb>list/32947</tmdb>
+</dir>
+ 
+<dir>
+  <title>kids tv shows</title>
+  <trakt>https://api.trakt.tv/users/thava6969/lists/kids-tv-shows/items</trakt>
+</dir>
+ 
+<dir>
+  <title>anime tv shows</title>
+  <trakt>https://api.trakt.tv/users/thava6969/lists/anime-tv-shows/items</trakt>
+</dir>
+ 
+dir>
+  <title>Kids Movies</title>
+  <trakt>https://api.trakt.tv/users/thava6969/lists/kids-movies/items</trakt>
 </dir>
