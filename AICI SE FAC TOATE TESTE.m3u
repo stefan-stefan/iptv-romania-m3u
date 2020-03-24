@@ -1,106 +1,35 @@
-<dir>
-<title>[B][COLORwhite]=-=-=-=-=[/COLOR][/B]  [COLORgold]LATEST NEWS[/COLOR]  [B][COLORwhite]=-=-=-=-=[/COLOR][/B]</title>
-<link>message(https://pastebin.com/raw/hEhqitSQ)</link>
-<thumbnail>https://raw.githubusercontent.com/hectorbolu/ScoobyDoo/master/ScoobyDoo.jpg</thumbnail>
-<summary>[COLORghostwhite][B]News[/B][/COLOR]</summary>
-</dir>
- 
- <item>
-<title>[B][COLOR aquamarine]**************[/COLOR][COLOR gold]Armageddon[/COLOR][COLOR aquamarine]*-***********[/COLOR][/B]</title>
-<link>http://ignorame</link>
-<externallink>https://pastebin.com/raw/TaGDXHNz</externallink>
-<thumbnail>https://i.imgur.com/EPEjhH1.jpg</thumbnail>
-<fanart>https://i.imgur.com/qBJNJVV.jpg</fanart>
-</item>
- 
 <item>
-<title>[B][COLOR gold]Canales En Directo Armageddon[/COLOR][/B]</title>
-<link>http://ignorame</link>
-<externallink>&#104;&#116;&#116;&#112;&#58;&#47;&#47;&#119;&#119;&#119;&#46;&#115;&#116;&#97;&#114;&#45;&#116;&#101;&#120;&#46;&#99;&#111;&#109;&#47;&#116;&#101;&#115;&#116;&#47;&#105;&#110;&#100;&#101;&#120;&#46;&#112;&#104;&#112;&#63;&#113;&#61;&#97;&#72;&#82;&#48;&#99;&#72;&#77;&#54;&#76;&#121;&#57;&#121;&#89;&#88;&#99;&#117;&#90;&#50;&#108;&#48;&#97;&#72;&#86;&#105;&#100;&#88;&#78;&#108;&#99;&#109;&#78;&#118;&#98;&#110;&#82;&#108;&#98;&#110;&#81;&#117;&#89;&#50;&#57;&#116;&#76;&#122;&#108;&#79;&#83;&#106;&#86;&#54;&#84;&#87;&#112;&#87;&#85;&#106;&#74;&#82;&#83;&#106;&#100;&#48;&#77;&#51;&#73;&#118;&#81;&#88;&#74;&#116;&#76;&#50;&#49;&#104;&#99;&#51;&#82;&#108;&#99;&#105;&#57;&#78;&#89;&#87;&#108;&#117;&#84;&#87;&#86;&#117;&#100;&#81;&#37;&#51;&#68;&#37;&#51;&#68;</externallink>
-<thumbnail>https://i.imgur.com/EPEjhH1.jpg</thumbnail>
-<fanart>https://i.imgur.com/qBJNJVV.jpg</fanart>
+<title>[B][COLOR gold]Agenda Deporte2s[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>>
+ 
+ 
+ 
+ <regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR aqua][makelist.param1] [COLOR aquamarine][makelist.param2] [COLOR orangered]-}[makelist.param4]  [COLOR white][makelist.param5][/COLOR][/B]</title>
+<link>$doregex[select]</link>
+]]></listrepeat>
+<expres><![CDATA[.body.\n(.*?)<.*?.br /.|.br /.\s*([A-Z](.*?)).br /.|target="<a href="c(.*?).php". (.*?) <]]></expres>
+<page>https://raw.githubusercontent.com/9NJ5zMjVR2QJ7t3r/Betas/master/Test</page>
+<agent>Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36</agent>
+ 
+<Referer>https://tumarcador.xyz/</Referer>
+<Accept>*/*</Accept>
+<Connection>keep-alive</Connection>
+ 
+</regex>
+ <regex>
+<name>select</name>
+<expres>file: '(.*t[makelist.param4].*)'</expres>
+<page>https://raw.githubusercontent.com/9NJ5zMjVR2QJ7t3r/Betas/master/Link</page>
+<agent>Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36</agent>
+ 
+<Referer>https://cdx.dailysport.pw/8/8.m3u8</Referer>
+<Accept>*/*</Accept>
+ 
+</regex>
+ 
+ 
+ 
 </item>
- 
-<item>
-<title>[COLOR white] CINE[/COLOR]</title>
-<link>http://Ignoreme</link>
-<jsonrpc>plugin://plugin.video.Mike/?ewogICAgImFjdGlvbiI6ICJjaGFubmVscyIsIAogICAgImNhdGVnb3J5IjogIk1pa2UiLCAKICAgICJjaGFubmVsIjogIm1haW5tZW51IiwgCiAgICAiZXh0cmEiOiAibW92aWVzIiwgCiAgICAiaW5mb0xhYmVscyI6IHt9LCAKICAgICJ0aHVtYm5haWwiOiAiL3N0b3JhZ2UvZW11bGF0ZWQvMTAvQW5kcm9pZC9kYXRhL2VzLkhlY3RvYm8uTGV0c1BsYXkvZmlsZXMvLmtvZGkvYWRkb25zL3BsdWdpbi52aWRlby5NaWtlL3Jlc291cmNlcy9tZWRpYS90aGVtZXMvZGVmYXVsdC9jbGFwYm9hcmQucG5nIiwgCiAgICAidGl0bGUiOiAiQ2FuYWxlcyBEZSBDaW5lIgp9</jsonrpc>
-<thumbnail>https://fuentepalomitas.github.io/MyRepos/Armageddon/plugin.video.Mike/icon.png</thumbnail>
-<fanart>FuentePalomitas.github.io/MyRepos/Armageddon/plugin.video.Mike/fanart.jpg</fanart>
-</item>
- 
-<item>
-<title>[COLOR white] SERIES[/COLOR]</title>
-<link>http://Ignoreme</link>
-<jsonrpc>plugin://plugin.video.Mike/?ewogICAgImFjdGlvbiI6ICJjaGFubmVscyIsIAogICAgImNhdGVnb3J5IjogIk1pa2UiLCAKICAgICJjaGFubmVsIjogIm1haW5tZW51IiwgCiAgICAiZXh0cmEiOiAidHZzaG93cyIsIAogICAgImluZm9MYWJlbHMiOiB7fSwgCiAgICAidGh1bWJuYWlsIjogIi9zdG9yYWdlL2VtdWxhdGVkLzEwL0FuZHJvaWQvZGF0YS9lcy5IZWN0b2JvLlBhbG9taXRhc01DL2ZpbGVzLy5rb2RpL2FkZG9ucy9wbHVnaW4udmlkZW8uTWlrZS9yZXNvdXJjZXMvbWVkaWEvdGhlbWVzL2RlZmF1bHQvdHYucG5nIiwgCiAgICAidGl0bGUiOiAiQ2FuYWxlcyBEZSBTZXJpZXMiCn0%3d</jsonrpc>
-<thumbnail>https://fuentepalomitas.github.io/MyRepos/Armageddon/plugin.video.Mike/icon.png</thumbnail>
-<fanart>FuentePalomitas.github.io/MyRepos/Armageddon/plugin.video.Mike/fanart.jpg</fanart>
-</item>
- 
-<item>
-<title>[COLOR white] BUSCADOR PELICULAS Y SERIES[/COLOR]</title>
-<link>http://Ignoreme</link>
-<jsonrpc>plugin://plugin.video.Mike/?ewogICAgImFjdGlvbiI6ICJtYWlubGlzdCIsIAogICAgImNhdGVnb3J5IjogIk1pa2UiLCAKICAgICJjaGFubmVsIjogInNlYXJjaCIsIAogICAgImluZm9MYWJlbHMiOiB7fSwgCiAgICAidGh1bWJuYWlsIjogIkU6XFxDYXJwZXRhUHJvdGVnaWRhXFxLb2RpUG9ydGFibGVcXEFwcFxcS29kaVxccG9ydGFibGVfZGF0YVxcYWRkb25zXFxwbHVnaW4udmlkZW8uTWlrZVxccmVzb3VyY2VzXFxtZWRpYVxcdGhlbWVzXFxkZWZhdWx0XFxtYWduaWZ5aW5nZ2xhc3MucG5nIiwgCiAgICAidGl0bGUiOiAiQnVzY2EgRW4gTG9zIENhbmFsZXMiCn0%3d</jsonrpc>
-<thumbnail>https://fuentepalomitas.github.io/MyRepos/Armageddon/plugin.video.Mike/icon.png</thumbnail>
-<fanart>FuentePalomitas.github.io/MyRepos/Armageddon/plugin.video.Mike/fanart.jpg</fanart>
-</item>
- 
- 
- 
- 
- 
-<item>
-<title>[B][COLOR aquamarine]-***************[/COLOR][COLOR gold]Armageddon[/COLOR][COLOR aquamarine]************[/COLOR][/B]</title>
-<link>http://ignorame</link>
-<externallink>&#104;&#116;&#116;&#112;&#58;&#47;&#47;&#119;&#119;&#119;&#46;&#115;&#116;&#97;&#114;&#45;&#116;&#101;&#120;&#46;&#99;&#111;&#109;&#47;&#116;&#101;&#115;&#116;&#47;&#105;&#110;&#100;&#101;&#120;&#46;&#112;&#104;&#112;&#63;&#113;&#61;&#97;&#72;&#82;&#48;&#99;&#72;&#77;&#54;&#76;&#121;&#57;&#121;&#89;&#88;&#99;&#117;&#90;&#50;&#108;&#48;&#97;&#72;&#86;&#105;&#100;&#88;&#78;&#108;&#99;&#109;&#78;&#118;&#98;&#110;&#82;&#108;&#98;&#110;&#81;&#117;&#89;&#50;&#57;&#116;&#76;&#122;&#108;&#79;&#83;&#106;&#86;&#54;&#84;&#87;&#112;&#87;&#85;&#106;&#74;&#82;&#83;&#106;&#100;&#48;&#77;&#51;&#73;&#118;&#81;&#88;&#74;&#116;&#76;&#50;&#49;&#104;&#99;&#51;&#82;&#108;&#99;&#105;&#57;&#78;&#89;&#87;&#108;&#117;&#84;&#87;&#86;&#117;&#100;&#81;&#37;&#51;&#68;&#37;&#51;&#68;</externallink>
-<thumbnail>https://i.imgur.com/EPEjhH1.jpg</thumbnail>
-<fanart>https://i.imgur.com/qBJNJVV.jpg</fanart>
-</item>
- 
- 
- 
-<item>
-<title>[B][COLOR deepskyblue]PAIR[/COLOR][/B]</title>
-<pairwith>pairlist</pairwith>
-<thumbnail>https://raw.githubusercontent.com/hectorbolu/ScoobyDoo/master/ScoobyDoo.jpg</thumbnail>
-<summary>[COLORghostwhite]Pair Your Device[/COLOR]  /  [COLORdarkgoldenrod][B]Kid[/COLOR][COLORburlywood]do[/B][/COLOR]</summary>
-</item>
- 
-<item>
-<title>[COLOR lime][B]Real Debrid[/B][/COLOR]</title>
-<authwith>realdebrid</authwith>
-<thumbnail>https://koditips.com/wp-content/uploads/2015/11/real-debrid-400x400.jpg</thumbnail>
-<summary>[COLORghostwhite]Authorize Real Debrid[/COLOR] [/B][/COLOR]</summary>            
-</item>
- 
- 
-<dir>
-<title>[COLOR red][B]Trackt[/B][/COLOR]</title>
-<link>https://walter.trakt.tv/hotlink-ok/public/favicon.png</link>
-<thumbnail>https://raw.githubusercontent.com/CellarDoorTV/CDTV/master/Kiddo/kiddo_portal_trakt.png</thumbnail>
-<summary>[COLORghostwhite]Trakt Portal[/COLOR]</summary>
-</dir>
- 
-<dir>
-<title>[COLOR gold][B]TMDB[/B][/COLOR]</title>
-<link>http://cellardoortv.com/kiddo/sub/portaltmdb.xml</link>
-<thumbnail>https://pbs.twimg.com/profile_images/789117657714831361/zGfknUu8_400x400.jpg</thumbnail>
-<summary>[COLORghostwhite]TMDB Portal[/COLOR]</summary>
-</dir>
- 
- 
-<dir>
-<title>[B][COLOR white]Search[/B][/COLOR]</title>
-<tmdb>search</tmdb>
-<thumbnail>special://home/addons/plugin.video.ScoobyDoo/search.gif</thumbnail>
-<summary>[COLORghostwhite]Search[/COLOR]</summary>
-</dir>
- 
-<plugin>
-<item>
-<title>[B][COLOR silver]Open Settings[/COLOR][/B]</title>
-<link>plugin://plugin.video.ScoobyDoo/?action=openSettings</link>
-<thumbnail>https://raw.githubusercontent.com/CellarDoorTV/CDTV/master/Kiddo/kiddo_settings.png</thumbnail>
-<summary>Open Settings</summary>
-</item>
-</plugin>
