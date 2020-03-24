@@ -1,20 +1,3 @@
- <dir>
-      <title>24/7 TV Shows</title>
-      <arconaitv2>shows</arconaitv2>
-    </dir>
- 
-<dir>
-        <title>Newest</title>
-        <imdburl>tvshows/new</imdburl>
-        <thumbnail></thumbnail>
-</dir>
- 
-<dir>
-        <title>Most Viewed</title>
-        <imdburl>tvshows/mostviews</imdburl>
-        <thumbnail></thumbnail>
-</dir>
- 
 <dir>
         <title>IMDB Action TV Shows</title>
         <imdburl>genres/action</imdburl>
@@ -25,38 +8,4 @@
         <title>IMDB crime TV Shows</title>
         <imdburl>genres/crime</imdburl>
         <thumbnail>http://icons.iconarchive.com/icons/3xhumed/mega-games-pack-40/512/True-Crime-Streets-of-LA-1-icon.png</thumbnail>
-</dir>
- 
-<dir>
-      <title>TMDB Popular</title>
-      <tmdb>tv/popular</tmdb>
-      <thumbnail>https://t4.ftcdn.net/jpg/00/90/42/35/160_F_90423554_8ZHK3dN2OeoUsvMmXvUCATj4eur9t0zs.jpg</thumbnail>
-</dir>
- 
-<dir>
-      <title>Trending Shows</title>
-      <trakt>https://api.trakt.tv/shows/trending</trakt>
-      <thumbnail>http://elmorecoema.com/wp-content/uploads/Trending-Now-Icon-2.png</thumbnail>
-</dir>
- 
-<dir>
-      <title>TV Collection</title>
-      <trakt>https://api.trakt.tv/sync/collection/shows</trakt>
-      <thumbnail>https://cdn-images-1.medium.com/max/1200/1*r3Oe6V2xRiOo9zlLIByGXA.png</thumbnail>
-</dir>
- 
-<dir>
-        <title>Best Ratings</title>
-        <imdburl>tvshows/rating</imdburl>
-        <thumbnail>http://pledco.com/wp-content/uploads/2017/08/tv-series-icon.png</thumbnail>
-</dir>
-<dir>
-      <title>Search TMDB</title>
-      <tmdb>search</tmdb>
-      <thumbnail>https://www.themoviedb.org/assets/1/v4/logos/208x226-stacked-green-9484383bd9853615c113f020def5cbe27f6d08a84ff834f41371f223ebad4a3c.png</thumbnail>
-</dir>
- 
-<dir>
-    <title>Web Channels</title>
-    <tvmaze>web_channel/1</tvmaze>
 </dir>
