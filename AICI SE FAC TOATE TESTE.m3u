@@ -177,7 +177,32 @@
 <thumbnail> </thumbnail>
 <fanart> </fanart>
 </item>
- 
- 
+
 <item>
+    <title>[COLOR orchid]Â¤[/COLOR] [B][COLOR white]******************[/COLOR] [COLOR orchid] (YSS)[/COLOR][/B] [COLOR orchid]Â¤[/COLOR]</title>
+<link></link>
+<thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/pga.png</thumbnail>
+<fanart>special://home/addons/script.thecrew.artwork/resources/fanart/pga_fanart.jpg</fanart>
+</item>
+<plugin>
+    <title>[COLOR orchid]Â¤[/COLOR] [B][COLOR white]LIVE TV CHANNELS[/COLOR] [COLOR orchid] (WS)[/COLOR][/B] [COLOR orchid]Â¤[/COLOR]</title>
+<link>plugin://script.crew.sports/?mode=214</link>
+<thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/pga.png</thumbnail>
+<fanart>special://home/addons/script.thecrew.artwork/resources/fanart/pga_fanart.jpg</fanart>
+</plugin>
+
+
+ 
+<plugin>
+    <title>[COLOR orchid]Â¤[/COLOR] [B][COLOR white]LIVE TV[/COLOR] [COLOR orchid] (YSS)[/COLOR][/B] [COLOR orchid]Â¤[/COLOR]</title>
+<link>plugin://script.crew.sports/?mode=82</link>
+<thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/pga.png</thumbnail>
+<fanart>special://home/addons/script.thecrew.artwork/resources/fanart/pga_fanart.jpg</fanart>
+</plugin>
+<plugin>
+    <title>[COLOR orchid]Â¤[/COLOR] [B][COLOR white]LIVE TV CHANNELS[/COLOR] [COLOR orchid] (WS)[/COLOR][/B] [COLOR orchid]Â¤[/COLOR]</title>
+<link>plugin://script.crew.sports/?mode=214</link>
+<thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/pga.png</thumbnail>
+<fanart>special://home/addons/script.thecrew.artwork/resources/fanart/pga_fanart.jpg</fanart>
+</plugin>
 
