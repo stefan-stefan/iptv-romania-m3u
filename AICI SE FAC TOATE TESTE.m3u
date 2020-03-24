@@ -1,6 +1,6 @@
 <plugin>
     <title>[COLOR orchid][/COLOR] [B][COLOR white]LISTA HTTP[/COLOR] [COLOR blue]ROMANIA[/COLOR][/B] [COLOR orchid][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/stefan-stefan/filme-online/master/lista%202%20teste%20http.m3u</link>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/iptv-org/iptv/master/channels/ae.m3u</link>
     <thumbnail>https://thumbs.gfycat.com/ExemplaryPeskyGecko-small.gif</thumbnail>
     <fanart>https://thumbs.gfycat.com/ExemplaryPeskyGecko-small.gif</fanart>
 </plugin>
@@ -16,12 +16,7 @@
     <thumbnail></thumbnail>
     <fanart>https://cdn.pixabay.com/photo/2017/08/19/01/34/andorra-2657051_960_720.png</fanart>
 </plugin>
-<plugin>
-    <title>[COLOR orchid][/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]ANGOLA[/COLOR][/B] [COLOR orchid][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/ao.m3u</link>
-    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/iptv.png</thumbnail>
-    <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/1200px-Flag_of_Angola.svg.png</fanart>
-</plugin>
+
 
 <item>
         <title>***************************************</title>
