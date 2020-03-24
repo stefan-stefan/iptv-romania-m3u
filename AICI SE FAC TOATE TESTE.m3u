@@ -1,74 +1,56 @@
 <dir>
-  <title>My lists</title>
-  <trakt>https://api.trakt.tv/users/me/lists/</trakt>
+<title>[B][COLORwhite]=-=-=-=-=[/COLOR][/B]  [COLORgold]LATEST NEWS[/COLOR]  [B][COLORwhite]=-=-=-=-=[/COLOR][/B]</title>
+<link>message(https://pastebin.com/raw/hEhqitSQ)</link>
+<thumbnail>https://raw.githubusercontent.com/hectorbolu/ScoobyDoo/master/ScoobyDoo.jpg</thumbnail>
+<summary>[COLORghostwhite][B]News[/B][/COLOR]</summary>
+</dir>
+ 
+ 
+ 
+ 
+ 
+<item>
+<title>[B][COLOR deepskyblue]PAIR[/COLOR][/B]</title>
+<pairwith>pairlist</pairwith>
+<thumbnail>https://raw.githubusercontent.com/hectorbolu/ScoobyDoo/master/ScoobyDoo.jpg</thumbnail>
+<summary>[COLORghostwhite]Pair Your Device[/COLOR]  /  [COLORdarkgoldenrod][B]Kid[/COLOR][COLORburlywood]do[/B][/COLOR]</summary>
+</item>
+ 
+<item>
+<title>[COLOR lime][B]Real Debrid[/B][/COLOR]</title>
+<authwith>realdebrid</authwith>
+<thumbnail>https://koditips.com/wp-content/uploads/2015/11/real-debrid-400x400.jpg</thumbnail>
+<summary>[COLORghostwhite]Authorize Real Debrid[/COLOR] [/B][/COLOR]</summary>            
+</item>
+ 
+ 
+<dir>
+<title>[COLOR red][B]Trackt[/B][/COLOR]</title>
+<link>https://walter.trakt.tv/hotlink-ok/public/favicon.png</link>
+<thumbnail>https://raw.githubusercontent.com/CellarDoorTV/CDTV/master/Kiddo/kiddo_portal_trakt.png</thumbnail>
+<summary>[COLORghostwhite]Trakt Portal[/COLOR]</summary>
 </dir>
  
 <dir>
-  <title>My Liked Lists</title>
-  <trakt>https://api.trakt.tv/users/likes/lists</trakt>
+<title>[COLOR gold][B]TMDB[/B][/COLOR]</title>
+<link>http://cellardoortv.com/kiddo/sub/portaltmdb.xml</link>
+<thumbnail>https://pbs.twimg.com/profile_images/789117657714831361/zGfknUu8_400x400.jpg</thumbnail>
+<summary>[COLORghostwhite]TMDB Portal[/COLOR]</summary>
 </dir>
+ 
  
 <dir>
-  <title>Reddit Top 250 (2017 Edition)</title>
-  <trakt>https://api.trakt.tv/users/philrivers/lists/reddit-top-250-2017-edition/items</trakt>
+<title>[B][COLOR white]Search[/B][/COLOR]</title>
+<tmdb>search</tmdb>
+<thumbnail>special://home/addons/plugin.video.ScoobyDoo/search.gif</thumbnail>
+<summary>[COLORghostwhite]Search[/COLOR]</summary>
 </dir>
  
-<dir>
-  <title>Rotten Tomatoes: Best of 2017</title>
-  <trakt>https://api.trakt.tv/users/lish408/lists/rotten-tomatoes-best-of-2017/items</trakt>
-</dir>
- 
-<dir>
-  <title>TMDB List: Animal Kingdom</title>
-  <tmdb>list/13488</tmdb>
-</dir>
- 
-<dir>
-  <title>Trending Shows</title>
-  <trakt>https://api.trakt.tv/shows/trending</trakt>
-</dir>
- 
-<dir>
-  <title>Popular Shows</title>
-  <trakt>https://api.trakt.tv/shows/popular</trakt>
-</dir>
- 
-<dir>
-  <title>TV Watchlist</title>
-  <trakt>https://api.trakt.tv/sync/watchlist/shows</trakt>
-</dir>
- 
-<dir>
-  <title>TV Collection</title>
-  <trakt>https://api.trakt.tv/sync/collection/shows</trakt>
-</dir>
- 
-<dir>
-  <title>TMDB Popular</title>
-  <tmdb>tv/popular</tmdb>
-</dir>
- 
-<dir>
-  <title>TMDB Top Rated</title>
-  <tmdb>tv/top_rated</tmdb>
-</dir>
- 
-<dir>
-  <title>Shan Animated</title>
-  <tmdb>list/32947</tmdb>
-</dir>
- 
-<dir>
-  <title>kids tv shows</title>
-  <trakt>https://api.trakt.tv/users/thava6969/lists/kids-tv-shows/items</trakt>
-</dir>
- 
-<dir>
-  <title>anime tv shows</title>
-  <trakt>https://api.trakt.tv/users/thava6969/lists/anime-tv-shows/items</trakt>
-</dir>
- 
-dir>
-  <title>Kids Movies</title>
-  <trakt>https://api.trakt.tv/users/thava6969/lists/kids-movies/items</trakt>
-</dir>
+<plugin>
+<item>
+<title>[B][COLOR silver]Open Settings[/COLOR][/B]</title>
+<link>plugin://plugin.video.ScoobyDoo/?action=openSettings</link>
+<thumbnail>https://raw.githubusercontent.com/CellarDoorTV/CDTV/master/Kiddo/kiddo_settings.png</thumbnail>
+<summary>Open Settings</summary>
+</item>
+</plugin>
