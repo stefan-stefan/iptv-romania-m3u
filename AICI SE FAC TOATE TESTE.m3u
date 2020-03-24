@@ -5,13 +5,13 @@
     <fanart>https://thumbs.gfycat.com/ExemplaryPeskyGecko-small.gif</fanart>
 </plugin>
 <plugin>
-    <title>[COLOR orchid][/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR blue]ALGERIA[/COLOR][/B] [COLOR orchid][/COLOR]</title>
+    <title>[COLOR orchid][/COLOR] [B][COLOR white]TEST[/COLOR] [COLOR blue]2[/COLOR][/B] [COLOR orchid][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/dz.m3u</link>
     <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/iptv.png</thumbnail>
     <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/800px-Flag_of_Algeria.svg.png</fanart>
 </plugin>
 <plugin>
-    <title>[COLOR orchid][/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]ANDORRA[/COLOR][/B] [COLOR orchid][/COLOR]</title>
+    <title>[COLOR orchid][/COLOR] [B][COLOR white]TEST[/COLOR] [COLOR orchid]3[/COLOR][/B] [COLOR orchid][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/ad.m3u</link>
     <thumbnail></thumbnail>
     <fanart>https://cdn.pixabay.com/photo/2017/08/19/01/34/andorra-2657051_960_720.png</fanart>
