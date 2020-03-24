@@ -21,3 +21,23 @@
         <thumbnail></thumbnail>
 </item>
 
+<item>
+<title>[COLOR blue] .Sport 365.live[/COLOR]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=Sport365.live&amp;url=sss</jsonrpc>
+<thumbnail>http://broadbandtvnews.broadbandtvnews.netdna-cdn.com/wp-content/uploads/2012/09/sport365-logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue].Listas Amigas[COLOR skyblue].Exodus Movies[/COLOR]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.exodus/?action=movieNavigator</jsonrpc>
+<thumbnail>https://superrepo.org/static/images/icons/original/xrepository.exodus.png.pagespeed.ic.jNoWECfScl.jpg</thumbnail>
+<fanart>https://goo.gl/9oQCFk</fanart>
+</item>
+ 
+<item>
+<title>[COLOR blue].Listas Amigas[COLOR skyblue].Exodus TV Shows[/COLOR]</title>
+<link>http://ignorame</link><thumbnail>https://superrepo.org/static/images/icons/original/xplugin.video.GOtv.png.pagespeed.ic.FwX70AAqeE.jpg</thumbnail></fanart>
+<externallink>http://pastebin.com/raw/WcGJRm3M</externallink>
+</item>
