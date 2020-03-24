@@ -1,30 +1,6 @@
-<plugin>
-    <title>[COLOR orchid][/COLOR] [B][COLOR white]LISTA HTTP[/COLOR] [COLOR blue]ROMANIA(test)[/COLOR][/B] [COLOR orchid][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://github.com/stefan-stefan/lista-tv-romania/blob/master/romania%20ts</link>
-    <thumbnail>https://thumbs.gfycat.com/ExemplaryPeskyGecko-small.gif</thumbnail>
-    <fanart>https://thumbs.gfycat.com/ExemplaryPeskyGecko-small.gif</fanart>
-</plugin>
-<dir>
-    <title>[COLOR orchid][/COLOR] [B][COLOR white]TEST[/COLOR] [COLOR blue]2[/COLOR][/B] [COLOR orchid][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/5aXETiyh</link>
-    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/iptv.png</thumbnail>
-    <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/800px-Flag_of_Algeria.svg.png</fanart>
-</dir>
-<plugin>
-    <title>[COLOR orchid][/COLOR] [B][COLOR white]TEST[/COLOR] [COLOR orchid]33[/COLOR][/B] [COLOR orchid][/COLOR]</title>
-    <link>https://raw.githubusercontent.com/stefan-stefan/iptv/master/canale/ro.m3u</link>
-    <thumbnail></thumbnail>
-    <fanart>https://cdn.pixabay.com/photo/2017/08/19/01/34/andorra-2657051_960_720.png</fanart>
-</plugin>
 
 <plugin>
-    <title>[COLOR orchid][/COLOR] [B][COLOR white]TEST[/COLOR] [COLOR orchid]44[/COLOR][/B] [COLOR orchid][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://github.com/stefan-stefan/lista-tv-romania/blob/master/romania%20ts</link>
-    <thumbnail></thumbnail>
-    <fanart>https://cdn.pixabay.com/photo/2017/08/19/01/34/andorra-2657051_960_720.png</fanart>
-</plugin>
-<plugin>
-    <title>[COLOR orchid][/COLOR] [B][COLOR white]TEST[/COLOR] [COLOR orchid]33[/COLOR][/B] [COLOR orchid][/COLOR]</title>
+    <title>[COLOR orchid][/COLOR] [B][COLOR white]LISTA HTTP[/COLOR] [COLOR blue]ROMANIA(test)[/COLOR][/B] [COLOR orchid][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/stefan-stefan/iptv/master/canale/ro.m3u</link>
     <thumbnail></thumbnail>
     <fanart>https://cdn.pixabay.com/photo/2017/08/19/01/34/andorra-2657051_960_720.png</fanart>
