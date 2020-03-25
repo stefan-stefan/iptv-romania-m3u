@@ -21,20 +21,941 @@
 </item>
 
 <item>
-<title>[COLOR white][B]SPORTS 365.LIVE[/COLOR][/B]</title>
-<link>ignorme.me</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=Sport365.live&amp;url=sss</jsonrpc>
-<fanart></fanart>
-<thumbnail></thumbnail>
+<title>                     [COLOR skyblue][B]    DALAM [/COLOR][COLOR lightslategray][/COLOR][COLOR deepskyblue]PROSES PENJENAMAAN SEMULA[/B][/COLOR]   </title>
+<link>$doregex[openDialog]</link>
+<regex>
+<name>openDialog</name>
+<expres><![CDATA[#$pyFunction
+import xbmcaddon
+import xbmcgui
+def GetLSProData(page_data,Cookie_Jar,m):
+    __addon__ = xbmcaddon.Addon()
+    __addonname__ = __addon__.getAddonInfo('name')    
+    line1 = "Selamat Datang Ke KODIM"
+    line2 = "Info Terkini di Facebook page"
+    line3 = "https://www.facebook.com/kodimtheaddon/"
+    xbmcgui.Dialog().ok(__addonname__, line1, line2, line3)
+    return
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>https://www.facebook.com/kodimtheaddon/
+<thumbnail>https://s20.postimg.org/v7s80cc4d/icon.png</thumbnail>
+<fanart>https://s20.postimg.org/v4w8rcme5/Kodim.png</fanart>
 </item>
-
-
+ 
+ 
+--------------->
 <item>
-<title>[COLOR yellow] SPORT 365[/COLOR]</title>
-<link>http://ignora.me</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=Sport365.live&amp;url=sss</jsonrpc>
-<thumbnail>http://broadbandtvnews.broadbandtvnews.netdna-cdn.com/wp-content/uploads/2012/09/sport365-logo.jpg</thumbnail>
+<title>[COLOR yellow][B]KODIM (PRIVATE KODI ADDON)[/B][/COLOR]</title>
+<link>http://ignoreme</link>
+<thumbnail>https://www.hidayatullah.com/files/bfi_thumb/JihadMelawanHawaNafsu-2xoca7ornl3j2e2w9pj5kw.jpg</thumbnail>
+<fanart>https://s20.postimg.org/v4w8rcme5/Kodim.png</fanart>
 </item>
+ 
+<item>
+<title>[COLOR yellow][B]LIVE TV MALAYSIA[/B][/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/fta/fta.xml</externallink>
+<thumbnail>https://s20.postimg.org/ybt16cuzh/fta.png</thumbnail>
+<fanart>https://s20.postimg.org/v4w8rcme5/Kodim.png</fanart>
+</item>
+ 
+<!-- <item>
+<title>[COLOR yellow][B]Drama Terbaru (Auto Update)[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>https://s20.postimg.org/firvnfeql/Selection_661.jpg</thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>page [makelist.param1]</title>
+<link>$doregex[makelist2]</link>
+<referer></referer>
+<thumbnail>https://s20.postimg.org/firvnfeql/Selection_661.jpg</thumbnail>
+]]></listrepeat>
+<expres> (.*?),</expres>
+<page>$doregex[get-list-page]</page>
+<cookieJar></cookieJar>
+</regex>
+ 
+<regex>
+<name>get-list-page</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+ import requests,re
+ source = requests.get('http://asp.re/').text
+ last = re.findall('href.+page=\d+">(\d+)<', source)[-1]
+ real = int(float(last)) + 86
+ liste = list(range(real))
+ return liste
+]]></expres>
+<page></page>
+</regex>
+ 
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[makelist2.param2]</title>
+<link>$doregex[play]</link>
+<referer></referer>
+<thumbnail>https://s20.postimg.org/firvnfeql/Selection_661.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[<a.href=\"(.*?)\"*\".class=\"_self\".target=\"_self\".>(.*?)</a>]]></expres>
+<page>http://asp.re/?vpage=[makelist.param1]</page>
+<cookieJar></cookieJar>
+</regex>
+ 
+<regex>
+<name>play</name>
+<expres><![CDATA[<source.src=\"(.*?)\".type='video/mp4'>]]></expres>
+<page>[makelist2.param1]</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+ -->
+<item>
+<title>[COLOR yellow][B]Drama Terbaru (Auto Update)[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>https://s20.postimg.org/firvnfeql/Selection_661.jpg</thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]</title>
+<link>$doregex[play]</link>
+<referer></referer>
+<thumbnail>https://s20.postimg.org/firvnfeql/Selection_661.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[a.href="(.*?)"[\w\W\s]*?self".>(.*?)<]]></expres>
+<page>http://asp.re/drama</page>
+<cookieJar></cookieJar>
+</regex>
+ 
+<regex>
+<name>play</name>
+<expres><![CDATA[<source.src=\"(.*?)\".type='video/mp4'>]]></expres>
+<page>[makelist.param1]</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+ 
+ 
+<item>
+<title>[COLOR yellow][B]Filem Terbaru (Auto Update)[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>https://s20.postimg.org/firvnfeql/Selection_661.jpg</thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]</title>
+<link>$doregex[play]</link>
+<referer></referer>
+<thumbnail>https://s20.postimg.org/firvnfeql/Selection_661.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[a.href="(.*?)"[\w\W\s]*?self".>(.*?)<]]></expres>
+<page>http://asp.re/filem</page>
+<cookieJar></cookieJar>
+</regex>
+ 
+<regex>
+<name>play</name>
+<expres><![CDATA[<source.src=\"(.*?)\".type='video/mp4'>]]></expres>
+<page>[makelist.param1]</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR yellow][B]Telemovie Terbaru (Auto Update)[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>https://s20.postimg.org/firvnfeql/Selection_661.jpg</thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]</title>
+<link>$doregex[play]</link>
+<referer></referer>
+<thumbnail>https://s20.postimg.org/firvnfeql/Selection_661.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[a.href="(.*?)"[\w\W\s]*?self".>(.*?)<]]></expres>
+<page>http://asp.re/telemovie</page>
+<cookieJar></cookieJar>
+</regex>
+ 
+<regex>
+<name>play</name>
+<expres><![CDATA[<source.src=\"(.*?)\".type='video/mp4'>]]></expres>
+<page>[makelist.param1]</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR yellow][B]TV Shows Terbaru (Auto Update)[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>https://s20.postimg.org/firvnfeql/Selection_661.jpg</thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]</title>
+<link>$doregex[play]</link>
+<referer></referer>
+<thumbnail>https://s20.postimg.org/firvnfeql/Selection_661.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[a.href="(.*?)"[\w\W\s]*?self".>(.*?)<]]></expres>
+<page>http://asp.re/tv-show</page>
+<cookieJar></cookieJar>
+</regex>
+ 
+<regex>
+<name>play</name>
+<expres><![CDATA[<source.src=\"(.*?)\".type='video/mp4'>]]></expres>
+<page>[makelist.param1]</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR yellow][B]***Drama TV***[/B][/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/dramatv/drama.xml</externallink>
+<thumbnail>https://s20.postimg.org/v7s80cc4d/icon.png</thumbnail>
+<fanart>http://4.bp.blogspot.com/-cT-UeGnbUW4/ViORF07_m7I/AAAAAAAAGcU/PY-F5crajRE/s1600-r/layanon9-logo-black.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR yellow][B]PAWAGAM[/B][/COLOR]</title>
+<thumbnail>https://s20.postimg.org/v9rnp100t/POSTER_movie_film_movies_posters_5500x3200.jpg</thumbnail>
+<fanart>https://s20.postimg.org/v4w8rcme5/Kodim.png</fanart>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/pawagam/pawagam.xml</externallink>
+</item>
+ 
+<item>
+<title>[COLOR yellow][B]***TV Show***[/B][/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/ts/ts.xml</externallink>
+<thumbnail>https://s20.postimg.org/v7s80cc4d/icon.png</thumbnail>
+<fanart>http://4.bp.blogspot.com/-cT-UeGnbUW4/ViORF07_m7I/AAAAAAAAGcU/PY-F5crajRE/s1600-r/layanon9-logo-black.jpg</fanart>
+</item>
+ 
+ 
+<!--
+<item>
+<title>[COLOR yellow][B]***Telemovie***[/B][/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/tm/tm.xml</externallink>
+<thumbnail>https://s20.postimg.org/v7s80cc4d/icon.png</thumbnail>
+<fanart>http://4.bp.blogspot.com/-cT-UeGnbUW4/ViORF07_m7I/AAAAAAAAGcU/PY-F5crajRE/s1600-r/layanon9-logo-black.jpg</fanart>
+</item> -->
+ 
+<!--------------
+ 
+<item>
+<title>[COLOR yellow][B]***Anugerah***[/B][/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/a/a.xml</externallink>
+<thumbnail>https://s20.postimg.org/v7s80cc4d/icon.png</thumbnail>
+<fanart>http://4.bp.blogspot.com/-cT-UeGnbUW4/ViORF07_m7I/AAAAAAAAGcU/PY-F5crajRE/s1600-r/layanon9-logo-black.jpg</fanart>
+</item>
+ 
+ 
+ 
+<item>
+<title>[COLOR yellow][B]***Istimewa***[/B][/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/i/i.xml</externallink>
+<thumbnail>https://s20.postimg.org/v7s80cc4d/icon.png</thumbnail>
+<fanart>http://4.bp.blogspot.com/-cT-UeGnbUW4/ViORF07_m7I/AAAAAAAAGcU/PY-F5crajRE/s1600-r/layanon9-logo-black.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR yellow][B]***Drama & Program Raya 2016***AKAN DATANG [/B][/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/dpr2016/dpr2016.xml</externallink>
+<thumbnail>https://s20.postimg.org/v7s80cc4d/icon.png</thumbnail>
+<fanart>http://4.bp.blogspot.com/-cT-UeGnbUW4/ViORF07_m7I/AAAAAAAAGcU/PY-F5crajRE/s1600-r/layanon9-logo-black.jpg</fanart>
+</item>
+ 
+ 
+<item>
+<title>[COLOR yellow][B]***GEGAR VAGANZA MUSIM KE 3 2016*** [/B][/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/gv/gv.xml</externallink>
+<thumbnail>https://s20.postimg.org/v4w8rcme5/Kodim.png</thumbnail>
+<fanart>http://www.melvister.com/wp-content/uploads/2016/10/gegar-vaganza.jpg</fanart>
+</item>
+ 
+ 
+ 
+<item>
+<title>[COLOR yellow][B]LUAR NEGARA[/B][/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/luarnegara/luarnegara.xml</externallink>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/736x/e2/fc/e5/e2fce5b2569ed0faa83d6577316ff2ec.jpg</thumbnail>
+<fanart>http://previews.123rf.com/images/nehru/nehru1305/nehru130500033/19415126-World-tv-stations-collage-Stock-Photo.jpg</fanart>
+</item>
+ 
+ 
+ 
+ 
+ 
+<item>
+<title>[COLOR yellow][B]PAWAGAM LAYAR KACA[/B][/COLOR]</title>
+<thumbnail>http://s20.postimg.org/ewszpscnx/lk21.png</thumbnail>
+<fanart>http://s20.postimg.org/v4w8rcme5/Kodim.png</fanart>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/lk21/lk21.xml</externallink>
+</item>
+ 
+<item>
+<title>[COLOR yellow][B]PAWAGAM 1080P[/B][/COLOR]</title>
+<thumbnail>https://gamerblurbs.files.wordpress.com/2014/05/resolution_nature_1080-vs-720.png</thumbnail>
+<fanart>http://s20.postimg.org/v4w8rcme5/Kodim.png</fanart>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/pawagam1080/pawagam1080.xml</externallink>
+</item>
+------------->
+<item>
+<title>[COLOR yellow][B]RADIO[/B][/COLOR]</title>
+<thumbnail>https://s20.postimg.org/aq20bnrh9/radio.png</thumbnail>
+<fanart>https://s20.postimg.org/v4w8rcme5/Kodim.png</fanart>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/radio/radio.xml</externallink>
+</item>
+ 
+<item>
+<title>[COLOR yellow][B]AL-FURQAN[/B][/COLOR]</title>
+<thumbnail>http://dailycapital.pk/wp-content/uploads/2015/04/1_-770x470.jpg</thumbnail>
+<fanart>https://s20.postimg.org/v4w8rcme5/Kodim.png</fanart>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/alfurqan/alfurqan.xml</externallink>
+</item>
+ 
+<item>
+<title>[COLOR yellow][B]DOKUMENTARI[/B][/COLOR]</title>
+<thumbnail>https://s20.postimg.org/v7s80cc4d/icon.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/documentary/documentary.xml</externallink>
+</item>
+------------>
+ 
+<item>
+<title>[COLOR yellow][B]UTK ANAK-ANAK[/B][/COLOR]</title>
+<thumbnail>https://i.ytimg.com/vi/tTYAJbb3GUU/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/tTYAJbb3GUU/hqdefault.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/katon/katon.xml</externallink>
+</item>
+ 
+ 
+ 
+<!------
+<item>
+<title>[COLOR yellow][B]HINDI MOVIES[/B][/COLOR]</title>
+<thumbnail>http://mainlogos.shadowcrew.info/pramlee.png</thumbnail>
+<fanart>https://s20.postimg.org/v4w8rcme5/Kodim.png</fanart>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/hindi/hindi.xml</externallink>
+</item>
+ 
+ 
+ 
+ 
+ 
+<item>
+<title>[COLOR yellow][B] Abah[/B][/COLOR]</title>
+<thumbnail>http://repo.ares-project.com/plugins/plugin.video.kodim/icon.png</thumbnail><fanart>http://repo.ares-project.com/plugins/plugin.video.kodim/fanart.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>[COLOR yellow]Abah Engkau Tu![/COLOR]    [COLOR blue][I]([makelist.param1])[/I][/COLOR]  </title>
+    <link>NA</link>
+    <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
+    <thumbnail>http://repo.ares-project.com/plugins/plugin.video.kodim/icon.png</thumbnail>
+]]></listrepeat>
+<expres>(http:\/\/cp.dmbshare.net:8000\/.*?get.php.*?)&lt;</expres>
+<page>http://www.m3uliste.pw/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR yellow][B]Emak[/B][/COLOR]</title>
+<thumbnail>http://repo.ares-project.com/plugins/plugin.video.kodim/icon.png</thumbnail><fanart>http://repo.ares-project.com/plugins/plugin.video.kodim/fanart.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>[COLOR yellow]Emak Engkau Tu![/COLOR]    [COLOR blue][I]([makelist.param1])[/I][/COLOR]  </title>
+    <link>NA</link>
+    <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
+        <thumbnail>http://repo.ares-project.com/plugins/plugin.video.kodim/icon.png</thumbnail>
+]]></listrepeat>
+<expres>(http:\/\/ksportiptv.com:1557\/.*?get.php.*?)&lt;</expres>
+<page>http://www.oneplaylist.eu.pn/</page><referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+ 
+ 
+ 
+<item>
+<title>[COLOR yellow][B]MINI MARKET[/B][/COLOR]</title>
+<thumbnail>http://mainlogos.shadowcrew.info/radio.png</thumbnail>
+<fanart>https://s20.postimg.org/v4w8rcme5/Kodim.png</fanart>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/frodo.xml</externallink>
+</item>
+ 
+ 
+<item>
+<title>[COLOR yellow]Korea[/COLOR]</title>
+<thumbnail>http://mainlogos.shadowcrew.info/pramlee.png</thumbnail>
+<fanart>https://s20.postimg.org/v4w8rcme5/Kodim.png</fanart>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/kr.m3u</externallink>
+</item>
+ 
+<item>
+<title>[COLOR yellow][B]DATO LCW[/B][/COLOR]</title>
+<thumbnail>http://mainlogos.shadowcrew.info/radio.png</thumbnail>
+<fanart>https://s20.postimg.org/v4w8rcme5/Kodim.png</fanart>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/26082016.xml</externallink>
+</item>
+ 
+ 
+<item>
+<title>[COLOR yellow][B]CINCIN ITU[/B][/COLOR]</title>
+<thumbnail>http://mainlogos.shadowcrew.info/radio.png</thumbnail>
+<fanart>https://s20.postimg.org/v4w8rcme5/Kodim.png</fanart>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/frodo.xml</externallink>
+</item>
+ 
+<item>
+<title>[COLOR yellow][B]CINCIN DIJARI[/B][/COLOR]</title>
+<thumbnail>http://mainlogos.shadowcrew.info/radio.png</thumbnail>
+<fanart>https://s20.postimg.org/v4w8rcme5/Kodim.png</fanart>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/frodo1.xml</externallink>
+</item>
+ 
+<item>
+<title>[COLOR yellow][B]INAI DIJARI[/B][/COLOR]</title>
+<thumbnail>http://mainlogos.shadowcrew.info/radio.png</thumbnail>
+<fanart>https://s20.postimg.org/v4w8rcme5/Kodim.png</fanart>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/frodo2.xml</externallink>
+</item>
+ 
+ 
+<item>
+<title>[COLOR yellow][B]JOMIE[/B][/COLOR]</title>
+<thumbnail>http://mainlogos.shadowcrew.info/radio.png</thumbnail>
+<fanart>https://s20.postimg.org/v4w8rcme5/Kodim.png</fanart>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/jomie/kodi.txt</externallink>
+</item>
+----->
+<item>
+<title>[COLOR yellow][B]ZON ILMU[/B][/COLOR]</title>
+<thumbnail>https://1.bp.blogspot.com/--KGseGOXpvM/VqTXbsUCFDI/AAAAAAAAOz8/bo-9Bs27oA0/s400/joss.jpg</thumbnail>
+<fanart>https://s20.postimg.org/v4w8rcme5/Kodim.png</fanart>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/zennor/zennor.xml</externallink>
+</item>
+<!----------------
+<item>
+<title>[COLOR yellow][B]SCANDARE[/B][/COLOR]</title>
+<thumbnail>http://mainlogos.shadowcrew.info/radio.png</thumbnail>
+<fanart>https://s20.postimg.org/v4w8rcme5/Kodim.png</fanart>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/scandare/scandare.xml</externallink>
+</item>
+ 
+<item>
+<title>[COLOR deepskyblue][B]CINCIN EMAS[/B][/COLOR][COLOR lightblue][I][Updated Daily][/I][/COLOR]</title>
+<link>$doregex[makelist2]</link>
+ 
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>Server [makelist2.param1]</title>
+ <link>$doregex[makelist]</link>
+ <thumbnail>http://repo.ares-project.com/plugins/plugin.video.kodim/icon.png</thumbnail>
+ ]]></listrepeat>
+<expres>Server:"(.*?)" URL="(.*?)";</expres>
+<page>http://kodim.ares-project.com/server/server.txt</page>
+<agent>chrom</agent>
+</regex>
+ 
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[makelist.param1]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;proxy=None&amp;name=[COLOR lightblue]KODIM TEST[/COLOR] [makelist.param1] [COLOR lightslategray](server [makelist2.param1])[/COLOR] </link>
+ <thumbnail>http://repo.ares-project.com/plugins/plugin.video.kodim/icon.png</thumbnail>
+ ]]></listrepeat>
+<expres>#EXTINF:-1,(.*?)\n(.*)</expres>
+<page>[makelist2.param2]</page>
+<agent>chrom</agent>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR yellow]Test2Lagi - Dalam Proses[/COLOR]</title>
+<thumbnail>http://mainlogos.shadowcrew.info/astrok.png</thumbnail>
+<fanart>https://s20.postimg.org/v4w8rcme5/Kodim.png</fanart>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/p2p.xml</externallink>
+</item>
+ 
+<item>
+<title>test token</title>
+<link>$doregex[get-decode]$doregex[get-token]</link>
+<regex>
+<name>get-decode</name>
+<expres>$pyFunction:base64.b64decode("$doregex[get-enctext]")</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-enctext</name>
+<expres>$doregex[get-number]</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-number</name>
+<expres>murl = "(.*?)"</expres>
+<page>http://p2pcast.tv/stream.php?id=501094</page>
+<referer>http://tv1.kozreload.eu</referer>
+</regex>
+<regex>
+<name>get-token</name>
+<expres>file: (.*?),</expres>
+<page>http://js.p2pcast.tv/p2pcast/pplayer.11.js</page>
+<referer>http://p2pcast.tv/stream.php?id=501094</referer>
+</regex>
+</item>
+ 
+ 
+ 
+<item>
+<title>[COLOR yellow][B]WARONG[/B][/COLOR]</title>
+<thumbnail>https://s3-media1.fl.yelpcdn.com/bphoto/Djvqp6S4hQMTGIY5Dh-hEQ/ls.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/0/06/COLLECTIE_TROPENMUSEUM_Eem_kar_met_warong_Medan_TMnr_10013836.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/server/pisang.xml</externallink>
+</item>
+ 
+ 
+ 
+<item>
+<title>[COLOR yellow][B]WARONG ABC[/B][/COLOR]</title>
+<thumbnail>https://s3-media1.fl.yelpcdn.com/bphoto/Djvqp6S4hQMTGIY5Dh-hEQ/ls.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/0/06/COLLECTIE_TROPENMUSEUM_Eem_kar_met_warong_Medan_TMnr_10013836.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/server/gpisang.m3u</externallink>
+</item>
+<!-----
+<item>
+<title>[COLOR yellow][B]ROJAK JAWA[/B][/COLOR]</title>
+<thumbnail>https://i.ytimg.com/vi/zT3WREcXv9g/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/zT3WREcXv9g/hqdefault.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/rojakjawa/rojakjawa.xml</externallink>
+</item>
+ 
+<item>
+<title>[COLOR yellow][B]SELINGAN[/B][/COLOR]</title>
+<thumbnail>https://i.ytimg.com/vi/zT3WREcXv9g/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/zT3WREcXv9g/hqdefault.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/marveldc/mdc.xml</externallink>
+</item>
+ 
+<item>
+<title>[COLOR yellow][B]CITER KITA[/B][/COLOR]</title>
+<thumbnail>http://www.malaysiasky.net/wp-content/uploads/2016/07/citerkita.png</thumbnail>
+<fanart>http://www.malaysiasky.net/wp-content/uploads/2016/07/citerkita.png</fanart>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.citerkita/</jsonrpc>
+</item>
+ 
+ 
+<item>
+<title>[COLOR yellow][B]LAYANON9[/B][/COLOR]</title>
+<thumbnail>http://repo.ares-project.com/plugins/plugin.video.layanon9/icon.png</thumbnail>
+<fanart>http://repo.ares-project.com/plugins/plugin.video.layanon9/icon.png</fanart>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.layanon9/</jsonrpc>
+</item>
+ 
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=66&amp;name=%5bCOLOR%20lightblue%5d%3e%3eclick%20here%20for%20all%20categories%3c%3c%5b%2fCOLOR%5d&amp;url=uktv</jsonrpc>
+ 
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR lightyellow][B]WARONG II[/COLOR][COLOR yellow] (BACKUP) [/COLOR][/B] [COLOR lightslategray] [I]TEST[/I] [/COLOR] </title>
+ 
+<link>$doregex[makelist]</link>
+ 
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[makelist.param1]</title>
+       <link>$doregex[getVipRacing]</link>
+            <regex>
+            <name>getVipRacing</name>
+            <expres>$pyFunction:vipracing.decrypt_vipracing('[makelist.param2]')</expres>
+            <page></page>
+            </regex>
+<thumbnail>https://s3-media1.fl.yelpcdn.com/bphoto/Djvqp6S4hQMTGIY5Dh-hEQ/ls.jpg</thumbnail>
+        ]]></listrepeat>
+<expres>iguide:"(.*?)" url="(.*?)";</expres>
+<page>https://simplekore.com/wp-content/uploads/file-manager/olumalia/USAtv.txt</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://s3-media1.fl.yelpcdn.com/bphoto/Djvqp6S4hQMTGIY5Dh-hEQ/ls.jpg</thumbnail>
+ </item>   
+ 
+----------------->
+<!-----------
+<item>
+<title>[COLOR yellow][B]SIRI TV[/B][/COLOR]</title>
+<thumbnail>http://vignette2.wikia.nocookie.net/supernatural/images/b/b5/MP_Slider_Season_10.png/revision/latest/scale-to-width-down/670?cb=20150706173305</thumbnail>
+<fanart>http://www.hitthefloor.com/wp-content/uploads/2015/02/Supernatural.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/tv/tv.xml</externallink>
+</item>
+ 
+<item>
+<title>[COLOR yellow][B]REQUEST[/B][/COLOR]</title>
+<thumbnail>http://4.bp.blogspot.com/-g-t82f3j-hE/VhzKUAQwGVI/AAAAAAAAAxE/7n12HGZdHrE/s1600/permintaan.PNG</thumbnail>
+<fanart>http://4.bp.blogspot.com/-g-t82f3j-hE/VhzKUAQwGVI/AAAAAAAAAxE/7n12HGZdHrE/s1600/permintaan.PNG</fanart>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/request/request.xml</externallink>
+</item>
+ 
+<item>
+<title>[COLOR yellow][B]LINUX CLI[/B][/COLOR]</title>
+<thumbnail>http://images.bit-tech.net/content_images/2007/09/linux_cli_101/large-22.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/TbOTF1N6P_s/maxresdefault.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/cli/cli.xml</externallink>
+</item>
+ 
+ 
+<item>
+<title>[COLOR yellow][B]80an[/B][/COLOR]</title>
+<thumbnail>http://vignette2.wikia.nocookie.net/supernatural/images/b/b5/MP_Slider_Season_10.png/revision/latest/scale-to-width-down/670?cb=20150706173305</thumbnail>
+<fanart>https://i.ytimg.com/vi/TbOTF1N6P_s/maxresdefault.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/matmetal/matmetal.xml</externallink>
+</item>
+ 
+ 
+ 
+<item>
+<title>[COLOR yellow][B]PROJEK TANAM DURIAN KUNYIT BAKA DAILYMOTION[/B][/COLOR]</title>
+<thumbnail>https://evbdn.eventbrite.com/s3-s3/eventlogos/49926042/logodailymotion.png</thumbnail>
+<fanart>http://www.dailymotion.com/images/extras/jukebox.png</fanart>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/dm/dm.xml</externallink>
+</item>
+ 
+ 
+<item>
+    <title>Datoporn</title>
+    <link>$doregex[geturl]</link>
+    <regex>
+        <name>geturl</name>
+        <expres>"(http.*?)"</expres>
+        <page>$doregex[getunpacked]</page>
+    </regex>
+    <regex>
+        <name>getunpacked</name>
+        <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' )</expres>
+        <page>$doregex[getEnc]</page>
+    </regex>
+    <regex>
+        <name>getunescaped</name>
+        <expres>$pyFunction:urllib.unquote('$doregex[getdecoded]')</expres>
+        <page></page>
+    </regex>
+    <regex>
+        <name>getdecoded</name>
+        <expres>$pyFunction:base64.b64decode('$doregex[getEnc]')</expres>
+        <page></page>
+    </regex>
+    <regex>
+        <name>getEnc</name>
+        <expres>(eval.*)</expres>
+        <page>http://datoporn.com/embed-7pohclhc63zg.html</page>
+    </regex>
+</item>
+-------------->
+ 
+<!---------------
+<item>
+<title>[COLOR deepskyblue][B]KODIM IPTV TESTING[/B][/COLOR][COLOR lightblue][I][Updated Daily][/I][/COLOR]</title>
+<link>$doregex[makelist2]</link>
+ 
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>Server [makelist2.param1]</title>
+ <link>$doregex[makelist]</link>
+ <thumbnail>http://repo.ares-project.com/plugins/plugin.video.kodim/icon.png</thumbnail>
+ ]]></listrepeat>
+<expres>Server:"(.*?)" URL="(.*?)";</expres>
+<page>http://kodim.ares-project.com/server/iptvtest.txt</page>
+<agent>chrom</agent>
+</regex>
+ 
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[makelist.param1]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;proxy=None&amp;name=[COLOR lightblue]KODIM IPTV TEST[/COLOR] [makelist.param1] [COLOR lightslategray](server [makelist2.param1])[/COLOR] </link>
+ <thumbnail>http://repo.ares-project.com/plugins/plugin.video.kodim/icon.png</thumbnail>
+ ]]></listrepeat>
+<expres>#EXTINF:0,(.*?)\n(.*)</expres>
+<page>[makelist2.param2]</page>
+<agent>chrom</agent>
+</regex>
+</item>
+ 
+--------------->
+<!---------------
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=$doregex[get-url]</link>
+ 
+ 
+<item>
+<title>TEST | BBC News - FILMON</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=$doregex[get-url]&amp;name=KODIM TEST</link>
+ 
+<regex>
+<name>get-url</name>
+<expres><![CDATA[#$pyFunction
+def getCookiesString(cookieJar):
+    try:
+        cookieString=""
+        for index, cookie in enumerate(cookieJar):
+            cookieString+=cookie.name + "=" + cookie.value +";"
+    except: pass
+    #print 'cookieString',cookieString
+    return cookieString
+ 
+def f4mcallback(param, type, error, Cookie_Jar, url, headers):
+  if type==1:
+    newurl=getUrl(param,Cookie_Jar)
+    oldservername=url.split('/')[2]
+    newserver=newurl.split('/')
+    newserver[2]=oldservername
+    newurl='/'.join(newserver)
+    return newurl,Cookie_Jar
+  else:
+    return '',None
+ 
+def getUrl(param, Cookie_Jar):
+  import requests, re, urllib, inspect
+  headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36'}
+  url = 'http://www.filmon.com/tv/channel/export?channel_id='+param
+  session = requests.session()
+  session.cookies = Cookie_Jar
+  source= session.get(url, headers = headers)
+  swf = re.findall('streamer":"(.*?)"', source.text)[0]
+  cleanswf = swf.replace('\\/','/')
+  referer = 'http://www.filmon.com' + cleanswf
+  headers1 = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36', 'Referer': url, 'X-Requested-With': 'XMLHttpRequest'}
+  url2 = 'http://www.filmon.com/api-v2/channel/%s?protocol=hls'%param
+  source1= session.get(url2, headers = headers1)
+  getHD = re.findall('"high","url":"([^"]+)"', source1.text)[0]
+  return getHD
+ 
+def GetLSProData(page_data,Cookie_Jar,m):
+  import os,urllib
+  callbackfunction=os.path.realpath(__file__)
+  callbackparam='27'
+  url=getUrl('27',Cookie_Jar)
+  referer = 'http://www.filmon.com/'
+  print 'url',url
+  return urllib.quote_plus (url + '|Referer=' + referer+'&cookie='+getCookiesString(Cookie_Jar)+'&User-Agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36') +'&callbackpath='+urllib.quote_plus(callbackfunction)+'&callbackparam='+urllib.quote_plus(callbackparam)
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+<thumbnail>http://obamapacman.com/wp-content/uploads/2011/06/BBC-Logo-iPad.jpg</thumbnail>
+</item>
+ 
+ 
+ 
+<item>
+<title>[COLOR yellow][B]IPTV[/B][/COLOR]</title>
+<thumbnail>https://s20.postimg.org/v7s80cc4d/icon.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/iptv/iptv.xml</externallink>
+</item>
+ 
+ 
+<item>
+<title>[COLOR yellow][B]UJIAN[/B][/COLOR]</title>
+<thumbnail>http://images.bit-tech.net/content_images/2007/09/linux_cli_101/large-22.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/request/request.xml</externallink>
+</item>
+ 
+ 
+<item>
+<title>[COLOR yellow][B]DAILYMOTION TEST[/B][/COLOR]</title>
+<thumbnail>http://images.bit-tech.net/content_images/2007/09/linux_cli_101/large-22.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/test/test.xml</externallink>
+</item>
+ 
+<item>
+<title>[COLOR yellow][B]RUNNINGMAN - VOD[/B][/COLOR]</title>
+<thumbnail>https://s20.postimg.org/v7s80cc4d/icon.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/rm/rm.xml</externallink>
+</item>
+ 
+<item>
+<title>[COLOR yellow][B]MOON LOVERS – SCARLET HEART - VOD[/B][/COLOR]</title>
+<thumbnail>https://s20.postimg.org/v7s80cc4d/icon.png</thumbnail>
+<fanart>http://dramafavorite.com/wp-content/uploads/2016/08/Scarlet-Heart-Ryeo-200x300.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/moonlover/moonlover.xml</externallink>
+</item>
+ 
+<item>
+<title>[COLOR yellow][B]KOSONG[/B][/COLOR]</title>
+<thumbnail>https://s20.postimg.org/v7s80cc4d/icon.png</thumbnail>
+<fanart>http://dramafavorite.com/wp-content/uploads/2016/08/Scarlet-Heart-Ryeo-200x300.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/kosong/kosong.xml</externallink>
+</item>
+----------->
+ 
+<item>
+<title>[COLOR yellow][B]MYASIANTV (biezom code) [/B][/COLOR]</title>
+<thumbnail>http://myasiantv.se/templates/default/images/logo.png</thumbnail>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/myasiantv/main.xml</externallink>
+</item>
+ 
+ 
+<!-- <item>
+<title>[COLOR yellow][B]CINEMAINDO.TV [/B][/COLOR]</title>
+<thumbnail>http://cinemaindo.tv/wp-content/uploads/2015/07/logo.png</thumbnail>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/cinemaindotv/main.xml</externallink>
+</item>
+ 
+<item>
+<title>[COLOR yellow][B]DRAMANICE (IN PROGRESS) [/B][/COLOR]</title>
+<thumbnail>http://repo.ares-project.com/plugins/plugin.video.dramanice/icon.png</thumbnail>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/dramanice/main.xml</externallink>
+</item>
+ 
+<item>
+<title>[COLOR yellow][B]MUZIK[/B][/COLOR]</title>
+<thumbnail>http://northfieldartsguild.org/_file/Music.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/music/music.xml</externallink>
+</item>
+ 
+<item>
+<title>[COLOR yellow][B]BERITA[/B][/COLOR]</title>
+<thumbnail>https://pbs.twimg.com/profile_images/2102599704/berita_sidoarjo_400x400.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/berita/berita.xml</externallink>
+</item>
+ 
+<item>
+<title>[COLOR yellow][B]UJIAN[/B][/COLOR]</title>
+<thumbnail>http://images.bit-tech.net/content_images/2007/09/linux_cli_101/large-22.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/request/ujian.xml</externallink>
+</item>
+-->
+<item>
+<title>[COLOR yellow][B]https://forums.tvaddons.ag CODES[/B][/COLOR]</title>
+<thumbnail>http://i66.tinypic.com/21dfspz.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>http://kodim.ares-project.com/tvaddons/tvaddons.xml</externallink>
+</item>
+ 
+<item>
+<title>[COLOR yellow][B]Senarai Penuh Drama dan Telemovie Raya 2017 (Auto Update)[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>https://2.bp.blogspot.com/-HzD8FuQCkU8/WU4OeHkJtXI/AAAAAAAAAWY/3maXeDSro_AtDBN7g4UzIjjQib5mLPrlACLcBGAs/s640/senarai%2Bdrama%2Btelemovie%2Braya%2B2017.jpg</thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]</title>
+<link>$doregex[makelist2]</link>
+<referer></referer>
+<thumbnail>https://2.bp.blogspot.com/-HzD8FuQCkU8/WU4OeHkJtXI/AAAAAAAAAWY/3maXeDSro_AtDBN7g4UzIjjQib5mLPrlACLcBGAs/s640/senarai%2Bdrama%2Btelemovie%2Braya%2B2017.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[/>\n<a.href="(.*?)"[\w\W\s]*?>(.*?)</a]]></expres>
+<page>http://infobergetar.blogspot.my/2017/06/senarai-penuh-drama-dan-telemovie-raya.html</page>
+<cookieJar></cookieJar>
+</regex>
+ 
+<regex>
+  <name>makelist2</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR skyblue][makelist.param2][/COLOR]</title>
+        <link>$doregex[makelist3]</link>
+        <thumbnail>https://2.bp.blogspot.com/-HzD8FuQCkU8/WU4OeHkJtXI/AAAAAAAAAWY/3maXeDSro_AtDBN7g4UzIjjQib5mLPrlACLcBGAs/s640/senarai%2Bdrama%2Btelemovie%2Braya%2B2017.jpg</thumbnail>
+]]></listrepeat>
+  <expres><![CDATA[mozallowfullscreen=\"\".src=\"(.*?)\"]]></expres>
+  <page>[makelist.param1]</page>
+  <referer>http://kbergetar.org/hikayat-cinta-si-pematah-hati-alif-satar/</referer>
+  <cookieJar></cookieJar>
+</regex>
+<regex>
+  <name>makelist3</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR skyblue][makelist.param2][/COLOR]</title>
+        <link>[makelist3.param1]</link>
+        <thumbnail>https://2.bp.blogspot.com/-HzD8FuQCkU8/WU4OeHkJtXI/AAAAAAAAAWY/3maXeDSro_AtDBN7g4UzIjjQib5mLPrlACLcBGAs/s640/senarai%2Bdrama%2Btelemovie%2Braya%2B2017.jpg</thumbnail>
+]]></listrepeat>
+  <expres><![CDATA[source.src=(.*?).type]]></expres>
+  <page>[makelist2.param1]</page>
+  <referer>http://kbergetar.org/hikayat-cinta-si-pematah-hati-alif-satar/</referer>
+  <cookieJar></cookieJar>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR yellow][B]    Senarai Drama/Program (Auto Update)[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>http://kbergetar.org/wp-content/uploads/2016/12/header-KB3-12.12.2016.jpg</thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]</title>
+<link>$doregex[makelist2]</link>
+<referer></referer>
+<thumbnail>http://kbergetar.org/wp-content/uploads/2016/12/header-KB3-12.12.2016.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[\n<a.href="(.*?)">(.*?)<]]></expres>
+<page>http://kbergetar.org/senarai-drama/</page>
+<cookieJar></cookieJar>
+</regex>
+<item>
  
    
  
