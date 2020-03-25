@@ -6,6 +6,11 @@
     <fanart>https://media.giphy.com/media/9A7T09r0KLSqQ/giphy.gif</fanart>
 </plugin>
 
+<item>
+        <title>***************************************</title>
+        <imdburl>genres/crime</imdburl>
+        <thumbnail></thumbnail>
+
 <plugin>
     <title>[COLOR orchid][/COLOR] [B][COLOR white]LISTA ACESTREAM[/COLOR] [COLOR blue]ROMANIA[/COLOR][/B] [COLOR orchid][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/stefan-stefan/filme-online/master/sopcast.m3u</link>
