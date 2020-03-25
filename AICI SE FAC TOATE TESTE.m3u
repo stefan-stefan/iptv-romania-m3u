@@ -20,5 +20,35 @@
         <thumbnail></thumbnail>
 </item>
 
-
+  <dir>
+  <title>[COLORwhite]Voodoo[/COLOR]</title>
+  <link>http://www.ezzer-mac.com/frank/ghost/ghostxmls/mainvoodoo1.xml</link>
+  <thumbnail>http://www.ezzer-mac.com/frank/artvoodoo/icon.png</thumbnail>
+  <fanart>http://www.ezzer-mac.com/frank/artvoodoo/fanart.jpg</fanart>
+  <summary>Voodoo Addon</summary>
+  </dir>
+ 
+  <dir>
+  <title>[COLORwhite]Chain Reaction[/COLOR]</title>
+  <link>https://pastebin.com/raw/siAAPMdk</link>
+  <thumbnail>http://www.ezzer-mac.com/frank/artghost/steveicon.png</thumbnail>
+  <fanart>http://www.ezzer-mac.com/frank/artghost/stevefanart.jpg</fanart>
+  <summary>Chain Reaction Addon</summary>
+  </dir>
+ 
+  <dir>
+  <title>[COLORwhite]The Mad Titan[/COLOR]</title>
+  <link>http://magnetic.website/Mad%20Titan/main.xml</link>
+  <thumbnail>http://www.ezzer-mac.com/frank/artghost/titan.png</thumbnail>
+  <fanart>http://www.ezzer-mac.com/frank/artghost/The-Mad-Titan.jpg</fanart>
+  <summary>The Mad Titan Addon</summary>
+  </dir>
+ 
+  <dir>
+  <title>[COLORwhite]UFC Replays[/COLOR]</title>
+  <link>http://www.ezzer-mac.com/frank/ghost/ghostxmls/xmls1/ufc.xml</link>
+  <thumbnail>http://www.ezzer-mac.com/frank/artghost/ufcc.png</thumbnail>
+  <fanart>http://www.ezzer-mac.com/frank/artghost/diaz.jpg</fanart>
+  <summary>Ufc Replays</summary>
+  </dir>
 
