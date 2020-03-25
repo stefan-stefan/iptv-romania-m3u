@@ -26,7 +26,13 @@
         <thumbnail></thumbnail>
 
 
-
+<item>
+<title>[COLOR white][B]SPORTS 365.LIVE[/COLOR][/B]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=Sport365.live&amp;url=sss</jsonrpc>
+<fanart></fanart>
+<thumbnail></thumbnail>
+</item>
 
  
    
