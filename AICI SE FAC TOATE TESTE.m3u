@@ -33,60 +33,7 @@
         <thumbnail></thumbnail>
 </item>
 
-<dir>
-    <name>[COLOR blue] [/COLOR] [B][COLOR blue]PLAY Kids Movies[/COLOR][/B] [COLOR blue] [/COLOR]</name>
-    <link>https://bitbucket.org/team-crew/xmls/raw/master/kids/kids_movies/main.xml</link>
-    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_greyhat.png</thumbnail>
-    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
-</dir>
-<dir>
-    <name>[COLOR orchid]Â¤ [/COLOR] [B][COLOR white]3D Movies[/COLOR][/B] [COLOR orchid] Â¤[/COLOR]</name>
-    <link>https://bitbucket.org/team-crew/xmls/raw/master/kids/kids_3d/main_3d.xml</link>
-    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_greyhat.png</thumbnail>
-    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
-</dir>
-<dir>
-    <name>[COLOR orchid]Â¤ [/COLOR] [B][COLOR white]24/7 Kids Shows[/COLOR][/B] [COLOR orchid] Â¤[/COLOR]</name>
-    <link>https://bitbucket.org/team-crew/xmls/raw/master/kids/kids_247/main_kids247.xml</link>
-    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_greyhat.png</thumbnail>
-    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
-</dir>
-<dir>
-    <name>[COLOR orchid]Â¤ [/COLOR] [B][COLOR white]1Click Kids[/COLOR][/B] [COLOR orchid] Â¤[/COLOR]</name>
-    <link>https://bitbucket.org/team-crew/xmls/raw/master/kids/kids_oneclick/main_oneclick.xml</link>
-    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_greyhat.png</thumbnail>
-    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
-</dir>
-<dir>
-    <name>[COLOR orchid]Â¤ [/COLOR] [B][COLOR white]Anime Zone[/COLOR][/B] [COLOR orchid] Â¤[/COLOR]</name>
-    <link>https://bitbucket.org/team-crew/xmls/raw/master/kids/kids_anime/main_anime.xml</link>
-    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_greyhat.png</thumbnail>
-    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
-</dir>
-<dir>
-    <name>[COLOR orchid]Â¤ [/COLOR] [B][COLOR white]Walt Disney[/COLOR][/B] [COLOR orchid] Â¤[/COLOR]</name>
-    <link>https://bitbucket.org/team-crew/xmls/raw/master/kids/kids_disney/disney_years/main.xml</link>
-    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_greyhat.png</thumbnail>
-    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
-</dir>
-<dir>
-    <name>[COLOR orchid]Â¤ [/COLOR] [B][COLOR white]Learning TV[/COLOR][/B] [COLOR orchid] Â¤[/COLOR]</name>
-    <link>https://bitbucket.org/team-crew/xmls/raw/master/kids/kids_learning/main_learning.xml</link>
-    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_greyhat.png</thumbnail>
-    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
-</dir>
-<dir>
-    <name>[COLOR orchid]Â¤ [/COLOR] [B][COLOR white]Kids Songs[/COLOR][/B] [COLOR orchid] Â¤[/COLOR]</name>
-    <link>https://bitbucket.org/team-crew/xmls/raw/master/kids/kids_songs/main_songs.xml</link>
-    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_greyhat.png</thumbnail>
-    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
-</dir>
-<dir>
-    <name>[COLOR orchid]Â¤ [/COLOR] [B][COLOR white]Test[/COLOR][/B] [COLOR orchid] Â¤[/COLOR]</name>
-    <link>https://bitbucket.org/team-crew/xmls/raw/master/kids/test.xml</link>
-    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_greyhat.png</thumbnail>
-    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
-</dir>
+
 
 
 <plugin>
