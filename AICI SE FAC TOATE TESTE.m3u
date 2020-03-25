@@ -12,6 +12,19 @@
     <fanart>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</fanart>
 </plugin>
 
+<dir>
+	<name>[COLOR blue] [/COLOR] [COLOR white][B]Family[/B][/COLOR]</name>
+	<link>https://bitbucket.org/team-crew/xmls/raw/master/kids/kids_movies/kids_family/main_family.xml</link>
+	<thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_greyhat.png</thumbnail>
+	<fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+</dir>
+<dir>
+	<name>[COLOR blue] [/COLOR] [COLOR white][B]Animated[/B][/COLOR]</name>
+	<link>https://bitbucket.org/team-crew/xmls/raw/master/kids/kids_movies/kids_animated/main_animated.xml</link>
+	<thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_greyhat.png</thumbnail>
+	<fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+</dir>
+
 
 
 <item>
@@ -21,7 +34,7 @@
 </item>
 
 <dir>
-    <name>[COLOR orchid]Â¤ [/COLOR] [B][COLOR white]Kids Movies[/COLOR][/B] [COLOR orchid] Â¤[/COLOR]</name>
+    <name>[COLOR blue] [/COLOR] [B][COLOR blue]PLAY Kids Movies[/COLOR][/B] [COLOR blue] [/COLOR]</name>
     <link>https://bitbucket.org/team-crew/xmls/raw/master/kids/kids_movies/main.xml</link>
     <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_greyhat.png</thumbnail>
     <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
