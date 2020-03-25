@@ -22,12 +22,19 @@
 
 <item>
 <title>[COLOR white][B]SPORTS 365.LIVE[/COLOR][/B]</title>
-<link>ignorme</link>
+<link>ignorme.me</link>
 <jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=Sport365.live&amp;url=sss</jsonrpc>
 <fanart></fanart>
 <thumbnail></thumbnail>
 </item>
 
+
+<item>
+<title>[COLOR yellow] SPORT 365[/COLOR]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=Sport365.live&amp;url=sss</jsonrpc>
+<thumbnail>http://broadbandtvnews.broadbandtvnews.netdna-cdn.com/wp-content/uploads/2012/09/sport365-logo.jpg</thumbnail>
+</item>
  
    
  
