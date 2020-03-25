@@ -20,533 +20,59 @@
         <thumbnail></thumbnail>
 </item>
 
- <item>
-<title>Search [COLOR firebrick]RedTube[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<thumbnail>https://bitbucket.org/threw/pinkhat/raw/7b2640a875d2258b293da89dcb0d0b08fffe360f/bg/Search-Redtube.png</thumbnail>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-        <title>[makelist.param2]</title>
-        <link>$doregex[playurl]</link>
-        <thumbnail>[makelist.param1]</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url = ''):
-    from resources.lib.modules import cache,client,workers
-    import re,urllib,xbmc,xbmcgui
-    def kboard():
-        w = xbmcgui.Window(10000) ; p = 'plugin.video.thecrew.regex.search'
-        t = xbmc.getInfoLabel('listitem.label')
-        if t == '': return w.getProperty(p)
-        k = xbmc.Keyboard('', t) ; k.doModal()
-        q = k.getText() if k.isConfirmed() else None
-        if (q == None or q == ''): return
-        w.setProperty(p, q) ; return q
-    class page:
-        def run(self, r):
-            threads = [] ; self.r = [] ; r = [(r.index(i)+1, i) for i in r]
-            for i in r: threads.append(workers.Thread(self.request, i))
-            [i.start() for i in threads] ; [i.join() for i in threads]
-            return ''.join([str(i[1]) for i in sorted(self.r, key=lambda x: x[0])])
-        def request(self, i):
-            self.r += [(i[0], client.request(i[1]))]
-    q = kboard()
-    if q == None: return
-    url = 'https://www.redtube.com/?search=%s&hd=1&page=' % urllib.quote_plus(q)
-    u = []
-    for i in range(1, 6): u += [url + str(i)]
-    u = cache.get(page().run, 24, u)
-    u = re.findall('(?s)<picture id="img_result.+?data-src="([^"]*)(?:[^=]*)="([^"]*)(?:[^=]*)=(?:[^=]*)=(?:[^=]*)=(?:[^=]*)=(?:[^=]*)=(?:[^=]*)=(?:[^=]*)=(?:[^=]*)="([^"]*)', u)
-    r = [(i[0], client.replaceHTMLCodes(i[1]), 'https://www.redtube.com'+i[2]) for i in u if 'jpg' not in i[1]]
-    return r
-]]></expres>
-<page></page>
-</regex>
-<regex>
-<name>playurl</name>
-<listrepeat><![CDATA[
-        <title>[playurl.param1]</title>
-        <link>[playurl.param2]</link>
-        <thumbnail>[makelist.param1]</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url = ''):
-    from resources.lib.modules import client
-    import re
-
-    main = '[makelist.param3]'
-    from resources.lib.modules import control
-    adultresolver = control.cdnImport('https://bitbucket.org/threw/pinkhat/raw/master/pinkhat/adultresolver.xml', 'adultresolver')
-    adultresolver = adultresolver.streamer()
-    url = adultresolver.resolve(main)
-    return url
-]]></expres>
-<page></page>
-</regex>
-</item>
-<item>
-<name>Cliphunter - Latest</name>
-<link>$doregex[makelist]</link>
-<thumbnail></thumbnail>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-        <title>[makelist.param3]</title>
-        <link>$doregex[playurl]</link>
-        <thumbnail>[makelist.param2]</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url = ''):
-    from resources.lib.modules import cache,client,workers
-    import re,urllib,xbmc,xbmcgui
-
-    class page:
-        def run(self, r):
-            threads = [] ; self.r = [] ; r = [(r.index(i)+1, i) for i in r]
-            for i in r: threads.append(workers.Thread(self.request, i))
-            [i.start() for i in threads] ; [i.join() for i in threads]
-            return ''.join([str(i[1]) for i in sorted(self.r, key=lambda x: x[0])])
-        def request(self, i):
-            self.r += [(i[0], client.request(i[1]))]       
-
-    url = 'https://www.cliphunter.com/categories/All/'
-    u = []
-    for i in range(1, 8): u += [url + str(i)]
-    u = cache.get(page().run, 24, u)
-    r = re.findall('(?s)<li mId="(?:[^=]*)=(?:[^=]*)=(?:[^=]*)="([^"]*)(?:[^=]*)=(?:[^=]*)="([^"]*)(?:[^=]*)=(?:[^=]*)=(?:[^=]*)=(?:[^=]*)=(?:[^=]*)=.+?vttl(?:[^>]*)>([^<]*)', u)
-    r = [('https://www.cliphunter.com'+i[0],i[1],i[2]) for i in r]
-    return r
-]]></expres>
-<page></page>
-</regex>
-<regex>
-<name>playurl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url = ''):
-    from resources.lib.modules import client
-    import re
-    url = '[makelist.param1]'
-    from resources.lib.modules import control
-    adultresolver = control.cdnImport('https://hypersonic-tv.com/adult/AdultResolver.py', 'adultresolver')
-    adultresolver = adultresolver.streamer()
-    url = adultresolver.resolve(url)
-    return url
-]]></expres>
-<page></page>
-</regex>
-</item>
-
-<item>
-<name>Cliphunter - Top Rated</name>
-<link>$doregex[makelist]</link>
-<thumbnail></thumbnail>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-        <title>[makelist.param3]</title>
-        <link>$doregex[playurl]</link>
-        <thumbnail>[makelist.param2]</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url = ''):
-    from resources.lib.modules import cache,client,workers
-    import re,urllib,xbmc,xbmcgui
-
-    class page:
-        def run(self, r):
-            threads = [] ; self.r = [] ; r = [(r.index(i)+1, i) for i in r]
-            for i in r: threads.append(workers.Thread(self.request, i))
-            [i.start() for i in threads] ; [i.join() for i in threads]
-            return ''.join([str(i[1]) for i in sorted(self.r, key=lambda x: x[0])])
-        def request(self, i):
-            self.r += [(i[0], client.request(i[1]))]       
-
-    url = 'https://www.cliphunter.com/categories/All/'
-    u = []
-    for i in range(1, 8): u += [url + str(i) + '/date/50/super']
-    u = cache.get(page().run, 24, u)
-    r = re.findall('(?s)<li mId="(?:[^=]*)=(?:[^=]*)=(?:[^=]*)="([^"]*)(?:[^=]*)=(?:[^=]*)="([^"]*)(?:[^=]*)=(?:[^=]*)=(?:[^=]*)=(?:[^=]*)=(?:[^=]*)=.+?vttl(?:[^>]*)>([^<]*)', u)
-    r = [('https://www.cliphunter.com'+i[0],i[1],i[2]) for i in r]
-    return r
-]]></expres>
-<page></page>
-</regex>
-<regex>
-<name>playurl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url = ''):
-    from resources.lib.modules import client
-    import re
-
-    main = '[makelist.param1]'
-    from resources.lib.modules import control
-    adultresolver = control.cdnImport('https://bitbucket.org/threw/pinkhat/raw/master/pinkhat/adultresolver.xml', 'adultresolver')
-    adultresolver = adultresolver.streamer()
-    url = adultresolver.resolve(main)
-    return url
-]]></expres>
-<page></page>
-</regex>
-</item>
 <dir>
-  <name>Porn Tubes</name>
-  <link>https://bitbucket.org/threw/pinkhat/raw/master/pinkhat/porn.xml</link>
-  <thumbnail>https://previews.123rf.com/images/eyematrix/eyematrix1103/eyematrix110300035/8984900-adults-only-rubber-stamp.jpg</thumbnail>
-  <fanart>https://cdn-pics.pornhd.com/pornhd/header/category/9_phd_category_big_blonde-porn.jpg</fanart>
-</dir>
-<item>
-<name>[COLOR orchid]Debrid Links:[/COLOR] Sites A-Z</name>
-<link>$doregex[sites]</link>
-<thumbnail></thumbnail>
-<regex>
-<name>sites</name>
-<listrepeat><![CDATA[
-        <title>[sites.param2]</title>
-        <link>$doregex[makelist]</link>
-        <thumbnail></thumbnail>
-]]></listrepeat>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url = ''):
-    from resources.lib.modules import cache,client,workers
-    import re,urllib,xbmc,xbmcgui
-    def unescape(s):
-        return re.sub('&#(\d+);', '', s)    
-    class page:
-        def run(self, r):
-            threads = [] ; self.r = [] ; r = [(r.index(i)+1, i) for i in r]
-            for i in r: threads.append(workers.Thread(self.request, i))
-            [i.start() for i in threads] ; [i.join() for i in threads]
-            return ''.join([str(i[1]) for i in sorted(self.r, key=lambda x: x[0])])
-        def request(self, i):
-            self.r += [(i[0], client.request(i[1]))]       
-            self.r += r.split('<div class=page-list-column', 1)[-1]; r += r.split('<div class=navigation', 1)[0]
-
-    url = 'https://www.naughtyblog.org/sites/page/'
-    u = []
-    for i in range(1, 6): u += [url + str(i) + '/']
-    u = cache.get(page().run, 24, u)
-    r = re.findall('(?s)<li><a href=([^\s]*) title="([^"]*)', u)
-    r = [(i[0],unescape(i[1])) for i in r if '/site/' in i[0]]
-    return r
-]]></expres>
-<page></page>
-</regex>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-        <title>[makelist.param3]</title>
-        <link>$doregex[playurl]</link>
-        <thumbnail>[makelist.param2]</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url = ''):
-    from resources.lib.modules import cache,client,workers
-    import re,urllib,xbmc,xbmcgui
-    def unescape(s):
-        return re.sub('&#(\d+);', '', s)    
-    class page:
-        def run(self, r):
-            threads = [] ; self.r = [] ; r = [(r.index(i)+1, i) for i in r]
-            for i in r: threads.append(workers.Thread(self.request, i))
-            [i.start() for i in threads] ; [i.join() for i in threads]
-            return ''.join([str(i[1]) for i in sorted(self.r, key=lambda x: x[0])])
-        def request(self, i):
-            self.r += [(i[0], client.request(i[1]))]       
-
-    url = '[sites.param1]page/'
-    u = []
-    for i in range(1, 10): u += [url + str(i) + '/']
-    u = cache.get(page().run, 24, u)
-    r = re.findall('(?s)id=post-index-content(?:[^=]*)=(?:[^=]*)=(?:[^=]*)=([^\s]*)(?:[^=]*)=([^\s]*)(?:[^"]*)"([^"]*)', u)
-    r = [(i[0],i[1],unescape(i[2])) for i in r if 'SITERIP' not in i[2]]
-    return r
-]]></expres>
-<page></page>
-</regex>
-<regex>
-<name>playurl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url = ''):
-    from resources.lib.modules import client
-    import re
-    url = '[makelist.param1]'
-    from resources.lib.modules import control
-    adultresolver = control.cdnImport('https://bitbucket.org/threw/pinkhat/raw/master/pinkhat/adultresolver.xml', 'adultresolver')
-    adultresolver = adultresolver.streamer()
-    url = adultresolver.resolve(url)
-    r = url
-    r0 = [i[1] for i in r] ; r1 = ['[COLOR orchid]DEBRID-[/COLOR]'+i[0].upper() for i in r]
-
-    if len(r1) > 1:
-        label = control.infoLabel('listitem.label')
-        select = control.dialog.select(label.upper(), r1)
-        if select == -1: return
-        link = r0[select]
-    else:
-        link = r0[0]
-    return link
-]]></expres>
-<page></page>
-</regex>
-</item>
-<item>
-<name>[COLOR orchid]Debrid Links:[/COLOR] Recent Videos</name>
-<link>$doregex[makelist]</link>
-<thumbnail></thumbnail>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-        <title>[makelist.param3]</title>
-        <link>$doregex[playurl]</link>
-        <thumbnail>[makelist.param2]</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url = ''):
-    from resources.lib.modules import cache,client,workers
-    import re,urllib,xbmc,xbmcgui
-    def unescape(s):
-        return re.sub('&#(\d+);', '', s)    
-    class page:
-        def run(self, r):
-            threads = [] ; self.r = [] ; r = [(r.index(i)+1, i) for i in r]
-            for i in r: threads.append(workers.Thread(self.request, i))
-            [i.start() for i in threads] ; [i.join() for i in threads]
-            return ''.join([str(i[1]) for i in sorted(self.r, key=lambda x: x[0])])
-        def request(self, i):
-            self.r += [(i[0], client.request(i[1]))]       
-
-    url = 'https://www.naughtyblog.org/page/'
-    u = []
-    for i in range(1, 10): u += [url + str(i) + '/']
-    u = cache.get(page().run, 24, u)
-    r = re.findall('(?s)id=post-index-content(?:[^=]*)=(?:[^=]*)=(?:[^=]*)=([^\s]*)(?:[^=]*)=([^\s]*)(?:[^"]*)"([^"]*)', u)
-    r = [(i[0],i[1],unescape(i[2])) for i in r if 'SITERIP' not in i[2]]
-    return r
-]]></expres>
-<page></page>
-</regex>
-<regex>
-<name>playurl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url = ''):
-    from resources.lib.modules import client
-    import re
-    url = '[makelist.param1]'
-    from resources.lib.modules import control
-    adultresolver = control.cdnImport('https://bitbucket.org/threw/pinkhat/raw/master/pinkhat/adultresolver.xml', 'adultresolver')
-    adultresolver = adultresolver.streamer()
-    url = adultresolver.resolve(url)
-    r = url
-    r0 = [i[1] for i in r] ; r1 = ['[COLOR orchid]DEBRID-[/COLOR]'+i[0].upper() for i in r]
-
-    if len(r1) > 1:
-        label = control.infoLabel('listitem.label')
-        select = control.dialog.select(label.upper(), r1)
-        if select == -1: return
-        link = r0[select]
-    else:
-        link = r0[0]
-    return link
-]]></expres>
-<page></page>
-</regex>
-</item>
-
-<item>
-<name>[COLOR orchid]Debrid Links:[/COLOR] Popular This Week</name>
-<link>$doregex[makelist]</link>
-<thumbnail></thumbnail>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-        <title>[makelist.param3]</title>
-        <link>$doregex[playurl]</link>
-        <thumbnail>[makelist.param2]</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url = ''):
-    from resources.lib.modules import cache,client,workers
-    import re,urllib,xbmc,xbmcgui
-    def unescape(s):
-        return re.sub('&#(\d+);', '', s)    
-    class page:
-        def run(self, r):
-            threads = [] ; self.r = [] ; r = [(r.index(i)+1, i) for i in r]
-            for i in r: threads.append(workers.Thread(self.request, i))
-            [i.start() for i in threads] ; [i.join() for i in threads]
-            return ''.join([str(i[1]) for i in sorted(self.r, key=lambda x: x[0])])
-        def request(self, i):
-            self.r += [(i[0], client.request(i[1]))]       
-
-    url = 'https://www.naughtyblog.org/popular-videos-weekly/page/'
-    u = []
-    for i in range(1, 10): u += [url + str(i) + '/']
-    u = cache.get(page().run, 24, u)
-    r = re.findall('(?s)id=post-index-content(?:[^=]*)=(?:[^=]*)=(?:[^=]*)=([^\s]*)(?:[^=]*)=([^\s]*)(?:[^"]*)"([^"]*)', u)
-    r = [(i[0],i[1],unescape(i[2])) for i in r if 'SITERIP' not in i[2]]
-    return r
-]]></expres>
-<page></page>
-</regex>
-<regex>
-<name>playurl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url = ''):
-    from resources.lib.modules import client
-    import re
-    url = '[makelist.param1]'
-    from resources.lib.modules import control
-    adultresolver = control.cdnImport('https://bitbucket.org/threw/pinkhat/raw/master/pinkhat/adultresolver.xml', 'adultresolver')
-    adultresolver = adultresolver.streamer()
-    url = adultresolver.resolve(url)
-    r = url
-    r0 = [i[1] for i in r] ; r1 = ['[COLOR orchid]DEBRID-[/COLOR]'+i[0].upper() for i in r]
-
-    if len(r1) > 1:
-        label = control.infoLabel('listitem.label')
-        select = control.dialog.select(label.upper(), r1)
-        if select == -1: return
-        link = r0[select]
-    else:
-        link = r0[0]
-    return link
-]]></expres>
-<page></page>
-</regex>
-</item>
-
-<item>
-<name>[COLOR orchid]Debrid Links:[/COLOR] Popular This Month</name>
-<link>$doregex[makelist]</link>
-<thumbnail></thumbnail>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-        <title>[makelist.param3]</title>
-        <link>$doregex[playurl]</link>
-        <thumbnail>[makelist.param2]</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url = ''):
-    from resources.lib.modules import cache,client,workers
-    import re,urllib,xbmc,xbmcgui
-    def unescape(s):
-        return re.sub('&#(\d+);', '', s)    
-    class page:
-        def run(self, r):
-            threads = [] ; self.r = [] ; r = [(r.index(i)+1, i) for i in r]
-            for i in r: threads.append(workers.Thread(self.request, i))
-            [i.start() for i in threads] ; [i.join() for i in threads]
-            return ''.join([str(i[1]) for i in sorted(self.r, key=lambda x: x[0])])
-        def request(self, i):
-            self.r += [(i[0], client.request(i[1]))]       
-
-    url = 'https://www.naughtyblog.org/popular-videos-monthly/page/'
-    u = []
-    for i in range(1, 10): u += [url + str(i) + '/']
-    u = cache.get(page().run, 24, u)
-    r = re.findall('(?s)id=post-index-content(?:[^=]*)=(?:[^=]*)=(?:[^=]*)=([^\s]*)(?:[^=]*)=([^\s]*)(?:[^"]*)"([^"]*)', u)
-    r = [(i[0],i[1],unescape(i[2])) for i in r if 'SITERIP' not in i[2]]
-    return r
-]]></expres>
-<page></page>
-</regex>
-<regex>
-<name>playurl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url = ''):
-    from resources.lib.modules import client
-    import re
-    url = '[makelist.param1]'
-    from resources.lib.modules import control
-    adultresolver = control.cdnImport('https://bitbucket.org/threw/pinkhat/raw/master/pinkhat/adultresolver.xml', 'adultresolver')
-    adultresolver = adultresolver.streamer()
-    url = adultresolver.resolve(url)
-    r = url
-    r0 = [i[1] for i in r] ; r1 = ['[COLOR orchid]DEBRID-[/COLOR]'+i[0].upper() for i in r]
-
-    if len(r1) > 1:
-        label = control.infoLabel('listitem.label')
-        select = control.dialog.select(label.upper(), r1)
-        if select == -1: return
-        link = r0[select]
-    else:
-        link = r0[0]
-    return link
-]]></expres>
-<page></page>
-</regex>
-</item>
-<item>
-<name>Pornrewind: HD</name>
-<link>$doregex[makelist]</link>
-<thumbnail></thumbnail>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-        <title>[makelist.param2]</title>
-        <link>$doregex[playurl]</link>
-        <thumbnail>[makelist.param3]</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url = ''):
-    from resources.lib.modules import cache,client,workers
-    import re,urllib,xbmc,xbmcgui
-    def unescape(s):
-        return re.sub('&#(\d+);', '', s)    
-    class page:
-        def run(self, r):
-            threads = [] ; self.r = [] ; r = [(r.index(i)+1, i) for i in r]
-            for i in r: threads.append(workers.Thread(self.request, i))
-            [i.start() for i in threads] ; [i.join() for i in threads]
-            return ''.join([str(i[1]) for i in sorted(self.r, key=lambda x: x[0])])
-        def request(self, i):
-            self.r += [(i[0], client.request(i[1]))]       
-
-    url = 'https://www.pornrewind.com/categories/hd/'
-    u = []
-    for i in range(1, 10): u += [url + str(i) + '/']
-    u = cache.get(page().run, 24, u)
-    r = re.findall('(?s)data-item-id="(?:[^=]*)=(?:[^=]*)="([^"]*)(?:[^=]*)="([^"]*)(?:[^=]*)=(?:[^=]*)=(?:[^=]*)="([^"]*)', u)
-    r = [(i[0],unescape(i[1]),i[2]) for i in r]
-    return r
-]]></expres>
-<page></page>
-</regex>
-<regex>
-<name>playurl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url = ''):
-    from resources.lib.modules import client
-    import re
-    url = '[makelist.param1]'
-    from resources.lib.modules import control
-    adultresolver = control.cdnImport('https://bitbucket.org/threw/pinkhat/raw/master/pinkhat/adultresolver.xml', 'adultresolver')
-    adultresolver = adultresolver.streamer()
-    url = adultresolver.resolve(url)
-    return url
-]]></expres>
-<page></page>
-</regex>
-</item>
-<dir>
-  <name>mPorno</name>
-  <link>https://bitbucket.org/threw/pinkhat/raw/master/pinkhat/mporno.xml</link>
-  <thumbnail>https://previews.123rf.com/images/eyematrix/eyematrix1103/eyematrix110300035/8984900-adults-only-rubber-stamp.jpg</thumbnail>
-  <fanart>https://cdn-pics.pornhd.com/pornhd/header/category/9_phd_category_big_blonde-porn.jpg</fanart>
+    <name>[COLOR orchid]Â¤ [/COLOR] [B][COLOR white]Kids Movies[/COLOR][/B] [COLOR orchid] Â¤[/COLOR]</name>
+    <link>https://bitbucket.org/team-crew/xmls/raw/master/kids/kids_movies/main.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_greyhat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
 </dir>
 <dir>
-  <title>Porn Fluxus - [COLOR red]- LIVE[/COLOR]</title>
-  <link>https://pastebin.com/raw/jMe87UHE</link>
-  <thumbnail>https://previews.123rf.com/images/eyematrix/eyematrix1103/eyematrix110300035/8984900-adults-only-rubber-stamp.jpg</thumbnail>
-  <fanart>https://cdn-pics.pornhd.com/pornhd/header/category/9_phd_category_big_blonde-porn.jpg</fanart>
+    <name>[COLOR orchid]Â¤ [/COLOR] [B][COLOR white]3D Movies[/COLOR][/B] [COLOR orchid] Â¤[/COLOR]</name>
+    <link>https://bitbucket.org/team-crew/xmls/raw/master/kids/kids_3d/main_3d.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_greyhat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
 </dir>
 <dir>
-  <title>Dirty Pistol</title>
-  <link>http://www.revelationmedia.tk/dirtypistolnew/main.xml</link>
-  <thumbnail>http://www.revelationmedia.tk/dirtypistolnew/dirtypistol.png</thumbnail>
-  <fanart>https://cdn-pics.pornhd.com/pornhd/header/category/9_phd_category_big_blonde-porn.jpg</fanart>
+    <name>[COLOR orchid]Â¤ [/COLOR] [B][COLOR white]24/7 Kids Shows[/COLOR][/B] [COLOR orchid] Â¤[/COLOR]</name>
+    <link>https://bitbucket.org/team-crew/xmls/raw/master/kids/kids_247/main_kids247.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_greyhat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+</dir>
+<dir>
+    <name>[COLOR orchid]Â¤ [/COLOR] [B][COLOR white]1Click Kids[/COLOR][/B] [COLOR orchid] Â¤[/COLOR]</name>
+    <link>https://bitbucket.org/team-crew/xmls/raw/master/kids/kids_oneclick/main_oneclick.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_greyhat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+</dir>
+<dir>
+    <name>[COLOR orchid]Â¤ [/COLOR] [B][COLOR white]Anime Zone[/COLOR][/B] [COLOR orchid] Â¤[/COLOR]</name>
+    <link>https://bitbucket.org/team-crew/xmls/raw/master/kids/kids_anime/main_anime.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_greyhat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+</dir>
+<dir>
+    <name>[COLOR orchid]Â¤ [/COLOR] [B][COLOR white]Walt Disney[/COLOR][/B] [COLOR orchid] Â¤[/COLOR]</name>
+    <link>https://bitbucket.org/team-crew/xmls/raw/master/kids/kids_disney/disney_years/main.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_greyhat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+</dir>
+<dir>
+    <name>[COLOR orchid]Â¤ [/COLOR] [B][COLOR white]Learning TV[/COLOR][/B] [COLOR orchid] Â¤[/COLOR]</name>
+    <link>https://bitbucket.org/team-crew/xmls/raw/master/kids/kids_learning/main_learning.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_greyhat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+</dir>
+<dir>
+    <name>[COLOR orchid]Â¤ [/COLOR] [B][COLOR white]Kids Songs[/COLOR][/B] [COLOR orchid] Â¤[/COLOR]</name>
+    <link>https://bitbucket.org/team-crew/xmls/raw/master/kids/kids_songs/main_songs.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_greyhat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+</dir>
+<dir>
+    <name>[COLOR orchid]Â¤ [/COLOR] [B][COLOR white]Test[/COLOR][/B] [COLOR orchid] Â¤[/COLOR]</name>
+    <link>https://bitbucket.org/team-crew/xmls/raw/master/kids/test.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_greyhat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
 </dir>
 
 
