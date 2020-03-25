@@ -22,3 +22,872 @@
 
 
 
+<item>
+<title>[COLOR red][B]LIGA ESPAÑA[/B] [/COLOR]</title>
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+    <title>[COLOR blue][makelist2.param2][/COLOR]</title>
+    <link>$doregex[makelist]</link>
+]]></listrepeat>
+<expres>href="(/streaming.*?)">(.*?)<</expres>
+<page>http://www.livefootballol.me/streaming/la-liga/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+
+
+
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+			<title>[COLOR lime][makelist.param2][/COLOR]</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+			<regex>
+			<name>hash</name> 
+			<expres>acestream://(.*?)"</expres>
+			<page>[makelist.param1]<page>
+			</regex>
+]]></listrepeat>
+<expres>href="(.*?)"><[\w\W\s]{0,6}>(.*?AceStream)<</expres>
+<page>http://www.livefootballol.me[makelist2.param1]</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR green][B]Premier League[/B] [/COLOR]</title>
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+    <title>[COLOR blue][makelist2.param2][/COLOR]</title>
+    <link>$doregex[makelist]</link>
+]]></listrepeat>
+<expres>href="(/streaming.*?)">(.*?)<</expres>
+<page>http://www.livefootballol.me/streaming/english-premier-league/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+
+
+
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+			<title>[COLOR lime][makelist.param2][/COLOR]</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+			<regex>
+			<name>hash</name> 
+			<expres>acestream://(.*?)"</expres>
+			<page>[makelist.param1]<page>
+			</regex>
+]]></listrepeat>
+<expres>href="(.*?)"><[\w\W\s]{0,6}>(.*?AceStream)<</expres>
+<page>http://www.livefootballol.me[makelist2.param1]</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR yellow][B]Bundesliga[/B] [/COLOR]</title>
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+    <title>[COLOR blue][makelist2.param2][/COLOR]</title>
+    <link>$doregex[makelist]</link>
+]]></listrepeat>
+<expres>href="(/streaming.*?)">(.*?)<</expres>
+<page>http://www.livefootballol.me/streaming/german-bundesliga/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+
+
+
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+			<title>[COLOR lime][makelist.param2][/COLOR]</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+			<regex>
+			<name>hash</name> 
+			<expres>acestream://(.*?)"</expres>
+			<page>[makelist.param1]<page>
+			</regex>
+]]></listrepeat>
+<expres>href="(.*?)"><[\w\W\s]{0,6}>(.*?AceStream)<</expres>
+<page>http://www.livefootballol.me[makelist2.param1]</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR blue][B]Serie A[/B] [/COLOR]</title>
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+    <title>[COLOR blue][makelist2.param2][/COLOR]</title>
+    <link>$doregex[makelist]</link>
+]]></listrepeat>
+<expres>href="(/streaming.*?)">(.*?)<</expres>
+<page>http://www.livefootballol.me/streaming/serie-a/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+
+
+
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+			<title>[COLOR lime][makelist.param2][/COLOR]</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+			<regex>
+			<name>hash</name> 
+			<expres>acestream://(.*?)"</expres>
+			<page>[makelist.param1]<page>
+			</regex>
+]]></listrepeat>
+<expres>href="(.*?)"><[\w\W\s]{0,6}>(.*?AceStream)<</expres>
+<page>http://www.livefootballol.me[makelist2.param1]</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]UEFA Champions League[/B] [/COLOR]</title>
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+    <title>[COLOR blue][makelist2.param2][/COLOR]</title>
+    <link>$doregex[makelist]</link>
+]]></listrepeat>
+<expres>href="(/streaming.*?)">(.*?)<</expres>
+<page>http://www.livefootballol.me/streaming/uefa-champions-league/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+
+
+
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+			<title>[COLOR lime][makelist.param2][/COLOR]</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+			<regex>
+			<name>hash</name> 
+			<expres>acestream://(.*?)"</expres>
+			<page>[makelist.param1]<page>
+			</regex>
+]]></listrepeat>
+<expres>href="(.*?)"><[\w\W\s]{0,6}>(.*?AceStream)<</expres>
+<page>http://www.livefootballol.me[makelist2.param1]</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+<item>
+<title>[COLOR green][B]Live Sports[/B] [/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports.cfg&amp;mode=1</jsonrpc>
+ <thumbnail>http://gvt.net/sites/default/files/HD-Sports-2.0-Logo-450.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gold][B]LIVE Sports list 2[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/firstrowsports.eu.cfg&amp;mode=1</jsonrpc>
+<thumbnail>http://ww1.prweb.com/prfiles/2013/06/09/11806053/gI_127433_OWS_logo_white_green_beyond_boundaries.png</thumbnail>
+</item>
+plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsList.txt
+
+<item>
+<title>[COLOR blue][B]MamaHD TV Channels [/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=tv/mamahd.com.cfg&amp;mode=1</jsonrpc>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR red][B]BeiN Sports[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=tv/bein.cfg&amp;mode=1</jsonrpc>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]Bundesliga Live Streams[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/bundesliga-streams.net.cfg&amp;mode=1</jsonrpc>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR deepskyblue][B]Dimsports.eu Live Sports[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/dimsports.eu.cfg&amp;mode=1</jsonrpc>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR red][B] RojaDirecta[/B] [/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</jsonrpc>
+<thumbnail>logo.logo.logo</thumbnail>
+<thumbnail>logo.logo.logo</thumbnail></item>
+
+
+
+ <item>
+ <title>[COLOR yellow] [B]Sports Devil[/B] [/COLOR]</title>
+ <link>http://ignor.ame</link>
+ <externallink>http://adrian.kodistream.info/adryan/sd.xml</externallink>
+ </item>
+
+<item>
+<title>[COLOR violet][B] Acestreams [/B][/COLOR]</title>
+ <link>http://ignor.ame</link>
+ <externallink>http://adrian.kodistream.info/adryan/ace.xml</externallink>
+ </item>
+  
+
+ <item>
+ <title>[COLOR red][B]USA•UK[/B]Sports Channels [/COLOR]</title>
+ <link>http://ignor.ame</link>
+ <externallink>http://adrian.kodistream.info/adryan/usauk.xml</externallink>
+ </item>
+ 
+
+ <item>
+<title> [COLOR brown][B]Dinozap Channels [/B][/COLOR][COLOR lime]Guia de Eventos[/COLOR]</title>
+
+<link>$doregex[makelist]</link>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[B][COLOR deepskyblue]Canal [/COLOR][COLOR skyblue] [makelist.param1][/COLOR][/B]</title>
+    <link>$doregex[makelist2]</link>
+]]></listrepeat>
+<expres>(?s)bed\s*(\d+)\s(.+?)Em</expres>
+<page>$doregex[getpage]</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<item>
+    <title>[B][COLOR dodgerblue][makelist2.param1]-[makelist2.param2][/COLOR][/B]</title>
+    <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=[makelist.param1]</sportsdevil>
+    <referer>http://www.dinozap.info/</referer>
+</item>
+]]></listrepeat>
+<expres>(?s)\s*([\d\:]+)\s*(.+?\))\s*</expres>
+<page>[makelist.param2]</page>
+<referer>http://www.dinozap.info</referer>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>getpage</name>
+<expres>$pyFunction:codecs.decode(page_data,'gb18030').encode('ascii','xmlcharrefreplace')</expres>
+<page>http://www.dinozap.info/prog.txt</page>
+<cookieJar></cookieJar>
+</regex>
+
+</item>
+
+
+<item>
+<title>[COLOR white][B]Torrent-TV[/B] [/COLOR][COLOR lime][Plexus][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR skyblue][makelist.param2] [/COLOR]  </title>
+<link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/[makelist.param1].acelive&amp;mode=1&amp;name=Adryanlist+Futbol</link>
+]]></listrepeat>
+<expres>translation=(.*)".*>(.*?)<</expres>
+<page>http://torrent-tv.ru/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+<item>
+<title>[COLOR pink][B]VipGoal.Net[/B] [/COLOR] </title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR skyblue][B][makelist.param2][/B][/COLOR]</title>
+<sportsdevil>[makelist.param1]</sportsdevil>
+<referer>http://www.vipgoal.net/</referer>
+<thumbnail>[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres>a href="(.*)".*title="(.*?)online.*?src="(.*?)"</expres>
+<page>http://www.vipgoal.net/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+<item>
+<title>[COLOR blue][B]Pirlo.TV[/B] [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR coral][makelist.param1][/COLOR] • [COLOR skyblue][B][makelist.param3][/B][/COLOR][COLOR skyblue][makelist.param4][/COLOR]</title>
+<sportsdevil>http://www.pirlotvlive.com/[makelist.param2]</sportsdevil>
+<referer>http://www.pirlotvlive.com</referer>
+]]></listrepeat>
+<expres>t\"\>(.*?)\<[\w\W\s]{0,120}../(.*?)"[\w\W\s]{0,10}blank">(.*?)<[\w\W\s]{0,2}>(.*?)<</expres>
+<page>http://www.pirlotvlive.com/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR sky blue][B]WIZHD[/B] [/COLOR][COLOR lime]Eventos del dia /  TODAY SCHEDULE [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[COLOR lime][makelist.param1][/COLOR]</title>
+<link>rtmp://94.102.49.194/live playpath=wizhd[makelist.param3] swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embedcr.php?live=wizhd[makelist.param3]&vw=640&vh=460</link>
+</item>	
+]]></listrepeat>
+<expres>class="name">(.*?)<[\w\W\s]{0,685}href="(.*?)">Stream (.*?)<</expres>
+<page>http://wizhdsports.com/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+
+<item>
+<title>[COLOR red][B]Canales de iGuide.to[/B] [/COLOR][COLOR lime]Eventos del dia[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[COLOR silver][makelist.param3] -[[makelist.param2]][/COLOR]</title>
+<link>rtmp://nl.iguide.to/iguide playpath=[makelist.param1] swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7 live=1 timeout=15</link>
+</item>
+]]></listrepeat>
+<expres>images/channels/(.*?)_[\w\W\s]{0,55}www.iguide.to/view/(.*?)/(.*?)"</expres>
+<page>http://www.iguide.to/channels/?sort=3</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item
+
+
+
+
+
+
+
+<item>
+<title> [COLOR yellow][B]Arenavision[/B] [/COLOR][COLOR lime]AGENDA / SCHEDULE [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[COLOR lime]Marzo [makelist.param1][/COLOR] [COLOR lime][makelist.param2][/COLOR] [COLOR gray][makelist.param3][/COLOR] [COLOR yellow][makelist.param4][/COLOR]  </title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/AV[makelist.param5]</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+</item>	
+]]></listrepeat>
+<expres>(.*?)/03/16(.*?)CET(.*?):(.*?)/AV(.*?)/</expres>
+<page>http://arenavision.in/agenda</page>
+</regex>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>NFL Network</title>
+<link>
+sublink:http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8#
+sublink:http://tinyurl.com/zzonf2h#
+sublink:http://80.243.189.26:8889/sprtXStpp/nfl/index.m3u8#
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>ESPN U.S</title>
+<link>
+sublink:rtmp://31.220.2.149:80/live/ playpath=espnusa token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://yotv.co#
+sublink:rtmp://185.63.255.60:80/live playpath=espnusa swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=espnusa&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z#
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>ESPN 2 America</title>
+<link>
+sublink:rtmp://31.220.2.149:80/live/ playpath=espn2usa token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://yotv.co#
+sublink:http://foro:cable@24.139.177.135:9981/stream/channelid/254416826?ticket=7C6DAA5C9259DEC9D5692533D1714D3DE4316187&profile=pass#
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+
+
+<item>
+<title>Autosports TV</title>
+<link>mms://100automoto.tv/100livesport</link>
+<thumbnail></thumbnail>
+</item>
+
+
+item>
+<title>Sky Sport DE</title>
+<link>http://user.turkhdiptv.com:8000/live/ukturk/61515/11.ts</link>
+<thumbnail>g</thumbnail>
+</item>
+
+item>
+<title>Sky Sport 2 DE </title>
+<link>http://user.turkhdiptv.com:8000/live/ukturk/61515/15.ts</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+
+
+<item>
+<title>Canal Plus Futbol </title>
+<link>
+sublink:rtmp://31.220.0.139/privatestream/futbolplus56 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf#
+sublink:rtmp://31.220.0.139/privatestream playpath=futbolplus56?keys=4-DLFKU_ncLc9GqoxNxiUg&keyt=1448248367 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf#
+<thumbnail></thumbnail>
+</item>
+
+
+
+####################################3
+<item>
+<title>	Golf  1080</title>
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+<thumbnail>http://img1.wikia.nocookie.net/__cb20100323073441/logopedia/images/3/3a/Golf_Channel_2008.png</thumbnail>
+</item>
+
+
+<item>
+<title>ESPN 2</title>
+<link>
+http://178.18.30.113:8081/liverepeater/229933/playlist.m3u8?wmsAuthSign=$doregex[m3u8]
+<regex>
+<name>m3u8</name>
+<expres>wmsAuthSign=([^"]*)</expres>
+<page>http://biggestplayer.me/streamcrjeje2.php?id=229933&width=620&height=490</page>
+<referer>http://theactionlive.com/livegamecr2.php?id=espn2&width=620&height=490&stretching=</referer>
+</regex>
+</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA40YZ9MEH9pQmZnKExQq7I3wq0qgHd2YP4tcC_EXwVXgaVWmi</thumbnail>
+</item>
+
+
+
+
+
+
+<item>
+<title>Sportsnet World </title>
+<link>rtmp://185.63.255.18:80/live playpath=sprtnetworld swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=sprtnetworld&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
+<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRT2ikG_PiW8vq4zQabfLwTtzW7oD-veWxbC-eOaEd-k31Iy-jx </thumbnail>
+</item>
+
+<item>
+<title>Sportsnet One </title>
+<link>rtmp://31.220.2.149:80/live playpath=sprt1 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=sprt1&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
+<thumbnail>http://www.sportsnet.ca/wp-content/uploads/2013/03/sn-one.jpg </thumbnail>
+</item>
+
+
+
+
+
+<item>
+<title>TSN 2 </title>
+<link>rtmp://31.220.2.149:80/live playpath=tsnx2 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=tsnx2&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tsn_2_ca.png</thumbnail>
+</item>
+
+
+<item>
+<title>TVA Sports </title>
+<link>rtmp://cp39414.live.edgefcs.net/live/ playpath=event1@9756 swfUrl=http://sky1cast.com/player/Playersec.swf pageUrl=http://sky1cast.com/channel/tva.php?n=event1@9756&vw=853&vh=480</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPPs_NMRBKsBXAuolJYIfy2BXucoHGGvg60One2f0Aih7fX9gs0PoNYw </thumbnail>
+</item>
+
+
+<item>
+<title>Pac 12 oregon</title>
+<link>http://xrxs.net/video/live-p12oreg-2328.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/pp/pac_12_networks_us.png</thumbnail>
+</item>
+
+<item>
+<title>Pac 12 National</title>
+<link>http://xrxs.net/video/live-p12netw-2328.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/pp/pac_12_networks_us.png</thumbnail>
+</item>
+
+<item>
+<title>Pac 12 Los angeles</title>
+<link>http://xrxs.net/video/live-p12losa-2328.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/pp/pac_12_networks_us.png</thumbnail>
+</item>
+
+<item>
+<title>Pac 12 Arizona</title>
+<link>http://xrxs.net/video/live-p12ariz-2328.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/pp/pac_12_networks_us.png</thumbnail>
+</item>
+
+<item>
+<title>Pac 12 Bay area</title>
+<link>http://xrxs.net/video/live-p12baya-4728.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/pp/pac_12_networks_us.png</thumbnail>
+</item>
+
+<item>
+<title>Pac 12 Mountain</title>
+<link>http://xrxs.net/video/live-p12moun-4728.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/pp/pac_12_networks_us.png</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+ويد 
+
+ترك
+###################################
+
+
+
+
+
+
+<item>
+<title>Poker Central</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8</link>
+<thumbnail>http://cdn.uapoker.info/sites/default/files/niceimages/444902619777967.png</thumbnail>
+</item>
+
+<item>
+<title>PAC 12 National HD</title>
+<link>http://xrxs.net/video/live-p12netw-4728.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos1/Pac12.png</thumbnail>
+</item>
+
+<item>
+<title>PAC 12 Encore</title>
+<link>http://xrxs.net/video/live-p12oreg-4728.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos1/Pac12.png</thumbnail>
+</item>
+
+<item>
+<title>Fox sport 506 Australia </title>
+<link>http://motorsport.hopto.org:8080/</link>
+<thumbnail>https://pbs.twimg.com/profile_images/572618756170317824/T062e0aZ_400x400.png</thumbnail>
+</item>
+
+<item>
+<title>DXTV Sport </title>
+<link>http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E</link>
+<thumbnail>http://nowwatchtvlive.me/wp-content/uploads/2014/06/DeporTV-logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>A Spor </title>
+<link>http://origin2.live.web.tv.streamprovider.net/live/a6784af7d08a9c91dbfa0e4eab17e3bf_live_0_0/index.m3u8</link>
+<thumbnail>http://2.bp.blogspot.com/-YH5sETI69hA/VCPWQeouEAI/AAAAAAAAanE/SnuYqYmK1c0/s1600/a%2Bspor.png</thumbnail>
+</item>
+
+<item>
+<title>Fanatik TV</title>
+<link>rtmp://live.fanatik.cubecdn.net/fanatiktv/stream_720</link>
+<thumbnail>http://tv.fanatik.com.tr/Content/images/fanatik_tv.png</thumbnail>
+</item>
+
+<item>
+<title>Sports TV</title>
+<link>rtmp://stream.sportstv.com.tr/sportstv/SportsTV3</link>
+<thumbnail>http://www.giniko.com/logos/190x110/215.png</thumbnail>
+</item>
+
+<item>
+<title>Bursaspor TV</title>
+<link>http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8</link>
+<thumbnail>http://www.tvizleyin.org/wp-content/uploads/bs-tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>MMA Channel (English Spoken)</title>
+<link>rtmp://extondemand.livestream.com:80/ondemand/trans/dv10/mogulus-user-files/chmmabaytv/2010/09/12/d9fbeee7-79aa-4ec2-98d2-1f1f168b91a3</link>
+<thumbnail>http://www.khunkao.com/oldsite/images/mmatv_logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Dubai Racing Channel </title>
+<link>http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1300000.m3u8</link>
+<thumbnail>http://4.bp.blogspot.com/-XhU5Qk4wlFQ/T-DZ26I7tzI/AAAAAAAAAA4/DKqvNC67O1s/s1600/dubai_racing.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Rai Sport 1 </title>
+<link>mmsh://212.162.68.163:80/raisport+</link>
+<thumbnail>http://www.solosalerno.it/wp-content/uploads/2011/06/Rai_Sport_1.png</thumbnail>
+</item>
+
+<item>
+<title>Rai Sport 2</title>
+<link>mmsh://212.162.68.163:80/raisport2</link>
+<thumbnail>http://nowwatchtvlive.me/wp-content/uploads/2013/09/Rai-Sport-2-Italy-logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sportitalia</title>
+<link>http://spi.hystream.com:1935/spilive/spistream_360/livestream.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/thumb/f/f9/Sportitalia_24_2011.jpg/260px-Sportitalia_24_2011.jpg</thumbnail>
+</item>
+
+<item>
+<title>CDN Sportsmax</title>
+<link>rtmp://108.168.206.90/cdnsm playpath=cdnsm swfUrl=http://cdn.com.do/wp-content/themes/cdn/js/player.swf live=1 timeout=13 pageUrl=http://cdn.com.do/</link>
+<thumbnail>https://pbs.twimg.com/profile_images/378800000619827008/b9cc037613ceebec4d9b209eff48fbcf.jpeg</thumbnail>
+</item>
+
+<item>
+<title>TVM 1 Malta </title>
+<link>http://bcliveuniv-lh.akamaihd.net/i/TVM1DVR_1@326354/index_2_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/3/3c/TVM_Malta.png</thumbnail>
+</item>
+
+<item>
+<title>TVM 2 Malta </title>
+<link>http://bcliveuniv-lh.akamaihd.net/i/TVM2DVR_1@326354/master.m3u8</link>
+<thumbnail>http://www.tvm.com.mt/wp-content/themes/pbs/images/logo-tv-tvm2.png</thumbnail>
+</item>
+
+<item>
+<title>Autosports TV</title>
+<link>mms://100automoto.tv/100livesport</link>
+<thumbnail>http://autosporttv.soundslike.me/skin/frontend/rwd/default/images/_logo_autosporttv.png</thumbnail>
+</item>
+
+<item>
+<title>Tile Sport</title>
+<link>rtmp://tv1.streampulse.eu/tilesport/movie1</link>
+<thumbnail>http://live-tv.im/wp-content/uploads/2013/12/TILE-SPORT.gif</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>Silk Sports 1 </title>
+<link>http://188.93.94.133/silk_football/index.m3u8</link>
+<thumbnail>http://www.ramalin.com/wp-content/uploads/2015/09/SILK-SPORT.jpg</thumbnail>
+</item>
+
+<item>
+<title>Silk Sports 2 HD </title>
+<link>http://188.93.94.133/silk_sport/index.m3u8</link>
+<thumbnail>http://www.ramalin.com/wp-content/uploads/2015/09/SILK-SPORT.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 1 </title>
+<sportsdevil>http://mamahd.com/watch-sky-sports-1-live-stream-1.html</sportsdevil>
+<referer>http://mammahd.com</referer>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-1-Logo.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+ 
+<item>
+<title>Sky Sports 2 </title>
+<sportsdevil>http://mamahd.com/watch-sky-sports-2-live-streaming-free-1.html</sportsdevil>
+<referer>http://mammahd.com</referer>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-2-Logo.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Sky Sports 3 </title>
+<sportsdevil>http://mamahd.com/watch-sky-sports-3-live-stream-1.html</sportsdevil>
+<referer>http://mammahd.com</referer>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-3-Logo.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Sky Sports 4</title>
+<sportsdevil>http://mamahd.com/watch-sky-sports-4-live-stream-free-1.html</sportsdevil>
+<referer>http://mammahd.com</referer>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-4-Logo.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Sky Sports 5 </title>
+<sportsdevil>http://mamahd.com/watch-sky-sports-5-live-stream-1.html</sportsdevil>
+<referer>http://mammahd.com</referer>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-5-Logo.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+ 
+<item>
+<title>Sky Sports News </title>
+<sportsdevil>http://mamahd.com/watch-sky-sports-news-live-stream-1.html</sportsdevil>
+<referer>http://mammahd.com</referer>
+<thumbnail>http://www.fm-base.co.uk/forum/attachments/football-manager-2015-manager-stories/889521d1435008980-1-fc-union-berlin-capital-domination-sky-sports-news-logo-1.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+ 
+<item>
+<title>Sky Sports F1 </title>
+<sportsdevil>http://mamahd.com/watch-sky-sports-formula-1-live-stream-1.html</sportsdevil>
+<referer>http://mammahd.com</referer>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-F1-Logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+###################################################################
+
+
+
+
+<item>
+<title> 40 </title>
+<link>$doregex[finalurl]</link>
+<regex>
+        <name>finalurl</name>
+        <expres>(http.*)</expres>
+        <page>$doregex[url]$doregex[auth]</page>
+        <cookieJar></cookieJar>
+        <agent>iPhone</agent>
+</regex>
+<regex>
+        <name>url</name>
+        <expres>file:"(.*?)"</expres>
+        <page>$doregex[decrypted]</page>
+</regex>
+<regex>
+        <name>auth</name>
+        <expres>\["(.*?)"</expres>
+        <page>http://www.caston.tv/$doregex[authurl]</page>
+        <referer>http://www.caston.tv</referer>
+        <rawpost>token=$doregex[token]&amp;is_ajax=1</rawpost>
+        <x-req>XMLHttpRequest</x-req>
+        <agent>iPhone</agent>
+        <cookieJar>open[siteName.lwp]</cookieJar>
+</regex>
+<regex>
+        <name>token</name>
+        <expres>token:"(.*?)"</expres>
+        <page>$doregex[decrypted]</page>
+</regex>
+<regex>
+        <name>authurl</name>
+        <expres>url:'(.*?)'</expres>
+        <page>$doregex[decrypted]</page>
+</regex>
+<regex>
+        <name>decrypted</name>
+        <expres>$pyFunction:get_unwise("$doregex[encrypted]")$doregex[savecookie]</expres>
+        <page></page>
+</regex>
+<regex>
+        <name>encrypted</name>
+        <expres>eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
+        <page>http://www.caston.tv/player.php?id=40</page>
+        <referer>http://www.caston.tv</referer>
+        <agent>iPhone</agent>
+        <cookieJar></cookieJar>
+</regex>
+<regex>
+        <name>savecookie</name>
+        <expres></expres>
+        <page></page>
+        <cookieJar>save[siteName.lwp]</cookieJar>
+</regex>
+</item>
