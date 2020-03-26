@@ -7,168 +7,726 @@
     <fanart>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</fanart>
 </plugin>
 
-<dir>
-<title>CLICK TO PAIR</title>
-<thumbnail>https://raw.githubusercontent.com/djwayne1985/repository.T2K/master/plugin.program.t2kpair/icon.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/djwayne1985/repository.T2K/master/plugin.program.t2kpair/fanart.jpg</fanart>
-<link>plugin://plugin.program.t2kpair/?ahction=RunAddon</link>
-</dir>
- 
-<dir>
-  <title>TMDB Watchlist</title>
-  <tmdb>list/92624</tmdb>
-  <thumbnail>https://www.themoviedb.org/assets/1/v4/logos/312x276-primary-green-74212f6247252a023be0f02a5a45794925c3689117da9d20ffe47742a665c518.png</thumbnail>
-</dir>
- 
-<dir>
-<title>IMDB Movie Watchlist</title>
-<imdburl>list/ls040650160</imdburl>
-<thumbnail>http://szalim.hu/mozgalom/wp-content/uploads/2016/12/IMDb-icon1.png</thumbnail>
-</dir>
- 
-<dir>
-<name>Fluxus Cinema</name>
-<thumbnail>https://1.bp.blogspot.com/-7wlDqDQ5ObA/WZ38Oe7C9NI/AAAAAAAAA3o/gTxmp8_Po_sOkg4AFJSyiORqp1xzCrXfwCLcBGAs/s320/FCinemaHNew.png</thumbnail>
-<link>plugin://plugin.video.live.streamspro/?url=https://pastebin.com/raw/jbqA0j82&mode=1</link>
-<fanart>https://4.bp.blogspot.com/-AsKe3uAT-ak/WYk86B1eLVI/AAAAAAAAA0E/VxQYP5WQnGkrDLdUc5PMvnqwQykB966KgCLcBGAs/s400/FluxusCinemaPromo.jpg</fanart>
-<info></info>
-</dir>
- 
-<dir>
-  <title>Trending Movie's</title>
-  <trakt>https://api.trakt.tv/movies/trending</trakt>
-</dir>
- 
-<dir>
-  <title>Popular Movie's</title>
-  <trakt>https://api.trakt.tv/movies/popular</trakt>
-</dir>
- 
-<dir>
-  <title>Box Office Movie's</title>
-  <trakt>https://api.trakt.tv/movies/boxoffice</trakt>
-</dir>
- 
-<dir>
-  <title>Trakt Movie Watchlist</title>
-  <trakt>https://api.trakt.tv/sync/watchlist/movies</trakt>
-</dir>
- 
-<dir>
-  <title>TMDB Popular</title>
-  <tmdb>movies/popular</tmdb>
-</dir>
- 
-<dir>
-  <title>TMDB Now Playing</title>
-  <tmdb>movies/now_playing</tmdb>
-</dir>
- 
-<dir>
-  <title>TMDB Top Rated</title>
-  <tmdb>movies/top_rated</tmdb>
-</dir>
- 
-<dir>
-  <title>Action</title>
-  <tmdb>genre/movies/28</tmdb>
-</dir>
- 
-<dir>
-  <title>Adventure</title>
-  <tmdb>genre/movies/12</tmdb>
-</dir>
- 
-<dir>
-  <title>Animation</title>
-  <tmdb>genre/movies/16</tmdb>
-</dir>
- 
-<dir>
-  <title>Comedy</title>
-  <tmdb>genre/movies/35</tmdb>
-</dir>
- 
-<dir>
-  <title>Crime</title>
-  <tmdb>genre/movies/80</tmdb>
-</dir>
- 
-<dir>
-  <title>Documentary</title>
-  <tmdb>genre/movies/99</tmdb>
-</dir>
- 
-<dir>
-  <title>Drama</title>
-  <tmdb>genre/movies/18</tmdb>
-</dir>
- 
-<dir>
-  <title>Family</title>
-  <tmdb>genre/movies/10751</tmdb>
-</dir>
- 
-<dir>
-  <title>Fantasy</title>
-  <tmdb>genre/movies/14</tmdb>
-</dir>
- 
-<dir>
-  <title>History</title>
-  <tmdb>genre/movies/36</tmdb>
-</dir>
- 
-<dir>
-  <title>Horror</title>
-  <tmdb>genre/movies/27</tmdb>
-</dir>
- 
-<dir>
-  <title>Music</title>
-  <tmdb>genre/movies/10402</tmdb>
-</dir>
- 
-<dir>
-  <title>Mystery</title>
-  <tmdb>genre/movies/9648</tmdb>
-</dir>
- 
-<dir>
-  <title>Romance</title>
-  <tmdb>genre/movies/10749</tmdb>
-</dir>
- 
-<dir>
-  <title>Science Fiction</title>
-  <tmdb>genre/movies/878</tmdb>
-</dir>
- 
-<dir>
-  <title>TV Movie</title>
-  <tmdb>genre/movies/10770</tmdb>
-</dir>
- 
-<dir>
-  <title>Thriller</title>
-  <tmdb>genre/movies/53</tmdb>
-</dir>
- 
-<dir>
-  <title>War</title>
-  <tmdb>genre/movies/10752</tmdb>
-</dir>
- 
-<dir>
-  <title>Western</title>
-  <tmdb>genre/movies/37</tmdb>
-</dir>
- 
-  <dir>
-    <title>Search Trakt</title>
-    <trakt>search</trakt>
-  </dir>
-
+<item>
+    <title>[COLOR=white]10.0 Earthquake[/COLOR]</title>
+    <meta>
+    <imdb>tt3488056</imdb>
+    <content>movie</content>
+    <title>10.0 Earthquake</title>
+    <year>2014</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/orOKr1k4lmLAn1FNcgJjjdhjkiB.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/3xOOxh2sI3HopPsq8cMmI5x5d3y.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]2012: Ice Age[/COLOR]</title>
+    <meta>
+    <imdb>tt1846444</imdb>
+    <content>movie</content>
+    <title>2012: Ice Age</title>
+    <year>2011</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/o1qvsFNVMfzPvfzCUCOeaGiQhOo.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/h3ebsJnrU4BmMsBmr2yIqnUpXyM.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]2012[/COLOR]</title>
+    <meta>
+    <imdb>tt1190080</imdb>
+    <content>movie</content>
+    <title>2012</title>
+    <year>2009</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/zf1idF1ys8zuaAzEEzghre5A4m3.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/ywxrdkfbr8Dg3SBW2gi4kC59qOb.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]28 Days Later[/COLOR]</title>
+    <meta>
+    <imdb>tt0289043</imdb>
+    <content>movie</content>
+    <title>28 Days Later</title>
+    <year>2002</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/xaYdxi1PBEAYvqknvAmMPK5Eff3.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/nESF8Tw4BYnDy8PUDkF5SLIlzTJ.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]28 Weeks Later[/COLOR]</title>
+    <meta>
+    <imdb>tt0463854</imdb>
+    <content>movie</content>
+    <title>28 Weeks Later</title>
+    <year>2007</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/bElOpwpp45BGMWrMBdZAy9j3Vx7.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/q4GEKbi4ZO2lhZJg0Zr6kYNKQgm.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Aftershock[/COLOR]</title>
+    <meta>
+    <imdb>tt1780762</imdb>
+    <content>movie</content>
+    <title>Aftershock</title>
+    <year>2012</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/nCeWtzaWpXCHz6NsK1TOvVJhpAO.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/hP9OVPV3EmuT9z2l4IbiPDooE2B.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Armageddon[/COLOR]</title>
+    <meta>
+    <imdb>tt0120591</imdb>
+    <content>movie</content>
+    <title>Armageddon</title>
+    <year>1998</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/coINnuCzcw5FMHBty8hcudMOBnO.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/lI3qV4kiSg0BvE6gelzV0tPAoFK.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Chernobyl Diaries[/COLOR]</title>
+    <meta>
+    <imdb>tt1991245</imdb>
+    <content>movie</content>
+    <title>Chernobyl Diaries</title>
+    <year>2012</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/sSjARwbHdUabVJs3y1TtoCfpckx.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/1BgWRWjZtD6zyJfzlfDx3NHaECQ.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Children of Men[/COLOR]</title>
+    <meta>
+    <imdb>tt0206634</imdb>
+    <content>movie</content>
+    <title>Children of Men</title>
+    <year>2006</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/gZ6i32Da76EUxta06GL2BxpC4Cn.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/c5jNuPA19oGiEmbh8iFeAi6aHMI.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Cloverfield[/COLOR]</title>
+    <meta>
+    <imdb>tt1060277</imdb>
+    <content>movie</content>
+    <title>Cloverfield</title>
+    <year>2008</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/qIegUGJqyMMCRjkKV1s7A9MqdJ8.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/6kVVfNT0auG6fU5SFQ1zbayNWUC.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Contagion[/COLOR]</title>
+    <meta>
+    <imdb>tt1598778</imdb>
+    <content>movie</content>
+    <title>Contagion</title>
+    <year>2011</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/kbC6I0AOSLTHFA2dieyat9h8QHP.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/57kqAPdVJTAJ4rnDTSVDx0f1JBu.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Dante's Peak[/COLOR]</title>
+    <meta>
+    <imdb>tt0118928</imdb>
+    <content>movie</content>
+    <title>Dante's Peak</title>
+    <year>1997</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/6wBlgo0xqja56OMfQoxsdLmcR76.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/6TSzmESfh0LVOBnDcktcRMI6Wnk.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Deep Impact[/COLOR]</title>
+    <meta>
+    <imdb>tt0120647</imdb>
+    <content>movie</content>
+    <title>Deep Impact</title>
+    <year>1998</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/nbF4Tuj4OY8btrjoOHtk64hkKbJ.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/zL835XyvJ9TZHMARQOjXRP6fq7q.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Doomsday[/COLOR]</title>
+    <meta>
+    <imdb>tt0483607</imdb>
+    <content>movie</content>
+    <title>Doomsday</title>
+    <year>2008</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/fTwyePFDgcJVCL02GndcnZT3mvt.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/7JbI86bSgpGEyZ3X4BKN9LiY3s5.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Flood[/COLOR]</title>
+    <meta>
+    <imdb>tt0790665</imdb>
+    <content>movie</content>
+    <title>Flood</title>
+    <year>2007</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/s0F2iDMtj6uYQPqbjwCPlwug2O4.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/8RHqeBwgHIZnNeswqLJdm0pz05Y.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]I Am Legend[/COLOR]</title>
+    <meta>
+    <imdb>tt0480249</imdb>
+    <content>movie</content>
+    <title>I Am Legend</title>
+    <year>2007</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/9skUuHTFtsJznuFPwmB17ZZvq09.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/u6Qg7TH7Oh1IFWCQSRr4htFFt0A.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]IO[/COLOR]</title>
+    <meta>
+    <imdb>tt3256226</imdb>
+    <content>movie</content>
+    <title>IO</title>
+    <year>2019</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/utH781EwjzzXQC6fZUO3cw8L5Ht.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/tirhxzSR6g1A9Iayo2lpYW4luUF.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Independence Day[/COLOR]</title>
+    <meta>
+    <imdb>tt0116629</imdb>
+    <content>movie</content>
+    <title>Independence Day</title>
+    <year>1996</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/bqLlWZJdhrS0knfEJRkquW7L8z2.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/4E2xKGrU2qcqUE2S3Nl27hwZdqy.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Meteor Apocalypse[/COLOR]</title>
+    <meta>
+    <imdb>tt1564571</imdb>
+    <content>movie</content>
+    <title>Meteor Apocalypse</title>
+    <year>2010</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/mYcDLMUs4Zou3ecGvxiO4nxKGwc.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/h8iufTAbWK3zg9Gf45NdGCsY8aW.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Noah[/COLOR]</title>
+    <meta>
+    <imdb>tt1959490</imdb>
+    <content>movie</content>
+    <title>Noah</title>
+    <year>2014</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/5wioUjzwr91fvq7ydunxK2CPSxi.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/jnoJgpITphPoqA3e7JnNC4mtAVX.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Only the Brave[/COLOR]</title>
+    <meta>
+    <imdb>tt3829920</imdb>
+    <content>movie</content>
+    <title>Only the Brave</title>
+    <year>2017</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/rwJVB0muOMhkI5pTt9wwr4XCMBY.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/8wI0M7HDHhDsoxMCkcAVUx7O6DX.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Pandemic[/COLOR]</title>
+    <meta>
+    <imdb>tt3774802</imdb>
+    <content>movie</content>
+    <title>Pandemic</title>
+    <year>2016</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/o5Zt3nVlDJZLgeRgrhglgymDJym.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/rhcbMOIRKsyU8xrOuocQBNdewXV.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Pompeii[/COLOR]</title>
+    <meta>
+    <imdb>tt1921064</imdb>
+    <content>movie</content>
+    <title>Pompeii</title>
+    <year>2014</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/idiv0IxVhVSDW8cWxfprYyY5Yev.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/6Q4GeMo08AOJJos9BzgnutFiZTG.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Poseidon[/COLOR]</title>
+    <meta>
+    <imdb>tt0409182</imdb>
+    <content>movie</content>
+    <title>Poseidon</title>
+    <year>2006</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/yeiCuwMSHLmf7NoYzxiEAjkJHkg.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/rXZVGIDZHeb0gKuRg8V4LynbReW.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Quarantine[/COLOR]</title>
+    <meta>
+    <imdb>tt1082868</imdb>
+    <content>movie</content>
+    <title>Quarantine</title>
+    <year>2008</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/diJgLy6vSGbNYNW5jZ1YpX7PHJ4.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/mQXCYqGUPt4Ld6UX6uljM5azbGb.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Ring of Fire[/COLOR]</title>
+    <meta>
+    <imdb>tt0102793</imdb>
+    <content>movie</content>
+    <title>Ring of Fire</title>
+    <year>1991</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/bNHuIoFms2aciTarYixOsJNisiw.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280</fanart>
+</item>
+<item>
+    <title>[COLOR=white]San Andreas[/COLOR]</title>
+    <meta>
+    <imdb>tt2126355</imdb>
+    <content>movie</content>
+    <title>San Andreas</title>
+    <year>2015</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/qey0tdcOp9kCDdEZuJ87yE3crSe.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/6MBI4R5IDLZJcm17mOUfwOg8pLm.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Signs[/COLOR]</title>
+    <meta>
+    <imdb>tt0286106</imdb>
+    <content>movie</content>
+    <title>Signs</title>
+    <year>2002</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/bY9lCUVUajpkKWlfjWF1mtXaSUp.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/kormVYncbZMrToXaOV58o74LNIz.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Snowpiercer[/COLOR]</title>
+    <meta>
+    <imdb>tt1706620</imdb>
+    <content>movie</content>
+    <title>Snowpiercer</title>
+    <year>2013</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/oP0ZWr6MsaQ1TV7xvnZJMKSfz0H.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/dUrRhiIb9sWckFsKmdNR39Ot1eG.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]The Andromeda Strain[/COLOR]</title>
+    <meta>
+    <imdb>tt0066769</imdb>
+    <content>movie</content>
+    <title>The Andromeda Strain</title>
+    <year>1971</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/nGI6h63HtxB0SbvaNXc5WcrRycq.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/pyzCZ11vbhmPEwwWv1fDvpG1Axe.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]The Book of Eli[/COLOR]</title>
+    <meta>
+    <imdb>tt1037705</imdb>
+    <content>movie</content>
+    <title>The Book of Eli</title>
+    <year>2010</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/qL3FnEug9DyBcaBXVb0oT3DJMJu.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/yT91We6RqDDfM4q7RX1QTHaq5q4.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]The Core[/COLOR]</title>
+    <meta>
+    <imdb>tt0298814</imdb>
+    <content>movie</content>
+    <title>The Core</title>
+    <year>2003</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/xPhO4FuZbbjZrN4LxTDeK45hgfT.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/wDbRly7L34PcvzPlbUqgsttubAU.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]The Day After Tomorrow[/COLOR]</title>
+    <meta>
+    <imdb>tt0319262</imdb>
+    <content>movie</content>
+    <title>The Day After Tomorrow</title>
+    <year>2004</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/qbEzEau8a7Tf0aVs3gMi5ylMrf1.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/6cX77zv88I7acchSvbO9Qx4dqxc.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]The Day the Earth Stood Still[/COLOR]</title>
+    <meta>
+    <imdb>tt0970416</imdb>
+    <content>movie</content>
+    <title>The Day the Earth Stood Still</title>
+    <year>2008</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/7fNFk4EAGbuRFqrSJprgXEIX5Za.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/bfRgom0djZB8z7qbtjM542j3xrT.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]The Happening[/COLOR]</title>
+    <meta>
+    <imdb>tt0949731</imdb>
+    <content>movie</content>
+    <title>The Happening</title>
+    <year>2008</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/c8Asvr5ORuL9NtaTGZZJsq4heDf.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/vj8ymcJBa78jt1YYUCVE95u1RHk.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]The Hurricane Heist[/COLOR]</title>
+    <meta>
+    <imdb>tt5360952</imdb>
+    <content>movie</content>
+    <title>The Hurricane Heist</title>
+    <year>2018</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/wh1f7peigW0qUXXwynwVAt7axZd.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/3ZQRLuXNTbewOHDfxF51fy74gh4.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]The Impossible[/COLOR]</title>
+    <meta>
+    <imdb>tt1649419</imdb>
+    <content>movie</content>
+    <title>The Impossible</title>
+    <year>2012</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/sEx5mrVvVyyJHICMGe55KaUzEgt.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/r6LI3kLwRUMiyoo5HofgOIlnNCI.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]The Invasion[/COLOR]</title>
+    <meta>
+    <imdb>tt0427392</imdb>
+    <content>movie</content>
+    <title>The Invasion</title>
+    <year>2007</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/bhuG1ijKGuoEM3rwBijy2ZH83q1.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/7YQWfORqPM3XEdeH8yUK28p2w5E.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]The Last Boy[/COLOR]</title>
+    <meta>
+    <imdb>tt4157728</imdb>
+    <content>movie</content>
+    <title>The Last Boy</title>
+    <year>2019</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/7o5WVpjAffERCTkrAmpqNlieAMz.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/bNTBWrSLZrOdB4NLCV2LmA3fuiK.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]The Perfect Storm[/COLOR]</title>
+    <meta>
+    <imdb>tt0177971</imdb>
+    <content>movie</content>
+    <title>The Perfect Storm</title>
+    <year>2000</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/uARMPDyjiENKyUz7JRmQmLCH8L5.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/ht1Sgx744CIYeFgsZTdwwK70HyO.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]The Quake[/COLOR]</title>
+    <meta>
+    <imdb>tt6523720</imdb>
+    <content>movie</content>
+    <title>The Quake</title>
+    <year>2018</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/jA5MVaNWe76EjuXn4FqkeaHDPuj.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/oqBTd53lYKJ63vbQpAxjDS6Pxvt.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]The Sum of All Fears[/COLOR]</title>
+    <meta>
+    <imdb>tt0164184</imdb>
+    <content>movie</content>
+    <title>The Sum of All Fears</title>
+    <year>2002</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/k3ZJrGAccBocurYccRyD3aP6ltV.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/zthVEHYYZd0psyAWGmWMyZuf646.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]The Wave[/COLOR]</title>
+    <meta>
+    <imdb>tt3616916</imdb>
+    <content>movie</content>
+    <title>The Wave</title>
+    <year>2015</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/AnPHblkG8rcFeQVDa0BZXfNrhGs.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/ciGvbbeeSXN6rciPaXYDrKh9mEp.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]The World's End[/COLOR]</title>
+    <meta>
+    <imdb>tt1213663</imdb>
+    <content>movie</content>
+    <title>The World's End</title>
+    <year>2013</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/9DBKqINsayQRZU0Ry0HFjeps5XJ.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/uTODVVo2EDocnrtvdlOvQw1bO2R.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Twister[/COLOR]</title>
+    <meta>
+    <imdb>tt0117998</imdb>
+    <content>movie</content>
+    <title>Twister</title>
+    <year>1996</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/tKdDCkmb6obEhWEMLgGUUz5nDNs.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/9zAAR78OTNBZxQYVojDj4pLHOWz.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Virus[/COLOR]</title>
+    <meta>
+    <imdb>tt0120458</imdb>
+    <content>movie</content>
+    <title>Virus</title>
+    <year>1999</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/5Np88iigCfnXvMlMKmCcbPVIbYQ.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/r3ScRVRbOXwZ50mSuEh5zTdtOvX.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Volcano[/COLOR]</title>
+    <meta>
+    <imdb>tt0120461</imdb>
+    <content>movie</content>
+    <title>Volcano</title>
+    <year>1997</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/zFxrGOiOddg3iVfAhGrBsIzUp3M.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/yYNfVE2GlIjFJRCIAgIsiaSUWnb.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]World Trade Center[/COLOR]</title>
+    <meta>
+    <imdb>tt0469641</imdb>
+    <content>movie</content>
+    <title>World Trade Center</title>
+    <year>2006</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/hYbKIxMGqm0YaxGBYW52NbkYNAx.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/wcyLZBgMlUXi4CQ8IVAO31rqNih.jpg</fanart>
+</item>
 
 <item>
         <title>***************FILME******************</title>
