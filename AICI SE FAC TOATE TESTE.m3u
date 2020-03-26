@@ -10,6 +10,772 @@
     <fanart>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</fanart>
 </plugin>
 
+<item>
+    <title>[COLOR=white]Ant-Man[/COLOR]</title>
+    <meta>
+    <imdb>tt0478970</imdb>
+    <content>movie</content>
+    <title>Ant-Man</title>
+    <year>2015</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/D6e8RJf2qUstnfkTslTXNTUAlT.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/kvXLZqY0Ngl1XSw7EaMQO0C1CCj.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Avengers: Age of Ultron[/COLOR]</title>
+    <meta>
+    <imdb>tt2395427</imdb>
+    <content>movie</content>
+    <title>Avengers: Age of Ultron</title>
+    <year>2015</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/t90Y3G8UGQp0f0DrP60wRu9gfrH.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/rFtsE7Lhlc2jRWF7SRAU0fvrveQ.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Avengers: Infinity War[/COLOR]</title>
+    <meta>
+    <imdb>tt4154756</imdb>
+    <content>movie</content>
+    <title>Avengers: Infinity War</title>
+    <year>2018</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/bOGkgRGdhrBYJSLpXaxhXVstddV.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Black Panther[/COLOR]</title>
+    <meta>
+    <imdb>tt1825683</imdb>
+    <content>movie</content>
+    <title>Black Panther</title>
+    <year>2018</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/uxzzxijgPIY7slzFvMotPv8wjKA.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/6ELJEzQJ3Y45HczvreC3dg0GV5R.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Blade II[/COLOR]</title>
+    <meta>
+    <imdb>tt0187738</imdb>
+    <content>movie</content>
+    <title>Blade II</title>
+    <year>2002</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/jlURNpXCMK830CsGRd939PJLh8c.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/2n0kjNEI3uF0ju9H5jiE3rBk5C0.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Blade: Trinity[/COLOR]</title>
+    <meta>
+    <imdb>tt0359013</imdb>
+    <content>movie</content>
+    <title>Blade: Trinity</title>
+    <year>2004</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/4WinsdHQBdh5aTt7Bd7T7dbUXbb.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/ysLIi9nzMbUqi4dQh3tqblUb27o.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Blade[/COLOR]</title>
+    <meta>
+    <imdb>tt0120611</imdb>
+    <content>movie</content>
+    <title>Blade</title>
+    <year>1998</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/r0RQ9ZOEZglLOeYDNJTehVTRoR6.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/dGnDGHD5vmaRow4BzAiuJaGwIz3.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Captain America: Civil War[/COLOR]</title>
+    <meta>
+    <imdb>tt3498820</imdb>
+    <content>movie</content>
+    <title>Captain America: Civil War</title>
+    <year>2016</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/kSBXou5Ac7vEqKd97wotJumyJvU.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/yi3hZ4mQq8JGyJSi3MBW5nMj1f.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Captain America: The First Avenger[/COLOR]</title>
+    <meta>
+    <imdb>tt0458339</imdb>
+    <content>movie</content>
+    <title>Captain America: The First Avenger</title>
+    <year>2011</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/pmZtj1FKvQqISS6iQbkiLg5TAsr.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Captain America: The Winter Soldier[/COLOR]</title>
+    <meta>
+    <imdb>tt1843866</imdb>
+    <content>movie</content>
+    <title>Captain America: The Winter Soldier</title>
+    <year>2014</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/5TQ6YDmymBpnF005OyoB7ohZps9.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/4qfXT9BtxeFuamR4F49m2mpKQI1.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Captain America[/COLOR]</title>
+    <meta>
+    <imdb>tt0036697</imdb>
+    <content>movie</content>
+    <title>Captain America</title>
+    <year>1944</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/6QB0RDBmQ4cyEraT7jUy692VQnd.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280None</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Captain America[/COLOR]</title>
+    <meta>
+    <imdb>tt0103923</imdb>
+    <content>movie</content>
+    <title>Captain America</title>
+    <year>1990</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/umO9ZJ63dNtT6Z5ZehNunGn884I.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/a1tNE5nsAMIMpBs0yrweIdzXymO.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Daredevil[/COLOR]</title>
+    <meta>
+    <imdb>tt0287978</imdb>
+    <content>movie</content>
+    <title>Daredevil</title>
+    <year>2003</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/dNVEqwgIdrwWQL3zXI5mQG60oM5.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/nQCdIwZEBakwbP2e5fQhfYKHQza.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Deadpool[/COLOR]</title>
+    <meta>
+    <imdb>tt1431045</imdb>
+    <content>movie</content>
+    <title>Deadpool</title>
+    <year>2016</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/inVq3FRqcYIRl2la8iZikYYxFNR.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/n1y094tVDFATSzkTnFxoGZ1qNsG.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Doctor Strange[/COLOR]</title>
+    <meta>
+    <imdb>tt1211837</imdb>
+    <content>movie</content>
+    <title>Doctor Strange</title>
+    <year>2016</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/4PiiNGXj1KENTmCBHeN6Mskj2Fq.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/tFI8VLMgSTTU38i8TIsklfqS9Nl.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Elektra[/COLOR]</title>
+    <meta>
+    <imdb>tt0357277</imdb>
+    <content>movie</content>
+    <title>Elektra</title>
+    <year>2005</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/w3fQaKqyQ78PCnSuus9X9ucokKG.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/iFhGgSli19SEo1ZxZLSJ6sbr5kB.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Fantastic Four: Rise of the Silver Surfer[/COLOR]</title>
+    <meta>
+    <imdb>tt0486576</imdb>
+    <content>movie</content>
+    <title>Fantastic Four: Rise of the Silver Surfer</title>
+    <year>2007</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/fXpziQgnBnB4bLgjKhjTbLQumE5.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/nq60mZOlrD4mZJg1T4hHUtWTIkN.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Fantastic Four[/COLOR]</title>
+    <meta>
+    <imdb>tt0120667</imdb>
+    <content>movie</content>
+    <title>Fantastic Four</title>
+    <year>2005</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/aJwUBmUA11lkNVSJ3if3h3xHSFd.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/6RaH2Znu7dUQq7c8surf7hRp44f.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Fantastic Four[/COLOR]</title>
+    <meta>
+    <imdb>tt1502712</imdb>
+    <content>movie</content>
+    <title>Fantastic Four</title>
+    <year>2015</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/mf3CVm2k0UHTmx2TCnFJhBIeW7m.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/3Kgu3ys6W6UZWWFty7rlTWgST63.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Ghost Rider: Spirit of Vengeance[/COLOR]</title>
+    <meta>
+    <imdb>tt1071875</imdb>
+    <content>movie</content>
+    <title>Ghost Rider: Spirit of Vengeance</title>
+    <year>2011</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/tqwWzmp5ISh64SJbNKQ9fyItnDj.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/9w9UtpeRPK797GzT7xQXuVRSUSj.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Ghost Rider[/COLOR]</title>
+    <meta>
+    <imdb>tt0259324</imdb>
+    <content>movie</content>
+    <title>Ghost Rider</title>
+    <year>2007</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/jnllnSq8u4d1oQPU7PsoAHD6bLU.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/9cs9RuOS3A5YEh6r4opVrIGbiJy.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Guardians of the Galaxy Vol. 2[/COLOR]</title>
+    <meta>
+    <imdb>tt3896198</imdb>
+    <content>movie</content>
+    <title>Guardians of the Galaxy Vol. 2</title>
+    <year>2017</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/aJn9XeesqsrSLKcHfHP4u5985hn.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Guardians of the Galaxy[/COLOR]</title>
+    <meta>
+    <imdb>tt2015381</imdb>
+    <content>movie</content>
+    <title>Guardians of the Galaxy</title>
+    <year>2014</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/y31QB9kn3XSudA15tV7UWQ9XLuW.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/bHarw8xrmQeqf3t8HpuMY7zoK4x.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Howard the Duck[/COLOR]</title>
+    <meta>
+    <imdb>tt0091225</imdb>
+    <content>movie</content>
+    <title>Howard the Duck</title>
+    <year>1986</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/f2pj3SSj1GdFSrS5bUojT56umL6.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/rOzFJMPj1h5AFO1SzQtGWmyaNjV.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Hulk[/COLOR]</title>
+    <meta>
+    <imdb>tt0286716</imdb>
+    <content>movie</content>
+    <title>Hulk</title>
+    <year>2003</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/ogCQV6mnLtCJuiiHtMB83jvSRfY.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/biED5BtLphULJdY8deefHOEnVAK.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Iron Man 2[/COLOR]</title>
+    <meta>
+    <imdb>tt1228705</imdb>
+    <content>movie</content>
+    <title>Iron Man 2</title>
+    <year>2010</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/1LoT5WsN4Lc1aR7A18ciSA1LoMy.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/jxdSxqAFrdioKgXwgTs5Qfbazjq.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Iron Man 3[/COLOR]</title>
+    <meta>
+    <imdb>tt1300854</imdb>
+    <content>movie</content>
+    <title>Iron Man 3</title>
+    <year>2013</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/7XiGqZE8meUv7L4720L0tIDd7gO.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/n9X2DKItL3V0yq1q1jrk8z5UAki.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Iron Man[/COLOR]</title>
+    <meta>
+    <imdb>tt0371746</imdb>
+    <content>movie</content>
+    <title>Iron Man</title>
+    <year>2008</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/jdXmMoREwmfZWxtqGyk5Zv0UB6r.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/ZQixhAZx6fH1VNafFXsqa1B8QI.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Punisher: War Zone[/COLOR]</title>
+    <meta>
+    <imdb>tt0450314</imdb>
+    <content>movie</content>
+    <title>Punisher: War Zone</title>
+    <year>2008</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/xrBl7FvGZFicZoMXtlSZ04duTL9.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/i6Zg52KFtG5vCZXBMMyoLLsQAHU.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Spider-Man 2[/COLOR]</title>
+    <meta>
+    <imdb>tt0316654</imdb>
+    <content>movie</content>
+    <title>Spider-Man 2</title>
+    <year>2004</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/olxpyq9kJAZ2NU1siLshhhXEPR7.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/inHzBSWqQhHaamuBSZ0I0YQ1OQf.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Spider-Man 3[/COLOR]</title>
+    <meta>
+    <imdb>tt0413300</imdb>
+    <content>movie</content>
+    <title>Spider-Man 3</title>
+    <year>2007</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/2N9lhZg6VtVJoGCZDjXVC3a81Ea.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/7IBpOrw0ATwL1AOV97mtsceDpYs.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Spider-Man: Homecoming[/COLOR]</title>
+    <meta>
+    <imdb>tt2250912</imdb>
+    <content>movie</content>
+    <title>Spider-Man: Homecoming</title>
+    <year>2017</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/vc8bCGjdVp0UbMNLzHnHSLRbBWQ.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Spider-Man[/COLOR]</title>
+    <meta>
+    <imdb>tt0145487</imdb>
+    <content>movie</content>
+    <title>Spider-Man</title>
+    <year>2002</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/rZd0y1X1Gw4t5B3f01Qzj8DYY66.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/5yAEbTXiJZQpNx7eCyyOhnY9MYw.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]The Amazing Spider-Man 2[/COLOR]</title>
+    <meta>
+    <imdb>tt1872181</imdb>
+    <content>movie</content>
+    <title>The Amazing Spider-Man 2</title>
+    <year>2014</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/mUjWof8LHDgCZC9mFp0UYKBf1Dm.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/tmFDgDmrdp5DYezwpL0ymQKIbnV.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]The Amazing Spider-Man[/COLOR]</title>
+    <meta>
+    <imdb>tt0948470</imdb>
+    <content>movie</content>
+    <title>The Amazing Spider-Man</title>
+    <year>2012</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/eA2D86Y6VPWuUzZyatiLBwpTilQ.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/ujAY1ad7yS2TfV0GDNGUZ7DK0mo.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]The Avengers[/COLOR]</title>
+    <meta>
+    <imdb>tt0848228</imdb>
+    <content>movie</content>
+    <title>The Avengers</title>
+    <year>2012</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/cezWGskPY5x7GaglTTRN4Fugfb8.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/hbn46fQaRmlpBuUrEiFqv0GDL6Y.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]The Fantastic Four[/COLOR]</title>
+    <meta>
+    <imdb>tt0109770</imdb>
+    <content>movie</content>
+    <title>The Fantastic Four</title>
+    <year>1994</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/fH7UXmnGWDYN0wt1vg6iARRRS6h.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/rT04vTCtRbUcrcThsFXqcswgpIQ.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]The Incredible Hulk[/COLOR]</title>
+    <meta>
+    <imdb>tt0800080</imdb>
+    <content>movie</content>
+    <title>The Incredible Hulk</title>
+    <year>2008</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/gCQ4e8klADtzoa6bL7XLPnjiUIg.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/cVpBJxRBIwTjajKQ08TE6BINTEu.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]The Punisher[/COLOR]</title>
+    <meta>
+    <imdb>tt0098141</imdb>
+    <content>movie</content>
+    <title>The Punisher</title>
+    <year>1989</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/9OjFAb9r21TNJIbbMVAZtbj3I60.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/uVlIDxjubb3Trk18NhMCf7b3yiN.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]The Punisher[/COLOR]</title>
+    <meta>
+    <imdb>tt0330793</imdb>
+    <content>movie</content>
+    <title>The Punisher</title>
+    <year>2004</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/qLeje0AueCpJBDW7pmg4Gv7cO1h.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/9VgOCnaG4GY1zzz8QYvtPu8msNs.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]The Wolverine[/COLOR]</title>
+    <meta>
+    <imdb>tt1430132</imdb>
+    <content>movie</content>
+    <title>The Wolverine</title>
+    <year>2013</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/iTST6DcLhfufWYUKCOskkusaYUq.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/oFyaTmJ5ZPPl16uB4Ry9pWKvtDc.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Thor: Ragnarok[/COLOR]</title>
+    <meta>
+    <imdb>tt3501632</imdb>
+    <content>movie</content>
+    <title>Thor: Ragnarok</title>
+    <year>2017</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/kaIfm5ryEOwYg8mLbq8HkPuM1Fo.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Thor: The Dark World[/COLOR]</title>
+    <meta>
+    <imdb>tt1981115</imdb>
+    <content>movie</content>
+    <title>Thor: The Dark World</title>
+    <year>2013</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/bnX5PqAdQZRXSw3aX3DutDcdso5.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/3FweBee0xZoY77uO1bhUOlQorNH.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]Thor[/COLOR]</title>
+    <meta>
+    <imdb>tt0800369</imdb>
+    <content>movie</content>
+    <title>Thor</title>
+    <year>2011</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/9zDwvsISU8bR15R2yN3kh1lfqve.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/LvmmDZxkTDqp0DX7mUo621ahdX.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]X-Men Origins: Wolverine[/COLOR]</title>
+    <meta>
+    <imdb>tt0458525</imdb>
+    <content>movie</content>
+    <title>X-Men Origins: Wolverine</title>
+    <year>2009</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/kqO36IYvWbRKMPiUeiVZUFH06Rc.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/mEuDxpLNBCarVgXRqDznHT7bdS8.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]X-Men: Apocalypse[/COLOR]</title>
+    <meta>
+    <imdb>tt3385516</imdb>
+    <content>movie</content>
+    <title>X-Men: Apocalypse</title>
+    <year>2016</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/zSouWWrySXshPCT4t3UKCQGayyo.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/oQWWth5AOtbWG9o8SCAviGcADed.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]X-Men: Days of Future Past[/COLOR]</title>
+    <meta>
+    <imdb>tt1877832</imdb>
+    <content>movie</content>
+    <title>X-Men: Days of Future Past</title>
+    <year>2014</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/pb1IURTkK5rImP9ZV83lxJO2us7.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/5kYj5EOQMFBFCdnk4X8KaFUfDVR.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]X-Men: First Class[/COLOR]</title>
+    <meta>
+    <imdb>tt1270798</imdb>
+    <content>movie</content>
+    <title>X-Men: First Class</title>
+    <year>2011</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/7SSm7BfzFoVzmd6fCDccj7qRxc8.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/39nstYsfjR6ggyKTtB4Joga2fs8.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]X-Men: The Last Stand[/COLOR]</title>
+    <meta>
+    <imdb>tt0376994</imdb>
+    <content>movie</content>
+    <title>X-Men: The Last Stand</title>
+    <year>2006</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/9jsW4RurucTwCEtA5iWV2PmIv11.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/w3Yc8wi2jYLaOyCW6b6svf1B0MG.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]X-Men[/COLOR]</title>
+    <meta>
+    <imdb>tt0120903</imdb>
+    <content>movie</content>
+    <title>X-Men</title>
+    <year>2000</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/k01Q6ATbfzNJgw4Zuoj0LTY3T9x.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/xm75A18CE7Wc6J9k2ZidFyqJ6rX.jpg</fanart>
+</item>
+<item>
+    <title>[COLOR=white]X2[/COLOR]</title>
+    <meta>
+    <imdb>tt0290334</imdb>
+    <content>movie</content>
+    <title>X2</title>
+    <year>2003</year>
+    </meta>
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/2ucMY4dPE4gGLPgDdYgyggYHBkF.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/u2FxA8fDt0uQAnHKTwWGgkPShoL.jpg</fanart>
+</item>
+
 
  
 
