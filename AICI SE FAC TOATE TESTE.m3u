@@ -16,6 +16,123 @@
 </item>
 
 
+<dir>
+    <title>Shows by Network</title>
+    <link>https://pastebin.com/raw/vPka8eNc</link>
+  </dir>
+
+<dir>
+  <title>[COLORorangered][B]Trending Shows[/B][/COLOR]</title>
+  <trakt>https://api.trakt.tv/shows/trending</trakt>
+  <thumbnail></thumbnail>
+</dir>
+
+<dir>
+  <title>[COLORorangered][B]Popular Shows[/B][/COLOR]</title>
+  <trakt>https://api.trakt.tv/shows/popular</trakt>
+  <thumbnail></thumbnail>
+</dir>
+
+<dir>
+  <title>[COLORwhite][B]TMDB Watchlist[/B][/COLOR]</title>
+  <tmdb>list/92623</tmdb>
+  <thumbnail>https://www.themoviedb.org/assets/1/v4/logos/312x276-primary-green-74212f6247252a023be0f02a5a45794925c3689117da9d20ffe47742a665c518.png</thumbnail>
+</dir>
+
+<dir>
+  <title>[COLORwhite][B]TMDB Popular[/B][/COLOR]</title>
+  <tmdb>tv/popular</tmdb>
+  <thumbnail></thumbnail>
+</dir>
+
+<dir>
+  <title>[COLORwhite][B]TMDB Top Rated[/B][/COLOR]</title>
+  <tmdb>tv/top_rated</tmdb>
+  <thumbnail></thumbnail>
+</dir>
+
+<dir>
+  <title>TMDB Airing Today</title>
+  <tmdb>tv/today</tmdb>
+  <thumbnail></thumbnail>
+</dir>
+
+<dir>
+  <title>Action & Adventure</title>
+  <tmdb>genre/shows/10759</tmdb>
+  <thumbnail></thumbnail>
+</dir>
+
+<dir>
+  <title>Animation</title>
+  <tmdb>genre/shows/16</tmdb>
+  <thumbnail></thumbnail>
+</dir>
+
+<dir>
+  <title>Comedy</title>
+  <tmdb>genre/shows/35</tmdb>
+  <thumbnail></thumbnail>
+</dir>
+
+<dir>
+  <title>Crime</title>
+  <tmdb>genre/shows/80</tmdb>
+  <thumbnail></thumbnail>
+</dir>
+
+<dir>
+  <title>Documentary</title>
+  <tmdb>genre/shows/99</tmdb>
+  <thumbnail></thumbnail>
+</dir>
+
+<dir>
+  <title>Drama</title>
+  <tmdb>genre/shows/18</tmdb>
+  <thumbnail></thumbnail>
+</dir>
+
+<dir>
+  <title>Family</title>
+  <tmdb>genre/shows/10751</tmdb>
+  <thumbnail></thumbnail>
+</dir>
+
+<dir>
+  <title>Kids</title>
+  <tmdb>genre/shows/10762</tmdb>
+  <thumbnail></thumbnail>
+</dir>
+
+<dir>
+  <title>Mystery</title>
+  <tmdb>genre/shows/9648</tmdb>
+  <thumbnail></thumbnail>
+</dir>
+
+<dir>
+  <title>Sci-Fi & Fantasy</title>
+  <tmdb>genre/shows/10765</tmdb>
+  <thumbnail></thumbnail>
+</dir>
+
+<dir>
+  <title>Western</title>
+  <tmdb>genre/shows/37</tmdb>
+  <thumbnail></thumbnail>
+</dir>
+
+<dir>
+   <title>Search Trakt</title>
+   <trakt>search</trakt>
+</dir>
+
+<dir>
+   <title>Search TMDB</title>
+   <tmdb>search</tmdb>
+</dir>
+
 
 
 
