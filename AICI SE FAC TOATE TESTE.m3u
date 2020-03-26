@@ -13,20 +13,14 @@
         <thumbnail></thumbnail>
 </item>
 
-<dir>
-<title>FILME ONLINE 1</title>
-<sublink><sublink>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/*Welcome%20To%20The%20Mad%20Titan.m3u<sublink>
-<title>FILME ONLINE 2</title>
-https://raw.githubusercontent.com/stefan-stefan/filme-online/master/100%20filme%20de%20colectie.m3u
-<title>FILME ONLINE 3</title>
-https://ww3.fmovie.sc/free/the-witcher-season-1/watching.html
-<title>FILME ONLINE 4</title>
-      <dir>https://ww3.fmovie.sc/free/the-witcher-season-1/watching.html</dir>
-	  <sublink>https://shockwave.streamvid.co/-WvvRcodujbR58FZjmu</sublink>
-	  <sublink>https://ww3.fmovie.sc/free/the-witcher-season-1/watching.html</sublink></link>
-      <thumbnail>https://fsgratis.com/wp-content/uploads/2019/12/the-witcher-48007-poster-scaled.jpg</thumbnail>
-      <fanart>https://fsgratis.com/wp-content/uploads/2019/12/the-witcher-48007-poster-scaled.jpg</fanart>
-   </dir>
+<item>
+   <title>[B]The King(2019[/B]</title>
+      <link><sublink>https://bitbucket.org/threw/pinkhat/raw/master/pinkhat/xxx.xml</sublink>
+	  <title>seriale</title>
+	 <link><sublink>http://magnetic.website/Mad%20Titan/main.xml</link><sublink>
+      <thumbnail>https://i.ytimg.com/vi/t7fvT0-lnEo/maxresdefault.jpg</thumbnail>
+      <fanart>https://i.ytimg.com/vi/t7fvT0-lnEo/maxresdefault.jpg</fanart>
+   </item>
 
 
 <item>
