@@ -14,11 +14,10 @@
 </item>
 
 <dir>
-    <title>Popular</title>
-    <tmdb>tv/popular</tmdb>
-    <summary>Popular Shows</summary>
-  <thumbnail>https://i.imgur.com/IP3EdaQ.png</thumbnail>
-  </dir>               
+  <title>Sci-Fi & Fantasy</title>
+  <tmdb>genre/shows/10765</tmdb>
+  <thumbnail></thumbnail>
+</dir>              
                   
           
  
