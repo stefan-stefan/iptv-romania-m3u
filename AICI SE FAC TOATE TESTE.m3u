@@ -1,44 +1,21 @@
-
+<dir>
+   <title>Search Trakt</title>
+   <trakt>search</trakt>
+</dir>
 
 <plugin>
-    <title>[COLOR orchid][/COLOR] [B][COLOR white]LISTA ACESTREAM[/COLOR] [COLOR blue]ROMANIA[/COLOR][/B] [COLOR orchid][/COLOR]</title>
+    <title>[COLOR springgreen][/COLOR] [B][COLOR white]LISTA ACESTREAM[/COLOR] [COLOR springgreen]ROMANIA[/COLOR][/B] [COLOR orchid][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/stefan-stefan/filme-online/master/sopcast.m3u</link>
     <thumbnail>https://cdn.android-data-recovery.org/wp-content/uploads/2019/06/How-to-Use-Ace-Stream.png</thumbnail>
     <fanart>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</fanart>
 </plugin>
 
-<dir>
-<title>[COLORspringgreen][B]CLICK TO PAIR[/B][/COLOR]</title>
-<thumbnail>http://i67.tinypic.com/w1cn0g.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/djwayne1985/repository.T2K/master/plugin.program.t2kpair/fanart.jpg</fanart>
-<link>plugin://plugin.program.t2kpair/?ahction=RunAddon</link>
-</dir>
+
  
-<dir>
-  <title>[COLORorangered][B]TRAKT Trending Movies[/B][/COLOR]</title>
-  <trakt>https://api.trakt.tv/movies/trending</trakt>
-</dir>
- 
-<dir>
-  <title>[COLORorangered][B]TRAKT Popular Movies[/B][/COLOR]</title>
-  <trakt>https://api.trakt.tv/movies/popular</trakt>
-</dir>
- 
-<dir>
-  <title>[COLORorangered][B]TRAKT Box Office Movies[/B][/COLOR]</title>
-  <trakt>https://api.trakt.tv/movies/boxoffice</trakt>
-</dir>
- 
-<dir>
-  <title>[COLORorangered][B]Trakt movie Watchlist[/B][/COLOR]</title>
-  <trakt>https://api.trakt.tv/sync/watchlist/movies</trakt>
-</dir>
 
 
-<dir>
-   <title>Search Trakt</title>
-   <trakt>search</trakt>
-</dir>
+
+
 
 
 
