@@ -1,8 +1,3 @@
-<dir>
-   <title>Search Trakt</title>
-   <trakt>search</trakt>
-</dir>
- 
 <item>
 <title>[COLOR blue].[COLOR deepskyblue].IPTV King[/COLOR]</title>
 <link>http://ignora.me</link>
@@ -11,6 +6,7 @@
 <thumbnail>http://www.delrey.com.sv/wp-content/uploads/2014/05/del-rey-logo1.png</thumbnail>
 <info></info>
 </item>
+
  
 <item>
 <title>[COLOR blue] [COLOR deepskyblue].Total Play Plus +[/COLOR]</title>
