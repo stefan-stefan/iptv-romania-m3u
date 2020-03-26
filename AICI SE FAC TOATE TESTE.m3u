@@ -12,31 +12,11 @@
     <fanart>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</fanart>
 </plugin>
 
-<dir>
-    <name>[COLOR orchid]Â¤ [/COLOR] [B][COLOR white]1Click Hd Movies[/COLOR][/B] [COLOR orchid] Â¤[/COLOR]</name>
-    <link>https://bitbucket.org/threw/greenhat/raw/master/greenhat/1click/main_1click.xml</link>
-    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_greenhat.png</thumbnail>
-    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
-</dir>
-
-
-
 <item>
         <title>***************************************</title>
         <imdburl>genres/crime</imdburl>
-        <thumbnail></thumbnail>
+        <thumbnail>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</thumbnail>
 </item>
-
-<dir>
-<name>[COLOR dodgerblue]Â¤ [/COLOR] [B][COLOR white]1Click RD Movies[/COLOR][/B] [COLOR dodgerblue] Â¤[/COLOR]</name>
-<link>https://bitbucket.org/threw/greenhat/raw/master/greenhat/1click/1click.xml</link>
-<thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_greenhat.png</thumbnail>
-<fanart>https://bitbucket.org/threw/greenhat/raw/master/greenhat/green.jpg</fanart>
-</dir>
-
-
-
-
 <plugin>
 <name>Testings</name>
 <link>plugin://plugin.video.thecrew/?action=developer</link>
