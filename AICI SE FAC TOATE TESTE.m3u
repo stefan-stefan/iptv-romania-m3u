@@ -25,56 +25,7 @@
 
 
 
-  <dir>
-    <title>Collections</title>
-    <link>https://pastebin.com/raw/CJjYWkaR</link>
-<thumbnail>https://i.imgur.com/3IOGU1o.png</thumbnail>
-    <summary></summary>
-  </dir> 
-
-
-  <dir>
-    <title>Genres</title>
-    <link>file://shared lists/genre_movies.xml</link>
-    <summary>Search Movies by Genre</summary>
-<thumbnail>https://i.imgur.com/3IOGU1o.png</thumbnail>
-<fanart>https://i.imgur.com/5lGY4Rj.jpg</fanart>
-  </dir>
-  
-    < dir>
-	<title>New Releases</title>
-	<link>https://pastebin.com/raw/ckqMtkBw</link>
-<thumbnail>https://i.imgur.com/3IOGU1o.png</thumbnail>
-<fanart>https://i.imgur.com/5lGY4Rj.jpg</fanart>
-	<content></content>
-</dir>
-
-  <dir>
-    <title>Now Playing</title>
-    <tmdb>movies/now_playing</tmdb>
-    <summary>Movies Currently In Theaters</summary>
-<thumbnail>https://i.imgur.com/3IOGU1o.png</thumbnail>
-<fanart>https://i.imgur.com/5lGY4Rj.jpg</fanart>
-  </dir>
-
-  <dir>
-    <title>Popular</title>
-    <tmdb>movies/popular</tmdb>
-    <summary>Popular Movies</summary>
-<thumbnail>https://i.imgur.com/3IOGU1o.png</thumbnail>
-<fanart>https://i.imgur.com/5lGY4Rj.jpg</fanart>
-  </dir>
-  
-
-
-  <dir>
-    <title>Top Rated</title>
-    <tmdb>movies/top_rated</tmdb>
-    <summary>Top Rated TMDB Movies</summary>
-<thumbnail>https://i.imgur.com/3IOGU1o.png</thumbnail>
-<fanart>https://i.imgur.com/5lGY4Rj.jpg</fanart>
-  </dir>
-                  
+        
           
  
         
