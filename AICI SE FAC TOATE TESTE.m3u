@@ -12,7 +12,7 @@
     <fanart>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</fanart>
 </plugin>
 
-<item>
+<dir>
 <title>FILME ONLINE 1</title>
 <dir>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/*Welcome%20To%20The%20Mad%20Titan.m3u</dir>
 <title>FILME ONLINE 2</title>
@@ -25,34 +25,16 @@
 	  <sublink>https://ww3.fmovie.sc/free/the-witcher-season-1/watching.html</sublink></link>
       <thumbnail>https://fsgratis.com/wp-content/uploads/2019/12/the-witcher-48007-poster-scaled.jpg</thumbnail>
       <fanart>https://fsgratis.com/wp-content/uploads/2019/12/the-witcher-48007-poster-scaled.jpg</fanart>
-   </item>
+   </dir>
 
 
-<dir>
-                    <title>Witches</title>
-                    <imdburl>/list/ls037953752/</imdburl>
-                    <thumbnail>http://i63.tinypic.com/28sy7h1.jpg</thumbnail>
-                   <fanart>http://i63.tinypic.com/29ers7s.jpg</fanart>
-                  </dir>
+
+                   
                   
                   
-                  <dir>
-            <title>Movies</title>
-            <meta>
-                <summary>Find streams for Movies powered by the TMDB and using Universal Scrapers.</summary>
-            </meta>
-            <link>file://movies.xml</link>
-            <thumbnail>http://i65.tinypic.com/or54wx.jpg</thumbnail>
-        </dir>
+          
  
-        <dir>
-            <title>TV Shows</title>
-            <meta>
-                <summary>Find Streams for Tv Shows Powered by TMDB and Universal Scrapers.</summary>
-            </meta>
-            <link>file://shows.xml</link>
-            <thumbnail>https://raw.githubusercontent.com/muaddibttv/artwork/master/arrakis/4k.png</thumbnail>
-        </dir>
+        
 
 <item>
         <title>***************************************</title>
