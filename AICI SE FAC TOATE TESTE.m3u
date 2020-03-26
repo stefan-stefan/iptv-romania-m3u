@@ -13,6 +13,14 @@
 </plugin>
 
 <item>
+<title>[B][COLOR white]THE CREW TV-SHOWS[/COLOR][/B]</title>
+<thumbnail>https://www.wirelesshack.org/wp-content/uploads/2019/07/How-To-Install-The-Crew-Kodi-Addon.jpg</thumbnail>
+<fanart>https://ia902804.us.archive.org/3/items/AstigPinoy/fanart.jpg</fanart>
+<link>ignoreme</link>
+<jsonrpc>plugin://plugin.video.thecrew/?action=tvNavigator</jsonrpc>
+</item>
+
+<item>
         <title>***************************************</title>
         <imdburl>genres/crime</imdburl>
         <thumbnail>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</thumbnail>
