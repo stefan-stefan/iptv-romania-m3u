@@ -14,29 +14,68 @@
 </item>
 
 <dir>
-   <title>[B]The King(2019[/B]</title>
-      <link><sublink>https://bitbucket.org/threw/pinkhat/raw/master/pinkhat/xxx.xml</sublink>
-	  <title>seriale</title>
-	 <link><sublink>http://magnetic.website/Mad%20Titan/main.xml</link><sublink>
-      <thumbnail>https://i.ytimg.com/vi/t7fvT0-lnEo/maxresdefault.jpg</thumbnail>
-      <fanart>https://i.ytimg.com/vi/t7fvT0-lnEo/maxresdefault.jpg</fanart>
-   </dir>
-
-
-<item>
-        <title>***************FILME******************</title>
-        <imdburl>ACTIUNE</imdburl>
-        <thumbnail></thumbnail>
-</item>
-                   
-  <dir>
-   <title>[B]The King(2019[/B]</title>
-      <link><sublink>https://bitbucket.org/threw/pinkhat/raw/master/pinkhat/xxx.xml</sublink>
-	  <title>seriale</title>
-	 <link><sublink>http://magnetic.website/Mad%20Titan/main.xml</link><sublink>
-      <thumbnail>https://i.ytimg.com/vi/t7fvT0-lnEo/maxresdefault.jpg</thumbnail>
-      <fanart>https://i.ytimg.com/vi/t7fvT0-lnEo/maxresdefault.jpg</fanart>
-   </dir>                
+  <title>Trending Trakt TV</title>
+  <trakt>https://api.trakt.tv/shows/trending</trakt>
+   <thumbnail>https://i.imgur.com/LmlVZWv.png</thumbnail>
+    <fanart>https://i.imgur.com/YnYgjgF.jpg</fanart>
+</dir>
+ 
+<dir>
+  <title>Popular Trakt TV</title>
+  <trakt>https://api.trakt.tv/shows/popular</trakt>
+   <thumbnail>https://i.imgur.com/LmlVZWv.png</thumbnail>
+    <fanart>https://i.imgur.com/YnYgjgF.jpg</fanart>
+</dir>
+ 
+<dir>
+  <title>TV Watchlist Trakt</title>
+  <trakt>https://api.trakt.tv/sync/watchlist/shows</trakt>
+   <thumbnail>https://i.imgur.com/LmlVZWv.png </thumbnail>
+    <fanart>https://i.imgur.com/YnYgjgF.jpg</fanart>
+</dir>
+ 
+<dir>
+  <title>TV Collection Trakt</title>
+  <trakt>https://api.trakt.tv/sync/collection/shows</trakt>
+   <thumbnail>https://i.imgur.com/LmlVZWv.png</thumbnail>
+    <fanart>https://i.imgur.com/YnYgjgF.jpg</fanart>
+</dir>
+ 
+ 
+<dir>
+  <title>Anticipated Trakt</title>
+  <trakt>https://api.trakt.tv/shows/anticipated</trakt>
+   <thumbnail>https://i.imgur.com/LmlVZWv.png</thumbnail>
+    <fanart>https://i.imgur.com/YnYgjgF.jpg</fanart>
+</dir>
+ 
+<dir>
+  <title>Collected Trakt</title>
+  <trakt>https://api.trakt.tv/shows/collected/weekly</trakt>
+   <thumbnail>https://i.imgur.com/LmlVZWv.png</thumbnail>
+    <fanart>https://i.imgur.com/YnYgjgF.jpg</fanart>
+</dir>
+ 
+<dir>
+  <title>Imdb Popular</title>
+  <tmdb>tv/popular</tmdb>
+   <thumbnail>https://i.imgur.com/TEUDOCY.png</thumbnail>
+    <fanart>https://i.imgur.com/YnYgjgF.jpg</fanart>
+</dir>
+ 
+<dir>
+  <title>Imdb Top Rated</title>
+  <tmdb>tv/top_rated</tmdb>
+   <thumbnail>https://i.imgur.com/TEUDOCY.png</thumbnail>
+    <fanart>https://i.imgur.com/YnYgjgF.jpg</fanart>
+</dir>
+ 
+<dir>
+  <title>Imdb Airing Today</title>
+  <tmdb>tv/today</tmdb>
+   <thumbnail>https://i.imgur.com/TEUDOCY.png</thumbnail>
+    <fanart>https://i.imgur.com/YnYgjgF.jpg</fanart>
+</dir>                
                   
           
  
