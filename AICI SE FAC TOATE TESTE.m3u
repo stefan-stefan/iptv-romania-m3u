@@ -12,35 +12,48 @@
     <fanart>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</fanart>
 </plugin>
 
-<item>
-<title>[B][COLOR white]THE CREW TV-SHOWS[/COLOR][/B]</title>
-<thumbnail>https://www.wirelesshack.org/wp-content/uploads/2019/07/How-To-Install-The-Crew-Kodi-Addon.jpg</thumbnail>
-<fanart>https://ia902804.us.archive.org/3/items/AstigPinoy/fanart.jpg</fanart>
-<link>ignoreme</link>
-<jsonrpc>plugin://plugin.video.thecrew/?action=tvNavigator</jsonrpc>
-</item>
+<dir>
+                    <title>Witches</title>
+                    <imdburl>/list/ls037953752/</imdburl>
+                    <thumbnail>http://i63.tinypic.com/28sy7h1.jpg</thumbnail>
+                   <fanart>http://i63.tinypic.com/29ers7s.jpg</fanart>
+                  </dir>
+                  
+                  
+                  <dir>
+            <title>Movies</title>
+            <meta>
+                <summary>Find streams for Movies powered by the TMDB and using Universal Scrapers.</summary>
+            </meta>
+            <link>file://movies.xml</link>
+            <thumbnail>http://i65.tinypic.com/or54wx.jpg</thumbnail>
+        </dir>
+ 
+        <dir>
+            <title>TV Shows</title>
+            <meta>
+                <summary>Find Streams for Tv Shows Powered by TMDB and Universal Scrapers.</summary>
+            </meta>
+            <link>file://shows.xml</link>
+            <thumbnail>https://raw.githubusercontent.com/muaddibttv/artwork/master/arrakis/4k.png</thumbnail>
+        </dir>
 
 <item>
         <title>***************************************</title>
         <imdburl>genres/crime</imdburl>
         <thumbnail>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</thumbnail>
-</item>
-<item>
-<name>Testings</name>
-<link>plugin://plugin.video.thecrew/?action=developer</link>
-<thumbnail></thumbnail>
-</item>
+
+<plugin>
+                   <title>Vikings</title>
+                   <link>plugin://plugin.video.youtube/playlist/PLq2ZqjnuDxXkPT-y1XuhabZ4MDF7UHMY9/</link>
+                  <fanart>http://i66.tinypic.com/24o91dy.jpg</fanart>
+                  <thumbnail>http://i63.tinypic.com/2yzlt86.jpg</thumbnail>
+               </plugin>
+
 
 <item>
         <title>***************************************</title>
         <imdburl>genres/crime</imdburl>
         <thumbnail></thumbnail>
-</item>
-  <dir>
-  <title>[COLORwhite]SERIALE ON CLICK[/COLOR]</title>
-  <link>http://www.ezzer-mac.com/frank/ghost/ghostxmls/xmls1/alltvshows.xml</link>
-  <thumbnail>https://p7.hiclipart.com/preview/366/455/826/television-show-computer-icons-deviantart-tv-shows.jpg</thumbnail>
-  <fanart>https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/f9391ea8-ac54-49dd-9f98-56234979334f/d2mapxc-5c7e4b4a-1b18-4fe6-8ec1-21a0864cf2fc.png</fanart>
-  <summary>Tv Shows</summary>
-  </dir>
+
 
