@@ -1,4 +1,10 @@
-<item>
+ <dir>
+        <title>Popular</title>
+        <tmdb>tv/popular</tmdb>
+        <summary>Popular Shows</summary>
+        <thumbnail>http://i67.tinypic.com/65ab8h.jpg</thumbnail>
+       <fanart>http://i64.tinypic.com/10cvn7d.jpg</fanart>
+    </dir>
 
 
 
