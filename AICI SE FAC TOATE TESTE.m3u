@@ -7,25 +7,23 @@
     <fanart>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</fanart>
 </plugin>
 
+<dir>
+	<title>ChickFlicks</title>
+	<link>https://pastebin.com/raw/8xQiNyXx</link>
+<thumbnail>https://i.imgur.com/3IOGU1o.png</thumbnail>
+<fanart>https://i.imgur.com/5lGY4Rj.jpg</fanart>
+	<content></content>
+</dir>
+
 <item>
         <title>***************FILME******************</title>
         <imdburl>ACTIUNE</imdburl>
         <thumbnail></thumbnail>
 </item>
 
-<dir>
-  <title>Sci-Fi & Fantasy</title>
-  <tmdb>genre/shows/10765</tmdb>
-  <thumbnail></thumbnail>
-</dir> 
 
- <dir>
-	<title>Box Sets</title>
-	<link>https://pastebin.com/raw/nd014R0k</link>
-<thumbnail>https://i.imgur.com/QToYNsI.png</thumbnail>
-<fanart>https://i.imgur.com/5lGY4Rj.jpg</fanart>
-	<content></content>
-</dir>
+
+
 
   <dir>
     <title>Collections</title>
