@@ -12,6 +12,12 @@
     <fanart>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</fanart>
 </plugin>
 
+<item>
+        <title>***************************************</title>
+        <imdburl>genres/crime</imdburl>
+        <thumbnail></thumbnail>
+</item>
+
 <dir>
 <title>FILME ONLINE 1</title>
 <dir>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/*Welcome%20To%20The%20Mad%20Titan.m3u</dir>
@@ -36,22 +42,6 @@
  
         
 
-<item>
-        <title>***************************************</title>
-        <imdburl>genres/crime</imdburl>
-        <thumbnail>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</thumbnail>
 
-<plugin>
-                   <title>Vikings</title>
-                   <link>plugin://plugin.video.youtube/playlist/PLq2ZqjnuDxXkPT-y1XuhabZ4MDF7UHMY9/</link>
-                  <fanart>http://i66.tinypic.com/24o91dy.jpg</fanart>
-                  <thumbnail>http://i63.tinypic.com/2yzlt86.jpg</thumbnail>
-               </plugin>
-
-
-<item>
-        <title>***************************************</title>
-        <imdburl>genres/crime</imdburl>
-        <thumbnail></thumbnail>
 
 
