@@ -1,72 +1,10 @@
-          <dir>
-                    <title>Witches</title>
-                    <imdburl>/list/ls037953752/</imdburl>
-                    <thumbnail>http://i63.tinypic.com/28sy7h1.jpg</thumbnail>
-                   <fanart>http://i63.tinypic.com/29ers7s.jpg</fanart>
-                  </dir>
- 
-                    <dir>
-                    <title>Vampires</title>
-                    <imdburl>/list/ls003244338/</imdburl>
-                    <thumbnail>http://i63.tinypic.com/28sy7h1.jpg</thumbnail>
-                   <fanart>http://i63.tinypic.com/29ers7s.jpg</fanart>
-                  </dir>
- 
-                   <dir>
-                    <title>Werewolves</title>
-                    <imdburl>/list/ls000058285/</imdburl>
-                    <thumbnail>http://i63.tinypic.com/28sy7h1.jpg</thumbnail>
-                   <fanart>http://i63.tinypic.com/29ers7s.jpg</fanart>
-                  </dir>
- 
-                    <dir>
-                    <title>Demons</title>
-                    <imdburl>/list/ls050213127/</imdburl>
-                    <thumbnail>http://i63.tinypic.com/28sy7h1.jpg</thumbnail>
-                   <fanart>http://i63.tinypic.com/29ers7s.jpg</fanart>
-                  </dir>
- 
-                   <dir>
-                    <title>Monsters</title>
-                    <imdburl>/list/ls009834210/</imdburl>
-                    <thumbnail>http://i63.tinypic.com/28sy7h1.jpg</thumbnail>
-                   <fanart>http://i63.tinypic.com/29ers7s.jpg</fanart>
-                  </dir>
- 
-                  <dir>
-                    <title>Mummies</title>
-                    <imdburl>/list/ls052277831/</imdburl>
-                    <thumbnail>http://i63.tinypic.com/28sy7h1.jpg</thumbnail>
-                   <fanart>http://i63.tinypic.com/29ers7s.jpg</fanart>
-                  </dir>
- 
-                   <dir>
-                    <title>Ghosts</title>
-                    <imdburl>/list/ls062609921/</imdburl>
-                    <thumbnail>http://i63.tinypic.com/28sy7h1.jpg</thumbnail>
-                   <fanart>http://i63.tinypic.com/29ers7s.jpg</fanart>
-                  </dir>
- 
-                  <dir>
-                    <title>Zombies</title>
-                    <imdburl>/list/ls074447328/</imdburl>
-                    <thumbnail>http://i63.tinypic.com/28sy7h1.jpg</thumbnail>
-                   <fanart>http://i63.tinypic.com/29ers7s.jpg</fanart>
-                  </dir>
- 
-                   <dir>
-                    <title>Paranormal</title>
-                    <imdburl>/list/ls064835470/</imdburl>
-                    <thumbnail>http://i63.tinypic.com/28sy7h1.jpg</thumbnail>
-                   <fanart>http://i63.tinypic.com/29ers7s.jpg</fanart>
-                  </dir>
- 
-                   <dir>
-                    <title>Psychopaths, Sociopaths & Twisted Minds</title>
-                    <imdburl>/list/ls070682706/</imdburl>
-                    <thumbnail>http://i63.tinypic.com/28sy7h1.jpg</thumbnail>
-                   <fanart>http://i63.tinypic.com/29ers7s.jpg</fanart>
-                  </dir>
+<dir>
+		<title>Airing Today</title>
+		<tmdb>tv/today</tmdb>
+		<summary>Episodes Airing Today</summary>
+		<thumbnail>http://i65.tinypic.com/35n3keq.jpg</thumbnail>
+        <fanart>http://i64.tinypic.com/10cvn7d.jpg</fanart>
+	</dir
 
 
 
