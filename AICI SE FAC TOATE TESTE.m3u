@@ -1,50 +1,5 @@
 <item>
-<title>[COLOR blue].[COLOR skyblue].Go TV Shows[/COLOR]</title>
-<link>http://ignorame</link><thumbnail>https://superrepo.org/static/images/icons/original/xplugin.video.GOtv.png.pagespeed.ic.FwX70AAqeE.jpg</thumbnail></fanart>
-<externallink>http://pastebin.com/raw/WcGJRm3M</externallink>
-</item>
- 
- <item>
-<title>[COLOR blue]TV Shows Exodus [/COLOR][COLOR deepskyblue]CLICK HERE !!![/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.exodus/?action=tvNavigator</jsonrpc>
-<thumbnail>https://superrepo.org/static/images/icons/original/xplugin.video.GOtv.png.pagespeed.ic.FwX70AAqeE.jpg</thumbnail>
-<fanart>https://superrepo.org/static/images/fanart/original/plugin.video.GOtv.jpg</fanart>
-</item>
 
-<item>
-<title>[COLOR deepskyblue]Networks[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.exodus/?action=tvNetworks</jsonrpc>
-<thumbnail>http://iptvgoserver.net23.net/picture/vod.png</thumbnail>
-<fanart>http://i57.tinypic.com/34dhfs2.jpg</fanart>
-</item>
-
-
-<item>
-<title>[COLOR deepskyblue]Genres[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.exodus/?action=tvGenres</jsonrpc>
-<thumbnail>http://iptvgoserver.net23.net/picture/vod.png</thumbnail>
-<fanart>http://i57.tinypic.com/34dhfs2.jpg</fanart>
-</item>
-
-
-<item>
-<title>[COLOR deepskyblue]Years[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.exodus/?action=tvYears</jsonrpc>
-<thumbnail>http://iptvgoserver.net23.net/picture/vod.png</thumbnail>
-<fanart>http://i57.tinypic.com/34dhfs2.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR deepskyblue]Search[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.exodus/?action=tvSearch</jsonrpc>
-<thumbnail>http://iptvgoserver.net23.net/picture/vod.png</thumbnail>
-<fanart>http://i57.tinypic.com/34dhfs2.jpg</fanart>
-</item>
 
 
 
