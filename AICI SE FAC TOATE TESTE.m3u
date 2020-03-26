@@ -6,7 +6,13 @@
         <fanart>http://i64.tinypic.com/10cvn7d.jpg</fanart>
 	</dir>
 
-
+ <dir>
+          <title>Media</title>
+           <summary>God Of The New Generation</summary>
+          <link>file://media/main.xml</link>
+          <fanart>http://i64.tinypic.com/2nib2q1.jpg</fanart>
+          <thumbnail>http://i64.tinypic.com/ot2arn.jpg</thumbnail>
+        </dir>
 
 
 
