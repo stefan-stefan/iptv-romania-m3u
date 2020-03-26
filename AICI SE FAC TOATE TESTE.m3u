@@ -13,14 +13,14 @@
         <thumbnail></thumbnail>
 </item>
 
-<item>
+<dir>
    <title>[B]The King(2019[/B]</title>
       <link><sublink>https://bitbucket.org/threw/pinkhat/raw/master/pinkhat/xxx.xml</sublink>
 	  <title>seriale</title>
 	 <link><sublink>http://magnetic.website/Mad%20Titan/main.xml</link><sublink>
       <thumbnail>https://i.ytimg.com/vi/t7fvT0-lnEo/maxresdefault.jpg</thumbnail>
       <fanart>https://i.ytimg.com/vi/t7fvT0-lnEo/maxresdefault.jpg</fanart>
-   </item>
+   </dir>
 
 
 <item>
@@ -29,7 +29,14 @@
         <thumbnail></thumbnail>
 </item>
                    
-                  
+  <dir>
+   <title>[B]The King(2019[/B]</title>
+      <link><sublink>https://bitbucket.org/threw/pinkhat/raw/master/pinkhat/xxx.xml</sublink>
+	  <title>seriale</title>
+	 <link><sublink>http://magnetic.website/Mad%20Titan/main.xml</link><sublink>
+      <thumbnail>https://i.ytimg.com/vi/t7fvT0-lnEo/maxresdefault.jpg</thumbnail>
+      <fanart>https://i.ytimg.com/vi/t7fvT0-lnEo/maxresdefault.jpg</fanart>
+   </dir>                
                   
           
  
