@@ -7,6 +7,46 @@
     <fanart>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</fanart>
 </plugin>
 
+<item>
+    <title>[COLORgold][I]----  LIVE TV  ---- May take more than a few seconds to load[/I][/COLOR]</title>
+    <link>nolink</link>
+    <summary>Some may take more than a few seconds to load.</summary>
+</item>
+ 
+<plugin>
+   <title>[COLORsnow]Fluxus Cinema[/COLOR]</title>
+   <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/jbqA0j82</link>
+    <summary></summary>
+</plugin>
+
+<plugin>
+   <title>[COLORsnow]Lodge TV List[/COLOR]</title>
+   <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/2D80tRy5</link>
+    <thumbnail>http://i63.tinypic.com/72ww3o.jpg</thumbnail>
+</plugin>
+
+<dir>
+   <name>Fluxus IPTV 2000+ Channels</name>
+   <thumbnail>https://3.bp.blogspot.com/-l8hZAIikGhE/Wa-XKR-x4iI/AAAAAAAAA90/aLWcwSePvcEsB5Gtk6eIxmLzuLxiUvp5ACLcBGAs/s320/FluxusIPTVBlue.png</thumbnail>
+   <link>plugin://plugin.video.live.streamspro/?url=https://pastebin.com/raw/0AxHuqZv&mode=1</link>
+   <fanart>http://t2k-cloud.co.uk/Kodi/icons/Mobdro/1527696849_Fluxus-TV-Kodi-Setup-Guide-Free-M3U-Playlists-IPTV.png</fanart>
+   <info></info>
+</dir>
+
+<dir>
+   <title>UK IPTV Networks</title>
+   <tvmaze>country/United Kingdom/1</tvmaze>
+   <thumbnail>http://www.europe-iptv-server.com/wp-content/uploads/2017/01/IPTV.png</thumbnail>
+   <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQduhvfYIbajyvjAeXbPwP1qN_Im1nZ0-wiQjoX0k5J5dnaEgZO</fanart>
+</dir>
+
+<dir>
+   <title>USA IPTV Networks</title>
+   <tvmaze>country/United States/1</tvmaze>
+   <thumbnail>http://www.europe-iptv-server.com/wp-content/uploads/2017/01/IPTV.png</thumbnail>
+   <fanart>https://i.pinimg.com/originals/7b/b9/df/7bb9df819bb3b3293cb3c1858c66e172.jpg</fanart>
+</dir>
+
 
 
 <item>
