@@ -20,11 +20,11 @@
 
 <dir>
 <title>FILME ONLINE 1</title>
-<dir>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/*Welcome%20To%20The%20Mad%20Titan.m3u</dir>
+<sublink><sublink>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/*Welcome%20To%20The%20Mad%20Titan.m3u<sublink>
 <title>FILME ONLINE 2</title>
-<dir>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/100%20filme%20de%20colectie.m3u</dir>
+https://raw.githubusercontent.com/stefan-stefan/filme-online/master/100%20filme%20de%20colectie.m3u
 <title>FILME ONLINE 3</title>
-<dir>https://ww3.fmovie.sc/free/the-witcher-season-1/watching.html</dir>
+https://ww3.fmovie.sc/free/the-witcher-season-1/watching.html
 <title>FILME ONLINE 4</title>
       <dir>https://ww3.fmovie.sc/free/the-witcher-season-1/watching.html</dir>
 	  <sublink>https://shockwave.streamvid.co/-WvvRcodujbR58FZjmu</sublink>
