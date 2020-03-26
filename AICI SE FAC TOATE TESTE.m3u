@@ -12,6 +12,13 @@
     <link>nolink</link>
     <summary>Some may take more than a few seconds to load.</summary>
 </item>
+
+<plugin>
+    <title>[COLOR orchid][/COLOR] [B][COLOR white]LISTA ACESTREAM[/COLOR] [COLOR blue]ROMANIA[/COLOR][/B] [COLOR orchid][/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/stefan-stefan/filme-online/master/sopcast.m3u</link>
+    <thumbnail>https://cdn.android-data-recovery.org/wp-content/uploads/2019/06/How-to-Use-Ace-Stream.png</thumbnail>
+    <fanart>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</fanart>
+</plugin>
  
 <plugin>
    <title>[COLORsnow]Fluxus Cinema[/COLOR]</title>
