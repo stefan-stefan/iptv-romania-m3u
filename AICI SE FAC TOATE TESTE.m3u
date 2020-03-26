@@ -7,53 +7,167 @@
     <fanart>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</fanart>
 </plugin>
 
-<item>
-    <title>[COLORgold][I]----  LIVE TV  ---- May take more than a few seconds to load[/I][/COLOR]</title>
-    <link>nolink</link>
-    <summary>Some may take more than a few seconds to load.</summary>
-</item>
-
-<plugin>
-    <title>[COLOR orchid][/COLOR] [B][COLOR white]LISTA ACESTREAM[/COLOR] [COLOR blue]ROMANIA[/COLOR][/B] [COLOR orchid][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/stefan-stefan/filme-online/master/sopcast.m3u</link>
-    <thumbnail>https://cdn.android-data-recovery.org/wp-content/uploads/2019/06/How-to-Use-Ace-Stream.png</thumbnail>
-    <fanart>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</fanart>
-</plugin>
+<dir>
+<title>CLICK TO PAIR</title>
+<thumbnail>https://raw.githubusercontent.com/djwayne1985/repository.T2K/master/plugin.program.t2kpair/icon.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/djwayne1985/repository.T2K/master/plugin.program.t2kpair/fanart.jpg</fanart>
+<link>plugin://plugin.program.t2kpair/?ahction=RunAddon</link>
+</dir>
  
-<plugin>
-   <title>[COLORsnow]Fluxus Cinema[/COLOR]</title>
-   <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/jbqA0j82</link>
-    <summary></summary>
-</plugin>
-
-<plugin>
-   <title>[COLORsnow]Lodge TV List[/COLOR]</title>
-   <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/2D80tRy5</link>
-    <thumbnail>http://i63.tinypic.com/72ww3o.jpg</thumbnail>
-</plugin>
-
 <dir>
-   <name>Fluxus IPTV 2000+ Channels</name>
-   <thumbnail>https://3.bp.blogspot.com/-l8hZAIikGhE/Wa-XKR-x4iI/AAAAAAAAA90/aLWcwSePvcEsB5Gtk6eIxmLzuLxiUvp5ACLcBGAs/s320/FluxusIPTVBlue.png</thumbnail>
-   <link>plugin://plugin.video.live.streamspro/?url=https://pastebin.com/raw/0AxHuqZv&mode=1</link>
-   <fanart>http://t2k-cloud.co.uk/Kodi/icons/Mobdro/1527696849_Fluxus-TV-Kodi-Setup-Guide-Free-M3U-Playlists-IPTV.png</fanart>
-   <info></info>
+  <title>TMDB Watchlist</title>
+  <tmdb>list/92624</tmdb>
+  <thumbnail>https://www.themoviedb.org/assets/1/v4/logos/312x276-primary-green-74212f6247252a023be0f02a5a45794925c3689117da9d20ffe47742a665c518.png</thumbnail>
 </dir>
-
+ 
 <dir>
-   <title>UK IPTV Networks</title>
-   <tvmaze>country/United Kingdom/1</tvmaze>
-   <thumbnail>http://www.europe-iptv-server.com/wp-content/uploads/2017/01/IPTV.png</thumbnail>
-   <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQduhvfYIbajyvjAeXbPwP1qN_Im1nZ0-wiQjoX0k5J5dnaEgZO</fanart>
+<title>IMDB Movie Watchlist</title>
+<imdburl>list/ls040650160</imdburl>
+<thumbnail>http://szalim.hu/mozgalom/wp-content/uploads/2016/12/IMDb-icon1.png</thumbnail>
 </dir>
-
+ 
 <dir>
-   <title>USA IPTV Networks</title>
-   <tvmaze>country/United States/1</tvmaze>
-   <thumbnail>http://www.europe-iptv-server.com/wp-content/uploads/2017/01/IPTV.png</thumbnail>
-   <fanart>https://i.pinimg.com/originals/7b/b9/df/7bb9df819bb3b3293cb3c1858c66e172.jpg</fanart>
+<name>Fluxus Cinema</name>
+<thumbnail>https://1.bp.blogspot.com/-7wlDqDQ5ObA/WZ38Oe7C9NI/AAAAAAAAA3o/gTxmp8_Po_sOkg4AFJSyiORqp1xzCrXfwCLcBGAs/s320/FCinemaHNew.png</thumbnail>
+<link>plugin://plugin.video.live.streamspro/?url=https://pastebin.com/raw/jbqA0j82&mode=1</link>
+<fanart>https://4.bp.blogspot.com/-AsKe3uAT-ak/WYk86B1eLVI/AAAAAAAAA0E/VxQYP5WQnGkrDLdUc5PMvnqwQykB966KgCLcBGAs/s400/FluxusCinemaPromo.jpg</fanart>
+<info></info>
 </dir>
-
+ 
+<dir>
+  <title>Trending Movie's</title>
+  <trakt>https://api.trakt.tv/movies/trending</trakt>
+</dir>
+ 
+<dir>
+  <title>Popular Movie's</title>
+  <trakt>https://api.trakt.tv/movies/popular</trakt>
+</dir>
+ 
+<dir>
+  <title>Box Office Movie's</title>
+  <trakt>https://api.trakt.tv/movies/boxoffice</trakt>
+</dir>
+ 
+<dir>
+  <title>Trakt Movie Watchlist</title>
+  <trakt>https://api.trakt.tv/sync/watchlist/movies</trakt>
+</dir>
+ 
+<dir>
+  <title>TMDB Popular</title>
+  <tmdb>movies/popular</tmdb>
+</dir>
+ 
+<dir>
+  <title>TMDB Now Playing</title>
+  <tmdb>movies/now_playing</tmdb>
+</dir>
+ 
+<dir>
+  <title>TMDB Top Rated</title>
+  <tmdb>movies/top_rated</tmdb>
+</dir>
+ 
+<dir>
+  <title>Action</title>
+  <tmdb>genre/movies/28</tmdb>
+</dir>
+ 
+<dir>
+  <title>Adventure</title>
+  <tmdb>genre/movies/12</tmdb>
+</dir>
+ 
+<dir>
+  <title>Animation</title>
+  <tmdb>genre/movies/16</tmdb>
+</dir>
+ 
+<dir>
+  <title>Comedy</title>
+  <tmdb>genre/movies/35</tmdb>
+</dir>
+ 
+<dir>
+  <title>Crime</title>
+  <tmdb>genre/movies/80</tmdb>
+</dir>
+ 
+<dir>
+  <title>Documentary</title>
+  <tmdb>genre/movies/99</tmdb>
+</dir>
+ 
+<dir>
+  <title>Drama</title>
+  <tmdb>genre/movies/18</tmdb>
+</dir>
+ 
+<dir>
+  <title>Family</title>
+  <tmdb>genre/movies/10751</tmdb>
+</dir>
+ 
+<dir>
+  <title>Fantasy</title>
+  <tmdb>genre/movies/14</tmdb>
+</dir>
+ 
+<dir>
+  <title>History</title>
+  <tmdb>genre/movies/36</tmdb>
+</dir>
+ 
+<dir>
+  <title>Horror</title>
+  <tmdb>genre/movies/27</tmdb>
+</dir>
+ 
+<dir>
+  <title>Music</title>
+  <tmdb>genre/movies/10402</tmdb>
+</dir>
+ 
+<dir>
+  <title>Mystery</title>
+  <tmdb>genre/movies/9648</tmdb>
+</dir>
+ 
+<dir>
+  <title>Romance</title>
+  <tmdb>genre/movies/10749</tmdb>
+</dir>
+ 
+<dir>
+  <title>Science Fiction</title>
+  <tmdb>genre/movies/878</tmdb>
+</dir>
+ 
+<dir>
+  <title>TV Movie</title>
+  <tmdb>genre/movies/10770</tmdb>
+</dir>
+ 
+<dir>
+  <title>Thriller</title>
+  <tmdb>genre/movies/53</tmdb>
+</dir>
+ 
+<dir>
+  <title>War</title>
+  <tmdb>genre/movies/10752</tmdb>
+</dir>
+ 
+<dir>
+  <title>Western</title>
+  <tmdb>genre/movies/37</tmdb>
+</dir>
+ 
+  <dir>
+    <title>Search Trakt</title>
+    <trakt>search</trakt>
+  </dir>
 
 
 <item>
