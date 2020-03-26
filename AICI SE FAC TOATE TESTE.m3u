@@ -17,16 +17,22 @@
         <imdburl>genres/crime</imdburl>
         <thumbnail>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</thumbnail>
 </item>
-<plugin>
+<item>
 <name>Testings</name>
 <link>plugin://plugin.video.thecrew/?action=developer</link>
 <thumbnail></thumbnail>
-</plugin>
+</item>
 
 <item>
         <title>***************************************</title>
         <imdburl>genres/crime</imdburl>
         <thumbnail></thumbnail>
 </item>
-
+  <dir>
+  <title>[COLORwhite]SERIALE ON CLICK[/COLOR]</title>
+  <link>http://www.ezzer-mac.com/frank/ghost/ghostxmls/xmls1/alltvshows.xml</link>
+  <thumbnail>https://p7.hiclipart.com/preview/366/455/826/television-show-computer-icons-deviantart-tv-shows.jpg</thumbnail>
+  <fanart>https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/f9391ea8-ac54-49dd-9f98-56234979334f/d2mapxc-5c7e4b4a-1b18-4fe6-8ec1-21a0864cf2fc.png</fanart>
+  <summary>Tv Shows</summary>
+  </dir>
 
