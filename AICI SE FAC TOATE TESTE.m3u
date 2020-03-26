@@ -1,24 +1,23 @@
-<dir>
-	<title>Airing Today</title>
-		<tmdb>tv/today</tmdb>
-		<summary>Episodes Airing Today</summary>
-		<thumbnail>http://i65.tinypic.com/35n3keq.jpg</thumbnail>
-        <fanart>http://i64.tinypic.com/10cvn7d.jpg</fanart>
-	</dir>
-
- <dir>
-          <title>Media</title>
-           <summary>God Of The New Generation</summary>
-          <link>file://media/main.xml</link>
-          <fanart>http://i64.tinypic.com/2nib2q1.jpg</fanart>
-          <thumbnail>http://i64.tinypic.com/ot2arn.jpg</thumbnail>
-        </dir>
-<item>
-                  <title>Sky  </title>
-                  <link>https://www.youtube.com/watch?v=XOacA3RYrXk</link>
-                  <thumbnail>http://i63.tinypic.com/28sy7h1.jpg</thumbnail>
-                  <fanart>http://i64.tinypic.com/2nib2q1.jpg</fanart>
-               </item>
+<  <plugin>
+                      <title>Hunting</title>
+                      <link>plugin://plugin.video.youtube/playlist/PLGuSnz4ia5cRH9t9Uccn7Z-alYHc2BhqE/</link>
+                      <thumbnail>http://i67.tinypic.com/2dufps.jpg</thumbnail>
+                      <fanart>http://i66.tinypic.com/2q3ottz.jpg</fanart>
+                 </plugin>
+                 
+                 <plugin>
+                      <title>Shooting</title>
+                      <link>plugin://plugin.video.youtube/playlist/PL3KxM9c3T7K8lsvdNY9Gvrwp5tV6bRgPi/</link>
+                      <thumbnail>http://i67.tinypic.com/2dufps.jpg</thumbnail>
+                      <fanart>http://i66.tinypic.com/2q3ottz.jpg</fanart>
+                 </plugin>
+                 
+                 <plugin>
+                      <title>Fishing</title>
+                      <link>plugin://plugin.video.youtube/playlist/PL8B493A22985D0713/</link>
+                      <thumbnail>http://i67.tinypic.com/2dufps.jpg</thumbnail>
+                      <fanart>http://i66.tinypic.com/2q3ottz.jpg</fanart>
+                 </plugin>>
 
 
 
