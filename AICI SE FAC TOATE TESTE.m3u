@@ -1,68 +1,41 @@
-<plugin>
-                    <title>Green Arrow-Origins</title>
-                    <link>plugin://plugin.video.youtube/playlist/PL6FhCd_HO_ABmVVkABGkIVRvbd14D86AT/</link>
-                   <thumbnail>http://i63.tinypic.com/28sy7h1.jpg</thumbnail>
-                    <fanart>http://i64.tinypic.com/2nib2q1.jpg</fanart>
-                </plugin>
-               
-               
-                <plugin>
-                    <title>Deadpool-Origins</title>
-                    <link>plugin://plugin.video.youtube/playlist/PL6FhCd_HO_ACcN6UR5I6bHO8gTxW8c_CL/</link>
-                   <thumbnail>http://i63.tinypic.com/28sy7h1.jpg</thumbnail>
-                   <fanart>http://i64.tinypic.com/2nib2q1.jpg</fanart>
-                </plugin>
-               
-               
-                <plugin>
-                    <title>Harley Quinn</title>
-                    <link>plugin://plugin.video.youtube/playlist/PL6FhCd_HO_AAERbiTcIQMTYEDMQrvUB1M/</link>
-                   <thumbnail>http://i63.tinypic.com/28sy7h1.jpg</thumbnail>
-                    <fanart>http://i64.tinypic.com/2nib2q1.jpg</fanart>
-                </plugin>
-               
-               
-                <plugin>
-                    <title>Venom</title>
-                    <link>plugin://plugin.video.youtube/playlist/PL6FhCd_HO_AD_YwnnAGzDr8KmrE9OV4tc/</link>
-                   <thumbnail>http://i63.tinypic.com/28sy7h1.jpg</thumbnail>
-                    <fanart>http://i64.tinypic.com/2nib2q1.jpg</fanart>
-                </plugin>
+  <dir>
+                 <title>Actresses</title>
+                 <link>https://pastebin.com/raw/4cvcBkYE</link>
+                 <thumbnail>http://i67.tinypic.com/23it2zk.jpg</thumbnail>
+                 <fanart>http://i65.tinypic.com/jidvur.jpg</fanart>
+               </dir>
  
-                <plugin>
-                    <title>Aquaman</title>
-                    <link>plugin://plugin.video.youtube/playlist/PL6FhCd_HO_ACyIJJISlRJCp0f8P3nqELH/</link>
-                   <thumbnail>http://i63.tinypic.com/28sy7h1.jpg</thumbnail>
-                    <fanart>http://i64.tinypic.com/2nib2q1.jpg</fanart>
-                </plugin>
+                 <dir>
+                    <title>Tough Gals</title>
+                    <summary>Tough Ladies</summary>
+                    <tmdb>list/102282</tmdb>
+                   <thumbnail>http://i67.tinypic.com/23it2zk.jpg</thumbnail>
+                  <fanart>http://i65.tinypic.com/jidvur.jpg</fanart>
+             </dir>
+               
+                <dir>
+                  <title>Racy Movies</title>
+                <summary>Racy Movies.</summary>
+                  <tmdb>list/101865</tmdb>
+                  <thumbnail>http://i67.tinypic.com/23it2zk.jpg</thumbnail>
+                  <fanart>http://i65.tinypic.com/jidvur.jpg</fanart>
+               </dir>
  
-                  <plugin>
-                    <title>Batman</title>
-                    <link>plugin://plugin.video.youtube/playlist/PL6FhCd_HO_AAwx6IROb_vSwRVaCuc9efL/</link>
-                   <thumbnail>http://i63.tinypic.com/28sy7h1.jpg</thumbnail>
-                    <fanart>http://i64.tinypic.com/2nib2q1.jpg</fanart>
-                </plugin>
+               <dir>
+                 <title>Romance Movies</title>
+                 <summary>Romantic Movies.</summary>
+                <tmdb>genre/movies/10749</tmdb>
+                  <thumbnail>http://i67.tinypic.com/23it2zk.jpg</thumbnail>
+                 <fanart>http://i65.tinypic.com/jidvur.jpg</fanart>
+              </dir>
  
-                <plugin>
-                    <title>Superman</title>
-                    <link>plugin://plugin.video.youtube/playlist/PL6FhCd_HO_AAquJDjVetgdt1XIuO9zmgV/</link>
-                   <thumbnail>http://i63.tinypic.com/28sy7h1.jpg</thumbnail>
-                    <fanart>http://i64.tinypic.com/2nib2q1.jpg</fanart>
-                </plugin>
- 
-                 <plugin>
-                    <title>Wonder Woman</title>
-                    <link>plugin://plugin.video.youtube/playlist/PL6FhCd_HO_ABvIEc52dTV84jltvssFhM9/</link>
-                   <thumbnail>http://i63.tinypic.com/28sy7h1.jpg</thumbnail>
-                    <fanart>http://i64.tinypic.com/2nib2q1.jpg</fanart>
-                </plugin>
- 
-                  <plugin>
-                    <title>Iron Man</title>
-                    <link>plugin://plugin.video.youtube/playlist/PL6FhCd_HO_AD4x2CPtcI5bDp3O9b3jkxF/</link>
-                   <thumbnail>http://i63.tinypic.com/28sy7h1.jpg</thumbnail>
-                    <fanart>http://i64.tinypic.com/2nib2q1.jpg</fanart>
-                </plugin> 
+              <dir>
+                    <title>Directed By Women</title>
+                    <summary>Movies Directed By Women</summary>
+                    <tmdb>list/102285</tmdb>
+                   <thumbnail>http://i67.tinypic.com/23it2zk.jpg</thumbnail>
+                  <fanart>http://i65.tinypic.com/jidvur.jpg</fanart>
+             </dir>
 
 
 
