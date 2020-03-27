@@ -1,10 +1,68 @@
-
+<plugin>
+                    <title>Green Arrow-Origins</title>
+                    <link>plugin://plugin.video.youtube/playlist/PL6FhCd_HO_ABmVVkABGkIVRvbd14D86AT/</link>
+                   <thumbnail>http://i63.tinypic.com/28sy7h1.jpg</thumbnail>
+                    <fanart>http://i64.tinypic.com/2nib2q1.jpg</fanart>
+                </plugin>
+               
+               
+                <plugin>
+                    <title>Deadpool-Origins</title>
+                    <link>plugin://plugin.video.youtube/playlist/PL6FhCd_HO_ACcN6UR5I6bHO8gTxW8c_CL/</link>
+                   <thumbnail>http://i63.tinypic.com/28sy7h1.jpg</thumbnail>
+                   <fanart>http://i64.tinypic.com/2nib2q1.jpg</fanart>
+                </plugin>
+               
+               
+                <plugin>
+                    <title>Harley Quinn</title>
+                    <link>plugin://plugin.video.youtube/playlist/PL6FhCd_HO_AAERbiTcIQMTYEDMQrvUB1M/</link>
+                   <thumbnail>http://i63.tinypic.com/28sy7h1.jpg</thumbnail>
+                    <fanart>http://i64.tinypic.com/2nib2q1.jpg</fanart>
+                </plugin>
+               
+               
+                <plugin>
+                    <title>Venom</title>
+                    <link>plugin://plugin.video.youtube/playlist/PL6FhCd_HO_AD_YwnnAGzDr8KmrE9OV4tc/</link>
+                   <thumbnail>http://i63.tinypic.com/28sy7h1.jpg</thumbnail>
+                    <fanart>http://i64.tinypic.com/2nib2q1.jpg</fanart>
+                </plugin>
  
-        <item>
-        <title>Borderline (1950)</title>
-        <link>https://archive.org/download/borderline1950/Borderline_512kb.mp4</link>
-        <thumbnail>https://ia.media-imdb.com/images/M/MV5BMTY1MmJlZWEtY2RlZi00M2Y0LThlZDMtOTY4MzQ1YTg3ZTA0XkEyXkFqcGdeQXVyNTk1MTk0MDI@._V1_UX182_CR0,0,182,268_AL_.jpg/thumbnail>
-       </item> 
+                <plugin>
+                    <title>Aquaman</title>
+                    <link>plugin://plugin.video.youtube/playlist/PL6FhCd_HO_ACyIJJISlRJCp0f8P3nqELH/</link>
+                   <thumbnail>http://i63.tinypic.com/28sy7h1.jpg</thumbnail>
+                    <fanart>http://i64.tinypic.com/2nib2q1.jpg</fanart>
+                </plugin>
+ 
+                  <plugin>
+                    <title>Batman</title>
+                    <link>plugin://plugin.video.youtube/playlist/PL6FhCd_HO_AAwx6IROb_vSwRVaCuc9efL/</link>
+                   <thumbnail>http://i63.tinypic.com/28sy7h1.jpg</thumbnail>
+                    <fanart>http://i64.tinypic.com/2nib2q1.jpg</fanart>
+                </plugin>
+ 
+                <plugin>
+                    <title>Superman</title>
+                    <link>plugin://plugin.video.youtube/playlist/PL6FhCd_HO_AAquJDjVetgdt1XIuO9zmgV/</link>
+                   <thumbnail>http://i63.tinypic.com/28sy7h1.jpg</thumbnail>
+                    <fanart>http://i64.tinypic.com/2nib2q1.jpg</fanart>
+                </plugin>
+ 
+                 <plugin>
+                    <title>Wonder Woman</title>
+                    <link>plugin://plugin.video.youtube/playlist/PL6FhCd_HO_ABvIEc52dTV84jltvssFhM9/</link>
+                   <thumbnail>http://i63.tinypic.com/28sy7h1.jpg</thumbnail>
+                    <fanart>http://i64.tinypic.com/2nib2q1.jpg</fanart>
+                </plugin>
+ 
+                  <plugin>
+                    <title>Iron Man</title>
+                    <link>plugin://plugin.video.youtube/playlist/PL6FhCd_HO_AD4x2CPtcI5bDp3O9b3jkxF/</link>
+                   <thumbnail>http://i63.tinypic.com/28sy7h1.jpg</thumbnail>
+                    <fanart>http://i64.tinypic.com/2nib2q1.jpg</fanart>
+                </plugin> 
 
 
 
