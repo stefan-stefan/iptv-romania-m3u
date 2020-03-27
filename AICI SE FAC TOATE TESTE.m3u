@@ -1,41 +1,90 @@
-  <dir>
-                 <title>Actresses</title>
-                 <link>https://pastebin.com/raw/4cvcBkYE</link>
-                 <thumbnail>http://i67.tinypic.com/23it2zk.jpg</thumbnail>
-                 <fanart>http://i65.tinypic.com/jidvur.jpg</fanart>
-               </dir>
+       <plugin>
+                    <title>Destination Linux</title>
+                    <summary>Destination Linux</summary>
+                    <link>plugin://plugin.video.youtube/playlist/PLZL9iMS3hUDC55MFxnwg1NIa4QMO6_RYa/</link>
+                   <thumbnail>https://yt3.ggpht.com/a-/AAuE7mDwggdNOP6ktdIu0XeF6R1H1pWw8sxc4Ttg3A=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+                    <fanart>http://i65.tinypic.com/w22hic.jpg</fanart>
+                </plugin>
  
-                 <dir>
-                    <title>Tough Gals</title>
-                    <summary>Tough Ladies</summary>
-                    <tmdb>list/102282</tmdb>
-                   <thumbnail>http://i67.tinypic.com/23it2zk.jpg</thumbnail>
-                  <fanart>http://i65.tinypic.com/jidvur.jpg</fanart>
-             </dir>
-               
-                <dir>
-                  <title>Racy Movies</title>
-                <summary>Racy Movies.</summary>
-                  <tmdb>list/101865</tmdb>
-                  <thumbnail>http://i67.tinypic.com/23it2zk.jpg</thumbnail>
-                  <fanart>http://i65.tinypic.com/jidvur.jpg</fanart>
-               </dir>
+                 <plugin>
+                    <title>The Linux Lad's</title>
+                    <summary>The Linux Lad's,</summary>
+                    <link>plugin://plugin.video.youtube/playlist/PLq2ZqjnuDxXkSLSEyvIpv3fEHI3NLa3N8/</link>
+                   <thumbnail>https://yt3.ggpht.com/a/AGF-l78oJpRW4aBgM3odt_AEYS47G_Ff89VcLmh7RQ=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
+                    <fanart>http://i65.tinypic.com/w22hic.jpg</fanart>
+                </plugin>
  
-               <dir>
-                 <title>Romance Movies</title>
-                 <summary>Romantic Movies.</summary>
-                <tmdb>genre/movies/10749</tmdb>
-                  <thumbnail>http://i67.tinypic.com/23it2zk.jpg</thumbnail>
-                 <fanart>http://i65.tinypic.com/jidvur.jpg</fanart>
-              </dir>
+                <plugin>
+                    <title>This Week in Tech</title>
+                    <summary>This Week in Tech</summary>
+                    <link>plugin://plugin.video.youtube/playlist/PLopIQzvI-ehg084sjyvLZ4DIpldntgGzP/</link>
+                    <thumbnail>https://yt3.ggpht.com/a-/AAuE7mB1tT9GnwKmFkRYsYFbCXDtppLIFXUWXYp_hQ=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+                    <fanart>http://i63.tinypic.com/6gza5c.jpg</fanart>
+                </plugin>
  
-              <dir>
-                    <title>Directed By Women</title>
-                    <summary>Movies Directed By Women</summary>
-                    <tmdb>list/102285</tmdb>
-                   <thumbnail>http://i67.tinypic.com/23it2zk.jpg</thumbnail>
-                  <fanart>http://i65.tinypic.com/jidvur.jpg</fanart>
-             </dir>
+                <plugin>
+                    <title>Security Now</title>
+                    <summary>Security Now</summary>
+                    <link>plugin://plugin.video.youtube/playlist/PLdPwyUeH0mS566Y0YZ7oAGghzMgRlWTBf/</link>
+                    <thumbnail>https://yt3.ggpht.com/a-/AAuE7mDOlAcAh_PQA3J5NTBTs9TgBjLSafmCHSYf8A=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+                    <fanart>http://i67.tinypic.com/2q9dw1c.jpg</fanart>
+                </plugin>
+ 
+              <plugin>
+                    <title>Infosec</title>
+                    <summary>Security Now</summary>
+                    <link>plugin://plugin.video.youtube/playlist/PLIqQAN4-Xbbw0Dv_YHk5zXQsunXJG4Mgi/</link>
+                    <thumbnail>https://yt3.ggpht.com/a-/AAuE7mD2nX_EYMC9l1kT03DzBX-cXvznbV1KIdpk1A=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+                    <fanart>http://i65.tinypic.com/vi06r.jpg</fanart>
+                </plugin>  
+ 
+<dir>
+  <title>Talk Python To Me</title>
+  <podcast>https://talkpython.fm/episodes/rss</podcast>
+  <thumbnail>https://talkpython.fm/static/img/podcast-theme-img_1400_v3.png</thumbnail>
+  <fanart>http://i68.tinypic.com/1zgdmwh.jpg</fanart>
+</dir>
+ 
+<dir>
+  <title>Request For Commits</title>
+  <podcast>https://changelog.com/rfc/feed</podcast>
+  <thumbnail>https://cdn.changelog.com/images/podcasts/rfc-cover-art-bdca650bdf5de27e9fbadf495b97b38f.png</thumbnail>
+   <fanart>http://i68.tinypic.com/1zgdmwh.jpg</fanart>
+</dir>
+ 
+<dir>
+  <title>Spotlight</title>
+  <podcast>https://changelog.com/spotlight/feed</podcast>
+  <thumbnail>https://cdn.changelog.com/images/podcasts/spotlight-cover-art-add3dc639a2f0237bd6d9b83650d6d93.png</thumbnail>
+   <fanart>http://i68.tinypic.com/1zgdmwh.jpg</fanart>
+</dir>
+ 
+<dir>
+  <title>The Changelog</title>
+  <podcast>https://changelog.com/podcast/feed</podcast>
+  <thumbnail>https://cdn.changelog.com/images/podcasts/podcast-cover-art-64a3184278271e1751c20f040e3c0055.png</thumbnail>
+   <fanart>http://i68.tinypic.com/1zgdmwh.jpg</fanart>
+</dir>
+ 
+<dir>
+  <title>Bad Voltage</title>
+  <podcast>http://www.badvoltage.org/feed/mp3/</podcast>
+  <thumbnail>http://farm4.staticflickr.com/3796/10457843775_fd9d126d53_o.jpg</thumbnail>
+   <fanart>http://i68.tinypic.com/1zgdmwh.jpg</fanart>
+</dir>
+ 
+<dir>
+  <title>The Linux Action Show!</title>
+  <podcast>http://feeds.feedburner.com/TheLinuxActionShow</podcast>
+  <thumbnail>http://www.jupiterbroadcasting.com/images/LAS-300-Badge.jpg</thumbnail>
+   <fanart>http://i68.tinypic.com/1zgdmwh.jpg</fanart>
+</dir>
+ 
+<dir>
+  <title>FLOSS Weekly</title>
+  <podcast>http://leo.am/podcasts/floss</podcast>  <thumbnail>https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_144x144/public/images/shows/floss_weekly/album_art/audio/floss1400audio.jpg?itok=u2Xdhn5u</thumbnail>
+  <fanart>http://i68.tinypic.com/1zgdmwh.jpg</fanart>
+</dir>
 
 
 
