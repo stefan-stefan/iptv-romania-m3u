@@ -8,20 +8,21 @@
 </item>
 
 <item>
-<title>[COLOR lightblue]» FIRST ROW[/COLOR]</title>
+<title>[COLOR FFff8000][B]» SÉRIES TV[/B][/COLOR]</title>
 <link>http://nopr0n</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/firstrowsports.eu.cfg&amp;mode=1</jsonrpc>
-<thumbnail>https://raw.githubusercontent.com/irmu/moria/master/_tools_tools/art/foot.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/irmu/moria/master/_tools_tools/art/stadium.jpg</fanart>
-<info>Agenda First Row</info>
+<thumbnail>https://raw.githubusercontent.com/irmu/gimli/master/_tools/art/TV.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/fanart.jpg</fanart>
+<externallink></externallink>
+<info>Séries TV</info>
 </item>
+ 
 <item>
-<title>[COLOR lightblue]» Sports Devil[/COLOR]</title>
+<title>DEVS (2020)</title>
 <link>http://nopr0n</link>
-<thumbnail>https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/foot.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/football.jpg</fanart>
-<externallink>https://pastebin.com/raw/GEunUC6e</externallink>
-<info>Links com a magia Sports Devil. Poderão demorar algum tempo a carregar.</info>
+<thumbnail>https://image.tmdb.org/t/p/w1280/uv63iNWOh69bSJYJQZjiX6n8B3m.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/5Sor3bp02V5RFW0PUPjthhdypmM.jpg</fanart>
+<externallink>https://pastebin.com/raw/eLbqEDpc</externallink>
+<info>Young computer engineer Lily Chan investigates the secretive development division of her employer, a cutting-edge tech company based in San Francisco, which she believes is behind the murder of her boyfriend.</info>
 </item>
 <item>
 <title>[COLOR FFff8000][B]SPORT TV 01[/B][/COLOR]</title>
