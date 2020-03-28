@@ -8,147 +8,130 @@
 </item>
 
 <item>
-<title>[COLOR FFff8000][B]» SÉRIES TV[/B][/COLOR]</title>
-<link>http://nopr0n</link>
-<thumbnail>https://raw.githubusercontent.com/irmu/gimli/master/_tools/art/TV.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/fanart.jpg</fanart>
-<externallink></externallink>
-<info>Séries TV</info>
-</item>
- 
-<item>
-<title>DEVS (2020)</title>
-<link>http://nopr0n</link>
-<thumbnail>https://image.tmdb.org/t/p/w1280/uv63iNWOh69bSJYJQZjiX6n8B3m.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/5Sor3bp02V5RFW0PUPjthhdypmM.jpg</fanart>
-<externallink>https://pastebin.com/raw/eLbqEDpc</externallink>
-<info>Young computer engineer Lily Chan investigates the secretive development division of her employer, a cutting-edge tech company based in San Francisco, which she believes is behind the murder of her boyfriend.</info>
+<channel>
+<name>[COLOR lime] • [COLOR blue][B][I]CANAIS ARENAVISION SOPCAST[/I][/B][/COLOR][COLOR red] (pancas)[/COLOR] </name>
+<thumbnail>http://s20.postimg.org/xfvhpalvh/sopcast.jpg</thumbnail>
+<fanart>http://i51.fastpic.ru/big/2013/0411/09/4fb0180d65add7b5e34bf72d02f02409.png</fanart>
+</subitem>
 </item>
 <item>
-<title>[COLOR FFff8000][B]SPORT TV 01[/B][/COLOR]</title>
-<thumbnail>https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/stv1.png</thumbnail>
-</item>
-<plugin>
-<title>[COLOR lightgreen]SPORT TV 01[/COLOR] - LINK 01</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv1.php</link>
-<thumbnail>https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/stv1.png</thumbnail>
-<fanart>https://i.imgur.com/xtDfb70.jpg</fanart>
-</plugin>
-
+<title>[COLOR red][B][I]ARENAVISION 21 SOPCAST[/I][/B][/COLOR][COLOR blue][B][I](PLEXUS)[/I][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/258920&mode=2&amp;mode=2&amp;name=ARENAVISION21/SOPCAST</link>
+ <thumbnail>http://s20.postimg.org/xfvhpalvh/sopcast.jpg</thumbnail>
+  </item>
 <item>
-<title>[COLOR FFff8000][B]SPORT TV 02[/B][/COLOR]</title>
-<thumbnail>https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/stv2.png</thumbnail>
-</item>
-
-<plugin>
-<title>[COLOR lightgreen]SPORT TV 02[/COLOR] - LINK 02</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://2cfazefoot.blogspot.com/2018/01/kanal-51.html</link>
-<thumbnail>https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/stv2.png</thumbnail>
-<fanart>https://i.imgur.com/xtDfb70.jpg</fanart>
-</plugin>
-
+<title>[COLOR red][B][I]ARENAVISION 22 SOPCAST[/I][/B][/COLOR][COLOR blue][B][I](PLEXUS)[/I][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/258921&mode=2&amp;mode=2&amp;name=ARENAVISION22/SOPCAST</link>
+ <thumbnail>http://s20.postimg.org/xfvhpalvh/sopcast.jpg</thumbnail>
+  </item>
 <item>
-<title>[COLOR FFff8000][B]SPORT TV 03[/B][/COLOR]</title>
-<thumbnail>https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/stv3.png</thumbnail>
+<title>[COLOR red][B][I]ARENAVISION 23 SOPCAST[/I][/B][/COLOR][COLOR blue][B][I](PLEXUS)[/I][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/258922&mode=2&amp;mode=2&amp;name=ARENAVISION23/SOPCAST</link>
+ <thumbnail>http://s20.postimg.org/xfvhpalvh/sopcast.jpg</thumbnail>
+  </item>
+<item>
+<title>[COLOR red][B][I]ARENAVISION 24 SOPCAST[/I][/B][/COLOR][COLOR blue][B][I](PLEXUS)[/I][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/258923&mode=2&amp;mode=2&amp;name=ARENAVISION24/SOPCAST</link>
+ <thumbnail>http://s20.postimg.org/xfvhpalvh/sopcast.jpg</thumbnail>
+  </item>
+<item>
+<title>[COLOR red][B][I]ARENAVISION 25 SOPCAST[/I][/B][/COLOR][COLOR blue][B][I](PLEXUS)[/I][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/258924&mode=2&amp;mode=2&amp;name=ARENAVISION25/SOPCAST</link>
+ <thumbnail>http://s20.postimg.org/xfvhpalvh/sopcast.jpg</thumbnail>
+  </item>
+<item>
+<title>[COLOR red][B][I]ARENAVISION 26 SOPCAST[/I][/B][/COLOR][COLOR blue][B][I](PLEXUS)[/I][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/258925&mode=2&amp;mode=2&amp;name=ARENAVISION26/SOPCAST</link>
+ <thumbnail>http://s20.postimg.org/xfvhpalvh/sopcast.jpg</thumbnail>
+  </item>
+<item>
+<title>[COLOR red][B][I]ARENAVISION 27 SOPCAST[/I][/B][/COLOR][COLOR blue][B][I](PLEXUS)[/I][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/258926&mode=2&amp;mode=2&amp;name=ARENAVISION27/SOPCAST</link>
+ <thumbnail>http://s20.postimg.org/xfvhpalvh/sopcast.jpg</thumbnail>
+  </item>
+<item>
+<title>[COLOR red][B][I]ARENAVISION 28 SOPCAST[/I][/B][/COLOR][COLOR blue][B][I](PLEXUS)[/I][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/258927&mode=2&amp;mode=2&amp;name=ARENAVISION28/SOPCAST</link>
+ <thumbnail>http://s20.postimg.org/xfvhpalvh/sopcast.jpg</thumbnail>
+  </item>
+<item>
+<title>[COLOR red][B][I]ARENAVISION 29 SOPCAST[/I][/B][/COLOR][COLOR blue][B][I](PLEXUS)[/I][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com://3912/258928&mode=2&amp;mode=2&amp;name=ARENAVISION29/SOPCAST</link>
+ <thumbnail>http://s20.postimg.org/xfvhpalvh/sopcast.jpg</thumbnail>
+  </item>
+<item>
+<title>[COLOR red][B][I]ARENAVISION 30 SOPCAST[/I][/B][/COLOR][COLOR blue][B][I](PLEXUS)[/I][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com://3912/258929&mode=2&amp;mode=2&amp;name=ARENAVISION30/SOPCAST</link>
+ <thumbnail>http://s20.postimg.org/xfvhpalvh/sopcast.jpg</thumbnail>
+  </item>
+<item>
+<title>[COLOR red][B][I]ARENAVISION 31 SOPCAST[/I][/B][/COLOR][COLOR blue][B][I](PLEXUS)[/I][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com://3912/259381&mode=2&amp;mode=2&amp;name=ARENAVISION31/SOPCAST</link>
+ <thumbnail>http://s20.postimg.org/xfvhpalvh/sopcast.jpg</thumbnail>
+  </item>
+<item>
+<title>[COLOR red][B][I]ARENAVISION 32 SOPCAST[/I][/B][/COLOR][COLOR blue][B][I](PLEXUS)[/I][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com://3912/259382&mode=2&amp;mode=2&amp;name=ARENAVISION32/SOPCAST</link>
+ <thumbnail>http://s20.postimg.org/xfvhpalvh/sopcast.jpg</thumbnail>
+  </item>
+<item>
+<title>[COLOR red][B][I]ARENAVISION 33 SOPCAST[/I][/B][/COLOR][COLOR blue][B][I](PLEXUS)[/I][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com://3912/259383&mode=2&amp;mode=2&amp;name=ARENAVISION33/SOPCAST</link>
+ <thumbnail>http://s20.postimg.org/xfvhpalvh/sopcast.jpg</thumbnail>
+  </item>
+<item>
+<title>[COLOR red][B][I]ARENAVISION 34 SOPCAST[/I][/B][/COLOR][COLOR blue][B][I](PLEXUS)[/I][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com://3912/259509&mode=2&amp;mode=2&amp;name=ARENAVISION34/SOPCAST</link>
+ <thumbnail>http://s20.postimg.org/xfvhpalvh/sopcast.jpg</thumbnail>
+  </item>
+<item>
+<channel>
+<name>[COLOR lime] • [COLOR blue][B][I]ARENAVISION(PLEXUS)[/I][/B][/COLOR][COLOR red] (PLEXUS)[/COLOR] </name>
+<thumbnail>http://s20.postimg.org/dh6rs3pz1/LIVESPORTS_REAM.jpg</thumbnail>
+<fanart>http://www.100hdwallpapers.com/wallpapers/1920x1200/playing_football-widescreen_wallpapers.jpg</fanart>
+</subitem>
 </item>
-
-<plugin>
-<title>[COLOR lightgreen]SPORT TV 03[/COLOR] - LINK 01</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.stream2watch.ws/live/sport-tv-3-online-live-b</link>
-<thumbnail>https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/stv1.png</thumbnail>
-<fanart>https://i.imgur.com/xtDfb70.jpg</fanart>
-</plugin>
-<plugin>
-<title>[COLOR lightgreen]SPORT TV 03[/COLOR] - LINK 02</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://2cfazefoot.blogspot.com/2018/01/kanal-52.html</link>
-<thumbnail>https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/stv3.png</thumbnail>
-<fanart>https://i.imgur.com/xtDfb70.jpg</fanart>
-</plugin>
-<plugin>
-<title>[COLOR lightgreen]SPORT TV 03[/COLOR] - LINK 03</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://sportzonline.pw/channels/pt/sporttv3.php</link>
-<thumbnail>https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/stv3.png</thumbnail>
-<fanart>https://i.imgur.com/xtDfb70.jpg</fanart>
-</plugin>
-<plugin>
-<title>[COLOR lightgreen]SPORT TV 03[/COLOR] - LINK 04</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://buzztv.stream/pt3.php</link>
-<thumbnail>https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/stv1.png</thumbnail>
-<fanart>https://i.imgur.com/xtDfb70.jpg</fanart>
-</plugin>
-###
-<dir>
-<title>[COLOR FFff8000][B]SPORT TV 04[/B][/COLOR]</title>
-<thumbnail>https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/stv4.png</thumbnail>
-</dir>
-<plugin>
-<title>[COLOR lightgreen]SPORT TV 04[/COLOR] - LINK 01</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.stream2watch.ws/live/sport-tv-4-live-a</link>
-<thumbnail>https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/stv1.png</thumbnail>
-<fanart>https://i.imgur.com/xtDfb70.jpg</fanart>
-</plugin>
-<plugin>
-<plugin>
-<title>[COLOR lightgreen]SPORT TV 04[/COLOR] - LINK 02</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://sportzonline.pw/channels/pt/sporttv4.php</link>
-<thumbnail>https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/stv4.png</thumbnail>
-<fanart>https://i.imgur.com/xtDfb70.jpg</fanart>
-</plugin>
-<plugin>
-<title>[COLOR lightgreen]SPORT TV 04[/COLOR] - LINK 03</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://2cfazefoot.blogspot.com/2018/06/k-s-s-pt-4.html</link>
-<thumbnail>https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/stv4.png</thumbnail>
-<fanart>https://i.imgur.com/xtDfb70.jpg</fanart>
-</plugin>
-<plugin>
-<title>[COLOR lightgreen]SPORT TV 04[/COLOR] - LINK 04</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://buzztv.stream/pt4.php</link>
-<thumbnail>https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/stv1.png</thumbnail>
-<fanart>https://i.imgur.com/xtDfb70.jpg</fanart>
-</plugin>
-###
-<dir>
-<title>[COLOR FFff8000][B]SPORT TV 05[/B][/COLOR]</title>
-<thumbnail>https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/stv5.png</thumbnail>
-</dir>
-<plugin>
-<plugin>
-<title>[COLOR lightgreen]SPORT TV 05[/COLOR] - LINK 01</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.stream2watch.ws/live/sport-tv-5-live-a</link>
-<thumbnail>https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/stv1.png</thumbnail>
-<fanart>https://i.imgur.com/xtDfb70.jpg</fanart>
-</plugin>
-<plugin>
-<title>[COLOR lightgreen]SPORT TV 05[/COLOR] - LINK 02</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://sportzonline.pw/channels/pt/sporttv5.php</link>
-<thumbnail>https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/stv5.png</thumbnail>
-<fanart>https://i.imgur.com/xtDfb70.jpg</fanart>
-</plugin>
-<plugin>
-<title>[COLOR lightgreen]SPORT TV 05[/COLOR] - LINK 03</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://2cfazefoot.blogspot.com/2018/06/k-s-s-pt-5.html</link>
-<thumbnail>https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/stv5.png</thumbnail>
-<fanart>https://i.imgur.com/xtDfb70.jpg</fanart>
-</plugin>
-<plugin>
-<title>[COLOR lightgreen]SPORT TV 05[/COLOR] - LINK 04</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://buzztv.stream/pt5.php</link>
-<thumbnail>https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/stv1.png</thumbnail>
-<fanart>https://i.imgur.com/xtDfb70.jpg</fanart>
-</plugin>
-###
-<dir>
-<title>[COLOR FFff8000][B]BENFICA TV[/B][/COLOR]</title>
-</dir>
-<plugin>
-<title>[COLOR lightgreen]BENFICA TV[/COLOR] - LINK 01</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://buzztv.stream/btv.php</link>
-<thumbnail>https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/stv1.png</thumbnail>
-<fanart>https://i.imgur.com/xtDfb70.jpg</fanart>
-</plugin>
-<plugin>
-<title>[COLOR lightgreen]BENFICA TV[/COLOR] - LINK 02</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://v2.sportzonline.to/channels/pt/btv.php</link>
-<thumbnail>https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/stv1.png</thumbnail>
-<fanart>https://i.imgur.com/xtDfb70.jpg</fanart>
-</plugin>
+<item>
+<title>[COLOR blue][B][I]ARENAVISION[/I][/B][/COLOR] [COLOR red] ( PLEXUS)[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.p2psport/?mode=av</jsonrpc>
+<thumbnail>http://s20.postimg.org/dh6rs3pz1/LIVESPORTS_REAM.jpg</thumbnail>
+</item>
+<item>
+<channel>
+<name>[COLOR lime] • [COLOR blue][B][I]CANAIS DESPORTO (SPORTS DEVILL)[/I][/B][/COLOR][COLOR red] (pancas)[/COLOR] </name>
+<thumbnail>http://s20.postimg.org/dh6rs3pz1/LIVESPORTS_REAM.jpg</thumbnail>
+<fanart>http://www.100hdwallpapers.com/wallpapers/1920x1200/playing_football-widescreen_wallpapers.jpg</fanart>
+</subitem>
+</item>
+<item>
+<title>[COLOR blue][B][I]LIVESPORTSTREAMS[/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/livesportstreams.tv.cfg&amp;mode=1</jsonrpc>
+<thumbnail>http://s20.postimg.org/dh6rs3pz1/LIVESPORTS_REAM.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR blue][B][I]FIRSTROWSPORT[/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/firstrowsports.eu.cfg&amp;mode=1</jsonrpc>
+<thumbnail>http://s20.postimg.org/dh6rs3pz1/LIVESPORTS_REAM.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR blue][B][I]STREAMSPORTS[/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/streamsports.me.cfg&amp;mode=1</jsonrpc>
+<thumbnail>http://s20.postimg.org/dh6rs3pz1/LIVESPORTS_REAM.jpg</thumbnail>
+</item>
+<item>
+<channel>
+<name>[COLOR lime] • [COLOR blue][B][I]DESPORTO INTERNACIONAL[/I][/B][/COLOR][COLOR red] (pancas)[/COLOR] </name>
+<thumbnail>http://s4.postimg.org/wuksubsq5/images.jpg</thumbnail>
+<fanart>http://i51.fastpic.ru/big/2013/0411/09/4fb0180d65add7b5e34bf72d02f02409.png</fanart>
+</subitem>
+</item>
+<item>
+<title>[COLOR blue]CANAIS DESPORTO INTERNACIONAIS MIX[/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>http://s4.postimg.org/wuksubsq5/images.jpg</thumbnail>
+<externallink>http://pastebin.com/raw/9EfFhjss</externallink>
+</item>
