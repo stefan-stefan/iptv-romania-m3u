@@ -10,9 +10,10 @@
 
 
 <item>
-<title>[COLOR red][B][I]ARENAVISION 21 SOPCAST[/I][/B][/COLOR][COLOR blue][B][I](PLEXUS)[/I][/B][/COLOR]</title>
-<link>https://raw.githubusercontent.com/psy86/Psy86-kodi-repo-de/da8c00ca2f035b04324591f24acaa415d7ccd5a1/plugin.program.Sport365/addon.xml</link>
- <thumbnail>http://s20.postimg.org/xfvhpalvh/sopcast.jpg</thumbnail>
-  </item>
+<title>[COLOR yellow][B][I]SPORT 365[/I][/B][/COLOR]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=Sport365.live&amp;url=sss</jsonrpc>
+<thumbnail>http://broadbandtvnews.broadbandtvnews.netdna-cdn.com/wp-content/uploads/2012/09/sport365-logo.jpg</thumbnail>
+</item>
 
 
