@@ -23,68 +23,34 @@
 <externallink>https://pastebin.com/raw/GEunUC6e</externallink>
 <info>Links com a magia Sports Devil. Poderão demorar algum tempo a carregar.</info>
 </item>
-<dir>
+<item>
 <title>[COLOR FFff8000][B]SPORT TV 01[/B][/COLOR]</title>
 <thumbnail>https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/stv1.png</thumbnail>
-</dir>
+</item>
 <plugin>
 <title>[COLOR lightgreen]SPORT TV 01[/COLOR] - LINK 01</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv1.php</link>
 <thumbnail>https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/stv1.png</thumbnail>
 <fanart>https://i.imgur.com/xtDfb70.jpg</fanart>
 </plugin>
-<plugin>
-<title>[COLOR lightgreen]SPORT TV 01[/COLOR] - LINK 02</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://sportzonline.pw/channels/pt/sporttv1.php</link>
-<thumbnail>https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/stv1.png</thumbnail>
-<fanart>https://i.imgur.com/xtDfb70.jpg</fanart>
-</plugin>
-<plugin>
-<title>[COLOR lightgreen]SPORT TV 01[/COLOR] - LINK 03</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://2cfazefoot.blogspot.com/2018/01/kanal-50.html</link>
-<thumbnail>https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/stv1.png</thumbnail>
-<fanart>https://i.imgur.com/xtDfb70.jpg</fanart>
-</plugin>
-<plugin>
-<title>[COLOR lightgreen]SPORT TV 01[/COLOR] - LINK 04</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://buzztv.stream/pt1.php</link>
-<thumbnail>https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/stv1.png</thumbnail>
-<fanart>https://i.imgur.com/xtDfb70.jpg</fanart>
-</plugin>
-###
-<dir>
+
+<item>
 <title>[COLOR FFff8000][B]SPORT TV 02[/B][/COLOR]</title>
 <thumbnail>https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/stv2.png</thumbnail>
-</dir>
-<plugin>
-<title>[COLOR lightgreen]SPORT TV 02[/COLOR] - LINK 01</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.stream2watch.ws/live/sport-tv-2-online-live-b</link>
-<thumbnail>https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/stv1.png</thumbnail>
-<fanart>https://i.imgur.com/xtDfb70.jpg</fanart>
-</plugin>
+</item>
+
 <plugin>
 <title>[COLOR lightgreen]SPORT TV 02[/COLOR] - LINK 02</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://2cfazefoot.blogspot.com/2018/01/kanal-51.html</link>
 <thumbnail>https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/stv2.png</thumbnail>
 <fanart>https://i.imgur.com/xtDfb70.jpg</fanart>
 </plugin>
-<plugin>
-<title>[COLOR lightgreen]SPORT TV 02[/COLOR] - LINK 03</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://sportzonline.pw/channels/pt/sporttv2.php</link>
-<thumbnail>https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/stv2.png</thumbnail>
-<fanart>https://i.imgur.com/xtDfb70.jpg</fanart>
-</plugin>
-<plugin>
-<title>[COLOR lightgreen]SPORT TV 02[/COLOR] - LINK 04</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://buzztv.stream/pt2.php</link>
-<thumbnail>https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/stv1.png</thumbnail>
-<fanart>https://i.imgur.com/xtDfb70.jpg</fanart>
-</plugin>
-###
-<dir>
+
+<item>
 <title>[COLOR FFff8000][B]SPORT TV 03[/B][/COLOR]</title>
 <thumbnail>https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/stv3.png</thumbnail>
-</dir>
+</item>
+
 <plugin>
 <title>[COLOR lightgreen]SPORT TV 03[/COLOR] - LINK 01</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.stream2watch.ws/live/sport-tv-3-online-live-b</link>
