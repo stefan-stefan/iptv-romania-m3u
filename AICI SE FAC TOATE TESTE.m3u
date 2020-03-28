@@ -13,3 +13,10 @@
     <fanart>https://cdn.pixabay.com/photo/2017/08/18/10/26/albania-2654454_1280.png</fanart>
 </plugin>
 
+
+<plugin>
+    <title>[COLOR blue][/COLOR] [B][COLOR blue]-[/COLOR] [COLOR blue]test(test-lista 2)[/COLOR][/B] [COLOR blue][/COLOR]</title>
+    <link>plugin: //plugin.video.f4mTester/? streamtype = TSDOWNLOADER & amp; name = [COLOR alb] TVBOX..2018 [/ COLOR]; url=http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8</link>
+    <thumbnail>https://cdn.pixabay.com/photo/2017/08/18/10/26/albania-2654454_1280.png</thumbnail>
+    <fanart>https://cdn.pixabay.com/photo/2017/08/18/10/26/albania-2654454_1280.png</fanart>
+</plugin>
