@@ -1,33 +1,991 @@
 <item>
-<title>[COLOR lightblue]» [COLOR orangered]SPORT[/COLOR][COLOR white]365.[/COLOR][COLOR orangered]live[/COLOR]</title>
-<link>http://nopr0n</link>
-<thumbnail>https://koditips.com/wp-content/uploads/Sport365-Kodi.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/irmu/moria/master/_tools_tools/art/stadium.jpg</fanart>
-<jsonrpc>plugin://plugin.video.sport365.live</jsonrpc>
-<info>Agenda Sport365.live</info>
+<title>[COLOR yellow][B]**STREAMS CAN TAKE A FEW SECS TO START**[/B][/COLOR]</title>
+<link>http://ignor.me</link>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+<info>24/7</info>
 </item>
-
-
-
+ 
+ 
+ 
+ 
+ 
 <item>
-<title>[COLOR yellow][B][I]SPORT 365[/I][/B][/COLOR]</title>
-<link>http://ignora.me</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=Sport365.live&amp;url=sss</jsonrpc>
-<thumbnail>http://broadbandtvnews.broadbandtvnews.netdna-cdn.com/wp-content/uploads/2012/09/sport365-logo.jpg</thumbnail>
+<title>[COLOR pink]FOX NEWS[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=44</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
 </item>
-
+ 
 <item>
-<title>[COLOR orange][B] Sport365 [/B][/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.deportesalacarta/?ewogICAgImFjdGlvbiI6ICJtYWlubGlzdCIsIAogICAgImNhdGVnb3J5IjogImRlcG9ydCIsIAogICAgImNoYW5uZWwiOiAic3BvcnQzNjUiLCAKICAgICJmYW5hcnQiOiAiIiwgCiAgICAiaW5mb0xhYmVscyI6IHt9LCAKICAgICJsYW5ndWFnZSI6ICJlcyIsIAogICAgInRodW1ibmFpbCI6ICJodHRwOi8vaS5pbWd1ci5jb20vaEoydmhpcC5wbmciLCAKICAgICJ0aXRsZSI6ICJTcG9ydDM2NSIsIAogICAgInRvdGFsSXRlbXMiOiAwLCAKICAgICJ2aWV3bW9kZSI6ICJsaXN0Igp9</jsonrpc>
-<thumbnail>http://s1.medianetworkinternational.com/images/icons/256x256px.png</thumbnail>
-<fanart>http://redeneobux.com/wp-content/uploads/2016/09/2-11.jpg</fanart>
+<title>[COLOR white]Random Movies[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=random</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
 </item>
+ 
 <item>
-<title>[COLOR orange][B] Sport365 Nueva Version [/B][/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.sport365.live</jsonrpc>
-<thumbnail>http://s1.medianetworkinternational.com/images/icons/256x256px.png</thumbnail>
-<fanart>http://redeneobux.com/wp-content/uploads/2016/09/2-11.jpg</fanart>
+<title>[COLOR white]Monster Movies[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=156</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Western Movies[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=155</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Sci-Fi Movies[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=153</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]War Movies[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=154</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Harry Potter and Lord of the Rings[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=51</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Comedy Movies[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=31</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Documentaries[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=37</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Unsolved Mysteries[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=135</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Musicals[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=64</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Action Movies[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=3</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Mystery Movies[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=65</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Animation Movies[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=10</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Mafia Movies[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=59</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Star Wars and Star Trek Movies[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=87</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Romance Movies[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=77</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Horror Movies[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=54</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Adult Swim[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=4</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Adventure Time[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=148</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Always Sunny In Philadelphia[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=5</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]American Dad[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=7</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Anime[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=12</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Archer[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=13</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Arrested Development[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=14</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Batman[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=109</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Batman the Animated Series[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=116</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Battlestar Galactica[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=16</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Beavis and Butt-Head[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=110</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Better Call Saul[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=17</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Blacklist[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=18</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Blue Bloods[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=19</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Bobs Burgers[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=20</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Bones[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=21</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Breaking Bad[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=24</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Celebrity Deathmatch[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=26</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Charmed[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=145</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Classic Toons[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=28</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Cops[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=33</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]CSI: Miami[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=147</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Curb Your Enthusiasm[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=34</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Dexter[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=146</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Doctor Who[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=36</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Downton Abbey[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=125</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Dragonball Z[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=39</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Family Guy[/COLOR]</title>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=41</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Fawlty Towers[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=42</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Frasier[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=45</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Friends[/COLOR]</title>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=47</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Futurama[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=48</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Game of Thrones[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=50</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Golden Girls[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=114</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Home Improvement[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=53</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]House MD[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=139</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]How I Met Your Mother[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=113</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]I Love Lucy[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=55</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Invader Zim[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=56</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]King of the Hill[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=57</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Kings of Queens[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=132</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Law and Order SVU[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=134</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Malcolm in the Middle[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=60</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Married with Children[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=61</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Mission Impossible[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=144</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Modern Family[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=62</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]My Name Is Earl[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=118</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Narcos[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=66</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]NCIS[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=133</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Only Fools and Horses[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=143</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Outer Limits[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=70</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Parks and Recreation[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=126</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Prison Break[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=72</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Regular Show[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=151</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Reno 911[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=112</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Rick and Morty[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=150</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Salem[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=137</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Samurai Jack[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=149</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Scrubs[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=79</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Seinfeld[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=80</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Shark Tank[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=81</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Silicon Valley[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=82</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]South Park[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=84</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]SpongeBob SquarePants[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=86</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Stargate Atlantis[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=138</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Steven Universe[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=152</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Supernatural[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=115</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Teenage Mutant Ninja Turtles[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=142</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]That 70s Show[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=90</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]The Big Bang Theory[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=91</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]The Boondocks[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=2</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]The Fresh Prince of Bel-air[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=46</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]The Knick[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=136</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]The Last Airbender and legend of Korra[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=15</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]The Marvelous Misadventures of Flapjack[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=93</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]The Musketeers[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=64</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]The Office[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=127</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]The Ren and Stimpy Show[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=75</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]The Simpsons[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=83</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]The Sopranos[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=95</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]The Tudors[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=96</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]The Twilight Zone[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=97</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]The White Queen[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=102</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]The Wire[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=141</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Top Gear UK[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=98</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Trailer Park Boys[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=99</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Unsolved Mysteries[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=135</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Vampire Diaries[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=101</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Whose line is it anyway?[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=103</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]Workaholics[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=104</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white]X Files[/COLOR]</title>
+<link>http://ignor.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=105</jsonrpc>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/000/134/727/non_2x/open-24-7-restaurant-sign-vector.jpg</thumbnail>
+<info></info>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
 </item>
 
