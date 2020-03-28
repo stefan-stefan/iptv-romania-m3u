@@ -1,22 +1,25 @@
-dir>
+<dir>
     <title>[COLORsnow]TV Tapp[/COLOR]</title>
     <link>plugin://script.module.can-uktvnow</link>
     <summary>TV Tapp APK Module</summary>
 </dir>
-dir>
+<dir>
     <title>[COLORsnow]World TV[/COLOR]</title>
     <link>plugin://script.module.can-worldtv</link>
     <summary></summary>
 </dir>
-dir>
+<dir>
     <title>[COLORsnow]Swiftstreamz[/COLOR]</title>
     <link>plugin://script.module.can-swiftstreamz</link>
     <summary>Swiftstreamz APK Module</summary>
 </dir>
  
-dir>
+<dir>
     <title>[COLORsnow]Livenet TV[/COLOR]</title>
     <link>plugin://script.module.canlivenet</link>
     <summary>Livenet TV APK Module</summary>
 </dir>
-
+<item>
+    <title>Sports Channels</title>
+    <link>https://pastebin.com/raw/CHJGf3xS</link>
+</item>
