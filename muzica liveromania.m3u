@@ -1,67 +1,29 @@
-#EXTM3U
-#EXTINF: 1, Radio Intens
-http://51.254.103.133:8070/stream
-#EXTINF: 2, Radio Pentru Voi
-http://37.187.90.121:3438/stream
-#EXTINF: 3, Radio Popular
-http://151.80.15.51:7777/stream
-#EXTINF: 4, Radio Lăutaru
-http://51.254.152.177:9000/stream
-#EXTINF: 5, Radio Manele Vechi
-http://151.80.9.229:8000/stream
-#EXTINF: 6, Radio HiTFM Petrecere
-http://petrecere.radiohitfm.net:8340
-#EXTINF: 7, Radio HiTFM Manele
-http://asculta.radiohitfm.net:8340
-#EXTINF: 8, Radio Liberty Popular
-http://5.196.53.109:1989/stream
-#EXTINF: 9, Radio Liberty Manele
-http://manele.radioliberty.ro:1989
-#EXTINF: 10, Radio Liberty Manele
-http://asculta.radioliberty.ro:1989
-#EXTINF: 1.35837, Radio Intens România
-http://51.254.103.133:8070/stream
-#EXTINF: 1.69796, Radio Popular România
-http://151.80.15.51:7777/stream
-#EXTINF: 1, Radio Popular România s2
-http://151.80.9.229:8000/stream
-#EXTINF: 1, Radio Pentru Voi
-http://37.187.90.121:3438/stream
-#EXTINF: 1, Radio Lautaru
-http://51.254.152.177:9000/stream
-#EXTINF: 1, Radio_Popular _Oltenia
-http://89.39.189.21:8889/
-#EXTINF: 1, Fun Fm
-http://petrecere.funfm.net:8000/stream
-#EXTINF: 1, RadioBaditaPopular
-http://89.39.189.29:8000/stream
-#EXTINF: 1, Radio Banat Live Timișoara FM
-http://live.radiobanatfm.com:8002/
-#EXTINF: 1, WHMSonic AutoDJ
-http://176.31.60.23:8901/stream
-#EXTINF: 1, Radio Bucovina Populara
-http://live.radiobucovina.ro:8000/
-#EXTINF: 1, Capital FM România - Manele
-http://manele.capitalfm.ro:8020/stream
-#EXTINF: 1, Radio Gangsta Manele România
-http://37.59.207.65:8800/stream
-#EXTINF: 1, WHMSonic AutoDJ s2
-http://94.23.162.234:8300/stream
-#EXTINF: 1, Radio HiT FM România
-http://asculta.radiohitfm.net:8340
-#EXTINF: 1, Radio Liberty Manele România
-http://5.196.53.110:1989/stream
-#EXTINF: 1, Radio Manele România
-http://a.fmradiomanele.ro:8054
-#EXTINF: 1, Radio Manele România s2
-http://petrecere.fmradiomanele.ro:8000
-#EXTINF: 1, Radio Manele FM
-http://91.121.139.194:8888/stream
-#EXTINF: 1, Radio Manele România.Ro
-http://89.39.189.76:8000/
-#EXTINF: 1, Radio Popular România s3
-http://151.80.9.229:8000/stream
-#EXTINF: 1, Radio Popular România s4
-http://167.114.207.234:8888/stream
-#EXTINF: 1, Radio Mare Veselie
-http://91.121.236.32:8600/stream
+#EXTINF:-1,ES: Movistar ESTRENOS FHD
+plugin://plugin.video.f4mTester/?name=TVBOX2019&streamtype=HLSRETRY&amp;url=http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/144234.m3u8
+#EXTINF:-1,ES: C ESTRENOS
+plugin://plugin.video.f4mTester/?name=TVBOX2019&streamtype=HLSRETRY&amp;url=http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/159393.m3u8
+#EXTINF:-1,ES: C COMEDIA HD
+plugin://plugin.video.f4mTester/?name=TVBOX2019&streamtype=HLSRETRY&amp;url=http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/192832.m3u8
+#EXTINF:-1,ES: Canal Comedia
+plugin://plugin.video.f4mTester/?name=TVBOX2019&streamtype=HLSRETRY&amp;url=http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/125606.m3u8
+#EXTINF:-1,ES: Canal DCINE HD
+plugin://plugin.video.f4mTester/?name=TVBOX2019&streamtype=HLSRETRY&amp;url=http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/163434.m3u8
+#EXTINF:-1,Es- M.ACCION
+plugin://plugin.video.f4mTester/?name=TVBOX2019&streamtype=HLSRETRY&amp;url=http://m-iptv.net:6204/live/OoesIRzgNP/8kW83aN4dr/9982.m3u8
+#EXTINF:-1,Es- M.CINE ESPANOL
+plugin://plugin.video.f4mTester/?name=TVBOX2019&streamtype=HLSRETRY&amp;url=http://m-iptv.net:6204/live/OoesIRzgNP/8kW83aN4dr/9981.m3u8
+#EXTINF:-1,Es- M.COMEDIA
+plugin://plugin.video.f4mTester/?name=TVBOX2019&streamtype=HLSRETRY&amp;url=http://m-iptv.net:6204/live/OoesIRzgNP/8kW83aN4dr/9980.m3u8
+#EXTINF:-1,Es- M.DCINE
+plugin://plugin.video.f4mTester/?name=TVBOX2019&streamtype=HLSRETRY&amp;url=http://m-iptv.net:6204/live/OoesIRzgNP/8kW83aN4dr/9979.m3u8
+#EXTINF:-1,ES: Movistar COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?name=TVBOX2019&streamtype=HLSRETRY&amp;url=http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/102299.m3u8
+#EXTINF:-1,ES: Movistar DCINE HD
+plugin://plugin.video.f4mTester/?name=TVBOX2019&streamtype=HLSRETRY&amp;url=http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/199116.m3u8
+#EXTINF:-1,ES: Movistar SERIES FHD
+plugin://plugin.video.f4mTester/?name=TVBOX2019&streamtype=HLSRETRY&amp;url=http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/70869.m3u8
+#EXTINF:-1,ES: Movistar Series Mania FHD
+plugin://plugin.video.f4mTester/?name=TVBOX2019&streamtype=HLSRETRY&amp;url=http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/70876.m3u8
+#EXTINF:-1,Es- M.SERIES
+plugin://plugin.video.f4mTester/?name=TVBOX2019&streamtype=HLSRETRY&amp;url=http://m-iptv.net:6204/live/OoesIRzgNP/8kW83aN4dr/9971.m3u8
+
