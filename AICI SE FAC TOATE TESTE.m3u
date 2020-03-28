@@ -11,3 +11,87 @@
     <thumbnail > https://upload.wikimedia.org/wikipedia/ro/9/98/Coco_%282017_film%29_poster.jpg </ thumbnail >
     <fanart > https://www.hdwallpapers.in/download/coco_2017_animation_4k-3840x2160.jpg </ fanart >
 </ item >
+<dir>
+    <title>[COLORred]C[/COLOR]lick Me Please[/COLOR]</title>
+    <link>message(https://pastebin.com/raw/ZSCWkpXx)</link>
+</dir>
+ 
+<dir>
+    <title>[COLOR orange]M[COLOR snow]ovies[/COLOR][/COLOR]</title>
+    <link>http://fecklewick.uk/goose/movies/movies.xml</link>
+    <thumbnail>http://icons.veryicon.com/png/File%20Type/Sinem/File%20Movies.png</thumbnail>
+    <fanart>https://boygeniusreport.files.wordpress.com/2015/10/browser-popcorn.png</fanart>
+</dir>
+   
+<dir>
+    <title>[COLOR orange]T[COLOR snow]v Shows[/COLOR][/COLOR]</title>
+    <link>http://fecklewick.uk/goose/tv/tv.xml</link>
+    <thumbnail>https://img00.deviantart.net/507b/i/2015/303/7/5/tv_shows_folder_by_janosch500-d9ey56m.png</thumbnail>
+    <fanart>http://payoncetv.com/static/images/live_tv_streaming.jpg</fanart>
+</dir>
+ 
+<dir>
+    <title>[COLOR orange]D[COLOR snow]ocumentary & Reality[/COLOR][/COLOR]</title>
+   <link>http://fecklewick.uk/goose/docu/docus.xml</link>
+   <thumbnail>https://pro2-bar-s3-cdn-cf.myportfolio.com/de56ed9de6621bc401223cd36c432130/b6b835ce75251a123ded7c86_rw_1920.jpg?h=3a72ccc58efed1a78d7165689176af1c</thumbnail>
+   <fanart>https://pro2-bar-s3-cdn-cf.myportfolio.com/de56ed9de6621bc401223cd36c432130/b6b835ce75251a123ded7c86_rw_1920.jpg?h=3a72ccc58efed1a78d7165689176af1c</fanart>
+    <content>Everything from nature to the grand tour and speed</content>
+</dir>
+ 
+<dir>
+   <title>[COLOR orange]M[COLOR snow]usic[/COLOR][/COLOR]</title>
+   <link>http://fecklewick.uk/goose/music/music.xml</link>
+   <thumbnail>http://gg-deco.rlcgeek.com/clubstuff/flaming-skull-wearing-headphones-9859561-256256.jpg</thumbnail>
+   <fanart>https://i.ytimg.com/vi/HINU-6OwfVs/maxresdefault.jpg</fanart>
+   <content></content>
+   <summary>Brought To You By 0rgooose</summary>
+    </dir>
+ 
+<dir>
+   <title>[COLOR orange]X[COLOR snow]treme Sports[/COLOR][/COLOR]</title>
+   <tmdb>list/40190</tmdb>
+   <thumbnail>https://static.wixstatic.com/media/e9435a_ebd1fd15690842059e17f60f3e22d4e9~mv2_d_2130_2136_s_2.jpg_256</thumbnail>
+   <fanart>https://sites.psu.edu/siowfa16/files/2016/09/Climbing-Extreme-Sport-Wallpaper-1-1p7q0xq.jpg</fanart>
+</dir>
+ 
+<dir>
+   <title>[COLOR orange]G[COLOR snow]aming[/COLOR][/COLOR]</title>
+   <link>http://fecklewick.uk/goose/gaming/gaming.xml</link>
+    <thumbnail>http://www.icon100.com/up/387/256/atari_cx40.png</thumbnail>
+    <fanart>http://fecklewick.uk/goose/gaming/gaming.jpg</fanart>
+</dir>
+ 
+<dir>
+   <name>[COLOR orange]R[/COLOR][COLOR snow]equests[/COLOR][/COLOR]</name>
+   <link>http://fecklewick.uk/goose/requests.xml</link>
+    <thumbnail>http://www.priorityfirsthomeinspections.com/images/services/radon-testing.png</thumbnail>
+    <fanart>http://supcache.lgumn.cn/data/www.cntbdc.com/up_files/%E5%8C%96%E5%AD%A6%E5%AE%9E%E9%AA%8C%E5%AE%A4(1).jpg</fanart>
+</dir>
+ 
+<dir>
+   <title>[COLOR orange]R[COLOR snow]equests[/COLOR][/COLOR]<title>
+    <link>http://fecklewick.uk/goose/gaming/gaming.xml</link>
+    <thumbnail>http://1.jpg//</thumbnail>
+    <fanart>http://1.jpg</fanart>
+</dir> 
+ 
+<dir>
+   <title>[COLOR orange]S[COLOR snow]earch[/COLOR][/COLOR]</title>
+   <tmdb>search</tmdb>
+    <thumbnail>http://icons.iconarchive.com/icons/zerode/plump/256/Search-icon.png</thumbnail>
+    <fanart>http://norbella.com/wp-content/uploads/2016/06/future-search-box-ss-1920.jpg</fanart>
+</dir>
+ 
+<plugin>
+   <name>[COLOR orange]S[COLOR snow]ettings[/COLOR][/COLOR]</name>
+   <link>plugin://plugin.video.goose/?action=openSettings</link>
+   <thumbnail></thumbnail>
+   <summary>Goose Settings</summary>
+</plugin>
+ 
+<plugin>
+   <name>[COLOR orange]T[COLOR snow]estings[/COLOR][/COLOR]</name>
+   <link>plugin://plugin.video.goose/?action=developer</link>
+   <thumbnail></thumbnail>
+   <summary>Testings</summary>
+</plugin>
