@@ -1,65 +1,22 @@
-<dir>
-    <title>The Hobbit: The Unexpected Journey</title>
-    <link>
-    <sublink>http://62.210.99.9/secure/v0d/2017/INCOMING/3-15-18/The.Hobbit:%20An.Unexpected.Journey.mp4</sublink>
-    <sublink>search</sublink>
-    <sublink>searchsd</sublink>
-    </link>
-    <thumbnail>http://</thumbnail>
-    <fanart></fanart\>
+dir>
+    <title>[COLORsnow]TV Tapp[/COLOR]</title>
+    <link>plugin://script.module.can-uktvnow</link>
+    <summary>TV Tapp APK Module</summary>
+</dir>
+dir>
+    <title>[COLORsnow]World TV[/COLOR]</title>
+    <link>plugin://script.module.can-worldtv</link>
+    <summary></summary>
+</dir>
+dir>
+    <title>[COLORsnow]Swiftstreamz[/COLOR]</title>
+    <link>plugin://script.module.can-swiftstreamz</link>
+    <summary>Swiftstreamz APK Module</summary>
 </dir>
  
-<dir>
-    <title>The Hobbit: The Battle of the Five Armies</title>
-    <link>
-    <sublink>http://62.210.99.9/secure/v0d/2017/INCOMING/3-15-18/The.Hobbit:%20The.Battle.of.the.Five.Armies.mp4</sublink>
-    <sublink>search</sublink>
-    <sublink>searchSD</sublink>
-    </link>
-    <thumbnail>http://</thumbnail>
-    <fanart></fanart\>
+dir>
+    <title>[COLORsnow]Livenet TV[/COLOR]</title>
+    <link>plugin://script.module.canlivenet</link>
+    <summary>Livenet TV APK Module</summary>
 </dir>
- 
-<dir>
-    <title>The Hobbit: The Desolation of Smaug</title>
-    <link>
-    <sublink>http://62.210.99.9/secure/v0d/2017/INCOMING/3-15-18/The.Hobbit:%20The.Desolation.of.Smaug.mp4</sublink>
-    <sublink>search</sublink>
-    <sublink>searchsd</sublink>
-    </link>
-    <thumbnail>http://</thumbnail>
-    <fanart></fanart\>
-</dir>
- 
-<dir>
-    <title>The Lord Of The Rings: The Fellowship Of The Ring</title>
-    <link>
-    <sublink>http://62.210.99.9/secure/v0d/2017/INCOMING/The%20Lord%20of%20the%20Rings%20Box%20Set/The%20Fellowship%20of%20the%20Ring%20(2001).mp4</sublink>
-    <sublink>search</sublink>
-    <sublink>searchsd</sublink>
-    </link>
-    <thumbnail>http://</thumbnail>
-    <fanart></fanart\>
-</dir>
- 
-<dir>
-    <title>The Lord Of The Rings: The Return Of The King</title>
-    <link>
-    <sublink>http://62.210.99.9/secure/v0d/2017/INCOMING/The%20Lord%20of%20the%20Rings%20Box%20Set/The%20Return%20of%20the%20King%20(2003).mp4</sublink>
-    <sublink>search</sublink>
-    <sublink>searchSD</sublink>
-    </link>
-    <thumbnail>http://</thumbnail>
-    <fanart></fanart\>
-</dir>
- 
-<dir>
-    <title>The Lord Of The Rings: The Two Towers</title>
-    <link>
-    <sublink>http://62.210.99.9/secure/v0d/2017/INCOMING/The%20Lord%20of%20the%20Rings%20Box%20Set/The%20Two%20Towers%20(2002).mp4</sublink>
-    <sublink>search</sublink>
-    <sublink>searchSD</sublink>
-    </link>
-    <thumbnail>http://</thumbnail>
-    <fanart></fanart\>
-</dir>
+
