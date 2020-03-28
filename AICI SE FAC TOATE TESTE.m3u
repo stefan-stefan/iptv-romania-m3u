@@ -1,6 +1,6 @@
 
 
-<plugin>
+<item>
 -<addon provider-name="GalAnonim" version="1.0" name="Sport365" id="plugin.video.sport365.live">
  
  
@@ -54,4 +54,4 @@
 </extension>
  
 </addon>
-</plugin>
+</item>
