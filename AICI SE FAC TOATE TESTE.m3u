@@ -1,96 +1,19 @@
-<dir>
-    <title>Marvel Movies</title>
-    <link>https://pastebin.com/raw/HFDVhbHd</link>
-  </dir>
- 
-<dir>
-    <title> Kids Movies</title>
-    <link>https://pastebin.com/raw/cAhpbCyM</link>
-    <thumbnail>http://i66.tinypic.com/5tlop.jpg</thumbnail>
-  </dir>
- 
-<dir>
-  <title>Walt Disney Animated Feature Films</title>
-  <trakt>https://api.trakt.tv/users/movistapp/lists/walt-disney-animated-feature-films/items</trakt>
-</dir>
- 
-<dir>
-  <title>Pixar animation Studios</title>
-  <trakt>https://api.trakt.tv/users/movistapp/lists/pixar-animation-studios/items</trakt>
-</dir>
- 
-<dir>
-  <title>Dreamworks Animation</title>
-  <trakt>https://api.trakt.tv/users/movistapp/lists/dreamworks-animation/items</trakt>
-</dir>
-
- 
-<dir>
-  <title>D C Comics</title>
-  <trakt>https://api.trakt.tv/users/movistapp/lists/dc-comics/items</trakt>
-</dir>
- 
-<dir>
-  <title>Batman Movies</title>
-  <trakt>https://api.trakt.tv/users/movistapp/lists/batman/items</trakt>
-</dir>
- 
-<dir>
-  <title>Superman Movies</title>
-  <trakt>https://api.trakt.tv/users/movistapp/lists/superman/items</trakt>
-</dir>
- 
-<dir>
-  <title>Animation</title>
-  <trakt>https://api.trakt.tv/users/giladg/lists/animation/items</trakt>
-</dir>
- 
-<dir>
-  <title>Family Movies</title>
-  <trakt>https://api.trakt.tv/users/movistapp/lists/family/items</trakt>
-</dir>
- 
-<dir>
-<title>Disney Channel Shows</title>
-<trakt>https://api.trakt.tv/users/kylesheila/lists/disney-channel/items</trakt>
-</dir>
- 
-<dir>
-<title>Kids TV Shows</title>
-<trakt>https://api.trakt.tv/users/drinfernoo/lists/kids-shows/items</trakt>
-</dir>
- 
- <dir>
-     <title> Disney Channel Shows </title>
-  <link>https://pastebin.com/raw/YTdTapCd</link>
-  <thumbnail>http://i66.tinypic.com/5tlop.jpg</thumbnail>
-  </dir>
- 
-<dir>
-<title>Kids Cartoons</title>
-<trakt>https://api.trakt.tv/users/kylesheila/lists/kids-cartoons/items</trakt>
-</dir>
- 
-<dir>
-<title>  Kids Shows By Network  </title>
-<link>https://pastebin.com/raw/is5dkge4</link>
-</dir>
- 
-<dir>
-     <title> Shows and Cartoons </title>
-  <link>https://pastebin.com/raw/GuXZJn9N</link>
-  <thumbnail>http://i66.tinypic.com/5tlop.jpg</thumbnail>
-</dir>
- 
-<dir>
-    <title>[COLORlimegreen][B]*** Spooky Corner       Click Me***[/B][/COLOR]</title>
-    <link>https://pastebin.com/raw/pT2LZH2W</link>
-    <thumbnail>http://i66.tinypic.com/5tlop.jpg</thumbnail>
-</dir>  
- 
+<plugin>
+    <title>[COLOR blue][/COLOR] [B][COLOR blue]IPTV-[/COLOR] [COLOR blue]tv maxe 1(test-lista 2)[/COLOR][/B] [COLOR blue][/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=http://github.com/kneekoo/tvmaxe-db/blob/master/Romania.db?raw=true</link>
+    <thumbnail>https://cdn.pixabay.com/photo/2017/08/18/10/26/albania-2654454_1280.png</thumbnail>
+    <fanart>https://cdn.pixabay.com/photo/2017/08/18/10/26/albania-2654454_1280.png</fanart>
+</plugin>
 <dir>
     <title>[COLORorange][B]*** CONNORS    DEN      Click Me ***[/B][/COLOR]</title>
     <link>https://pastebin.com/raw/JxjG15UY</link>
     <thumbnail>http://i65.tinypic.com/krdiq.jpg</thumbnail>
   </dir>
-
+  
+  
+<plugin>
+    <title>[COLOR blue][/COLOR] [B][COLOR blue]IPTV-[/COLOR] [COLOR blue]tv maxe 1(test-lista 2)[/COLOR][/B] [COLOR blue][/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=http://tv-maxe.org/subscriptions/International</link>
+    <thumbnail>https://cdn.pixabay.com/photo/2017/08/18/10/26/albania-2654454_1280.png</thumbnail>
+    <fanart>https://cdn.pixabay.com/photo/2017/08/18/10/26/albania-2654454_1280.png</fanart>
+</plugin>
