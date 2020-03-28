@@ -1,57 +1,16 @@
-
-
+item>
+<title>[COLOR lightblue]» [COLOR orangered]SPORT[/COLOR][COLOR white]365.[/COLOR][COLOR orangered]live[/COLOR]</title>
+<link>http://nopr0n</link>
+<thumbnail>https://koditips.com/wp-content/uploads/Sport365-Kodi.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/irmu/moria/master/_tools_tools/art/stadium.jpg</fanart>
+<jsonrpc>plugin://plugin.video.sport365.live</jsonrpc>
+<info>Agenda Sport365.live</info>
+</item>
 <item>
--<addon provider-name="GalAnonim" version="1.0" name="Sport365" id="plugin.video.sport365.live">
- 
- 
--<requires>
- 
-<import version="2.1.0" addon="xbmc.python"/>
- 
-<import addon="service.cronxbmc" optional="true"/>
- 
-</requires>
- 
- 
--<extension library="main.py" point="xbmc.python.pluginsource">
- 
-<provides>video</provides>
- 
-</extension>
- 
- 
--<extension point="xbmc.addon.metadata">
- 
-<summary lang="en">Sport365</summary>
- 
-<description lang="en">Sport365</description>
- 
-<disclaimer lang="en">fork en castellano del addon sport365, todos los creditos a su creador GalAnonim,traducido por picapau</disclaimer>
- 
-<language/>
- 
-<platform>all</platform>
- 
-<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
- 
-<forum/>
- 
-<website/>
- 
-<email/>
- 
- 
--<assets>
- 
-<icon>icon.png</icon>
- 
-<fanart>fanart.png</fanart>
- 
-</assets>
- 
-<news> Pierwsza wersja :) </news>
- 
-</extension>
- 
-</addon>
+<title>[COLOR lightblue]» FIRST ROW[/COLOR]</title>
+<link>http://nopr0n</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/firstrowsports.eu.cfg&amp;mode=1</jsonrpc>
+<thumbnail>https://raw.githubusercontent.com/irmu/moria/master/_tools_tools/art/foot.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/irmu/moria/master/_tools_tools/art/stadium.jpg</fanart>
+<info>Agenda First Row</info>
 </item>
