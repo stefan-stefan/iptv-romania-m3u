@@ -1,32 +1,133 @@
-#EXTINF:-1,ES: Movistar ESTRENOS FHD
-plugin://plugin.video.f4mTester/?name=TVBOX2019&streamtype=HLSRETRY&amp;url=http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/144234.m3u8
-#EXTINF:-1,ES: C ESTRENOS
-plugin://plugin.video.f4mTester/?name=TVBOX2019&streamtype=HLSRETRY&amp;url=http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/159393.m3u8
-#EXTINF:-1,ES: C COMEDIA HD
-plugin://plugin.video.f4mTester/?name=TVBOX2019&streamtype=HLSRETRY&amp;url=http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/192832.m3u8
-#EXTINF:-1,ES: Canal Comedia
-plugin://plugin.video.f4mTester/?name=TVBOX2019&streamtype=HLSRETRY&amp;url=http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/125606.m3u8
-#EXTINF:-1,ES: Canal DCINE HD
-plugin://plugin.video.f4mTester/?name=TVBOX2019&streamtype=HLSRETRY&amp;url=http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/163434.m3u8
-#EXTINF:-1,Es- M.ACCION
-plugin://plugin.video.f4mTester/?name=TVBOX2019&streamtype=HLSRETRY&amp;url=http://m-iptv.net:6204/live/OoesIRzgNP/8kW83aN4dr/9982.m3u8
-#EXTINF:-1,Es- M.CINE ESPANOL
-plugin://plugin.video.f4mTester/?name=TVBOX2019&streamtype=HLSRETRY&amp;url=http://m-iptv.net:6204/live/OoesIRzgNP/8kW83aN4dr/9981.m3u8
-#EXTINF:-1,Es- M.COMEDIA
-plugin://plugin.video.f4mTester/?name=TVBOX2019&streamtype=HLSRETRY&amp;url=http://m-iptv.net:6204/live/OoesIRzgNP/8kW83aN4dr/9980.m3u8
-#EXTINF:-1,Es- M.DCINE
-plugin://plugin.video.f4mTester/?name=TVBOX2019&streamtype=HLSRETRY&amp;url=http://m-iptv.net:6204/live/OoesIRzgNP/8kW83aN4dr/9979.m3u8
-#EXTINF:-1,ES: Movistar COMEDY CENTRAL
-plugin://plugin.video.f4mTester/?name=TVBOX2019&streamtype=HLSRETRY&amp;url=http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/102299.m3u8
-#EXTINF:-1,ES: Movistar DCINE HD
-plugin://plugin.video.f4mTester/?name=TVBOX2019&streamtype=HLSRETRY&amp;url=http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/199116.m3u8
-#EXTINF:-1,ES: Movistar SERIES FHD
-plugin://plugin.video.f4mTester/?name=TVBOX2019&streamtype=HLSRETRY&amp;url=http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/70869.m3u8
-#EXTINF:-1,ES: Movistar Series Mania FHD
-plugin://plugin.video.f4mTester/?name=TVBOX2019&streamtype=HLSRETRY&amp;url=http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/70876.m3u8
-#EXTINF:-1,Es- M.SERIES
-plugin://plugin.video.f4mTester/?name=TVBOX2019&streamtype=HLSRETRY&amp;url=http://m-iptv.net:6204/live/OoesIRzgNP/8kW83aN4dr/9971.m3u8
-          
+<item>
+<title>   [B]B L A C K[/B] G H O S T </title>
+<externallink>na</externallink>
+<link>NA</link>
+<thumbnail>http://blackghost.co/gray/img/img/icon.png</thumbnail>
+<fanart>http://blackghost.co/gray/img/img/fanart.jpg</fanart>
+<info>[COLOR yellow][B]The BlackGhost[/B][/COLOR]
+Bienvenid@ a BlackGhost, un Addon de entretenimiento para compartir y disfrutar.  
+*Puedes apoyar al Addon haciendo una donación voluntaria, la cual servirá para mantener activo el Addon y para el mantenimiento y soporte del mismo. Tu donación es anónima y no importa la cantidad ¡Con tu aportación haces la diferencia!
+Si deseas hacer una donación por favor accede en el siguiente enlace, de antemano ¡Gracias!
+http://paypal.me/blackghost</info>
+</item>
+ 
+ 
+  <item>
+  <title>[B][COLOR yellow]BlackGhost, necesita de tu apoyo[/COLOR][/B]</title><link>na</link><thumbnail>http://blackghost.co/gray/img/img/donador.png</thumbnail>
+<fanart>http://blackghost.co/gray/img/img/fanart.jpg</fanart><info>[COLOR yellow][B]The BlackGhost[/B][/COLOR]
+Bienvenid@ a BlackGhost, un Addon de entretenimiento para compartir y disfrutar.  
+*Puedes apoyar al Addon haciendo una donación voluntaria, la cual servirá para mantener activo el Addon y para el mantenimiento y soporte del mismo. Tu donación es anónima y no importa la cantidad ¡Con tu aportación haces la diferencia!
+Si deseas hacer una donación por favor accede en el siguiente enlace, de antemano ¡Gracias!
+http://paypal.me/blackghost</info></item>
+<item>
+  <title>[B][COLOR yellow]Para seguir en funcionamiento y mantenimiento[/COLOR][/B]</title><link>na</link><thumbnail>http://blackghost.co/gray/img/img/donador.png</thumbnail>
+<fanart>http://blackghost.co/gray/img/img/fanart.jpg</fanart><info>[COLOR yellow][B]The BlackGhost[/B][/COLOR]
+Bienvenid@ a BlackGhost, un Addon de entretenimiento para compartir y disfrutar.  
+*Puedes apoyar al Addon haciendo una donación voluntaria, la cual servirá para mantener activo el Addon y para el mantenimiento y soporte del mismo. Tu donación es anónima y no importa la cantidad ¡Con tu aportación haces la diferencia!
+Si deseas hacer una donación por favor accede en el siguiente enlace, de antemano ¡Gracias!
+http://paypal.me/blackghost</info></item>
+<item>
+  <title>[B][COLOR yellow]en busca de mejorar la actualizacion y busqueda[/COLOR][/B]</title><link>na</link><thumbnail>http://blackghost.co/gray/img/img/donador.png</thumbnail>
+<fanart>http://blackghost.co/gray/img/img/fanart.jpg</fanart><info>[COLOR yellow][B]The BlackGhost[/B][/COLOR]
+Bienvenid@ a BlackGhost, un Addon de entretenimiento para compartir y disfrutar.  
+*Puedes apoyar al Addon haciendo una donación voluntaria, la cual servirá para mantener activo el Addon y para el mantenimiento y soporte del mismo. Tu donación es anónima y no importa la cantidad ¡Con tu aportación haces la diferencia!
+Si deseas hacer una donación por favor accede en el siguiente enlace, de antemano ¡Gracias!
+http://paypal.me/blackghost</info></item>
+  <item>
+  <title>[B][COLOR yellow]de mas opciones de Visualizacion de contenido.[/COLOR][/B]</title><link>na</link><thumbnail>http://blackghost.co/gray/img/img/donador.png</thumbnail>
+<fanart>http://blackghost.co/gray/img/img/fanart.jpg</fanart><info>[COLOR yellow][B]The BlackGhost[/B][/COLOR]
+Bienvenid@ a BlackGhost, un Addon de entretenimiento para compartir y disfrutar.  
+*Puedes apoyar al Addon haciendo una donación voluntaria, la cual servirá para mantener activo el Addon y para el mantenimiento y soporte del mismo. Tu donación es anónima y no importa la cantidad ¡Con tu aportación haces la diferencia!
+Si deseas hacer una donación por favor accede en el siguiente enlace, de antemano ¡Gracias!
+http://paypal.me/blackghost</info></item>
+    <item>
+  <title>[B][COLOR yellow]Es por eso, que puedes Apoyarnos,  [/COLOR][/B]</title><link>na</link><thumbnail>http://blackghost.co/gray/img/img/donador.png</thumbnail>
+<fanart>http://blackghost.co/gray/img/img/fanart.jpg</fanart><info>[COLOR yellow][B]The BlackGhost[/B][/COLOR]
+Bienvenid@ a BlackGhost, un Addon de entretenimiento para compartir y disfrutar.  
+*Puedes apoyar al Addon haciendo una donación voluntaria, la cual servirá para mantener activo el Addon y para el mantenimiento y soporte del mismo. Tu donación es anónima y no importa la cantidad ¡Con tu aportación haces la diferencia!
+Si deseas hacer una donación por favor accede en el siguiente enlace, de antemano ¡Gracias!
+http://paypal.me/blackghost</info></item>
+      <item>
+  <title>[B][COLOR yellow]Con  una donacion voluntarias  por [COLOR lightblue][UPPERCASE]Paypal [/UPPERCASE][/COLOR][/COLOR][/B]</title><link>na</link><thumbnail>http://blackghost.co/gray/img/img/donador.png</thumbnail>
+<fanart>http://blackghost.co/gray/img/img/fanart.jpg</fanart><info>[COLOR yellow][B]The BlackGhost[/B][/COLOR]
+Bienvenid@ a BlackGhost, un Addon de entretenimiento para compartir y disfrutar.  
+*Puedes apoyar al Addon haciendo una donación voluntaria, la cual servirá para mantener activo el Addon y para el mantenimiento y soporte del mismo. Tu donación es anónima y no importa la cantidad ¡Con tu aportación haces la diferencia!
+Si deseas hacer una donación por favor accede en el siguiente enlace, de antemano ¡Gracias!
+http://paypal.me/blackghost</info></item>
+ 
+ 
+ <item>
+  <title>[B][COLOR yellow]al correo blackaddon@mail.com [/COLOR]o ingresando a [/B]</title><link>na</link><thumbnail>http://blackghost.co/gray/img/img/donador.png</thumbnail>
+<fanart>http://blackghost.co/gray/img/img/fanart.jpg</fanart><info>[COLOR yellow][B]The BlackGhost[/B][/COLOR]
+Bienvenid@ a BlackGhost, un Addon de entretenimiento para compartir y disfrutar.  
+*Puedes apoyar al Addon haciendo una donación voluntaria, la cual servirá para mantener activo el Addon y para el mantenimiento y soporte del mismo. Tu donación es anónima y no importa la cantidad ¡Con tu aportación haces la diferencia!
+Si deseas hacer una donación por favor accede en el siguiente enlace, de antemano ¡Gracias!
+http://paypal.me/blackghost</info></item>  
+      <item>
+  <title>[B][COLOR lightyellow] http://paypal.me/blackghost [/COLOR][/B]</title><link>na</link><thumbnail>http://blackghost.co/gray/img/img/donador.png</thumbnail>
+<fanart>http://blackghost.co/gray/img/img/fanart.jpg</fanart><info>[COLOR yellow][B]The BlackGhost[/B][/COLOR]
+Bienvenid@ a BlackGhost, un Addon de entretenimiento para compartir y disfrutar.  
+*Puedes apoyar al Addon haciendo una donación voluntaria, la cual servirá para mantener activo el Addon y para el mantenimiento y soporte del mismo. Tu donación es anónima y no importa la cantidad ¡Con tu aportación haces la diferencia!
+Si deseas hacer una donación por favor accede en el siguiente enlace, de antemano ¡Gracias!
+http://paypal.me/blackghost</info></item>  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <item> <title>[B][UPPERCASE] [COLOR white] -------- [/COLOR][/B][/UPPERCASE]</title><link>na</link>
+<thumbnail>http://blackghost.co/gray/img/img/icon.png</thumbnail>
+<fanart>http://blackghost.co/gray/img/img/fanart.jpg</fanart></item>
+ 
+ 
+ 
+ 
+ 
+<item>
+<title>[B][UPPERCASE] [COLOR yellow]ingresar al addon[/COLOR][/B] [/UPPERCASE]</title>
+<link>na</link>
+<externallink>http://blackghost.co/in/$doregex[password].xml</externallink>
+<regex>
+<name>password</name>
+<expres><![CDATA[#$pyFunction
+import xbmc
+import xbmcaddon
+import xbmcgui
+def GetLSProData(page_data,Cookie_Jar,m):
+    dialog = xbmcgui.Dialog()
+    d = dialog.input('Codigo de Invitacion:', type=xbmcgui.INPUT_ALPHANUM).replace(" ", "")
+    return d
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+ 
+<thumbnail>http://blackghost.co/gray/img/img/icon.png</thumbnail>
+<fanart>http://blackghost.co/gray/img/img/fanart.jpg</fanart>
+ 
+</item>
+ 
+ 
+ 
+<item> <title>[B][UPPERCASE] [COLOR white] -------- [/COLOR][/B][/UPPERCASE]</title><link>na</link>
+<thumbnail>http://blackghost.co/gray/img/img/icon.png</thumbnail>
+<fanart>http://blackghost.co/gray/img/img/fanart.jpg</fanart>
+</item>
+ 
+<item> <title>[UPPERCASE] [COLOR white] ----[ Ayuda y Soporte en Telegram:[/UPPERCASE][B] [COLOR lime] @blackghostkodi[/COLOR]]---- [/COLOR][/B]</title><link>na</link>
+<thumbnail>http://blackghost.co/gray/img/img/icon.png</thumbnail>
+<fanart>http://blackghost.co/gray/img/img/fanart.jpg</fanart>
+ 
+ 
+  <item> <title>[B] [COLOR lightskyblue]Si ya has realizado una donacion envia un mensaje al correo: [/COLOR][/B]</title><link>na</link>
+<thumbnail>http://blackghost.co/gray/img/img/icon.png</thumbnail>
+<fanart>http://blackghost.co/gray/img/img/fanart.jpg</fanart></item>
+  <item> <title>[B] [COLOR lightskyblue] blackaddon@mail.com -  solicitar tu codigo  - Gracias por su apoyo[/COLOR][/B]</title><link>na</link>
+<thumbnail>http://blackghost.co/gray/img/img/icon.png</thumbnail>
+<fanart>http://blackghost.co/gray/img/img/fanart.jpg</fanart></item>          
  
         
 
