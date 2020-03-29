@@ -1,33 +1,13 @@
 <plugin>
     <title>[COLOR blue][/COLOR] [B][COLOR blue][/COLOR] [COLOR blue]TEST PLUGINURII 22222)[/COLOR][/B] [COLOR blue][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/KHgTNd0y</link>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/WF4grmzU</link>
     <thumbnail>https://cdn.pixabay.com/photo/2017/08/18/10/26/albania-2654454_1280.png</thumbnail>
     <fanart>https://cdn.pixabay.com/photo/2017/08/18/10/26/albania-2654454_1280.png</fanart>
 </plugin>
-<item><title>[COLOR yellow]• Sezione Sport- Sport365[/COLOR]</title><link>ignorme</link><jsonrpc>plugin://plugin.video.sport365.live/?foldername=main;return</jsonrpc><thumbnail>http://ww1.prweb.com/prfiles/2013/06/09/11806053/gI_127433_OWS_logo_white_green_beyond_boundaries.png</thumbnail>
-</item>
- 
-<item><title>[COLOR yellow]• Sezione Sport- Rojadirecta[/COLOR]</title><link>ignorme</link><jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</jsonrpc><thumbnail>http://ww1.prweb.com/prfiles/2013/06/09/11806053/gI_127433_OWS_logo_white_green_beyond_boundaries.png</thumbnail>
-</item>
- 
-<item>
-<title>• Liste Sport  [COLOR blue] [/COLOR]</title>
-<link>http://ignorame</link>
-<thumbnail>http://icons.iconarchive.com/icons/yingfengling-fl/i-love-sports/256/soccer-icon.png</thumbnail>
-<fanart>https://images2.alphacoders.com/227/227422.jpg</fanart>
-<externallink>http://supermyspace.xyz/LISTE/SPORTDOCNANO.m3u$$TSDOWNLOADER$$</externallink>
-</item>
- 
-<item>
-<title>[COLOR blue]Nessun altro elemento riscontrato[/COLOR]</title>
-<link>null</link>
-</item>
 
-<item>
-<title>[COLOR yellow] SPORT 365[/COLOR]</title>
-<link>http://ignora.me</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=Sport365.live&amp;url=sss</jsonrpc>
-<thumbnail>http://broadbandtvnews.broadbandtvnews.netdna-cdn.com/wp-content/uploads/2012/09/sport365-logo.jpg</thumbnail>
-</item>
+ 
+<
+ 
+
 
 
