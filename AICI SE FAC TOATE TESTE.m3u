@@ -6,43 +6,11 @@
 </plugin>
 
 <item>
-<title>[B][COLOR red]PELICULAS  [/COLOR][COLOR blue] TERROR [/COLOR][COLOR red]  [/COLOR][/B]</title>
-<link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
-        <link>$doregex[getUrl]</link>
-<fanart>http://i63.tinypic.com/1679p4h.jpg</fanart>
-<thumbnail>http://i63.tinypic.com/1679p4h.jpg</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://www.sport365.live/en/player/5aaf79248edec722779876/14/220/5ab04d7d1dbd8/CharlotteHornets-Philadelphia76ers/768/432</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://www.sport365.live/en/home/action/DownloadFile?location=fi&f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://www.sport365.live/en/home/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://www.sport365.live/en/home/[makelist.param2]</page>
-<referer>http://www.sport365.live/en/player/5aaf79248edec722779876/14/220/5ab04d7d1dbd8/CharlotteHornets-Philadelphia76ers/768/432
- 
-</referer>
-<connection>keep-alive</connection>
-<cookieJar></cookieJar>
-</regex>
-<fanart>http://i63.tinypic.com/1679p4h.jpg</fanart>
-<thumbnail>http://i63.tinypic.com/1679p4h.jpg</thumbnail>
+      <title>TEST </title>
+      <thumbnail></thumbnail>
+      <fanart></fanart>
+      <link>http://ignoreme</link>
+      <externallink>http://kodi.csadria.org/GREENaddon/TVlive/BIH.xml</externallink>
 </item>
  
 
