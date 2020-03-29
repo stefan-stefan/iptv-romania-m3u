@@ -1,37 +1,33 @@
-<dir>
-<title>[COLORgreenyellow]Cryptonite Movie Of The Month[/COLOR]</title>
-<link>http://ajbuilds.uk/cryptonite/mypick.xml</link>
-<thumbnail></thumbnail>
-</dir>
+
  
 <dir>
 <title>[COLORwhite]Live TV[/COLOR]</title>
 <link>http://ajbuilds.uk/cryptonite/tv.xml</link>
-<thumbnail></thumbnail>
+<thumbnail>https://troypoint.com/wp-content/uploads/2020/02/cryptonite-kodi.png</thumbnail>
 </dir>
  
 <dir>
 <title>[COLORgreenyellow]Movies Hub[/COLOR]</title>
 <link>http://ajbuilds.uk/cryptonite/moviesfull.xml</link>
-<thumbnail></thumbnail>
+<thumbnail>https://troypoint.com/wp-content/uploads/2020/02/cryptonite-kodi.png</thumbnail>
 </dir>
  
 <dir>
 <title>[COLORwhite]The Monsters[/COLOR]</title>
 <link>http://ajbuilds.uk/cryptonite/kids.xml</link>
-<thumbnail></thumbnail>
+<thumbnail>https://troypoint.com/wp-content/uploads/2020/02/cryptonite-kodi.png</thumbnail>
 </dir>
  
 <dir>
 <title>[COLORgreenyellow]Sports Lounge[/COLOR]</title>
 <link>http://ajbuilds.uk/cryptonite/footy.xml</link>
-<thumbnail></thumbnail>
+<thumbnail>https://troypoint.com/wp-content/uploads/2020/02/cryptonite-kodi.png</thumbnail>
 </dir>
  
 <dir>
 <title>[COLORwhite]TV Shows[/COLOR]</title>
 <link>http://ajbuilds.uk/cryptonite/tvshows.xml</link>
-<thumbnail></thumbnail>
+<thumbnail>https://troypoint.com/wp-content/uploads/2020/02/cryptonite-kodi.png</thumbnail>
 </dir>
  
 <dir>
@@ -43,11 +39,11 @@
 <dir>
 <title>[COLORwhite]Search[/COLOR]</title>
 <link>http://ajbuilds.uk/cryptonite/search.xml</link>
-<thumbnail></thumbnail>
+<thumbnail>https://troypoint.com/wp-content/uploads/2020/02/cryptonite-kodi.png</thumbnail>
 </dir>
  
 <dir>
 <title>[COLORgreenyellow]Working In Here!!![/COLOR]</title>
 <link>http://ajbuilds.uk/cryptonite/test.xml</link>
-<thumbnail></thumbnail>
+<thumbnail>https://troypoint.com/wp-content/uploads/2020/02/cryptonite-kodi.png</thumbnail>
 </dir>
