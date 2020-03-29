@@ -1,25 +1,53 @@
 <dir>
-    <title>[COLORsnow]TV Tapp[/COLOR]</title>
-    <link>plugin://script.module.can-uktvnow</link>
-    <summary>TV Tapp APK Module</summary>
-</dir>
-<dir>
-    <title>[COLORsnow]World TV[/COLOR]</title>
-    <link>plugin://script.module.can-worldtv</link>
-    <summary></summary>
-</dir>
-<dir>
-    <title>[COLORsnow]Swiftstreamz[/COLOR]</title>
-    <link>plugin://script.module.can-swiftstreamz</link>
-    <summary>Swiftstreamz APK Module</summary>
+<title>[COLORgreenyellow]Cryptonite Movie Of The Month[/COLOR]</title>
+<link>http://ajbuilds.uk/cryptonite/mypick.xml</link>
+<thumbnail></thumbnail>
 </dir>
  
 <dir>
-    <title>[COLORsnow]Livenet TV[/COLOR]</title>
-    <link>plugin://script.module.canlivenet</link>
-    <summary>Livenet TV APK Module</summary>
+<title>[COLORwhite]Live TV[/COLOR]</title>
+<link>http://ajbuilds.uk/cryptonite/tv.xml</link>
+<thumbnail></thumbnail>
 </dir>
-<item>
-    <title>Sports Channels</title>
-    <link>https://pastebin.com/raw/CHJGf3xS</link>
-</item>
+ 
+<dir>
+<title>[COLORgreenyellow]Movies Hub[/COLOR]</title>
+<link>http://ajbuilds.uk/cryptonite/moviesfull.xml</link>
+<thumbnail></thumbnail>
+</dir>
+ 
+<dir>
+<title>[COLORwhite]The Monsters[/COLOR]</title>
+<link>http://ajbuilds.uk/cryptonite/kids.xml</link>
+<thumbnail></thumbnail>
+</dir>
+ 
+<dir>
+<title>[COLORgreenyellow]Sports Lounge[/COLOR]</title>
+<link>http://ajbuilds.uk/cryptonite/footy.xml</link>
+<thumbnail></thumbnail>
+</dir>
+ 
+<dir>
+<title>[COLORwhite]TV Shows[/COLOR]</title>
+<link>http://ajbuilds.uk/cryptonite/tvshows.xml</link>
+<thumbnail></thumbnail>
+</dir>
+ 
+<dir>
+<title>[COLORgreenyellow]Now Music[/COLOR]</title>
+<link>http://ajbuilds.uk/cryptonite/nowmusic.xml</link>
+<thumbnail></thumbnail>
+</dir>
+ 
+<dir>
+<title>[COLORwhite]Search[/COLOR]</title>
+<link>http://ajbuilds.uk/cryptonite/search.xml</link>
+<thumbnail></thumbnail>
+</dir>
+ 
+<dir>
+<title>[COLORgreenyellow]Working In Here!!![/COLOR]</title>
+<link>http://ajbuilds.uk/cryptonite/test.xml</link>
+<thumbnail></thumbnail>
+</dir>
