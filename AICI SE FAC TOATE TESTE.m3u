@@ -4,46 +4,33 @@
 <title>[COLORwhite]Live TV[/COLOR]</title>
 <link>http://ajbuilds.uk/cryptonite/tv.xml</link>
 <thumbnail>https://troypoint.com/wp-content/uploads/2020/02/cryptonite-kodi.png</thumbnail>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxVGjSL5mz2dekz8GhBuUO6x3-O-8v-L8zE3h-ZbOcAy_DgYPw</fanart>
 </dir>
  
 <dir>
 <title>[COLORgreenyellow]Movies Hub[/COLOR]</title>
 <link>http://ajbuilds.uk/cryptonite/moviesfull.xml</link>
 <thumbnail>https://troypoint.com/wp-content/uploads/2020/02/cryptonite-kodi.png</thumbnail>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxVGjSL5mz2dekz8GhBuUO6x3-O-8v-L8zE3h-ZbOcAy_DgYPw</fanart>
 </dir>
  
-<dir>
-<title>[COLORwhite]The Monsters[/COLOR]</title>
-<link>http://ajbuilds.uk/cryptonite/kids.xml</link>
-<thumbnail>https://troypoint.com/wp-content/uploads/2020/02/cryptonite-kodi.png</thumbnail>
-</dir>
+
  
 <dir>
 <title>[COLORgreenyellow]Sports Lounge[/COLOR]</title>
 <link>http://ajbuilds.uk/cryptonite/footy.xml</link>
 <thumbnail>https://troypoint.com/wp-content/uploads/2020/02/cryptonite-kodi.png</thumbnail>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxVGjSL5mz2dekz8GhBuUO6x3-O-8v-L8zE3h-ZbOcAy_DgYPw</fanart>
 </dir>
  
-<dir>
-<title>[COLORwhite]TV Shows[/COLOR]</title>
-<link>http://ajbuilds.uk/cryptonite/tvshows.xml</link>
-<thumbnail>https://troypoint.com/wp-content/uploads/2020/02/cryptonite-kodi.png</thumbnail>
-</dir>
  
 <dir>
 <title>[COLORgreenyellow]Now Music[/COLOR]</title>
 <link>http://ajbuilds.uk/cryptonite/nowmusic.xml</link>
-<thumbnail></thumbnail>
+<thumbnail>https://troypoint.com/wp-content/uploads/2020/02/cryptonite-kodi.png</thumbnail>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxVGjSL5mz2dekz8GhBuUO6x3-O-8v-L8zE3h-ZbOcAy_DgYPw</fanart>
 </dir>
  
-<dir>
-<title>[COLORwhite]Search[/COLOR]</title>
-<link>http://ajbuilds.uk/cryptonite/search.xml</link>
-<thumbnail>https://troypoint.com/wp-content/uploads/2020/02/cryptonite-kodi.png</thumbnail>
-</dir>
+
  
-<dir>
-<title>[COLORgreenyellow]Working In Here!!![/COLOR]</title>
-<link>http://ajbuilds.uk/cryptonite/test.xml</link>
-<thumbnail>https://troypoint.com/wp-content/uploads/2020/02/cryptonite-kodi.png</thumbnail>
-</dir>
+
