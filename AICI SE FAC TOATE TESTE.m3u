@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<item>
 <addons>
 <addon id="plugin.video.acd" version="0.2.13" name="Amazon Cloud Drive" provider-name="ddurdle">
     <requires>
@@ -107,7 +108,7 @@
     </extension>
 </addon>
 
-</addons>
+</item>
  
 
  
