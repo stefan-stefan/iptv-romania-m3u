@@ -5,14 +5,12 @@
     <fanart>https://i.imgur.com/ogbuRxI.jpg</fanart>
 </plugin>
 
-  <dir>
-  <title>[COLOR white][B]SEZONUL - 02 [/B][/COLOR]</title>
-  <thumbnail>https://joyrock.files.wordpress.com/2012/09/game-of-thrones-season-2.png</thumbnail>
-  <fanart>https://joyrock.files.wordpress.com/2012/09/game-of-thrones-season-2.png</fanart>
-  <link></link>
-  <info<info>
-  <genre>Aventura, Drama, Fantasia</genre>
-</dir>
+ <plugin>
+    <title>[COLOR blue][/COLOR] [B][COLOR blue][/COLOR] [COLOR blue]SEZONUL - 02[/COLOR][/B] [COLOR blue][/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/5sABCJrC</link>
+    <thumbnail>https://1.bp.blogspot.com/-moV4FiIG4pk/VK68P6pSJII/AAAAAAAAACA/hObxqmpbL1Y/s280/gameofthrones_20110412171451.png</thumbnail>
+    <fanart>https://i.imgur.com/ogbuRxI.jpg</fanart>
+</plugin>
 
   <plugin>
     <title>[COLOR blue][/COLOR] [B][COLOR blue][/COLOR] [COLOR blue]SEZONUL - 03[/COLOR][/B] [COLOR blue][/COLOR]</title>
