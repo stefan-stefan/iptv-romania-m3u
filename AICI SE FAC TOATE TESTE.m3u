@@ -1,43 +1,16 @@
 <plugin>
-    <title>[COLOR blue][/COLOR] [B][COLOR blue][/COLOR] [COLOR blue]TEST PLUGINURII33 22)[/COLOR][/B] [COLOR blue][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/nhfRaA4u</link>
-    <thumbnail>https://cdn.pixabay.com/photo/2017/08/18/10/26/albania-2654454_1280.png</thumbnail>
-    <fanart>https://cdn.pixabay.com/photo/2017/08/18/10/26/albania-2654454_1280.png</fanart>
+    <title>[COLOR blue][/COLOR] [B][COLOR blue][/COLOR] [COLOR blue]SEZONUL - 05[/COLOR][/B] [COLOR blue][/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/QsRNrkDJ</link>
+    <thumbnail>https://images-na.ssl-images-amazon.com/images/I/61XofZ2DryL._AC_SY445_.jpg</thumbnail>
+    <fanart>https://images-na.ssl-images-amazon.com/images/I/61XofZ2DryL._AC_SY445_.jpg</fanart>
 </plugin>
 
-
 <dir>
-  <title>[COLOR white][B]SEZONUL - 01 [/B][/COLOR]</title>
-  <thumbnail>https://1.bp.blogspot.com/-moV4FiIG4pk/VK68P6pSJII/AAAAAAAAACA/hObxqmpbL1Y/s280/gameofthrones_20110412171451.png</thumbnail>
-  <fanart>https://i.imgur.com/ogbuRxI.jpg</fanart>
-  <link>https://raw.githubusercontent.com/stefan-stefan/iptv-romania-m3u/master/Kings.Landing%20S08E01.m3u</link>
-  <info><info>
-  <genre>Aventura, Drama, Fantasia</genre>
-</dir>
- 
-  <dir>
-  <title>[COLOR white][B]SEZONUL - 02 [/B][/COLOR]</title>
-  <thumbnail>https://joyrock.files.wordpress.com/2012/09/game-of-thrones-season-2.png</thumbnail>
-  <fanart>https://joyrock.files.wordpress.com/2012/09/game-of-thrones-season-2.png</fanart>
-  <link></link>
-  <info<info>
+  <title>[COLOR white][B]SEZONUL - 06 - [/B][/COLOR]</title>
+  <thumbnail>https://bogdanalupoaie.ro/wp-content/uploads/2016/04/Season-6.jpg</thumbnail>
+  <fanart>https://bogdanalupoaie.ro/wp-content/uploads/2016/04/Season-6.jpg</fanart>
+  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1OE40uAzDeUZVvloq5CNJaxPNyfvCGojZ</link>
+  <info>O MELHOR DAS SERIES VOCE ENCONTRA AQUI<info>
   <genre>Aventura, Drama, Fantasia</genre>
 </dir>
 
-  <dir>
-  <title>[COLOR white][B]SEZONUL - 03 [/B][/COLOR]</title>
-  <thumbnail>https://4.bp.blogspot.com/-dlgQtbSVDn8/UL4OUWrlibI/AAAAAAAAJ8c/P6PyUGwK9nQ/s1600/game+of+thrones.png</thumbnail>
-  <fanart>https://4.bp.blogspot.com/-dlgQtbSVDn8/UL4OUWrlibI/AAAAAAAAJ8c/P6PyUGwK9nQ/s1600/game+of+thrones.png</fanart>
-  <link></link>
-  <info><info>
-  <genre>Aventura, Drama, Fantasia</genre>
-</dir>
-
-  <dir>
-  <title>[COLOR white][B]SEZONUL - 04 - [/B][/COLOR]</title>
-  <thumbnail>https://belfastunderground.co.uk/wp-content/uploads/2018/12/Game_of_Thrones_Soundtrack_-_Season_4.png</thumbnail>
-  <fanart>https://belfastunderground.co.uk/wp-content/uploads/2018/12/Game_of_Thrones_Soundtrack_-_Season_4.png</fanart>
-  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=15qsxkUn5OpRk9zkBbKkariqVmAYW4537</link>
-  <info><info>
-  <genre>Aventura, Drama, Fantasia</genre>
-</dir>
