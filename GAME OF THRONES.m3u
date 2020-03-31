@@ -41,14 +41,12 @@
     <fanart>https://bogdanalupoaie.ro/wp-content/uploads/2016/04/Season-6.jpg</fanart>
 </plugin>
 
-  <dir>
-  <title>[COLOR white][B]SEZONUL - 07 - [/B][/COLOR]</title>
-  <thumbnail>https://i.ytimg.com/vi/sQeZRwdvAU4/maxresdefault.jpg</thumbnail>
-  <fanart>https://i.ytimg.com/vi/sQeZRwdvAU4/maxresdefault.jpg</fanart>
-  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=14pJ_nFgaSog3M0X6Zf14Tno2ZDi2zd6M</link>
-  <info>O MELHOR DAS SERIES VOCE ENCONTRA AQUI<info>
-  <genre>Aventura, Drama, Fantasia</genre>
-</dir>
+<plugin>
+    <title>[COLOR blue][/COLOR] [B][COLOR blue][/COLOR] [COLOR blue]SEZONUL - 07 [/COLOR][/B] [COLOR blue][/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/ATtfZzKQ</link>
+    <thumbnail>https://i.ytimg.com/vi/sQeZRwdvAU4/maxresdefault.jpg</thumbnail>
+    <fanart>https://i.ytimg.com/vi/sQeZRwdvAU4/maxresdefault.jpg</fanart>
+</plugin>
 
   <dir>
   <title>[COLOR white][B]SEZONUL - 08 - [/B][/COLOR]</title>
