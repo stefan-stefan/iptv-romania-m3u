@@ -20,14 +20,12 @@
 </plugin>
 
 
-  <dir>
-  <title>[COLOR white][B]SEZONUL - 04 - [/B][/COLOR]</title>
-  <thumbnail>https://belfastunderground.co.uk/wp-content/uploads/2018/12/Game_of_Thrones_Soundtrack_-_Season_4.png</thumbnail>
-  <fanart>https://belfastunderground.co.uk/wp-content/uploads/2018/12/Game_of_Thrones_Soundtrack_-_Season_4.png</fanart>
-  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=15qsxkUn5OpRk9zkBbKkariqVmAYW4537</link>
-  <info><info>
-  <genre>Aventura, Drama, Fantasia</genre>
-</dir>
+  <plugin>
+    <title>[COLOR blue][/COLOR] [B][COLOR blue][/COLOR] [COLOR blue]SEZONUL - 04[/COLOR][/B] [COLOR blue][/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/4JunE8Ei</link>
+    <thumbnail>https://belfastunderground.co.uk/wp-content/uploads/2018/12/Game_of_Thrones_Soundtrack_-_Season_4.png</thumbnail>
+    <fanart>https://belfastunderground.co.uk/wp-content/uploads/2018/12/Game_of_Thrones_Soundtrack_-_Season_4.png</fanart>
+</plugin>
 
   <dir>
   <title>[COLOR white][B]SEZONUL - 05 - [/B][/COLOR]</title>
