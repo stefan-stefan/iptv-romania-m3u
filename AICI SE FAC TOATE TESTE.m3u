@@ -5,27 +5,18 @@
     <fanart>https://cdn.pixabay.com/photo/2017/08/18/10/26/albania-2654454_1280.png</fanart>
 </plugin>
 
-<items>
- 
-<streaminginfo>
-<item>
-<title>[B][COLOR white]EXODUS TV-SHOWS[/COLOR][/B]</title>
-<thumbnail>https://mytruemedia.com/wp-content/uploads/2019/12/Kodi-Exodus-Addon-300x300.jpg</thumbnail>
-<fanart>https://www-itechgyan-com.exactdn.com/wp-content/uploads/2017/12/Exodus-Kodi-Addon.jpg</fanart>
-<link>ignoreme</link>
-<jsonrpc>plugin://plugin.video.exodusredux/?action=tvNavigator</jsonrpc>
-</item>
-</streaminginfo>
- 
-<streaminginfo>
-<item>
-<title>[B][COLOR white]THE CREW TV-SHOWS[/COLOR][/B]</title>
-<thumbnail>https://www.wirelesshack.org/wp-content/uploads/2019/07/How-To-Install-The-Crew-Kodi-Addon.jpg</thumbnail>
-<fanart>https://ia902804.us.archive.org/3/items/AstigPinoy/fanart.jpg</fanart>
-<link>ignoreme</link>
-<jsonrpc>plugin://plugin.video.thecrew/?action=tvNavigator</jsonrpc>
-</item>
-</streaminginfo>
- 
-</items>
-
+    <dir>
+        <info compressed="false">http://YOUR-WEBSITE-HERE/repo-exodus-3.0.2/addons.xml</info>
+        <checksum>http://YOUR-WEBSITE-HERE/repo-exodus-3.0.2/addons.xml.md5</checksum>
+        <datadir zip="true">http://YOUR-WEBSITE-HERE/repo-exodus-3.0.2/zips/</datadir>
+    </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Exodus repository</summary>
+        <description lang="en">Exodus repository</description>
+        <platform>all</platform>
+        <forum>https://www.tvaddons.ag/forums</forum>
+        <website>https://www.tvaddons.ag</website>
+    </extension>
+</addon>
+  </dir>
