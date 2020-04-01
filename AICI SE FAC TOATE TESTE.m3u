@@ -1,21 +1,11 @@
 <plugin>
-    <title>[COLOR blue][/COLOR] [B][COLOR blue][/COLOR] [COLOR blue]SEZONUL - 05[/COLOR][/B] [COLOR blue][/COLOR]</title>
+    <title>[COLOR blue][/COLOR] [B][COLOR blue][/COLOR] [COLOR blue]SEZONUL - 00905[/COLOR][/B] [COLOR blue][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/QsRNrkDJ</link>
     <thumbnail>https://images-na.ssl-images-amazon.com/images/I/61XofZ2DryL._AC_SY445_.jpg</thumbnail>
     <fanart>https://images-na.ssl-images-amazon.com/images/I/61XofZ2DryL._AC_SY445_.jpg</fanart>
 </plugin>
 
-<dir>
-	<title>[COLOR=white]The Stranger[/COLOR]</title>
-	<meta>
-	<imdb>tt0075924</imdb>
-	<content>tv</content><item>
-<title>Episode 1</title>
-<link>https://uptostream.com/61t12z24draj</link>
-<thumbnail>https://i.imgur.com/eLAaKOB.jpg</thumbnail>
-<fanart>http://</fanart>
-<info></info>
-</item>
+
  
 <item>
 <title>Episode 2</title>
