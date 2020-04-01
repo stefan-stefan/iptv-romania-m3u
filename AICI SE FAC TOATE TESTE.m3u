@@ -5,7 +5,12 @@
     <fanart>https://images-na.ssl-images-amazon.com/images/I/61XofZ2DryL._AC_SY445_.jpg</fanart>
 </plugin>
 
-
+<plugin>
+    <title>[COLOR blue][/COLOR] [B][COLOR blue][/COLOR] [COLOR blue]SEZONUL - 00905[/COLOR][/B] [COLOR blue][/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/QsRNrkDJ</link>
+    <thumbnail>https://images-na.ssl-images-amazon.com/images/I/61XofZ2DryL._AC_SY445_.jpg</thumbnail>
+    <fanart>https://images-na.ssl-images-amazon.com/images/I/61XofZ2DryL._AC_SY445_.jpg</fanart>
+</plugin>
  
 <item>
 <title>Episode 2</title>
