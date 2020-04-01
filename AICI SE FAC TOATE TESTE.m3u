@@ -1,15 +1,8 @@
 <plugin>
-    <title>[COLOR blue][/COLOR] [B][COLOR blue][/COLOR] [COLOR blue] LISTA-ACESTR M-SOPCAST[/COLOR][/B] [COLOR blue][/COLOR]</title>
-  
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/Vh41Qxh8</link>
+    <title>[COLOR blue][/COLOR] [B][COLOR blue][/COLOR] [COLOR blue] LISTA-SOPCAST[/COLOR][/B] [COLOR blue][/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/HSVYu</link>
     <thumbnail>https://logos.flamingtext.com/Name-Logos/Stefan-design-amped-name.png</thumbnail>
     <fanart>https://www.androidaba.com/wp-content/uploads/2016/04/acestream-sopcast-by-aba.jpg</fanart>
 </plugin>
 
-<item>    
-<title>[COLOR green][B]ADDON [/COLOR][COLOR yellow] FORMIGAtv[/COLOR][/B]</title>
-<link>http://pastebin.com/raw/xgTbv3tb</link> AsCHThpj
-<jsonrpc>plugin://plugin.video.FORMIGAtv</jsonrpc>
-<thumbnail>https://cld.pt/dl/download/287350e0-99fb-465c-a172-392862cc897e/FORMIGA%20TV%203.jpg</thumbnail>
-<fanart>https://cld.pt/dl/download/287350e0-99fb-465c-a172-392862cc897e/FORMIGA%20TV%203.jpg</fanart>
-</item>
+
