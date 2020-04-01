@@ -5,11 +5,99 @@
     <fanart>https://images-na.ssl-images-amazon.com/images/I/61XofZ2DryL._AC_SY445_.jpg</fanart>
 </plugin>
 
-<item>
-   <title>[B]DIGI 24[/B]</title>
-      <link><sublink>http://www.live-online-tv.com/tv-Romania-tv-online-live.html</sublink>
-	  <sublink>http://www.live-online-tv.com/tv-Romania-tv-online-live.html</sublink>
-	  <sublink>https://mstream.fun/qrp1n4lmxjt4</sublink></link>
-      <thumbnail>https://cosmicbook.news/sites/default/files/vin-diesel-bloodshot-posters-r-rating.jpg</thumbnail>
-      <fanart>https://cosmicbook.news/sites/default/files/vin-diesel-bloodshot-posters-r-rating.jpg</fanart>
-   </item>
+<dir>
+	<title>[COLOR=white]The Stranger[/COLOR]</title>
+	<meta>
+	<imdb>tt0075924</imdb>
+	<content>tv</content>
+	<title>The Stranger</title>
+	<year>2020</year>
+	</meta>
+	<link>http://www.revelationmedia.tk/chains/thestranger.txt</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/cWGGUIAdlvkvEKhtsdioO8XdDyv.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/cTa7af62roZl52Tl66umtwEYkVy.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]The Romanoffs[/COLOR]</title>
+	<meta>
+	<imdb>tt0405106</imdb>
+	<content>tv</content>
+	<title>The Romanoffs</title>
+	<year>2018</year>
+	</meta>
+	<link>http://www.revelationmedia.tk/chains/theromanoffs.txt</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/chZjmnJhKt9nliQy7gvwIPp7QQm.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/nJRu0ARCCbVDiYjVu12FTCsgwgw.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Modern Love[/COLOR]</title>
+	<meta>
+	<imdb>none</imdb>
+	<content>tv</content>
+	<title>Modern Love</title>
+	<year>2019</year>
+	</meta>
+	<link>http://www.revelationmedia.tk/chains/modernlove.txt</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/lb4wOIiwAdPRjn9qJrjlXhLD8qW.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/y8z7uf8i25HXhkdBACLqSmuka7l.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]The Marvelous Mrs. Maisel[/COLOR]</title>
+	<meta>
+	<imdb></imdb>
+	<content>tv</content>
+	<title>The Marvelous Mrs. Maisel</title>
+	<year>2017</year>
+	</meta>
+	<link>http://www.revelationmedia.tk/chains/themarvelousmrsmaisel.txt</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/7qxLUcNim8C8x3Bbe10oo12Qywi.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/hjyZWaxLcweVmD98GYEwTYxhaBL.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Seven Worlds, One Planet[/COLOR]</title>
+	<meta>
+	<imdb></imdb>
+	<content>tv</content>
+	<title>Seven Worlds, One Planet</title>
+	<year>2019</year>
+	</meta>
+	<link>http://www.revelationmedia.tk/chains/sevenworldsoneplanet.txt</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/kzKNMIlqyznC1jjht8mI2oEtDcp.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/5SeRUwZTHuiOnLfcxXqfew1P0Ug.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Night on Earth[/COLOR]</title>
+	<meta>
+	<imdb>none</imdb>
+	<content>tv</content>
+	<title>Night on Earth</title>
+	<year>2020</year>
+	</meta>
+	<link>http://www.revelationmedia.tk/chains/nightonearth.txt</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/dKrX0hF1CqLWlCXnksd7jvrb7tw.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/yKzC1wD35HFU6vAgBh6JLYhQIxO.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Blue Planet II[/COLOR]</title>
+	<meta>
+	<imdb>tt1808285</imdb>
+	<content>tv</content>
+	<title>Blue Planet II</title>
+	<year>2017</year>
+	</meta>
+	<link>http://www.revelationmedia.tk/chains/blueplanet2.txt</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/j1NsoYYDYHnPkRr7Enqr8tlexgO.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/c7t4tidzOw8E88puHlGsqizViOw.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]The Morning Show[/COLOR]</title>
+	<meta>
+	<imdb>none</imdb>
+	<content>tv</content>
+	<title>The Morning Show</title>
+	<year>2019</year>
+	</meta>
+	<link>http://www.revelationmedia.tk/chains/themorningshow.txt</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/qnKGIa6MsLIhze1znD0HLriqmxv.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/ky11JNxFD017wGupWl7d9TdE2J9.jpg</fanart>
+</dir>>
