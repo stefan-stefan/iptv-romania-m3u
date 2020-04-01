@@ -5,32 +5,4 @@
     <fanart>https://www.androidaba.com/wp-content/uploads/2016/04/acestream-sopcast-by-aba.jpg</fanart>
 </plugin>
 
-<dir>
-    <title>50s Movies</title>
-    <imdb>https://www.imdb.com/search/title?title_type=feature&release_date=1950-01-01,1959-12-31&user_rating=5.0,10.0</imdb>
-</dir>
- 
-<dir>
-  <title>Trending Shows</title>
-  <trakt>https://api.trakt.tv/shows/trending</trakt>
-</dir>
- 
-<dir>
-  <title>Popular Shows</title>
-  <trakt>https://api.trakt.tv/shows/popular</trakt>
-</dir>
- 
-<dir>
-  <title>IMDB: Top Rated TV Shows</title>
-  <trakt>https://api.trakt.tv/users/justin/lists/imdb-top-rated-tv-shows/items</trakt>
-</dir>
- 
-<dir>
-  <title>Airing Today</title>
-  <tmdb>tv/today</tmdb>
-</dir>
- 
-<dir>
-    <title>Networks</title>
-    <link>https://pastebin.com/raw/P5p5PyZS</link>
-</dir>
+
