@@ -5,38 +5,15 @@
     <fanart>https://image.tmdb.org/t/p/w1280/lUxxKhut8IeMYhOiRhDX1vTB6XG.jpg</fanart>
 </dir>
 <dir>
-    <title>[COLOR=white]Series 2[/COLOR]</title>
-    <meta>
-    <imdb>tt2442560</imdb>
-    <content>season</content>
-    <season>2</season>
-    <year>2014</year>
-    </meta>
-    <link>https://pastebin.com/raw/Z9YSk4uM</link>
-    <thumbnail>https://image.tmdb.org/t/p/w1280/8vp08uElPn5S2jHSVuAjrytJiuH.jpg</thumbnail>
+    <title>[COLOR=white]Series 1[/COLOR]</title>
+    <link>https://pastebin.com/raw/fw1aCLb6</link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/rIQdhnIybIleLgTxysymCSRQtlv.jpg</thumbnail>
     <fanart>https://image.tmdb.org/t/p/w1280/lUxxKhut8IeMYhOiRhDX1vTB6XG.jpg</fanart>
 </dir>
-<dir>
-    <title>[COLOR=white]Series 3[/COLOR]</title>
-    <meta>
-    <imdb>tt2442560</imdb>
-    <content>season</content>
-    <season>3</season>
-    <year>2016</year>
-    </meta>
-    <link>https://pastebin.com/raw/9cPFsKs9</link>
-    <thumbnail>https://image.tmdb.org/t/p/w1280/1AjIcMZnRSuaAMn6Ajsv8mZfUu.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/w1280/lUxxKhut8IeMYhOiRhDX1vTB6XG.jpg</fanart>
-</dir>
-<dir>
-    <title>[COLOR=white]Series 4[/COLOR]</title>
-    <meta>
-    <imdb>tt2442560</imdb>
-    <content>season</content>
-    <season>4</season>
-    <year>2017</year>
-    </meta>
-    <link>https://pastebin.com/raw/z3ekj5Ke</link>
-    <thumbnail>https://image.tmdb.org/t/p/w1280/lMEEl4qh4yaDBsqXrb6RGLS9NOa.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/w1280/lUxxKhut8IeMYhOiRhDX1vTB6XG.jpg</fanart>
-</dir>
+
+<plugin>
+    <title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR blue]LISTA TV (Stefan) [/COLOR][/B]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/stefan-stefan/filme-online/master/http.m3u</link>
+    <thumbnail>https://logos.flamingtext.com/Name-Logos/Stefan-design-amped-name.png</thumbnail>
+    <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
+</plugin>
