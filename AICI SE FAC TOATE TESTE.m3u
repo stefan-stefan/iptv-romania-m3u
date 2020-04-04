@@ -1,170 +1,48 @@
-
-
- 
 <dir>
-<title>[COLOR red][B]¤[/COLOR][/B][COLOR blue][B]>[/COLOR][/B][COLOR gold][B]THE MAD TITAN[/COLOR][/B][COLOR blue][B]<[/COLOR][/B][COLOR red][B]¤[/COLOR][/B]</title>
-<link>http://magnetic.website/Mad%20Titan/main.xml</link>
-<thumbnail>https://i.imgur.com/MUBJpmR.jpg</thumbnail>
-<fanart></fanart>
-</dir>
-
-<dir>
-<title>[COLOR red][B]¤[/COLOR][/B][COLOR blue][B]>[/COLOR][/B][COLOR gold][B]LUXRAY PRIME[/COLOR][/B][COLOR blue][B]<[/COLOR][/B][COLOR red][B]¤[/COLOR][/B]</title>
-<link>https://pastebin.com/raw/9R1iA1nh</link>
-<thumbnail>https://i.imgur.com/vn52Jsp.png</thumbnail>
-<fanart>https://i.imgur.com/x3wlMh7.jpg</fanart>
-</dir>
- 
-<dir>
-<title>[COLOR red][B]¤[/COLOR][/B][COLOR blue][B]>[/COLOR][/B][COLOR gold][B]ULTRA INSTINCT[/COLOR][/B][COLOR blue][B]<[/COLOR][/B][COLOR red][B]¤[/COLOR][/B]</title>
-<link>https://pastebin.com/raw/n6gNmRt6</link>
-<thumbnail>https://i.imgur.com/GxXD3Vc.png</thumbnail>
-<fanart>https://i.imgur.com/x3wlMh7.jpg</fanart>
-</dir>
- 
-<dir>
-<title>[COLOR red][B]¤[/COLOR][/B][COLOR blue][B]>[/COLOR][/B][COLOR gold][B]VILE[/COLOR][/B][COLOR blue][B]<[/COLOR][/B][COLOR red][B]¤[/COLOR][/B]</title>
-<link>https://pastebin.com/raw/C4S5G6YF</link>
-<thumbnail>https://i.imgur.com/vcwHcZh.png</thumbnail>
-<fanart>https://i.imgur.com/x3wlMh7.jpg</fanart>
-</dir>
- 
-<dir>
-<title>[COLOR red][B]¤[/COLOR][/B][COLOR blue][B]>[/COLOR][/B][COLOR gold][B]AREA-51[/COLOR][/B][COLOR blue][B]<[/COLOR][/B][COLOR red][B]¤[/COLOR][/B]</title>
-<link>https://pastebin.com/raw/72kkfdhK</link>
-<thumbnail>https://i.imgur.com/QuYQBOo.jpg</thumbnail>
-<fanart>https://i.imgur.com/x3wlMh7.jpg</fanart>
-</dir>
- 
-<dir>
-<title>[COLOR red][B]¤[/COLOR][/B][COLOR blue][B]>[/COLOR][/B][COLOR gold][B]DOCUMENTARY EMPIRE[/COLOR][/B][COLOR blue][B]<[/COLOR][/B][COLOR red][B]¤[/COLOR][/B]</title>
-<link>https://pastebin.com/raw/Ax2Qw0PT</link>
-<thumbnail>https://i.imgur.com/Xg9Lmo9.png</thumbnail>
-<fanart>https://i.imgur.com/x3wlMh7.jpg</fanart>
-</dir>
- 
-<dir>
-<title>[COLOR red][B]¤[/COLOR][/B][COLOR blue][B]>[/COLOR][/B][COLOR gold][B]ELECTRON[/COLOR][/B][COLOR blue][B]<[/COLOR][/B][COLOR red][B]¤[/COLOR][/B]</title>
-<link>https://pastebin.com/raw/YFQJ6w1s</link>
-<thumbnail>https://i.imgur.com/ZmEVLCR.png</thumbnail>
-<fanart>https://i.imgur.com/x3wlMh7.jpg</fanart>
-</dir>
- 
-<dir>
-<title>[COLOR red][B]¤[/COLOR][/B][COLOR blue][B]>[/COLOR][/B][COLOR gold][B]SELF HELP[/COLOR][/B][COLOR blue][B]<[/COLOR][/B][COLOR red][B]¤[/COLOR][/B]</title>
-<link>https://pastebin.com/raw/bXFfyJBg</link>
-<thumbnail>https://i.imgur.com/iCSWav6.png</thumbnail>
-<fanart>https://i.imgur.com/x3wlMh7.jpg</fanart>
-</dir>
- 
-<dir>
-<title>[COLOR red][B]¤[/COLOR][/B][COLOR blue][B]>[/COLOR][/B][COLOR gold][B]COME AT ME BRO[/COLOR][/B][COLOR blue][B]<[/COLOR][/B][COLOR red][B]¤[/COLOR][/B]</title>
-<link>https://pastebin.com/raw/66uEUA8F</link>
-<thumbnail>https://i.imgur.com/51PRDae.png</thumbnail>
-<fanart>https://i.imgur.com/x3wlMh7.jpg</fanart>
-</dir>
- 
-<dir>
-<title>[COLOR red][B]¤[/COLOR][/B][COLOR blue][B]>[/COLOR][/B][COLOR gold][B]LUXRAY VIDEO[/COLOR][/B][COLOR blue][B]<[/COLOR][/B][COLOR red][B]¤[/COLOR][/B]</title>
-<link>https://pastebin.com/raw/BEKqahRr</link>
-<thumbnail>https://i.imgur.com/QEOfB4W.png</thumbnail>
-<fanart>https://i.imgur.com/x3wlMh7.jpg</fanart>
+    <title>[COLOR=white]Series 1[/COLOR]</title>
+    <meta>
+    <imdb>tt2442560</imdb>
+    <content>season</content>
+    <season>1</season>
+    <year>2013</year>
+    </meta>
+    <link>https://pastebin.com/raw/fw1aCLb6</link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/rIQdhnIybIleLgTxysymCSRQtlv.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/lUxxKhut8IeMYhOiRhDX1vTB6XG.jpg</fanart>
 </dir>
 <dir>
-<title>[COLOR red][B]¤[/COLOR][/B][COLOR blue][B]>[/COLOR][/B][COLOR gold][B]WELCOME TO LUXRAY PRIME![/COLOR][/B][COLOR blue][B]<[/COLOR][/B][COLOR red][B]¤[/COLOR][/B]</title>
-<link></link>
-<thumbnail>https://i.imgur.com/vn52Jsp.png</thumbnail>
-<fanart>https://i.imgur.com/x3wlMh7.jpg</fanart>
+    <title>[COLOR=white]Series 2[/COLOR]</title>
+    <meta>
+    <imdb>tt2442560</imdb>
+    <content>season</content>
+    <season>2</season>
+    <year>2014</year>
+    </meta>
+    <link>https://pastebin.com/raw/Z9YSk4uM</link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/8vp08uElPn5S2jHSVuAjrytJiuH.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/lUxxKhut8IeMYhOiRhDX1vTB6XG.jpg</fanart>
 </dir>
- 
 <dir>
-<title>[COLOR red][B]¤[/COLOR][/B][COLOR gold][B]>[/COLOR][/B][COLOR aqua][B]TWITTER:[/COLOR][/B] [COLOR aqua][B]@TJSMITHLUXRAY[/COLOR][/B][COLOR gold][B]<[/COLOR][/B][COLOR red][B]¤[/COLOR][/B]</title>
-<link></link>
-<thumbnail>https://i.imgur.com/vn52Jsp.png</thumbnail>
-<fanart>https://i.imgur.com/x3wlMh7.jpg</fanart>
+    <title>[COLOR=white]Series 3[/COLOR]</title>
+    <meta>
+    <imdb>tt2442560</imdb>
+    <content>season</content>
+    <season>3</season>
+    <year>2016</year>
+    </meta>
+    <link>https://pastebin.com/raw/9cPFsKs9</link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/1AjIcMZnRSuaAMn6Ajsv8mZfUu.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/lUxxKhut8IeMYhOiRhDX1vTB6XG.jpg</fanart>
 </dir>
- 
 <dir>
-    <title>[COLOR red][B]¤[/COLOR][/B][COLOR blue][B]>[/COLOR][/B][COLOR gold][B]AUTHORIZE REAL DEBRID[/COLOR][/B][COLOR blue][B]<[/COLOR][/B][COLOR red][B]¤[/COLOR][/B]</title>
-    <link>https://pastebin.com/raw/JN7UtTfN</link>
- <thumbnail>https://i.imgur.com/vn52Jsp.png</thumbnail>
-    <fanart>https://i.imgur.com/x3wlMh7.jpg</fanart>
-</dir>
- 
-<dir>
-<title>[COLOR aqua]------------------[/COLOR][COLOR gold]-----------------[/COLOR]</title>
-<link></link>
-<thumbnail>https://i.imgur.com/vn52Jsp.png</thumbnail>
-<fanart>https://i.imgur.com/x3wlMh7.jpg</fanart>
-</dir>
- 
-<dir>
-<title>[COLOR red][B]¤[/COLOR][/B][COLOR gold][B]>[/COLOR][/B][COLOR gold][B]ALL OF MY ADDONS[/COLOR][/B][COLOR gold][B]<[/COLOR][/B][COLOR red][B]¤[/COLOR][/B]</title>
-<link>https://pastebin.com/raw/kExci23Z</link>
-<thumbnail>https://i.imgur.com/vn52Jsp.png</thumbnail>
-<fanart>https://i.imgur.com/x3wlMh7.jpg</fanart>
-</dir>
- 
-<dir>
-<title>[COLOR red][B]¤[/COLOR][/B][COLOR gold][B]>[/COLOR][/B][COLOR gold][B]LINKED FRIENDS ADDONS[/COLOR][/B][COLOR gold][B]<[/COLOR][/B][COLOR red][B]¤[/COLOR][/B]</title>
-<link>https://pastebin.com/raw/P3LxwbZk</link>
-<thumbnail>https://i.imgur.com/vn52Jsp.png</thumbnail>
-<fanart>https://i.imgur.com/x3wlMh7.jpg</fanart>
-</dir>
- 
-<dir>
-<title>[COLOR aqua]------------------[/COLOR][COLOR gold]-----------------[/COLOR]</title>
-<link></link>
-<thumbnail>https://i.imgur.com/vn52Jsp.png</thumbnail>
-<fanart>https://i.imgur.com/x3wlMh7.jpg</fanart>
-</dir>
- 
-<dir>
-<title>[COLOR red][B]¤[/COLOR][/B][COLOR gold][B]>[/COLOR][/B][COLOR aqua][B]PRIME MOVIES[/COLOR][/B][COLOR gold][B]<[/COLOR][/B][COLOR red][B]¤[/COLOR][/B]</title>
-<link>https://pastebin.com/raw/6Hf4MyG5</link>
-<thumbnail>https://i.imgur.com/vn52Jsp.png</thumbnail>
-<fanart>https://i.imgur.com/x3wlMh7.jpg</fanart>
-</dir>
- 
-<dir>
-<title>[COLOR red][B]¤[/COLOR][/B][COLOR gold][B]>[/COLOR][/B][COLOR aqua][B]PRIME TV SHOWS[/COLOR][/B][COLOR gold][B]<[/COLOR][/B][COLOR red][B]¤[/COLOR][/B]</title>
-<link>https://pastebin.com/raw/SKCU3hYi</link>
-<thumbnail>https://i.imgur.com/vn52Jsp.png</thumbnail>
-<fanart>https://i.imgur.com/x3wlMh7.jpg</fanart>
-</dir>
- 
-<dir>
-<title>[COLOR red][B]¤[/COLOR][/B][COLOR gold][B]>[/COLOR][/B][COLOR aqua][B]PRIME ANIMATED[/COLOR][/B][COLOR gold][B]<[/COLOR][/B][COLOR red][B]¤[/COLOR][/B]</title>
-<link>https://pastebin.com/raw/vPE1udCX</link>
-<thumbnail>https://i.imgur.com/vn52Jsp.png</thumbnail>
-<fanart>https://i.imgur.com/x3wlMh7.jpg</fanart>
-</dir>
- 
-<dir>
-<title>[COLOR red][B]¤[/COLOR][/B][COLOR gold][B]>[/COLOR][/B][COLOR aqua][B]PRIME DOCUMENTARIES[/COLOR][/B][COLOR gold][B]<[/COLOR][/B][COLOR red][B]¤[/COLOR][/B]</title>
-<link>https://pastebin.com/raw/Sd4fy3fh</link>
-<thumbnail>https://i.imgur.com/vn52Jsp.png</thumbnail>
-<fanart>https://i.imgur.com/x3wlMh7.jpg</fanart>
-</dir>
- 
-<dir>
-<title>[COLOR red][B]¤[/COLOR][/B][COLOR gold][B]>[/COLOR][/B][COLOR aqua][B]PRIME LIVE TV[/COLOR][/B][COLOR gold][B]<[/COLOR][/B][COLOR red][B]¤[/COLOR][/B]</title>
-<link>https://pastebin.com/raw/ESmxiiC0</link>
-<thumbnail>https://i.imgur.com/vn52Jsp.png</thumbnail>
-<fanart>https://i.imgur.com/x3wlMh7.jpg</fanart>
-</dir>
- 
-<dir>
-  <title>[COLOR red][B]¤[/COLOR][/B][COLOR gold][B]>[/COLOR][/B][COLOR aqua][B]PRIME 24/7[/COLOR][/B][COLOR gold][B]<[/COLOR][/B][COLOR red][B]¤[/COLOR][/B]</title>
-  <arconaitv>shows</arconaitv>
-  <thumbnail>https://i.imgur.com/vn52Jsp.png</thumbnail>
-  <fanart>https://i.imgur.com/x3wlMh7.jpg</fanart>
-  <summary>Live Tv</summary>
-</dir>
- 
-<dir>
-<title>[COLOR red][B]¤[/COLOR][/B][COLOR gold][B]>[/COLOR][/B][COLOR aqua][B]PRIME ADULT XXX[/COLOR][/B][COLOR gold][B]<[/COLOR][/B][COLOR red][B]¤[/COLOR][/B]</title>
-<link>https://pastebin.com/raw/udf8RHa0</link>
-<thumbnail>https://i.imgur.com/vn52Jsp.png</thumbnail>
-<fanart>https://i.imgur.com/x3wlMh7.jpg</fanart>
+    <title>[COLOR=white]Series 4[/COLOR]</title>
+    <meta>
+    <imdb>tt2442560</imdb>
+    <content>season</content>
+    <season>4</season>
+    <year>2017</year>
+    </meta>
+    <link>https://pastebin.com/raw/z3ekj5Ke</link>
+    <thumbnail>https://image.tmdb.org/t/p/w1280/lMEEl4qh4yaDBsqXrb6RGLS9NOa.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/lUxxKhut8IeMYhOiRhDX1vTB6XG.jpg</fanart>
 </dir>
