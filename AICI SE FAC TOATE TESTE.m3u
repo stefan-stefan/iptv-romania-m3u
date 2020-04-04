@@ -1,6 +1,6 @@
 <plugin>
     <title>[COLOR blue][/COLOR] [B][COLOR blue][/COLOR] [COLOR blue] Hayat iptv[/COLOR][/B] [COLOR blue][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/hayatiptv/iptv/master/channels/BDNLTR.m3u</link>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://github.com/nosleep2/awr/blob/2d3bde6a22c7313f73e7be292e167bf79044b731/addons.xml</link>
     <thumbnail>https://w7.pngwing.com/pngs/335/309/png-transparent-hayat-plus-hayat-tv-hayat-music-television-channel-others-miscellaneous-television-text.png</thumbnail>
     <fanart>https://w7.pngwing.com/pngs/335/309/png-transparent-hayat-plus-hayat-tv-hayat-music-television-channel-others-miscellaneous-television-text.png</fanart>
 </plugin>
