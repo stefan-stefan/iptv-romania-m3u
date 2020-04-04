@@ -1,8 +1,8 @@
 <plugin>
-    <title>[COLOR blue][/COLOR] [B][COLOR blue][/COLOR] [COLOR blue] LISTA-SOPCAST[/COLOR][/B] [COLOR blue][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/HSVYu</link>
-    <thumbnail>https://logos.flamingtext.com/Name-Logos/Stefan-design-amped-name.png</thumbnail>
-    <fanart>https://www.androidaba.com/wp-content/uploads/2016/04/acestream-sopcast-by-aba.jpg</fanart>
+    <title>[COLOR blue][/COLOR] [B][COLOR blue][/COLOR] [COLOR blue] Hayat iptv[/COLOR][/B] [COLOR blue][/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/hayatiptv/iptv/master/channels/BDNLTR.m3u</link>
+    <thumbnail>https://w7.pngwing.com/pngs/335/309/png-transparent-hayat-plus-hayat-tv-hayat-music-television-channel-others-miscellaneous-television-text.png</thumbnail>
+    <fanart>https://w7.pngwing.com/pngs/335/309/png-transparent-hayat-plus-hayat-tv-hayat-music-television-channel-others-miscellaneous-television-text.png</fanart>
 </plugin>
 
 <item>
