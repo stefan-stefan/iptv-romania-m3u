@@ -1,8 +1,8 @@
 <plugin>
-    <title>[COLOR blue][/COLOR] [B][COLOR blue][/COLOR] [COLOR blue] SPORT WORLD IPTV[/COLOR][/B] [COLOR blue][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/categories/sport.m3u</link>
-    <thumbnail>https://imgs4.fontbrain.com/imgs/b2/f0/3f387ab5e9e8146f6fac52cfa22b/pt-720x360-5f5562.png</thumbnail>
-    <fanart>https://img.favpng.com/18/25/12/sports-betting-rugby-football-png-favpng-WjbndiPqsrHtKUim139kfXYZQ.jpg</fanart>
+    <title>[COLOR blue][/COLOR] [B][COLOR blue][/COLOR] [COLOR blue] TV MAXE TEST[/COLOR][/B] [COLOR blue][/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=http://tv-maxe.org/subscriptions/International</link>
+    <thumbnail>https://4.bp.blogspot.com/-8v7nD-S1YTU/U3o2Zvdm58I/AAAAAAAADBQ/kX12k0Z0ylI/s1600/tvmaxe.png</thumbnail>
+    <fanart>https://2.bp.blogspot.com/-ld8ZpAqt4OM/WdET6kd8NKI/AAAAAAAAEZA/FtvDR7dLkwIRuHhLe5P19kewpuiKaYJ1gCLcBGAs/w1200-h630-p-k-no-nu/tv_maxe-600x0.jpeg</fanart>
 </plugin>
 
 <item>
