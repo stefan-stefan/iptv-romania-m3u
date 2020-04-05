@@ -5,15 +5,15 @@
     <fanart>https://logos.flamingtext.com/Name-Logos/Stefan-design-amped-name.png</fanart>
 </plugin>
 
-<plugin>
+<dir>
     <title>[COLOR deeppink][/COLOR] [B][COLOR deeppink][/COLOR] [COLOR deeppink]>>LISTA-TESTE 2[/COLOR][/B] [COLOR blue][/COLOR]</title>
     <link>https://raw.githubusercontent.com/OpenESI/oe-alliance-plugins/6593e135554de05c908c2fcbd54c11c7a0af7deb/StreamTV/src/stream.xml</link>
     <thumbnail>https://logos.flamingtext.com/Name-Logos/Stefan-design-amped-name.png</thumbnail>
     <fanart>https://logos.flamingtext.com/Name-Logos/Stefan-design-amped-name.png</fanart>
-</plugin>
+</dir>
 <dir>
     <name>[COLOR orchid]Â¤ [/COLOR] [B][COLOR white]test 3[/COLOR][/B] [COLOR orchid] Â¤[/COLOR]</name>
-    <link>https://bitbucket.org/team-crew/xmls/raw/master/kids/kids_movies/main.xml</link>
+    <link>https://raw.githubusercontent.com/kodi-community-addons/script.module.metadatautils/master/addon.xml</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
 </dir>
