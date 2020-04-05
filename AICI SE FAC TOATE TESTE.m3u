@@ -1,66 +1,64 @@
-
-<dir>
- <title>Greetings Professor Falken</title>
- <link>message(https://pastebin.com/raw/BiYQu4FZ)</link>
- <content></content>
-</dir>
+<item>
+            <title>[COLOR limegreen]Don't forget to folow me on twitter @tantrumdev ![/COLOR]</title>
+            <heading></heading>
+        </item>
  
-<dir>
-    <title>Documentaries</title>
-    <link>https://pastebin.com/raw/R6NQh0Kt</link>
-<thumbnail>https://i.imgur.com/wh9ULVx.png</thumbnail>
-<fanart>https://i.imgur.com/5lGY4Rj.jpg</fanart>
-    <content></content>
-</dir>
+        <item>
+            <title>JEN: Customization</title>
+            <mysettings>0/0</mysettings>
+            <info>Open the Settings for the addon on the Customization tab</info>
+        </item>
  
+        <item>
+            <title>Pair With Sites</title>              ### Gives option to pair device with any of the pairing sites in the PAIR_LIST on line 156 below ###
+            <pairwith>pairlist</pairwith>
+        </item>
  
-  <dir>
-    <title>Movies</title>
-    <link>https://pastebin.com/raw/SgaepWRz</link>
-<thumbnail>https://i.imgur.com/3IOGU1o.png</thumbnail>
-<fanart>https://i.imgur.com/5lGY4Rj.jpg</fanart>
-    <summary>Movies</summary>
-  </dir>
+        <item>
+            <title>Pair Openload</title>                ### Opens Openload site to pair device with ###
+            <pairwith>openload</pairwith>               ### To paith with a site other than "openload", use any of the sites listed in the PAIR_LIST on line 156 below
+        </item>
  
-  <dir>
-    <title>TV Shows</title>
-    <link>https://pastebin.com/raw/q7vVJTcG</link>
-<thumbnail>https://i.imgur.com/7WCGkj1.png</thumbnail>
-<fanart>https://i.imgur.com/5lGY4Rj.jpg</fanart>
-    <summary>TV Shows</summary>
-  </dir>
+        <item>
+            <title>Authorize Debrid</title>
+            <authwith>authlist</authwith>               ### Gives option to authorize ResolveURL with either AllDebrid or RealDebrid service ###
+        </item>
  
-  <dir>
-    <title>Trakt</title>
-    <link>file://trakt.xml</link>
-  <thumbnail>https://i.imgur.com/rYRWPBb.png</thumbnail>
-    <summary>Trakt</summary>
-  </dir>
+        <item>
+            <title>Authorize RealDebrid</title>
+            <authwith>realdebrid</authwith>             ### Displays code to authorize ResolveURL with RealDebrid, then displays the RealDebrid site to enter the code in ###
+        </item>
  
-<dir>
-    <title>Actors / Actresses</title>
-    <link>https://pastebin.com/raw/KsuqmMPy</link>
-<thumbnail>https://i.imgur.com/94QS1f4.png</thumbnail>
-    <summary>Actors</summary>
-</dir>
+        <item>
+            <title>Authorize AllDebrid</title>
+            <authwith>alldebrid</authwith>              ### Displays code to authorize ResolveURL with AllDebrid, then displays the AllDebrid site to enter the code in ###
+        </item>
  
-<dir>
-    <title>Search</title>
-    <link>https://pastebin.com/raw/FgG2QtTB</link>
-  <thumbnail>https://i.imgur.com/ncKek5d.png</thumbnail>
-    <summary>Search</summary>
-</dir>
+        <item>
+            <title>Password Protected Local File</title>
+            <passreq>VGhpc0lzVGhlUGFzc3dvcmR8ZmlsZTovL3N1Ym1lbnUueG1s</passreq>
+        </item>
  
+        <item>
+            <title>Password Protected Remote File</title>
+            <passreq>VGhpc0lzVGhlUGFzc3dvcmR8aHR0cDovL3d3dy5leGFtcGxlLmNvbS9zdWJtZW51LnhtbA==</passreq>
+        </item>
  
-  <plugin>
-    <title>Settings</title>
-    <link>plugin://plugin.video.joshua/?action=openSettings</link>
-   <thumbnail>https://i.imgur.com/MDlzNIY.png</thumbnail>
-    <summary>Settings</summary>
-  </plugin>
+        <item>
+            <title>Dune (1984)</title>
+            <trailer>plugin://plugin.video.youtube/play/?video_id=ChA0qNHV1D4</trailer>
+            <info>Provides the Trailer context link for this movie when Metadata is DISABLED in your addon.</info>
+        </item>
  
-    <plugin>
-    <title>Clear Cache</title>
-    <link>plugin://plugin.video.joshua/?mode=clearCache</link>
-    <thumbnail>https://i.imgur.com/Z0F9ibS.png</thumbnail>
-  </plugin>
+        <item>
+            <title>JEN: General</title>
+            <mysettings>1/0</mysettings>
+            <info>Open the Settings for the addon on the General tab</info>
+        </item>
+ 
+        <item>
+            <title>Custom Mode</title>
+            <mode>Whatever</mode>
+            <modeurl>query=Iwant</modeurl>
+            <info>Sets a specific Mode for the menu item, to utilize Jen modes not normally accessible. Setting modeurl passes a custom built url= variable to go with it</info>
+        </item>
