@@ -5,11 +5,11 @@
     <fanart>https://logos.flamingtext.com/Name-Logos/Stefan-design-amped-name.png</fanart>
 </plugin>
 
-<dir>
-    <title>[COLOR deeppink][/COLOR] [B][COLOR deeppink][/COLOR] [COLOR deeppink]>>LISTA-TESTE 2[/COLOR][/B] [COLOR blue][/COLOR]</title>
-    <link>https://raw.githubusercontent.com/OpenESI/oe-alliance-plugins/6593e135554de05c908c2fcbd54c11c7a0af7deb/StreamTV/src/stream.xml</link>
+<plugin>
+    <title>[COLOR deeppink][/COLOR] [B][COLOR deeppink][/COLOR] [COLOR deeppink]>>LISTA-TESTE antena 1 sop[/COLOR][/B] [COLOR blue][/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=sop://185.122.59.8:3912/264961</link>
     <thumbnail>https://logos.flamingtext.com/Name-Logos/Stefan-design-amped-name.png</thumbnail>
     <fanart>https://logos.flamingtext.com/Name-Logos/Stefan-design-amped-name.png</fanart>
-</dir>
+</plugin>
 
 
