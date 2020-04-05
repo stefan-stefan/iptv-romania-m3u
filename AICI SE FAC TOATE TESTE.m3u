@@ -1,64 +1,186 @@
-<item>
-            <title>[COLOR limegreen]Don't forget to folow me on twitter @tantrumdev ![/COLOR]</title>
-            <heading></heading>
-        </item>
+<dir>
+      <title>My Trakt Movie Collection (Authorize)</title>
+      <trakt>https://api.trakt.tv/sync/collection/movies</trakt>
+    </dir>
  
-        <item>
-            <title>JEN: Customization</title>
-            <mysettings>0/0</mysettings>
-            <info>Open the Settings for the addon on the Customization tab</info>
-        </item>
+<dir>
+      <title>My Trakt Movie Dwayne </title>
+      <trakt>https://trakt.tv/users/djwayne1985/lists/my-movie-collection</trakt>
+    </dir>
+   
+    ** Returns The Trakt Trending Movies List
+    <dir>
+      <title>Trakt Trending Movies</title>
+      <trakt>https://api.trakt.tv/movies/trending?limit=25&page=1</trakt>
+    </dir>
+   
+    ** Returns The Trakt Most Popular Movies List
+    <dir>
+      <title>Trakt Popular Movies</title>
+      <trakt>https://api.trakt.tv/movies/popular?limit=25&page=1</trakt>
+    </dir>
+   
+    ** Returns The Trakt Box Office Top 10 Movies List
+    <dir>
+      <title>Trakt Box Office Top 10 Movies</title>
+      <trakt>https://api.trakt.tv/movies/boxoffice</trakt>
+    </dir>
+   
+    ** Returns The Trakt Most Watched Movies (Last Week) List
+    <dir>
+      <title>Trakt Most Watched Movies (Last Week)</title>
+      <trakt>https://api.trakt.tv/movies/watched/weekly?limit=25&page=1</trakt>
+    </dir>
+   
+    ** Returns The Trakt Most Collected Movies (Last Week) List
+    <dir>
+      <title>Trakt Most Collected Last Week</title>
+      <trakt>https://api.trakt.tv/movies/collected/weekly?limit=25&page=1</trakt>
+    </dir>
+   
+    ** Returns The Trakt Most Anticipated Movies List
+    <dir>
+      <title>Trakt Most Anticipated</title>
+      <trakt>https://api.trakt.tv/movies/anticipated?limit=25&page=1</trakt>
+    </dir>
+   
+    ** Returns A List Of Trakt Movies By Actor
+    <dir>
+      <title>Trakt: Bryan Cranston Movies</title>
+      <trakt>https://api.trakt.tv/people/bryan-cranston/movies</trakt>        
+    </dir>
+   
+    ** Returns A List Of Trakt Movies By Actress  
+    <dir>
+      <title>Angelina Jolie</title>
+      <trakt>https://api.trakt.tv/people/Angelina-Jolie/movies</trakt>
+    </dir>
  
-        <item>
-            <title>Pair With Sites</title>              ### Gives option to pair device with any of the pairing sites in the PAIR_LIST on line 156 below ###
-            <pairwith>pairlist</pairwith>
-        </item>
+   
+    ### TV Shows ###
  
-        <item>
-            <title>Pair Openload</title>                ### Opens Openload site to pair device with ###
-            <pairwith>openload</pairwith>               ### To paith with a site other than "openload", use any of the sites listed in the PAIR_LIST on line 156 below
-        </item>
+    ** Returns A List Of Your Personal Trakt TV Show Watchlist (Requires Trakt Authorization)
+    <dir>
+      <title>My Trakt TV Show Watchlist (Authorize)</title>
+      <trakt>https://api.trakt.tv/sync/watchlist/shows</trakt>
+    </dir>
  
-        <item>
-            <title>Authorize Debrid</title>
-            <authwith>authlist</authwith>               ### Gives option to authorize ResolveURL with either AllDebrid or RealDebrid service ###
-        </item>
+    ** Returns A List Of Your Personal Trakt TV Show Collection (Requires Trakt Authorization)
+    <dir>
+      <title>My Trakt TV Show Collection (Authorize)</title>
+      <trakt>https://api.trakt.tv/sync/collection/shows</trakt>
+    </dir>
+   
+    ** Returns The Trakt Trending TV Shows List
+    <dir>
+      <title>Trakt Trending Shows</title>
+      <trakt>https://api.trakt.tv/shows/trending?limit=50&page=1</trakt>
+    </dir>
+   
+    ** Returns The Trakt Most Popular TV Shows List
+    <dir>
+      <title>Trakt Most Popular Shows</title>
+      <trakt>https://api.trakt.tv/shows/popular?limit=50&page=1</trakt>
+    </dir>
+   
+    ** Returns The Trakt Most Watched TV Shows (Last Week) List
+    <dir>
+      <title>Trakt Most Watched TV Shows (Last Week)</title>
+      <trakt>https://api.trakt.tv/shows/watched/weekly?limit=50&page=1</trakt>
+    </dir>
+   
+    ** Returns The Trakt Most Collected TV Shows (Last Week) List
+    <dir>
+      <title>Trakt Most Collected TV Shows (Last Week)</title>
+      <trakt>https://api.trakt.tv/shows/collected/weekly?limit=50&page=1</trakt>
+    </dir>
+   
+    ** Returns The Trakt Most Anticipated TV Shows List
+    <dir>
+      <title>Trakt Most Anticipated TV Shows</title>
+      <trakt>https://api.trakt.tv/shows/anticipated?limit=50&page=1</trakt>
+    </dir>
+   
+    ** Returns A List Of Trakt TV Shows By Actor
  
-        <item>
-            <title>Authorize RealDebrid</title>
-            <authwith>realdebrid</authwith>             ### Displays code to authorize ResolveURL with RealDebrid, then displays the RealDebrid site to enter the code in ###
-        </item>
+    <dir>
+      <title>Trakt: Bryan Cranston Shows</title>
+      <trakt>https://api.trakt.tv/people/bryan-cranston/shows</trakt>
+    </dir>
  
-        <item>
-            <title>Authorize AllDebrid</title>
-            <authwith>alldebrid</authwith>              ### Displays code to authorize ResolveURL with AllDebrid, then displays the AllDebrid site to enter the code in ###
-        </item>
+   
+    ### Lists ###
+   
+    ** Returns A List Of Your Personal Trakt Lists
+    <dir>
+      <title>My Trakt Lists</title>
+      <trakt>https://api.trakt.tv/users/me/lists/</trakt>
+    </dir>
+   
+    ** Returns A List Of Your Personal Trakt Liked Lists
+    <dir>
+      <title>My Trakt Liked Lists</title>
+      <trakt>https://api.trakt.tv/users/likes/lists</trakt>
+    </dir>
+   
+    ** Returns A List Of The Reddit Top 250 Movies
+    <dir>
+      <title>Reddit Top 250 (2017 Edition)</title>
+      <trakt>https://api.trakt.tv/users/philrivers/lists/reddit-top-250-2017-edition/items?limit=50&page=1</trakt>
+    </dir>
+   
+    ** Returns A List Of The Rotten Tomatoes Best Movies Of 2017
+    <dir>
+      <title>Rotten Tomatoes: Best of 2017</title>
+      <trakt>https://api.trakt.tv/users/lish408/lists/rotten-tomatoes-best-of-2017/items?limit=50&page=1</trakt>
+    </dir>
  
-        <item>
-            <title>Password Protected Local File</title>
-            <passreq>VGhpc0lzVGhlUGFzc3dvcmR8ZmlsZTovL3N1Ym1lbnUueG1s</passreq>
-        </item>
+    <dir>
+      <title>Bryan Cranston shows Trakt</title>
+      <trakt>https://api.trakt.tv/people/bryan-cranston/shows</trakt>
+    </dir>
  
-        <item>
-            <title>Password Protected Remote File</title>
-            <passreq>VGhpc0lzVGhlUGFzc3dvcmR8aHR0cDovL3d3dy5leGFtcGxlLmNvbS9zdWJtZW51LnhtbA==</passreq>
-        </item>
+    <dir>
+      <title>Search Trakt</title>
+      <trakt>search</trakt>
+    </dir>
  
-        <item>
-            <title>Dune (1984)</title>
-            <trailer>plugin://plugin.video.youtube/play/?video_id=ChA0qNHV1D4</trailer>
-            <info>Provides the Trailer context link for this movie when Metadata is DISABLED in your addon.</info>
-        </item>
+<dir>
+<title>[B][COLORwhite]Jason Statham[/COLOR][/B]</title>
+<trakt>https://api.trakt.tv/people/Jason-Statham/movies</trakt>
+</dir>
  
-        <item>
-            <title>JEN: General</title>
-            <mysettings>1/0</mysettings>
-            <info>Open the Settings for the addon on the General tab</info>
-        </item>
+<dir>
+<title>[B][COLORwhite]Liam Neeson[/COLOR][/B]</title>
+<trakt>https://api.trakt.tv/people/Liam-Neeson/movies</trakt>
+</dir>
  
-        <item>
-            <title>Custom Mode</title>
-            <mode>Whatever</mode>
-            <modeurl>query=Iwant</modeurl>
-            <info>Sets a specific Mode for the menu item, to utilize Jen modes not normally accessible. Setting modeurl passes a custom built url= variable to go with it</info>
-        </item>
+<dir>
+<title>[B][COLORwhite]Vin Diesel[/COLOR][/B]</title>
+<trakt>https://api.trakt.tv/people/Vin-Diesel/movies</trakt>
+</dir>
+ 
+<dir>
+<title>[B][COLORwhite]will Smith[/COLOR][/B]</title>
+<trakt>https://api.trakt.tv/people/will-Smith/movies</trakt>
+</dir>
+ 
+<dir>
+<title>[B][COLORwhite]Jason Statham[/COLOR][/B]</title>
+<trakt>https://api.trakt.tv/people/Jason-Statham/movies</trakt>
+</dir>
+ 
+<dir>
+<title>[B][COLORwhite]Liam Neeson[/COLOR][/B]</title>
+<trakt>https://api.trakt.tv/people/Liam-Neeson/movies</trakt>
+</dir>
+ 
+<dir>
+<title>[B][COLORwhite]Vin Diesel[/COLOR][/B]</title>
+<trakt>https://api.trakt.tv/people/Vin-Diesel/movies</trakt>
+</dir>
+ 
+<dir>
+<title>[B][COLORwhite]will Smith[/COLOR][/B]</title>
+<trakt>https://api.trakt.tv/people/will-Smith/movies</trakt>
+</dir>
