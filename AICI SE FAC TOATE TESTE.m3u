@@ -11,10 +11,11 @@
     <thumbnail>https://logos.flamingtext.com/Name-Logos/Stefan-design-amped-name.png</thumbnail>
     <fanart>https://logos.flamingtext.com/Name-Logos/Stefan-design-amped-name.png</fanart>
 </dir>
-<dir>
-    <name>[COLOR orchid]Â¤ [/COLOR] [B][COLOR white]test 33[/COLOR][/B] [COLOR orchid] Â¤[/COLOR]</name>
-    <link>https://framagit.org/StCyr/plugin.video.peertube/blob/master/addon.xml</link>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
-</dir>
+<item>    
+<title>[COLOR green][B]ADDON [/COLOR][COLOR yellow] FORMIGAtv[/COLOR][/B]</title>
+<link>http://pastebin.com/raw/xgTbv3tb</link> AsCHThpj
+<jsonrpc>plugin://plugin.video.FORMIGAtv</jsonrpc>
+<thumbnail>https://cld.pt/dl/download/287350e0-99fb-465c-a172-392862cc897e/FORMIGA%20TV%203.jpg</thumbnail>
+<fanart>https://cld.pt/dl/download/287350e0-99fb-465c-a172-392862cc897e/FORMIGA%20TV%203.jpg</fanart>
+</item>
 
