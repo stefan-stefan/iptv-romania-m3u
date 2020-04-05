@@ -11,3 +11,15 @@
     <thumbnail>https://logos.flamingtext.com/Name-Logos/Stefan-design-amped-name.png</thumbnail>
     <fanart>https://logos.flamingtext.com/Name-Logos/Stefan-design-amped-name.png</fanart>
 </plugin>
+<dir>
+    <name>[COLOR orchid]Â¤ [/COLOR] [B][COLOR white]Kids Movies[/COLOR][/B] [COLOR orchid] Â¤[/COLOR]</name>
+    <link>https://bitbucket.org/team-crew/xmls/raw/master/kids/kids_movies/main.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_greyhat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+</dir>
+<dir>
+    <name>[COLOR orchid]Â¤ [/COLOR] [B][COLOR white]3D Movies[/COLOR][/B] [COLOR orchid] Â¤[/COLOR]</name>
+    <link>https://bitbucket.org/team-crew/xmls/raw/master/kids/kids_3d/main_3d.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_greyhat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+</dir>
