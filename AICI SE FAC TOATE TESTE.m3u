@@ -1,5 +1,5 @@
 <plugin>
-    <title>[COLOR deeppink][/COLOR] [B][COLOR deeppink][/COLOR] [COLOR deeppink]>>LISTA-TESTE antena 1 ace[/COLOR][/B] [COLOR blue][/COLOR]</title>
+    <title>[COLOR deeppink][/COLOR] [B][COLOR deeppink][/COLOR] [COLOR deeppink]>>LISTA-TESTE antena 21 ace[/COLOR][/B] [COLOR blue][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=acestream://e56a0c3a157410461680225fe158c6b7a293858c</link>
     <thumbnail>https://logos.flamingtext.com/Name-Logos/Stefan-design-amped-name.png</thumbnail>
     <fanart>https://logos.flamingtext.com/Name-Logos/Stefan-design-amped-name.png</fanart>
@@ -13,8 +13,8 @@
 </plugin>
 
 <plugin>
-    <title>[COLOR deeppink][/COLOR] [B][COLOR deeppink][/COLOR] [COLOR deeppink]>>LISTA-TESTE antena 1 test aceto httpp[/COLOR][/B] [COLOR blue][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=http://171.118.38.9:9981/stream/channelid/802651639</link>
+    <title>[COLOR deeppink][/COLOR] [B][COLOR deeppink][/COLOR] [COLOR deeppink]>>LISTA-TESTE antena 11 test aceto httpp[/COLOR][/B] [COLOR blue][/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=http://171.118.38.9:9981/stream/channelid/895d6a92042671cc483346dfdd3917bef2458da9</link>
     <thumbnail>https://logos.flamingtext.com/Name-Logos/Stefan-design-amped-name.png</thumbnail>
     <fanart>https://logos.flamingtext.com/Name-Logos/Stefan-design-amped-name.png</fanart>
 </plugin>
