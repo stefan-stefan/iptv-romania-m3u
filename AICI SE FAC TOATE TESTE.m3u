@@ -5,16 +5,26 @@
     <fanart>https://logos.flamingtext.com/Name-Logos/Stefan-design-amped-name.png</fanart>
 </plugin>
 
-<plugin>
-    <title>[COLOR deeppink][/COLOR] [B][COLOR deeppink][/COLOR] [COLOR deeppink]>>LISTA-TESTE antena 1 sop[/COLOR][/B] [COLOR blue][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=sop://185.122.59.8:3912/264961</link>
-    <thumbnail>https://logos.flamingtext.com/Name-Logos/Stefan-design-amped-name.png</thumbnail>
-    <fanart>https://logos.flamingtext.com/Name-Logos/Stefan-design-amped-name.png</fanart>
-</plugin>
-
-<plugin>
-    <title>[COLOR deeppink][/COLOR] [B][COLOR deeppink][/COLOR] [COLOR deeppink]>>LISTA-TESTE antena 111 test aceto httpp[/COLOR][/B] [COLOR blue][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=http://171.118.38.9:9981/stream/channelid/895d6a92042671cc483346dfdd3917bef2458da9</link>
-    <thumbnail>https://logos.flamingtext.com/Name-Logos/Stefan-design-amped-name.png</thumbnail>
-    <fanart>https://logos.flamingtext.com/Name-Logos/Stefan-design-amped-name.png</fanart>
-</plugin>
+<item>
+<title>[COLOR blue][B]Watch Sports Devil Live TV[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/</jsonrpc>
+<thumbnail>http://mavericktv.net/data/iptvicon.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR blue][B]Fluxus IPTV 1000+ Channels[/B][/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u</externallink>
+<link>https://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u</link>
+<thumbnail>http://mavericktv.net/data/iptvicon.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR blue][B]Fluxus Movies And Shows[/B][/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/fluxustv/IPTV/master/cinema.m3u</externallink>
+<link>https://raw.githubusercontent.com/fluxustv/IPTV/master/cinema.m3u</link>
+<thumbnail>http://mavericktv.net/data/iptvicon.png</thumbnail>
+<fanart></fanart>
+</item>
