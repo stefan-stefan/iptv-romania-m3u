@@ -6,8 +6,8 @@
 </plugin>
 
 <plugin>
-    <title>[COLOR deeppink][/COLOR] [B][COLOR deeppink][/COLOR] [COLOR deeppink]>>LISTA-TESTE [/COLOR][/B] [COLOR blue][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://github.com/yosephplex/disney/blob/master/iptv.m3u</link>
+    <title>[COLOR deeppink][/COLOR] [B][COLOR deeppink][/COLOR] [COLOR deeppink]>>LISTA-koso[/COLOR][/B] [COLOR blue][/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/kokoshIPTV/iptv/master/ROMANIA</link>
     <thumbnail>https://logos.flamingtext.com/Name-Logos/Stefan-design-amped-name.png</thumbnail>
     <fanart>https://logos.flamingtext.com/Name-Logos/Stefan-design-amped-name.png</fanart>
 </plugin>
