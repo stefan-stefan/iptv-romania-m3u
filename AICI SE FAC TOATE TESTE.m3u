@@ -1,6 +1,6 @@
 <plugin>
     <title>[COLOR deeppink][/COLOR] [B][COLOR deeppink][/COLOR] [COLOR deeppink]>>LISTA-TESTE [/COLOR][/B] [COLOR blue][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://github.com/yosephplex/disney/blob/master/iptv.m3u</link>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/jWTNPAik</link>
     <thumbnail>https://logos.flamingtext.com/Name-Logos/Stefan-design-amped-name.png</thumbnail>
     <fanart>https://logos.flamingtext.com/Name-Logos/Stefan-design-amped-name.png</fanart>
 </plugin>
@@ -13,9 +13,4 @@
 </plugin>
 
 
- <dir>
-   <title>[COLOR blue][/COLOR] [B][COLOR blue][/COLOR] [COLOR blue]>>IPTV-SPANIA>>[/COLOR][/B] [COLOR blue][/COLOR]</title>
-    <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/spania%20tv1.m3u</link>
-    <thumbnail>https://thumbs.dreamstime.com/b/hiszpania-flaga-round-ikona-z-cieniem-103848879.jpg</thumbnail>
-    <fanart>https://thumbs.dreamstime.com/b/hiszpania-flaga-round-ikona-z-cieniem-103848879.jpg</fanart>
-  </dir>
+
