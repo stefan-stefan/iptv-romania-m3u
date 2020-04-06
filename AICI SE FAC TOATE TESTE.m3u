@@ -6,10 +6,11 @@
 </plugin>
 
 <plugin>
-    <title>[COLOR deeppink][/COLOR] [B][COLOR deeppink][/COLOR] [COLOR deeppink]>>LISTA-koso[/COLOR][/B] [COLOR blue][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/kokoshIPTV/iptv/master/ROMANIA</link>
-    <thumbnail>https://logos.flamingtext.com/Name-Logos/Stefan-design-amped-name.png</thumbnail>
-    <fanart>https://logos.flamingtext.com/Name-Logos/Stefan-design-amped-name.png</fanart>
+<title>Reddit Test</title>
+<link>plugin://plugin.video.reddit_viewer/?mode=listSubReddit&amp;type=soccerstreams&amp;url=https://pastebin.com/raw/jWTNPAik</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<content></content>
 </plugin>
 
 
