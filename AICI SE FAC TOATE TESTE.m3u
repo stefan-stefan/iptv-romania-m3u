@@ -6,4 +6,7 @@
 </plugin>
 
 
-
+ <dir>
+    <title>Movies</title>
+    <link>https://github.com/pancada72/repository.wolf/blob/master/plugin.video.WolfTV/addon.xml</link>
+  </dir>
