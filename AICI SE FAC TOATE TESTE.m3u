@@ -1,8 +1,8 @@
 <plugin>
-    <title>[COLOR deeppink][/COLOR] [B][COLOR deeppink][/COLOR] [COLOR deeppink]>>IPTV TOOLS(Test3) [/COLOR][/B] [COLOR blue][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/dozzy96/iptv-romania-url/master/93%20posturi%20testat.m3u</link>
-    <thumbnail>https://logos.flamingtext.com/Name-Logos/Stefan-design-amped-name.png</thumbnail>
-    <fanart>https://logos.flamingtext.com/Name-Logos/Stefan-design-amped-name.png</fanart>
+    <title>[COLOR deeppink][/COLOR] [B][COLOR deeppink][/COLOR] [COLOR deeppink]>>IPTV TOOLS(dizzy) [/COLOR][/B] [COLOR blue][/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/dozzy96/iptv-romania-url/master/iptv-ro</link>
+    <thumbnail>https://logos.flamingtext.com/Name-Logos/Dizzy-design-amped-name.png</thumbnail>
+    <fanart>https://logos.flamingtext.com/Name-Logos/Dizzy-design-amped-name.png</fanart>
 </plugin>
 
 <plugin>
