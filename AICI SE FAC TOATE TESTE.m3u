@@ -1,24 +1,11 @@
 <plugin>
     <title>[COLOR deeppink][/COLOR] [B][COLOR deeppink][/COLOR] [COLOR deeppink]>>DE TESSST[/COLOR][/B] [COLOR blue][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/hayatiptv/iptv/master/channels/BDNLTR.m3u</link>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://github.com/mytelevisionlover/cable-dth-iptv</link>
     <thumbnail>https://logos.flamingtext.com/Name-Logos/Stefan-design-amped-name.png</thumbnail>
     <fanart>https://logos.flamingtext.com/Name-Logos/Stefan-design-amped-name.png</fanart>
 </plugin>
 
-<item>
-    <title>[COLOR deeppink][/COLOR] [B][COLOR deeppink][/COLOR] [COLOR deeppink]>>DECLARATIE PE PROPIA RASPUNDERE[/COLOR][/B] [COLOR blue][/COLOR]</title>
-    <link>
-        <sublink>https://www.youtube.com/watch?v=0lVDswngo-4&feature=youtu.be&fbclid=IwAR2GvCejJxCRRRrx-cWEnao0Jii0bfeg57sZm8bumjZSbHTq-Buu06YLo-g</sublink>
-    </link>
-<thumbnail>https://www.startupcafe.ro/sites/default/files/styles/795x470/public/declaratie%20angajator%20model%20nou%20deplasare%20coronavirus%20covid.jpg</thumbnail>
-<fanart>https://www.startupcafe.ro/sites/default/files/styles/795x470/public/declaratie%20angajator%20model%20nou%20deplasare%20coronavirus%20covid.jpg</fanart> 
-<content>movie</content>
-    <meta>
-        <title></title>
-        <year>2020</year>
-        <imdb></imdb>
-    </meta>
-</item>
+
 
 
 ***************************************************************************************************
