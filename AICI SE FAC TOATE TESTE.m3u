@@ -1,8 +1,8 @@
 <plugin>
-    <title>[COLOR deeppink][/COLOR] [B][COLOR deeppink][/COLOR] [COLOR deeppink]>>DE TESSST[/COLOR][/B] [COLOR blue][/COLOR]</title>
+    <title>[COLOR yellow]IPTV LIVE[/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/billacablewala/m3u8/183aa56d0e36bc40d244b75b7ae9a334ce47e18d/README.md</link>
-    <thumbnail>https://logos.flamingtext.com/Name-Logos/Stefan-design-amped-name.png</thumbnail>
-    <fanart>https://logos.flamingtext.com/Name-Logos/Stefan-design-amped-name.png</fanart>
+    <thumbnail>https://pngimage.net/wp-content/uploads/2018/06/iptv-png-6.png</thumbnail>
+    <fanart>https://pngimage.net/wp-content/uploads/2018/06/iptv-png-6.png</fanart>
 </plugin>
 
 
