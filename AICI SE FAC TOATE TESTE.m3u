@@ -13,4 +13,18 @@
 </plugin>
 
 
+***************************************************************************************************
+<plugin>
+    <title>[COLOR blue][/COLOR] [B][COLOR blue]>>LISTA TV-[/COLOR] [COLOR blue]KOKOSH(MENTENANTA)[/COLOR][/B] [COLOR FFff8000][/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/kokoshIPTV/iptv/master/ROMANIA</link>
+    <thumbnail>https://cvbenim.com/firma/logo/240_kokosh_giyim_uKvSDcpKLH_2951.png</thumbnail>
+    <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
+</plugin>
+<plugin>
+    <title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR blue]LISTA TV ALL IN ONE(MENTENANTA) [/COLOR][/B]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/kokoshIPTV/iptv/3a3c8727b0f1db6186e6c62e5a4e1d7c01270bf4/f400</link>
+    <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
+    <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
+</plugin>
 
+**********************************************************************************************************************
