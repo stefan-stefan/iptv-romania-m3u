@@ -29,13 +29,6 @@
 </plugin>
  
 <plugin>
-    <title>[COLOR yellow]PLUTO TV   [/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/PlutoTV.m3u</link>
-    <thumbnail>https://www.digitaltveurope.com/files/2020/03/Pluto-TV-New-Logo-2020.png</thumbnail>
-    <fanart>https://www.digitaltveurope.com/files/2020/03/Pluto-TV-New-Logo-2020.png</fanart>
-</plugin>
-
-<plugin>
     <title>[COLOR yellow]WORLD TV[/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/index.category.m3u</link>
     <thumbnail>https://yocnow.files.wordpress.com/2015/01/worldtv3.gif</thumbnail>
