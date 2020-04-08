@@ -1,23 +1,24 @@
 <plugin>
-    <title>[COLOR deeppink][/COLOR] [B][COLOR deeppink][/COLOR] [COLOR deeppink]>>TEST STEFAN T 451[/COLOR][/B] [COLOR blue][/COLOR]</title>
+    <title>[COLOR deeppink][/COLOR] [B][COLOR deeppink][/COLOR] [COLOR deeppink]>>DE TESSST[/COLOR][/B] [COLOR blue][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/hayatiptv/iptv/master/channels/BDNLTR.m3u</link>
     <thumbnail>https://logos.flamingtext.com/Name-Logos/Stefan-design-amped-name.png</thumbnail>
     <fanart>https://logos.flamingtext.com/Name-Logos/Stefan-design-amped-name.png</fanart>
 </plugin>
 
-<plugin>
-    <title>[COLOR deeppink][/COLOR] [B][COLOR deeppink][/COLOR] [COLOR deeppink]>>TEST STEFAN TS11[/COLOR][/B] [COLOR blue][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/stefan-stefan/lista-tv-romania/master/romaniats.m3u</link>
-    <thumbnail>https://logos.flamingtext.com/Name-Logos/Stefan-design-amped-name.png</thumbnail>
-    <fanart>https://logos.flamingtext.com/Name-Logos/Stefan-design-amped-name.png</fanart>
-</plugin>
-
-<dir>
-<title>[COLOR FFff8000][B]»»»»»INVATA»»[/COLOR] [COLOR FFff8000]»»LINUX in lucru»»»»»[/B][/COLOR]</title>
-<link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/.gitignore/linux.m3u</link>
-<thumbnail>https://banner2.cleanpng.com/20180324/zuw/kisspng-suse-linux-distributions-operating-systems-ubuntu-linux-5ab6faa585d662.9833080715219411575482.jpg</thumbnail>
-<fanart>https://www.wikitechy.com/technology/wp-content/uploads/2017/05/learn-about-linux-distributions.png</fanart>
-</dir>
+<item>
+    <title>[COLOR deeppink][/COLOR] [B][COLOR deeppink][/COLOR] [COLOR deeppink]>>DECLARATIE PE PROPIA RASPUNDERE[/COLOR][/B] [COLOR blue][/COLOR]</title>
+    <link>
+        <sublink>https://www.youtube.com/watch?v=0lVDswngo-4&feature=youtu.be&fbclid=IwAR2GvCejJxCRRRrx-cWEnao0Jii0bfeg57sZm8bumjZSbHTq-Buu06YLo-g</sublink>
+    </link>
+https://www.startupcafe.ro/sites/default/files/styles/795x470/public/declaratie%20angajator%20model%20nou%20deplasare%20coronavirus%20covid.jpg<thumbnail>https://pbs.twimg.com/media/D1GjDRxXgAEh2G4.png</thumbnail>
+<fanart>https://www.startupcafe.ro/sites/default/files/styles/795x470/public/declaratie%20angajator%20model%20nou%20deplasare%20coronavirus%20covid.jpg</fanart> 
+<content>movie</content>
+    <meta>
+        <title></title>
+        <year>2020</year>
+        <imdb></imdb>
+    </meta>
+</item>
 
 
 ***************************************************************************************************
