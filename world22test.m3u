@@ -2,61 +2,66 @@
 <plugin>
     <title>[COLOR yellow]MUSIC LIVE[/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/categories/music.m3u</link>
-    <thumbnail></thumbnail>
+    <thumbnail>https://i.ya-webdesign.com/images/live-band-png-5.png</thumbnail>
+    <fanart>https://i.ya-webdesign.com/images/live-band-png-5.png</fanart>
 </plugin>
  
  
 <plugin>
     <title>[COLOR yellow]CANADA LIVE[/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/Free2ViewTV-2020-Remote.m3u</link>
-    <thumbnail></thumbnail>
-</plugin>
- 
-<plugin>
-    <title>[COLOR yellow]FRANCE LIVE [/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/languages/fr.m3u</link>
-    <thumbnail></thumbnail>
+    <thumbnail>https://www.jobtradition.com/wp-content/uploads/2018/10/canada-159585_1280.png</thumbnail>
+    <fanart>https://www.jobtradition.com/wp-content/uploads/2018/10/canada-159585_1280.png</fanart>
 </plugin>
  
 <plugin>
     <title>[COLOR yellow]HAITI LIVE    [/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/6xVtcx31</link>
-    <thumbnail></thumbnail>
+    <thumbnail>https://haitimedia.live/wp-content/uploads/2019/10/cropped-haitimedia.png</thumbnail>
+        <fanart>https://haitimedia.live/wp-content/uploads/2019/10/cropped-haitimedia.png</fanart>
 </plugin>
 
 <plugin>
     <title>[COLOR yellow]HAITI LIVE 2   [/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/iptv-org/iptv/master/channels/ht.m3u</link>
-    <thumbnail></thumbnail>
+    <thumbnail>https://haitimedia.live/wp-content/uploads/2019/10/cropped-haitimedia.png</thumbnail>
+        <fanart>https://haitimedia.live/wp-content/uploads/2019/10/cropped-haitimedia.png</fanart>
 </plugin>
  
 <plugin>
     <title>[COLOR yellow]PLUTO TV   [/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/PlutoTV.m3u</link>
-    <thumbnail></thumbnail>
+    <thumbnail>https://www.digitaltveurope.com/files/2020/03/Pluto-TV-New-Logo-2020.png</thumbnail>
+    <fanart>https://www.digitaltveurope.com/files/2020/03/Pluto-TV-New-Logo-2020.png</fanart>
 </plugin>
 
 <plugin>
     <title>[COLOR yellow]WORLD TV[/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/index.category.m3u</link>
-    <thumbnail></thumbnail>
+    <thumbnail>https://yocnow.files.wordpress.com/2015/01/worldtv3.gif</thumbnail>
+    <fanart>https://img.over-blog-kiwi.com/1/56/62/68/20150823/ob_ddecb2_529957-worldtv-logo-ustream-640x360-r.jpg</fanart>
 </plugin>
 
  
 <plugin>
     <title>[COLOR yellow] NEWS [/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/categories/news.m3u</link>
-    <thumbnail></thumbnail>
-</plugin>
- 
-<plugin>
-    <title>[COLOR yellow] SPORT[/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/categories/sport.m3u</link>
-    <thumbnail></thumbnail>
+    <thumbnail>https://pngimage.net/wp-content/uploads/2018/06/www-png-news-com.png</thumbnail>
+    <fanart>https://pngimage.net/wp-content/uploads/2018/06/www-png-news-com.png</fanart>
 </plugin>
 
 <plugin>
     <title>[COLOR yellow] NEWS 2[/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/categories/news.m3u</link>
-    <thumbnail></thumbnail>
+    <thumbnail>https://www.ivspolytechnic.in/wp-content/uploads/2015/06/News-PNG-347X210.png</thumbnail>
+    <fanart>https://www.ivspolytechnic.in/wp-content/uploads/2015/06/News-PNG-347X210.png</fanart>
 </plugin>
+ 
+<plugin>
+    <title>[COLOR yellow] SPORT[/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/categories/sport.m3u</link>
+    <thumbnail>https://www.pngitem.com/pimgs/m/20-202708_sport-png-free-download-sports-equipment-transparent-background.png</thumbnail>
+    <fanart>https://www.pngitem.com/pimgs/m/20-202708_sport-png-free-download-sports-equipment-transparent-background.png</fanart>
+</plugin>
+
+
