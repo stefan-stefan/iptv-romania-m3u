@@ -10,16 +10,80 @@
 
 ***************************************************************************************************
 <plugin>
-    <title>[COLOR blue][/COLOR] [B][COLOR blue]>>LISTA TV-[/COLOR] [COLOR blue]KOKOSH(MENTENANTA)[/COLOR][/B] [COLOR FFff8000][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/kokoshIPTV/iptv/master/ROMANIA</link>
-    <thumbnail>https://cvbenim.com/firma/logo/240_kokosh_giyim_uKvSDcpKLH_2951.png</thumbnail>
-    <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
+    <title>[COLOR yellow]DISIP[/COLOR]</title>
+    <link>plugin://plugin.video.youtube/search/?q=disip/</link>
+    <thumbnail>https://i.ytimg.com/vi/cMAxUeyWy5E/mqdefault.jpg</thumbnail>
 </plugin>
 <plugin>
-    <title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR blue]LISTA TV ALL IN ONE(MENTENANTA) [/COLOR][/B]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/kokoshIPTV/iptv/3a3c8727b0f1db6186e6c62e5a4e1d7c01270bf4/f400</link>
-    <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
-    <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
+    <title>[COLOR yellow]MOVIES[/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/categories/movies.m3u</link>
+    <thumbnail></thumbnail>
+</plugin>
+
+
+
+http://netflexx.org/get.php?username=iBp3dxX3gA&password=aJThpa5EAl&type=m3u
+
+<plugin>
+    <title>[COLOR yellow]MUSIC LIVE[/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/categories/music.m3u</link>
+    <thumbnail></thumbnail>
+</plugin>
+ 
+ 
+<plugin>
+    <title>[COLOR yellow]CANADA LIVE[/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/Free2ViewTV-2020-Remote.m3u</link>
+    <thumbnail></thumbnail>
+</plugin>
+ 
+<plugin>
+    <title>[COLOR yellow]FRANCE LIVE [/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/languages/fr.m3u</link>
+    <thumbnail></thumbnail>
+</plugin>
+ 
+<plugin>
+    <title>[COLOR yellow]HAITI LIVE    [/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/6xVtcx31</link>
+    <thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+    <title>[COLOR yellow]HAITI LIVE 2   [/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/iptv-org/iptv/master/channels/ht.m3u</link>
+    <thumbnail></thumbnail>
+</plugin>
+ 
+<plugin>
+    <title>[COLOR yellow]PLUTO TV   [/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/PlutoTV.m3u</link>
+    <thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+    <title>[COLOR yellow]WORLD TV[/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/index.category.m3u</link>
+    <thumbnail></thumbnail>
+</plugin>
+
+ 
+<plugin>
+    <title>[COLOR yellow] NEWS [/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/categories/news.m3u</link>
+    <thumbnail></thumbnail>
+</plugin>
+ 
+<plugin>
+    <title>[COLOR yellow] SPORT[/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/categories/sport.m3u</link>
+    <thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+    <title>[COLOR yellow] NEWS 2[/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/categories/news.m3u</link>
+    <thumbnail></thumbnail>
 </plugin>
 
 
