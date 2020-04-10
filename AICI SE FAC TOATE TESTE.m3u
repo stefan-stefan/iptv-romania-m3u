@@ -1,16 +1,11 @@
 <plugin>
     <title>[COLOR yellow]IPTV test[/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/Valentin-gif/silver-lamp/72ae161165230b81a00b7ec6f9cd122a8c9230f7/page1.txt</link>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/stefan-stefan/filme-online/master/.gitignore/httptest22.m3u</link>
     <thumbnail>https://pngimage.net/wp-content/uploads/2018/06/iptv-png-6.png</thumbnail>
     <fanart>https://pngimage.net/wp-content/uploads/2018/06/iptv-png-6.png</fanart>
 </plugin>
 
-<plugin>
-    <title>[COLOR yellow]IPTV test[/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/Valentin-gif/silver-lamp/72ae161165230b81a00b7ec6f9cd122a8c9230f7/page1.txt</link>
-    <thumbnail>https://pngimage.net/wp-content/uploads/2018/06/iptv-png-6.png</thumbnail>
-    <fanart>https://pngimage.net/wp-content/uploads/2018/06/iptv-png-6.png</fanart>
-</plugin>
+
 *******************************
 
 ***************************************************************************************************
@@ -22,12 +17,8 @@
 </dir>
 
 
-<item>
-    <link>https://raw.githubusercontent.com/Valentin-gif/silver-lamp/72ae161165230b81a00b7ec6f9cd122a8c9230f7/page1.txt</link>
-<title>INVATA  LINUX CU </title>
-<thumbnail>https://ramonnastase.ro/wp-content/uploads/2016/12/primii-pasi-in-ubuntu-linux-invata-linux-ramon-nastase.jpg</thumbnail>
-<fanart>https://ramonnastase.ro/wp-content/uploads/2016/12/primii-pasi-in-ubuntu-linux-invata-linux-ramon-nastase.jpg</fanart> 
-</item>
+
+
 
 
 **********************************************************************************************************************
