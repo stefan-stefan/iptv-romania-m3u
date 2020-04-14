@@ -1,13 +1,13 @@
 <plugin>
     <title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR red]LISTA -[COLOR yellow](Update 14-04-2020) [/COLOR][/B]</title>
-<link>https://raw.githubusercontent.com/bojanm1972/lbuniverse/602ba1b2c35e3e016985933eccc6ca587c870581/LBUniverse-movies.m3u</link>
+<link>https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/50dd340bfc5be4ff884df247f85d4cc596cc520e/swisscom-hd.m3u</link>
     <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
     <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
 </plugin>
 
 <plugin>
     <title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR red]LISTA -[COLOR yellow](Update 14-04-2020) [/COLOR][/B]</title>
-<link>https://raw.githubusercontent.com/bojanm1972/lbuniverse/602ba1b2c35e3e016985933eccc6ca587c870581/iptv/Romania.m3u</link>
+<link>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/dc153a9ddad4c01f0c254fa54f8ae48c89efd72b/iptv/pipe/pipe.m3u</link>
     <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
     <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
 </plugin>
