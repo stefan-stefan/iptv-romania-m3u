@@ -6,41 +6,10 @@
 </plugin>
 
 <plugin>
-    <title>[B][COLOR blue]>>LISTA>>[/COLOR] [B][COLOR red]>>ACESTREAM>>[/COLOR] [COLOR yellow]>>SOPCAST<<[/COLOR][/B] [COLOR blue][/COLOR]</title>
-    <link>https://raw.githubusercontent.com/Valentin-gif/silver-lamp/master/page1.txt</link>
-    <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
-    <fanart>https://www.androidaba.com/wp-content/uploads/2016/04/acestream-sopcast-by-aba.jpg</fanart>
-</plugin
-
-*******************************
-<plugin>
-    <title>[B][COLOR blue]>>LISTA>>[/COLOR] [B][COLOR red]>>ACESTREAM>>[/COLOR] [COLOR yellow]>>SOPCAST<<[/COLOR][/B] [COLOR blue][/COLOR]</title>
-    <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/.gitignore/httptest2222.m3u</link>
-    <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
-    <fanart>https://www.androidaba.com/wp-content/uploads/2016/04/acestream-sopcast-by-aba.jpg</fanart>
-</plugin
-
-<dir>
-    <title>TV</title>
-    <link>https://raw.githubusercontent.com/Valentin-gif/silver-lamp/master/page1.txt</link>
-  </dir>
-***************************************************************************************************
-<dir>
-    <title>DISTRIBUTII LINUX SI MODUL DE INSTALARE</title>
-    <link>https://raw.githubusercontent.com/Valentin-gif/silver-lamp/master/page1.txt</link>
-<thumbnail>https://w7.pngwing.com/pngs/541/598/png-transparent-gnu-linux-naming-controversy-linux-distribution-linux-mint-linux.png</thumbnail>
-</dir>
-
-<item>
-    <title>DISTRIBUTII LINUX SI MODUL DE INSTALARE</title>
-    <link>https://raw.githubusercontent.com/Valentin-gif/silver-lamp/master/page1.txt</link>
-<thumbnail>https://w7.pngwing.com/pngs/541/598/png-transparent-gnu-linux-naming-controversy-linux-distribution-linux-mint-linux.png</thumbnail>
-</item>
-
-<plugin>
-    <title>DISTRIBUTII LINUX SI MODUL DE INSTALARE</title>
-    <link>https://raw.githubusercontent.com/Valentin-gif/silver-lamp/master/page1.txt</link>
-<thumbnail>https://w7.pngwing.com/pngs/541/598/png-transparent-gnu-linux-naming-controversy-linux-distribution-linux-mint-linux.png</thumbnail>
+    <title>[COLOR blue][/COLOR] [B][COLOR blue]>>LISTA TV-[/COLOR] [COLOR blue]KOKOSH(MENTENANTA)[/COLOR][/B] [COLOR FFff8000][/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/stefan-stefan/filme-online/master/.gitignore/httptest2222.m3u</link>
+    <thumbnail>https://cvbenim.com/firma/logo/240_kokosh_giyim_uKvSDcpKLH_2951.png</thumbnail>
+    <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
 </plugin>
 
 
