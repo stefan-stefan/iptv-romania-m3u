@@ -1,6 +1,6 @@
 <plugin>
     <title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR red]LISTA -[COLOR yellow](Update 14-04-2020) [/COLOR][/B]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/Valentin-gif/bronze-lamp/master/guide.xml</link>
+<link>https://raw.githubusercontent.com/Valentin-gif/silver-lamp/master/page1.txt</link>
     <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
     <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
 </plugin>
@@ -8,24 +8,24 @@
 *******************************
 <dir>
     <title>TV</title>
-    <link>https://raw.githubusercontent.com/Valentin-gif/bronze-lamp/master/guide.xml</link>
+    <link>https://raw.githubusercontent.com/Valentin-gif/silver-lamp/master/page1.txt</link>
   </dir>
 ***************************************************************************************************
 <dir>
     <title>DISTRIBUTII LINUX SI MODUL DE INSTALARE</title>
-    <link>https://raw.githubusercontent.com/Valentin-gif/bronze-lamp/master/guide.xml</link>
+    <link>https://raw.githubusercontent.com/Valentin-gif/silver-lamp/master/page1.txt</link>
 <thumbnail>https://w7.pngwing.com/pngs/541/598/png-transparent-gnu-linux-naming-controversy-linux-distribution-linux-mint-linux.png</thumbnail>
 </dir>
 
 <item>
     <title>DISTRIBUTII LINUX SI MODUL DE INSTALARE</title>
-    <link>https://raw.githubusercontent.com/Valentin-gif/bronze-lamp/master/guide.xml</link>
+    <link>https://raw.githubusercontent.com/Valentin-gif/silver-lamp/master/page1.txt</link>
 <thumbnail>https://w7.pngwing.com/pngs/541/598/png-transparent-gnu-linux-naming-controversy-linux-distribution-linux-mint-linux.png</thumbnail>
 </item>
 
 <plugin>
     <title>DISTRIBUTII LINUX SI MODUL DE INSTALARE</title>
-    <link>https://raw.githubusercontent.com/Valentin-gif/bronze-lamp/master/guide.xml</link>
+    <link>https://raw.githubusercontent.com/Valentin-gif/silver-lamp/master/page1.txt</link>
 <thumbnail>https://w7.pngwing.com/pngs/541/598/png-transparent-gnu-linux-naming-controversy-linux-distribution-linux-mint-linux.png</thumbnail>
 </plugin>
 
