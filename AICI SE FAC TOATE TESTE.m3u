@@ -1,6 +1,6 @@
 <plugin>
     <title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR red]LISTA -[COLOR yellow](Update 14-04-2020) [/COLOR][/B]</title>
-<link>https://raw.githubusercontent.com/Valentin-gif/silver-lamp/master/page1.txt</link>
+<link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/.gitignore/httptest2222.m3u</link>
     <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
     <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
 </plugin>
@@ -13,6 +13,13 @@
 </plugin
 
 *******************************
+<plugin>
+    <title>[B][COLOR blue]>>LISTA>>[/COLOR] [B][COLOR red]>>ACESTREAM>>[/COLOR] [COLOR yellow]>>SOPCAST<<[/COLOR][/B] [COLOR blue][/COLOR]</title>
+    <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/.gitignore/httptest2222.m3u</link>
+    <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
+    <fanart>https://www.androidaba.com/wp-content/uploads/2016/04/acestream-sopcast-by-aba.jpg</fanart>
+</plugin
+
 <dir>
     <title>TV</title>
     <link>https://raw.githubusercontent.com/Valentin-gif/silver-lamp/master/page1.txt</link>
