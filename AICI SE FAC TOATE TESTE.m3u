@@ -25,7 +25,7 @@
 **********************************************************************************************************************
 <plugin>
     <title>[B][COLOR blue]>>LISTA>>[/COLOR] [B][COLOR red]>>teste>>[/COLOR] [COLOR yellow]>>stefan<<[/COLOR][/B] [COLOR blue][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/vandfan69/iptv/aad05f54450476db1054d95ddef0ac6a048c0675/iptvlist</link>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/hmlendea/iptv-playlist/3b8923c321f54e19e81214f6d34adcea64be06a7/ro.m3u</link>
     <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
     <fanart>https://www.androidaba.com/wp-content/uploads/2016/04/acestream-sopcast-by-aba.jpg</fanart>
 </plugin>
