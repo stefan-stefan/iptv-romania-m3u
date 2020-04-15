@@ -1,13 +1,13 @@
 <plugin>
     <title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR red]LISTA -[COLOR yellow](TEST1) [/COLOR][/B]</title>
-<link>https://raw.githubusercontent.com/stefan-stefan/filme-online/ecd4f8a8ac7d75f4fe87d7dc0ced8b01499840c7/f4mTester.m3u</link>
+<link>https://raw.githubusercontent.com/hmlendea/stream-to-m3u/master/Data/input-ro.xml</link>
     <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
     <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
 </plugin>
 
 <plugin>
     <title>[B][COLOR blue]>>LISTA>>[/COLOR] [B][COLOR red]>>teste>>[/COLOR] [COLOR yellow]>>stefan<<[/COLOR][/B] [COLOR blue][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/syukriadi/ASIAN-CHANNEL/31155da94e441b172a0954891f0389d71a099ed2/skynet.m3u</link>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/hmlendea/stream-to-m3u/master/Data/input-ro.xml</link>
     <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
     <fanart>https://www.androidaba.com/wp-content/uploads/2016/04/acestream-sopcast-by-aba.jpg</fanart>
 </plugin>
@@ -24,8 +24,8 @@
 
 **********************************************************************************************************************
 <plugin>
-    <title>[B][COLOR blue]>>LISTA>>[/COLOR] [B][COLOR red]>>teste>>[/COLOR] [COLOR yellow]>>stefan<<[/COLOR][/B] [COLOR blue][/COLOR]</title>
+    <title>[B][COLOR blue]>>IPTV>>[/COLOR] [B][COLOR red]>>WORLD>>[/COLOR] [COLOR yellow]>>TV<<[/COLOR][/B] [COLOR blue][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/hmlendea/iptv-playlist/3b8923c321f54e19e81214f6d34adcea64be06a7/ro.m3u</link>
-    <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
-    <fanart>https://www.androidaba.com/wp-content/uploads/2016/04/acestream-sopcast-by-aba.jpg</fanart>
+    <thumbnail>https://itigic.com/wp-content/uploads/2019/10/iptv-business.jpg</thumbnail>
+    <fanart>https://itigic.com/wp-content/uploads/2019/10/iptv-business.jpg</fanart>
 </plugin>
