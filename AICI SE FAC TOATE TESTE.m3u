@@ -12,20 +12,51 @@
     <fanart>https://www.androidaba.com/wp-content/uploads/2016/04/acestream-sopcast-by-aba.jpg</fanart>
 </plugin>
 
-<plugin>
-    <title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR red]LISTA -[COLOR yellow](TEST 2) [/COLOR][/B]</title>
-<link>https://raw.githubusercontent.com/vandfan69/iptv/aad05f54450476db1054d95ddef0ac6a048c0675/iptvlist</link>
-    <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
-    <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
-</plugin>
-
-
-
-
-**********************************************************************************************************************
-<plugin>
-    <title>[B][COLOR blue]>>IPTV>>[/COLOR] [B][COLOR red]>>WORLD>>[/COLOR] [COLOR yellow]>>TV<<[/COLOR][/B] [COLOR blue][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/hmlendea/iptv-playlist/3b8923c321f54e19e81214f6d34adcea64be06a7/ro.m3u</link>
-    <thumbnail>https://itigic.com/wp-content/uploads/2019/10/iptv-business.jpg</thumbnail>
-    <fanart>https://itigic.com/wp-content/uploads/2019/10/iptv-business.jpg</fanart>
-</plugin>
+<dir>
+    <name>[COLOR orchid]Â¤ [/COLOR] [B][COLOR white]3D Movies[/COLOR][/B] [COLOR orchid] Â¤[/COLOR]</name>
+    <link>https://bitbucket.org/team-crew/xmls/raw/master/kids/kids_3d/main_3d.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_greyhat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+</dir>
+<dir>
+    <name>[COLOR orchid]Â¤ [/COLOR] [B][COLOR white]24/7 Kids Shows[/COLOR][/B] [COLOR orchid] Â¤[/COLOR]</name>
+    <link>https://bitbucket.org/team-crew/xmls/raw/master/kids/kids_247/main_kids247.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_greyhat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+</dir>
+<dir>
+    <name>[COLOR orchid]Â¤ [/COLOR] [B][COLOR white]1Click Kids[/COLOR][/B] [COLOR orchid] Â¤[/COLOR]</name>
+    <link>https://bitbucket.org/team-crew/xmls/raw/master/kids/kids_oneclick/main_oneclick.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_greyhat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+</dir>
+<dir>
+    <name>[COLOR orchid]Â¤ [/COLOR] [B][COLOR white]Anime Zone[/COLOR][/B] [COLOR orchid] Â¤[/COLOR]</name>
+    <link>https://bitbucket.org/team-crew/xmls/raw/master/kids/kids_anime/main_anime.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_greyhat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+</dir>
+<dir>
+    <name>[COLOR orchid]Â¤ [/COLOR] [B][COLOR white]Walt Disney[/COLOR][/B] [COLOR orchid] Â¤[/COLOR]</name>
+    <link>https://bitbucket.org/team-crew/xmls/raw/master/kids/kids_disney/disney_years/main.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_greyhat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+</dir>
+<dir>
+    <name>[COLOR orchid]Â¤ [/COLOR] [B][COLOR white]Learning TV[/COLOR][/B] [COLOR orchid] Â¤[/COLOR]</name>
+    <link>https://bitbucket.org/team-crew/xmls/raw/master/kids/kids_learning/main_learning.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_greyhat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+</dir>
+<dir>
+    <name>[COLOR orchid]Â¤ [/COLOR] [B][COLOR white]Kids Songs[/COLOR][/B] [COLOR orchid] Â¤[/COLOR]</name>
+    <link>https://bitbucket.org/team-crew/xmls/raw/master/kids/kids_songs/main_songs.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_greyhat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+</dir>
+<dir>
+    <name>[COLOR orchid]Â¤ [/COLOR] [B][COLOR white]Test[/COLOR][/B] [COLOR orchid] Â¤[/COLOR]</name>
+    <link>https://bitbucket.org/team-crew/xmls/raw/master/kids/test.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_greyhat.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+</dir>
