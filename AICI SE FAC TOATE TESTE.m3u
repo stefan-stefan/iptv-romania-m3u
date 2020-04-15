@@ -6,6 +6,13 @@
 </plugin>
 
 <plugin>
+    <title>[B][COLOR blue]>>LISTA>>[/COLOR] [B][COLOR red]>>teste>>[/COLOR] [COLOR yellow]>>stefan<<[/COLOR][/B] [COLOR blue][/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/Valentin-gif/silver-lamp/master/page1.txt</link>
+    <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
+    <fanart>https://www.androidaba.com/wp-content/uploads/2016/04/acestream-sopcast-by-aba.jpg</fanart>
+</plugin>
+
+<plugin>
     <title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR red]LISTA -[COLOR yellow](TEST 2) [/COLOR][/B]</title>
 <link>https://github.com/fotvnetwork/iptv-free/raw/master/Cable.m3u8</link>
     <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
