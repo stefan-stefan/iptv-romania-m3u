@@ -1,6 +1,6 @@
 <plugin>
     <title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR red]LISTA -[COLOR yellow](TEST1) [/COLOR][/B]</title>
-<link>https://github.com/fotvnetwork/iptv-free/blob/master/Cable.m3u8</link>
+<link>https://raw.githubusercontent.com/Valentin-gif/bronze-lamp/master/guide.xml</link>
     <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
     <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
 </plugin>
