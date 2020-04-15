@@ -1,4 +1,10 @@
 <plugin>
+    <title>[B][COLOR blue]>>IPTV>>[/COLOR] [B][COLOR red]>>WORLD>>[/COLOR] [COLOR yellow]>>TV<<[/COLOR][/B] [COLOR blue][/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/hmlendea/iptv-playlist/3b8923c321f54e19e81214f6d34adcea64be06a7/ro.m3u</link>
+    <thumbnail>https://itigic.com/wp-content/uploads/2019/10/iptv-business.jpg</thumbnail>
+    <fanart>https://itigic.com/wp-content/uploads/2019/10/iptv-business.jpg</fanart>
+</plugin>
+<plugin>
     <title>[COLOR yellow]IPTV LIVE[/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/billacablewala/m3u8/183aa56d0e36bc40d244b75b7ae9a334ce47e18d/README.md</link>
     <thumbnail>https://pngimage.net/wp-content/uploads/2018/06/iptv-png-6.png</thumbnail>
