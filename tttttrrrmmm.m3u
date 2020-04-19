@@ -25,13 +25,13 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 #EXTINF:-1 tvg-id="" tvg-name="BBB  20 CAM 11 SD ²" tvg-logo="" group-title="BBB | ALTERNATIVO",TEST STEFAN SD ²
 plugin://plugin.video.live.streamspro/?mode=1&url==[COLOR lime][B]STEFANTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vid.hls.protv.ro/protvnews/protvnews.m3u8?1
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ FHD  ¹" tvg-logo="" group-title="GLOBO | alternativo 2",GLOBO RJ FHD  ¹
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://4tv.site:1935/V34czi/pfEBcR/20275
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]STEFANTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://4tv.site:1935/V34czi/pfEBcR/20275
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ HD  ¹" tvg-logo="" group-title="GLOBO | alternativo 2",GLOBO RJ HD  ¹
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://4tv.site:1935/V34czi/pfEBcR/20276
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]STEFANTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://4tv.site:1935/V34czi/pfEBcR/20276
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ SD ¹" tvg-logo="" group-title="GLOBO | alternativo 2",GLOBO RJ SD ¹
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://4tv.site:1935/V34czi/pfEBcR/20277
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]STEFANTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://4tv.site:1935/V34czi/pfEBcR/20277
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO SP  FHD ¹" tvg-logo="" group-title="GLOBO | alternativo 2",GLOBO SP  FHD ¹
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://4tv.site:1935/V34czi/pfEBcR/20278
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]STEFANTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://4tv.site:1935/V34czi/pfEBcR/20278
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO SP HD ¹" tvg-logo="" group-title="GLOBO | alternativo 2",GLOBO SP HD ¹
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://4tv.site:1935/V34czi/pfEBcR/20279
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO SP HD ³" tvg-logo="" group-title="GLOBO | alternativo 2",GLOBO SP HD ³
