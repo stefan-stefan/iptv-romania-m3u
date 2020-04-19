@@ -5,15 +5,15 @@ http://canais.servidor
 
 
 #EXTINF:-1,TVR 1 *
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]STEFANTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=c850cbbf8e1aef28c5aa746897d61258d22babe1
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]STEFANTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=acestream://c850cbbf8e1aef28c5aa746897d61258d22babe1
 
 
 #EXTINF:-1,TVR 1*
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]STEFAN TV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vid.hls.protv.ro/protvnews/protvnews.m3u8?1
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]STEFAN TV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=sop://185.122.59.8:3912/265011
 
 
 #EXTINF:-1,TVR 1*
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]STEFAN TV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://github.com/stefan-stefan/iptv-romania-m3u/edit/master/tttttrrrmmm.m3u
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]STEFAN TV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=acestream://c850cbbf8e1aef28c5aa746897d61258d22babe1
 
 #EXTINF:-1 tvg-id="" tvg-name=" BRASIL " tvg-logo="https://cld.pt/dl/download/a31e53ca-3048-4f38-bcf0-15796a58ffa6/Brasil.jpg" group-title="",[B][COLOR limegreen]===== BRA[/COLOR][COLOR yellow]SIL [COLOR limegreen][/COLOR][COLOR yellow] =====[/B][/COLOR]
 plugin://plugin.video.f4mTester/?name=RAMALHOTV&streamtype=TSDOWNLOADER&amp;url=http://letmein.fun:8080/s
