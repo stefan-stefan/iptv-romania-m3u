@@ -1,5 +1,7 @@
 #EXTM3U
- 
+ #EXTINF: -1 tvg-id = "" tvg-logo = "https://thetaxtalk.com/wp-content/uploads/2018/01/Latest-Update.png" tvg-logo = "" group- title = "", [B] [COLOR limegreen] [/ COLOR] [COLOR galben] ACTUALIZATA 19.04.2020 [/ COLOR] [COLOR limegreen] [/ B] [/ COLOR ]
+? Plugin: //plugin.video.f4mTester/ name = STEFANTV & streamtype = HLSRETRY & amp; url = http: //orbit-iptv.com: 2500 / viu
+
 #EXTINF:-1, [B][COLOR  yellow] STEFAN-TV[/B][/COLOR]  [B][COLOR lime] LISTA 2020[/B][/COLOR]
 http://canais.servidor
 
