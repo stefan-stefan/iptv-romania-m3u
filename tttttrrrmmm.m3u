@@ -4,7 +4,7 @@
 http://canais.servidor
 
 
-#EXTINF:-1,TVR 1 *
+#EXTINF:-1,TVR TEST *
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]STEFANTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=acestream://c850cbbf8e1aef28c5aa746897d61258d22babe1
 
 
