@@ -1,44 +1,338 @@
-#EXTM3U
- #EXTINF: -1 tvg-id = "" tvg-logo = "https://thetaxtalk.com/wp-content/uploads/2018/01/Latest-Update.png" tvg-logo = "" group- title = "", [B] [COLOR limegreen] [/ COLOR] >[COLOR galben] ACTUALIZATA 19.04.2020 [/ COLOR] <[COLOR limegreen] [/ B] [/ COLOR ]
-? Plugin: //plugin.video.f4mTester/ name = STEFANTV & streamtype = HLSRETRY & amp; url = http: //orbit-iptv.com: 2500 / viu
-
-#EXTINF:-1, [B][COLOR  yellow] STEFAN-TV[/B][/COLOR]  [B][COLOR lime] LISTA 2020[/B][/COLOR]
-http://canais.servidor
-
-
-#EXTINF:-1,TVR TEST *
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]STEFANTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=acestream://c850cbbf8e1aef28c5aa746897d61258d22babe1
-
-
-#EXTINF:-1,TVR 1*
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]STEFAN TV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=sop://185.122.59.8:3912/265011
-
-
-#EXTINF:-1,TVR 1*
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]STEFAN TV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=acestream://c850cbbf8e1aef28c5aa746897d61258d22babe1
-
-#EXTINF:-1 tvg-id="" tvg-name=" BRASIL " tvg-logo="https://cld.pt/dl/download/a31e53ca-3048-4f38-bcf0-15796a58ffa6/Brasil.jpg" group-title="",[B][COLOR limegreen]===== BRA[/COLOR][COLOR yellow]SIL [COLOR limegreen][/COLOR][COLOR yellow] =====[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=RAMALHOTV&streamtype=TSDOWNLOADER&amp;url=http://letmein.fun:8080/s
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/dced6044-624e-462e-9299-f08cc7c02a6a/actualizado.jpg" tvg-logo="" group-title="",[B][COLOR limegreen]===== [/COLOR][COLOR yellow] ATUALIZADO EM 10.04.2020[/COLOR][COLOR limegreen] =====[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=RAMALHOTV&streamtype=HLSRETRY&amp;url=http://orbit-iptv.com:2500/live
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
- 
-#EXTINF:-1 tvg-id="" tvg-name="BBB  20 CAM 11 SD ²" tvg-logo="" group-title="BBB | ALTERNATIVO",TEST STEFAN SD ²
-plugin://plugin.video.live.streamspro/?mode=1&url==[COLOR lime][B]STEFANTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vid.hls.protv.ro/protvnews/protvnews.m3u8?1
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ FHD  ¹" tvg-logo="" group-title="GLOBO | alternativo 2",GLOBO RJ FHD  ¹
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]STEFANTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://4tv.site:1935/V34czi/pfEBcR/20275
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ HD  ¹" tvg-logo="" group-title="GLOBO | alternativo 2",GLOBO RJ HD  ¹
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]STEFANTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://4tv.site:1935/V34czi/pfEBcR/20276
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ SD ¹" tvg-logo="" group-title="GLOBO | alternativo 2",GLOBO RJ SD ¹
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]STEFANTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://4tv.site:1935/V34czi/pfEBcR/20277
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP  FHD ¹" tvg-logo="" group-title="GLOBO | alternativo 2",GLOBO SP  FHD ¹
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]STEFANTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://4tv.site:1935/V34czi/pfEBcR/20278
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP HD ¹" tvg-logo="" group-title="GLOBO | alternativo 2",GLOBO SP HD ¹
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://4tv.site:1935/V34czi/pfEBcR/20279
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP HD ³" tvg-logo="" group-title="GLOBO | alternativo 2",GLOBO SP HD ³
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://4tv.site:1935/V34czi/pfEBcR/20280
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP SD ³" tvg-logo="" group-title="GLOBO | alternativo 2",GLOBO SP SD ³
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://4tv.site:1935/V34czi/pfEBcR/20281
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO AMAZONAS HD ³" tvg-logo="" group-title="Canais | Alternativos+",GLOBO AMAZONAS HD ³
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://4tv.site:1935/V34czi/pfEBcR/20282
+﻿<favorite>
+	<item id="108790">
+		<name>
+      [RO] - IMPACT TV
+    </name>
+		<address>
+			sop://185.224.90.82:3912/108790
+		</address>
+	</item>
+  <item id="256338">
+    <name>
+      [RO] - PRO TV
+    </name>
+    <address>
+      sop://broker.sopcast.com:3912/256338
+    </address>
+  </item>
+  <item id="264939">
+    <name>
+      [RO] - TVR1
+    </name>
+    <address>
+      sop://broker.sopcast.com:3912/264939
+    </address>
+  </item>
+  <item id="265031">
+    <name>
+      [RO] - BOOMERANG
+    </name>
+    <address>
+      sop://broker.sopcast.com:3912/265031
+    </address>
+  </item>
+  <item id="253031">
+    <name>
+      [RO] - DISNEY CHANNEL
+    </name>
+    <address>
+      sop://broker.sopcast.com:3912/253031
+    </address>
+  </item>
+  <item id="253472">
+    <name>
+      [RO] - NICKELODEON
+    </name>
+    <address>
+      sop://broker.sopcast.com:3912/253472
+    </address>
+  </item>
+  <item id="148254">
+    <name>
+      [RO] - CARTOON NETWORK
+    </name>
+    <address>
+      sop://broker.sopcast.com:3912/148254
+    </address>
+  </item>
+  <item id="265067">
+    <name>
+      [RO] - HBO2 HD
+    </name>
+    <address>
+      sop://broker.sopcast.com:3912/265067
+    </address>
+  </item>
+  <item id="265096">
+    <name>
+      [RO] - HBO3
+    </name>
+    <address>
+      sop://broker.sopcast.com:3912/265096
+    </address>
+  </item>
+  <item id="149257">
+    <name>
+      [RO] - ANTENA1 HD
+    </name>
+    <address>
+      sop://broker.sopcast.com:3912/149257
+    </address>
+  </item>
+  <item id="148084">
+    <name>
+      [RO] - ANTENA3
+    </name>
+    <address>
+      sop://broker.sopcast.com:3912/148084
+    </address>
+  </item>
+  <item id="149256">
+    <name>
+      [RO] - PRO2
+    </name>
+    <address>
+      sop://broker.sopcast.com:3912/149256
+    </address>
+  </item>
+  <item id="253471">
+    <name>
+      [RO] - PRO GOLD
+    </name>
+    <address>
+      sop://broker.sopcast.com:3912/253471
+    </address>
+  </item>
+  <item id="148249">
+    <name>
+      [RO] - PRO CINEMA
+    </name>
+    <address>
+      sop://broker.sopcast.com:3912/148249
+    </address>
+  </item>
+  <item id="264942">
+    <name>
+      [RO] - KANAL D
+    </name>
+    <address>
+      sop://broker.sopcast.com:3912/264942
+    </address>
+  </item>
+  <item id="148881">
+    <name>
+      [RO] - TV PAPRIKA
+    </name>
+    <address>
+      sop://broker.sopcast.com:3912/148881
+    </address>
+  </item>
+  <item id="256243">
+    <name>
+      [RO] - DISCOVERY SCIENCE
+    </name>
+    <address>
+      sop://broker.sopcast.com:3912/256243
+    </address>
+  </item>
+  <item id="265011">
+    <name>
+      [RO] - CINEMAX
+    </name>
+    <address>
+      sop://broker.sopcast.com:3912/265011
+    </address>
+  </item>
+  <item id="265012">
+    <name>
+      [RO] - CINEMAX2
+    </name>
+    <address>
+      sop://broker.sopcast.com:3912/265012
+    </address>
+  </item>
+  <item id="256241">
+    <name>
+      [RO] - DISCOVERY
+    </name>
+    <address>
+      sop://broker.sopcast.com:3912/256241
+    </address>
+  </item>
+  <item id="265075">
+    <name>
+      [RO] - INVESTIGATION DISCOVERY
+    </name>
+    <address>
+      sop://broker.sopcast.com:3912/265075
+    </address>
+  </item>
+  <item id="256238">
+    <name>
+      [RO] - FILM CAFE
+    </name>
+    <address>
+      sop://broker.sopcast.com:3912/256238
+    </address>
+  </item>
+  <item id="264995">
+    <name>
+      [RO] - DIVA
+    </name>
+    <address>
+      sop://broker.sopcast.com:3912/264995
+    </address>
+  </item>
+  <item id="265004">
+    <name>
+      [RO] - AXN BLACK
+    </name>
+    <address>
+      sop://broker.sopcast.com:3912/265004
+    </address>
+  </item>
+  <item id="265006">
+    <name>
+      [RO] - AXN WHITE
+    </name>
+    <address>
+      sop://broker.sopcast.com:3912/265006
+    </address>
+  </item>
+  <item id="265004">
+    <name>
+      [RO] - AXN
+    </name>
+    <address>
+      sop://broker.sopcast.com:3912/265004
+    </address>
+  </item>
+  <item id="148256">
+    <name>
+      [RO] - TLC
+    </name>
+    <address>
+      sop://broker.sopcast.com:3912/148256
+    </address>
+  </item>
+  <item id="265074">
+    <name>
+      [RO] - HISTORY CHANNEL
+    </name>
+    <address>
+      sop://broker.sopcast.com:3912/265074
+    </address>
+  </item>
+  <item id="265077">
+    <name>
+      [RO] - NATIONAL GEOGHRAPHIC
+    </name>
+    <address>
+      sop://broker.sopcast.com:3912/265077
+    </address>
+  </item>
+  <item id="265078">
+    <name>
+      [RO] - NATIONAL GEOGHRAPHIC WILD
+    </name>
+    <address>
+      sop://broker.sopcast.com:3912/265078
+    </address>
+  </item>
+  <item id="148258">
+    <name>
+      [RO] - ROMANIA TV
+    </name>
+    <address>
+      sop://broker.sopcast.com:3912/148258
+    </address>
+  </item>
+  <item id="148255">
+    <name>
+      [RO] - ANTENA STARS
+    </name>
+    <address>
+      sop://broker.sopcast.com:3912/148255
+    </address>
+  </item>
+  <item id="263344">
+    <name>
+      [RO] - PRO TV HD [SV-2]
+    </name>
+    <address>
+      sop://broker.sopcast.com:3912/263344
+    </address>
+  </item>
+  <item id="265013">
+    <name>
+      [RO] - DIGISPORT1
+    </name>
+    <address>
+      sop://broker.sopcast.com:3912/265013
+    </address>
+  </item>
+  <item id="265060">
+    <name>
+      [RO] - ZU TV
+    </name>
+    <address>
+      sop://broker.sopcast.com:3912/265060
+    </address>
+  </item>
+  <item id="264977">
+    <name>
+      [RO] - FAVORIT TV
+    </name>
+    <address>
+      sop://broker.sopcast.com:3912/264977
+    </address>
+  </item>
+  <item id="264954">
+    <name>
+      [RO] - B1 TV
+    </name>
+    <address>
+      sop://broker.sopcast.com:3912/264954
+    </address>
+  </item>
+  <item id="000000">
+    <name>
+      [RO] - COMEDY CENTRAL
+    </name>
+    <address>
+      sop://broker.sopcast.com:3912/000000
+    </address>
+  </item>
+  <item id="000000">
+    <name>
+      [RO] - HISTORY VIASAT
+    </name>
+    <address>
+      sop://broker.sopcast.com:3912/000000
+    </address>
+  </item>
+  <item id="000000">
+    <name>
+      [RO] - HAPPY
+    </name>
+    <address>
+      sop://broker.sopcast.com:3912/000000
+    </address>
+  </item>
+  <item id="000000">
+    <name>
+      [RO] - HBO
+    </name>
+    <address>
+      sop://broker.sopcast.com:3912/000000
+    </address>
+  </item>
+  <item id="000000">
+    <name>
+      [RO] - MINIMAX
+    </name>
+    <address>
+      sop://broker.sopcast.com:3912/000000
+    </address>
+  </item>
+</favorite>
