@@ -23,7 +23,7 @@ plugin://plugin.video.f4mTester/?name=RAMALHOTV&streamtype=HLSRETRY&amp;url=http
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
  
 #EXTINF:-1 tvg-id="" tvg-name="BBB  20 CAM 11 SD ²" tvg-logo="" group-title="BBB | ALTERNATIVO",BBB  20 CAM 11 SD ²
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://4tv.site:1935/V34czi/pfEBcR/20274
+plugin://plugin.video.live.streamspro/?mode=1&url==[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://4tv.site:1935/V34czi/pfEBcR/20274
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ FHD  ¹" tvg-logo="" group-title="GLOBO | alternativo 2",GLOBO RJ FHD  ¹
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://4tv.site:1935/V34czi/pfEBcR/20275
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ HD  ¹" tvg-logo="" group-title="GLOBO | alternativo 2",GLOBO RJ HD  ¹
