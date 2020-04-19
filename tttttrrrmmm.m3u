@@ -13,4 +13,4 @@ plugin://plugin.video.f4mTester/?name=[COLOR lime][B]STEFAN TV[/B][/COLOR]&strea
 
 
 #EXTINF:-1,TVR 1*
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]STEFAN TV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=acestream://c850cbbf8e1aef28c5aa746897d61258d22babe1
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]STEFAN TV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://github.com/stefan-stefan/iptv-romania-m3u/edit/master/tttttrrrmmm.m3u
