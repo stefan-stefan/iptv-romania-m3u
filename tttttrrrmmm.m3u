@@ -1,0 +1,16 @@
+#EXTM3U
+ 
+#EXTINF:-1, [B][COLOR  yellow] STEFAN-TV[/B][/COLOR]  [B][COLOR lime] LISTA 2020[/B][/COLOR]
+http://canais.servidor
+
+
+#EXTINF:-1,TVR 1 *
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]STEFANTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=c850cbbf8e1aef28c5aa746897d61258d22babe1
+
+
+#EXTINF:-1,TVR 1*
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]STEFAN TV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vid.hls.protv.ro/protvnews/protvnews.m3u8?1
+
+
+#EXTINF:-1,TVR 1*
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]STEFAN TV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=acestream://c850cbbf8e1aef28c5aa746897d61258d22babe1
