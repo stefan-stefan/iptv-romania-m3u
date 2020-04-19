@@ -1,5 +1,5 @@
 ﻿<favorite>
-	<item id="108790">
+	<item> id="108790">
 		<name>
       [RO] - IMPACT TV
     </name>
@@ -7,7 +7,7 @@
 			sop://185.224.90.82:3912/108790
 		</address>
 	</item>
-  <item id="256338">
+  <item> id="256338">
     <name>
       [RO] - PRO TV
     </name>
