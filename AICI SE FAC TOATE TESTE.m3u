@@ -11,6 +11,14 @@
     <fanart>https://ak4.picdn.net/shutterstock/videos/2598164/thumb/10.jpg</fanart>
 </plugin>
 
+
+<plugin>
+    <title>[COLOR blue][/COLOR] [B][COLOR blue]IPTV[/COLOR] [COLOR blue]PORTUGAL(2)[/COLOR][/B] [COLOR blue][/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/jnk22/kodinerds-iptv/dc153a9ddad4c01f0c254fa54f8ae48c89efd72b/iptv/kodi/kodi.m3u</link>
+    <thumbnail>https://ak4.picdn.net/shutterstock/videos/2598164/thumb/10.jpg</thumbnail>
+    <fanart>https://ak4.picdn.net/shutterstock/videos/2598164/thumb/10.jpg</fanart>
+</plugin>
+
 <plugin>
 <name>F4M Test</name>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yacine-tvapk.ddns.net:7777/live/arrryacinee5111/arrryacinee5111/93.ts
