@@ -6,12 +6,13 @@
 </dir>
 
 
-<item>
-    <title>[B][COLOR blue]>>LISTA>>[/COLOR] [B][COLOR red]>>teste>>[/COLOR] [COLOR yellow]>>stefan<<[/COLOR][/B] [COLOR blue][/COLOR]</title>
-    <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/.gitignore/stefan1.m3u</link>
-    <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
-    <fanart>https://www.androidaba.com/wp-content/uploads/2016/04/acestream-sopcast-by-aba.jpg</fanart>
-</item>
+plugin>
+<name>F4M Test</name>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=Add Your Link Here</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<summary></summary>
+</plugin>
 
 
 
