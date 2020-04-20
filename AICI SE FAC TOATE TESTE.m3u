@@ -4,7 +4,12 @@
     <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
     <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
 </dir>
-
+<plugin>
+    <title>[COLOR blue][/COLOR] [B][COLOR blue]IPTV[/COLOR] [COLOR blue]PORTUGAL(2)[/COLOR][/B] [COLOR blue][/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/Valentin-gif/silver-lamp/master/page1.txt</link>
+    <thumbnail>https://ak4.picdn.net/shutterstock/videos/2598164/thumb/10.jpg</thumbnail>
+    <fanart>https://ak4.picdn.net/shutterstock/videos/2598164/thumb/10.jpg</fanart>
+</plugin>
 
 <plugin>
 <name>F4M Test</name>
