@@ -6,6 +6,20 @@
 </dir>
 
 <plugin>
+    <title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR red]TV[COLOR yellow]ROMANIA[/COLOR][/B]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/stefan-stefan/filme-online/master/.gitignore/stefan1.m3u</link>
+    <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
+    <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
+</plugin>
+
+<item>
+    <title>[B][COLOR blue]>>LISTA>>[/COLOR] [B][COLOR red]>>teste>>[/COLOR] [COLOR yellow]>>stefan<<[/COLOR][/B] [COLOR blue][/COLOR]</title>
+    <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/.gitignore/stefan1.m3u</link>
+    <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
+    <fanart>https://www.androidaba.com/wp-content/uploads/2016/04/acestream-sopcast-by-aba.jpg</fanart>
+</item>
+
+<plugin>
     <title>[B][COLOR blue]>>LISTA>>[/COLOR] [B][COLOR red]>>teste>>[/COLOR] [COLOR yellow]>>stefan<<[/COLOR][/B] [COLOR blue][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/XjCWv8Xe</link>
     <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
@@ -20,9 +34,4 @@
 </plugin>
 
 
-<item>
-    <title>[B][COLOR blue]>>LISTA>>[/COLOR] [B][COLOR red]>>teste>>[/COLOR] [COLOR yellow]>>stefan<<[/COLOR][/B] [COLOR blue][/COLOR]</title>
-    <link>http://database.freetuxtv.net/playlists/list?format=xml</link>
-    <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
-    <fanart>https://www.androidaba.com/wp-content/uploads/2016/04/acestream-sopcast-by-aba.jpg</fanart>
-</item>
+
