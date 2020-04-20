@@ -21,8 +21,8 @@
 </plugin>
 
 <plugin>
-<name>F4M Test</name>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://edge30.rcs-rds.ro/V4-6561048-71aedcf4d8360706f805b689864d3375-1501286594-0-1585552688-507-digi24/digi24/digi24hd.stream/chunklist.m3u8</link>
+<name> Test</name>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://raw.githubusercontent.com/viruslove90/hosamaldin/ef9c89255b5331eb5d05e848a8bf8d5f95d02a6d/airmaxall.m3u</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <summary></summary>
