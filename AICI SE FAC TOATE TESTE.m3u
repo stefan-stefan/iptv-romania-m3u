@@ -13,7 +13,8 @@
 
 <plugin>
 <name>F4M Test</name>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://raw.githubusercontent.com/Valentin-gif/silver-lamp/master/page1.txt</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yacine-tvapk.ddns.net:7777/live/arrryacinee5111/arrryacinee5111/93.ts
+</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <summary></summary>
