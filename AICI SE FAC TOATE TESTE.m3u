@@ -19,8 +19,8 @@
 </plugin>
 
 <plugin>
-<name>antena 1(test,ace)</name>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=sop://185.122.59.8:3912/265011</link>
+<name>axn(test,ace)</name>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=0c47eb2e34b5a0d95fef8ae350d2edf7789f7557</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <summary></summary>
