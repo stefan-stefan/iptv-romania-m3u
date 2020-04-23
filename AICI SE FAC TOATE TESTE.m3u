@@ -19,8 +19,8 @@
 </plugin>
 
 <plugin>
-<name>F4M Test</name>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://raw.githubusercontent.com/Valentin-gif/bronze-lamp/master/guide.xml</link>
+<name>antena 1(test,ace)</name>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=04f6f08e0fefcee081fdc9a4c98cef797659b9bf</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <summary></summary>
