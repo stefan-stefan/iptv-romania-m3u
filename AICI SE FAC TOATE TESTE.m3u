@@ -28,7 +28,7 @@
 
 <plugin>
 <name> Test</name>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://raw.githubusercontent.com/viruslove90/hosamaldin/ef9c89255b5331eb5d05e848a8bf8d5f95d02a6d/airmaxall.m3u</link>
+<link>plugin://plugin.video.Stefan Pugin/?streamtype=TSDOWNLOADER&amp;url=https://raw.githubusercontent.com/viruslove90/hosamaldin/ef9c89255b5331eb5d05e848a8bf8d5f95d02a6d/airmaxall.m3u</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <summary></summary>
