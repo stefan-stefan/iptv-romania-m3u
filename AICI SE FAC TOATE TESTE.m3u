@@ -26,6 +26,15 @@
 <summary></summary>
 </plugin>
 
+
+<plugin>
+<name>LISTA ACESTREAM</name>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://raw.githubusercontent.com/stefan-stefan/filme-online/master/f4mTester.m3u</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<summary></summary>
+</plugin>
+
 <plugin>
 <name> ANTENA 1 Test</name>
 <link>plugin://plugin.video.Stefan Pugin/?streamtype=STEFANPLUGIN&amp;url=http://127.0.0.1:6878/ace/getstream?id=04f6f08e0fefcee081fdc9a4c98cef797659b9bf</link>
