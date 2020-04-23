@@ -27,8 +27,8 @@
 </plugin>
 
 <plugin>
-<name> Test</name>
-<link>plugin://plugin.video.Stefan Pugin/?streamtype=TSDOWNLOADER&amp;url=https://raw.githubusercontent.com/viruslove90/hosamaldin/ef9c89255b5331eb5d05e848a8bf8d5f95d02a6d/airmaxall.m3u</link>
+<name> ANTENA 1 Test</name>
+<link>plugin://plugin.video.Stefan Pugin/?streamtype=STEFANPLUGIN&amp;url=http://127.0.0.1:6878/ace/getstream?id=04f6f08e0fefcee081fdc9a4c98cef797659b9bf</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <summary></summary>
