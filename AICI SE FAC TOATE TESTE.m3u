@@ -37,7 +37,7 @@
 
 <plugin>
 <name> ANTENA 1 Test</name>
-<link>plugin://plugin.video.Stefan Pugin/?streamtype=STEFANPLUGIN&amp;url=http://127.0.0.1:6878/ace/getstream?id=04f6f08e0fefcee081fdc9a4c98cef797659b9bf</link>
+<link>plugin://plugin.video.Stefan Pugin/?streamtype=STEFANPLUGIN&amp;url=http://127.0.0.1:6878/ace/getstream?id=0c47eb2e34b5a0d95fef8ae350d2edf7789f7557</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <summary></summary>
