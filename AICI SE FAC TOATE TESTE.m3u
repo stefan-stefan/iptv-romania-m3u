@@ -11,38 +11,27 @@
     <fanart>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</fanart>
 </plugin>
 
-<plugin>
-    <title>[COLOR blue][/COLOR] [B][COLOR blue]LISTA [/COLOR] [COLOR blue]TV[/COLOR][/B] [COLOR yellow](TEST ACESTREAM)[/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/Q756VtVX</link>
-    <thumbnail>https://i.dlpng.com/static/png/6534137_preview.png</thumbnail>
-    <fanart>https://www.ems-events.co.uk/wp-content/uploads/2019/02/No-Sound-No-Visuals.jpg</fanart>
-</plugin>
 
-
-<plugin>
-<name>axn(test,ace)</name>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=0c47eb2e34b5a0d95fef8ae350d2edf7789f7557</link>
-<thumbnail></thumbnail>
+<dir>
+<title>[COLORgreen][B]Ghost Tavern[/COLOR][/B]</title>
+<link>http://www.ezzer-mac.com/frank/ghost/ghostxmls/xmls1/main2.xml</link>
+<thumbnail>https://i.imgur.com/LEbuEJf.png</thumbnail>
 <fanart></fanart>
-<summary></summary>
-</plugin>
+</dir>
 
-
-<plugin>
-<name>LISTA ACESTREAM</name>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://raw.githubusercontent.com/stefan-stefan/filme-online/master/f4mTester.m3u</link>
-<thumbnail></thumbnail>
+<dir>
+<title>[COLORgreen][B]Wasteland[/COLOR][/B]</title>
+<link>https://pastebin.com/raw/v0jE0LDn</link>
+<thumbnail>https://i.imgur.com/4CtD7sP.png</thumbnail>
 <fanart></fanart>
-<summary></summary>
-</plugin>
+</dir>
 
-<plugin>
-<name> ANTENA 1 Test</name>
-<link>plugin://plugin.video.Stefan Pugin/?streamtype=STEFANPLUGIN&amp;url=http://127.0.0.1:6878/ace/getstream?id=0c47eb2e34b5a0d95fef8ae350d2edf7789f7557</link>
-<thumbnail></thumbnail>
+<dir>
+<title>[COLORgreen][B]SHHHH!! (ADULTS ONLY)[/B][/COLOR]</title>
+<link>https://pastebin.com/raw/Kty5Nixp</link>
+<thumbnail>https://i.imgur.com/L8vFawA.png</thumbnail>
 <fanart></fanart>
-<summary></summary>
-</plugin>
+</dir>
 
 
 
