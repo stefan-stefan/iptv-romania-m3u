@@ -6,7 +6,7 @@
 </dir>
 <plugin>
     <title>[COLOR blue][/COLOR] [B][COLOR blue]LISTA ACESTREAM [/COLOR] [COLOR blue][/COLOR][/B] [COLOR yellow] (Test)/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/Valentin-gif/silver-lamp/master/page1.txt</link>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=</link>
     <thumbnail>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</thumbnail>
     <fanart>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</fanart>
 </plugin>
