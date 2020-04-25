@@ -12,26 +12,19 @@
 </plugin>
 
 
-<dir>
-<title>[COLORgreen][B]Ghost Tavern[/COLOR][/B]</title>
-<link>http://www.ezzer-mac.com/frank/ghost/ghostxmls/xmls1/main2.xml</link>
-<thumbnail>https://i.imgur.com/LEbuEJf.png</thumbnail>
-<fanart></fanart>
-</dir>
+<plugin>
+    <title>[B][COLOR red][COLOR yellow][COLOR darkblue][COLOR blue]LISTA TV [COLOR yellow](Update 25-04-2020) [/COLOR][/B]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/dNbRns0Z</link>
+    <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
+    <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
+</plugin>
 
-<dir>
-<title>[COLORgreen][B]Wasteland[/COLOR][/B]</title>
-<link>https://pastebin.com/raw/v0jE0LDn</link>
-<thumbnail>https://i.imgur.com/4CtD7sP.png</thumbnail>
-<fanart></fanart>
-</dir>
-
-<dir>
-<title>[COLORgreen][B]SHHHH!! (ADULTS ONLY)[/B][/COLOR]</title>
-<link>https://pastebin.com/raw/Kty5Nixp</link>
-<thumbnail>https://i.imgur.com/L8vFawA.png</thumbnail>
-<fanart></fanart>
-</dir>
+<plugin>
+    <title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR blue]LISTA TV (kokosh)-[COLOR yellow](Update 22-04-2020) [/COLOR][/B]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/GbVFnhzs</link>
+    <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
+    <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
+</plugin>
 
 
 
