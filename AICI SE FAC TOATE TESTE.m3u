@@ -6,7 +6,7 @@
 </dir>
 <plugin>
     <title>[COLOR blue][/COLOR] [B][COLOR blue]LISTA ACESTREAM [/COLOR] [COLOR blue][/COLOR][/B] [COLOR yellow] (Test)/COLOR]</title>
-    <link>https://pastebin.com/raw/dNbRns0Z</link>
+    <link>https://pastebin.com/raw/3ayxnw9H</link>
     <thumbnail>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</thumbnail>
     <fanart>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</fanart>
 </plugin>
@@ -14,17 +14,12 @@
 
 <plugin>
     <title>[B][COLOR red][COLOR yellow][COLOR darkblue][COLOR blue]LISTA TV [COLOR yellow](Update 25-04-2020) [/COLOR][/B]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/dNbRns0Z</link>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/3ayxnw9H</link>
     <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
     <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
 </plugin>
 
-<plugin>
-    <title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR blue]LISTA TV (kokosh)-[COLOR yellow](Update 22-04-2020) [/COLOR][/B]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/GbVFnhzs</link>
-    <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
-    <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
-</plugin>
+
 
 
 
