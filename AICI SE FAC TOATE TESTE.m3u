@@ -13,8 +13,8 @@
 
 
 <plugin>
-    <title>[B][COLOR red][COLOR yellow][COLOR darkblue][COLOR blue]LISTA TV [COLOR yellow](Update 25-04-2020) [/COLOR][/B]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://gitlab.com/stefanpescaru73/test</link>
+    <title>[B][COLOR red][COLOR yellow][COLOR darkblue][COLOR blue]LISTA ttttttt [COLOR yellow](Update 25-04-2020) [/COLOR][/B]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://gitlab.com/stefanpescaru73/test/-/blob/master/test.m3u</link>
     <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
     <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
 </plugin>
@@ -22,7 +22,7 @@
 
 <plugin>
     <title>[B][COLOR red][COLOR yellow][COLOR darkblue][COLOR blue]LISTA TV [COLOR yellow](Update 25-04-2020) [/COLOR][/B]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/3ayxnw9H</link>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://gitlab.com/stefanpescaru73/test/-/blob/master/test.m3u</link>
     <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
     <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
 </plugin>
