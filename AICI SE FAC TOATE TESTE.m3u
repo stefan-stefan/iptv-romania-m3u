@@ -1,12 +1,12 @@
 <dir>
     <title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR red]LISTA -[COLOR yellow](TEST1) [/COLOR][/B]</title>
-<link>https://pastebin.com/raw/dNbRns0Z</link>
+<link>https://raw.githubusercontent.com/freetuxtv/freetuxtv/master/data/channels_groups.xml</link>
     <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
     <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
 </dir>
 <plugin>
     <title>[COLOR blue][/COLOR] [B][COLOR blue]LISTA TESTTT [/COLOR] [COLOR blue][/COLOR][/B] [COLOR yellow] (Tkkkst)/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://gitlab.com/Jhon3426/QUA/-/blob/master/listatop.txt</link>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/freetuxtv/freetuxtv/master/data/channels_groups.xml</link>
     <thumbnail>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</thumbnail>
     <fanart>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</fanart>
 </plugin>
@@ -14,7 +14,7 @@
 
 <plugin>
     <title>[B][COLOR red][COLOR yellow][COLOR darkblue][COLOR blue]LISTA ttttttt [COLOR yellow](Update 25-04-2020) [/COLOR][/B]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://gitlab.com/stefanpescaru73/test/-/blob/master/test.m3u</link>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/freetuxtv/freetuxtv/master/data/channels_groups.xml</link>
     <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
     <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
 </plugin>
