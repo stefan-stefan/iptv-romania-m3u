@@ -21,11 +21,19 @@
 
 
 <item>
-<title>[COLOR gold][B]**WORLD TV**[/B][/COLOR]</title>
-<link>http://ignora.me</link>
-<jsonrpc>plugin://script.module.swiftstreamz/</jsonrpc>
-<thumbnail>http://steptoesplace.net/lot/LIVETV.png</thumbnail>
-<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+<title>[COLOR blue][B]Fluxus Movies And Shows[/B][/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/fluxustv/IPTV/master/cinema.m3u</externallink>
+<link>https://raw.githubusercontent.com/fluxustv/IPTV/master/cinema.m3u</link>
+<thumbnail>http://mavericktv.net/data/iptvicon.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR blue][B]AceStream IPTV[/B][/COLOR]</title>
+<link>http://mavericktv.net/data/livetv/acetest.xml</link>
+<externallink>http://mavericktv.net/data/livetv/acetest.xml</externallink>
+<thumbnail>http://mavericktv.net/data/iptvicon.png</thumbnail>
+<fanart></fanart>
 </item>
 
 
