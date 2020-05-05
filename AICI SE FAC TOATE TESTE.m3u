@@ -13,7 +13,7 @@
 
 <plugin>
     <title>[COLOR blue][/COLOR] [B][COLOR blue]LISTA TESTTT [/COLOR] [COLOR blue][/COLOR][/B] [COLOR yellow] (Tkkkst)/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/HAMiH/amigo-tv/master/Beinsports1.m3u</link>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/vandfan69/iptv/aad05f54450476db1054d95ddef0ac6a048c0675/iptvlist</link>
     <thumbnail>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</thumbnail>
     <fanart>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</fanart>
 </plugin>
