@@ -19,10 +19,10 @@
 </plugin>
 
 <plugin>
-    <title>[COLOR blue][/COLOR] [B][COLOR blue]LISTA TESTTT [/COLOR] [COLOR blue][/COLOR][/B] [COLOR yellow] (Tkkkst)/COLOR]</title>
+    <title>[COLOR blue][/COLOR] [B][COLOR blue]Netflix[/COLOR] [COLOR blue][/COLOR][/B] [COLOR yellow] (TEST)/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/HAMiH/amigo-tv/master/Netfilx.m3u</link>
-    <thumbnail>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</thumbnail>
-    <fanart>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</fanart>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Netflix-new-icon.png/768px-Netflix-new-icon.png</thumbnail>
+    <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Netflix-new-icon.png/768px-Netflix-new-icon.png</fanart>
 </plugin>
 
  
