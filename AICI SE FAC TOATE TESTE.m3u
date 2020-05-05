@@ -1,6 +1,6 @@
 <dir>
     <title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR red]LISTA -[COLOR yellow](TEST1) [/COLOR][/B]</title>
-<link>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/eb0e07fbe095924c3fcc7c6fb0070385ab7e4f8f/iptv/kodi/kodi_tv.m3u</link>
+<link>https://raw.githubusercontent.com/freetuxtv/freetuxtv/master/data/channels_groups.xml</link>
     <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
     <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
 </dir>
@@ -22,7 +22,7 @@
 
 <plugin>
     <title>[B][COLOR red][COLOR yellow][COLOR darkblue][COLOR blue]LISTA TV [COLOR yellow](Update 25-04-2020) [/COLOR][/B]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/jnk22/kodinerds-iptv/eb0e07fbe095924c3fcc7c6fb0070385ab7e4f8f/iptv/kodi/kodi.m3u</link>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/freetuxtv/freetuxtv/master/data/channels_groups.xml</link>
     <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
     <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
 </plugin>
