@@ -20,12 +20,13 @@
 </plugin>
 
 
-<plugin>
-    <title>[B][COLOR red][COLOR yellow][COLOR darkblue][COLOR blue]LISTA TV [COLOR yellow](Update 25-04-2020) [/COLOR][/B]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/freetuxtv/freetuxtv/master/data/channels_groups.xml</link>
-    <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
-    <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
-</plugin>
+<item>
+<title>[COLOR gold][B]**WORLD TV**[/B][/COLOR]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://script.module.swiftstreamz/</jsonrpc>
+<thumbnail>http://steptoesplace.net/lot/LIVETV.png</thumbnail>
+<fanart>https://euroiptv.000webhostapp.com/loGo/fanart.jpg</fanart>
+</item>
 
 
 
