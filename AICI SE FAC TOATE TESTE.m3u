@@ -13,7 +13,7 @@
 
 <plugin>
     <title>[COLOR blue][/COLOR] [B][COLOR blue]LISTA TESTTT [/COLOR] [COLOR blue][/COLOR][/B] [COLOR yellow] (Tkkkst)/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/Pablo-Angel/freetvonline/a5820225e5cd3e62de3389ebfde1ee07554e7e8b/gasca.m3u</link>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/OviMuse/SIPTV/2b6287b987c8fc04f18f44aaff87c0461a958a3f/SiPTV</link>
     <thumbnail>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</thumbnail>
     <fanart>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</fanart>
 </plugin>
