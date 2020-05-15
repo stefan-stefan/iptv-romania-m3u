@@ -20,7 +20,7 @@
 
 <plugin>
     <title>[COLOR blue][/COLOR] [B][COLOR blue]Netflix[/COLOR] [COLOR blue][/COLOR][/B] [COLOR yellow] (TEST)/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/HAMiH/amigo-tv/master/Netfilx.m3u</link>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/stefan-stefan/filme-online/master/ADILISTA.m3u</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Netflix-new-icon.png/768px-Netflix-new-icon.png</thumbnail>
     <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Netflix-new-icon.png/768px-Netflix-new-icon.png</fanart>
 </plugin>
