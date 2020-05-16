@@ -11,6 +11,21 @@
     <url>http://www.program24.ro</url>
   </channel>
 </plugin>
+<plugin>
+  <channel id="PRO X">
+    <display-name lang="ro">PRO X</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+</plugin>
+<plugin>
+  <channel id="PRO X">
+    <display-name lang="ro">PRO X</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+</plugin>
+
+
+
 
 **********************
 
