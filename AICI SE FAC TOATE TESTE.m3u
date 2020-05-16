@@ -4,6 +4,16 @@
     <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
     <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
 </dir>
+*******************************
+<item>
+  <channel id="PRO X">
+    <display-name lang="ro">PRO X</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+</item>
+
+**********************
+
 <plugin>
     <title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR red]LISTA -[COLOR yellow](TEST1) [/COLOR][/B]</title>
 <link>https://raw.githubusercontent.com/HAMiH/amigo-tv/master/Beinsports1.m3u</link>
