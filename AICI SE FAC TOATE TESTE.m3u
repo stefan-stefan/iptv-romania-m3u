@@ -1,48 +1,31 @@
 <dir>
     <title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR red]LISTA -[COLOR yellow](TEST1) [/COLOR][/B]</title>
-<link>https://github.com/LCBO/hddlinks/blob/148446c07b38ce0099bbe615a158abc85929b262/tv/tv_rom3.rss</link>
+<link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/test.m3u</link>
     <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
     <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
 </dir>
 *******************************
-<plugin>
-  <channel id="PRO X">
-    <display-name lang="ro">PRO X</display-name>
-    <url>http://www.program24.ro</url>
-  </channel>
-</plugin>
-<plugin>
-  <channel id="PRO X">
-    <display-name lang="ro">PRO X</display-name>
-    <url>http://www.program24.ro</url>
-  </channel>
-</plugin>
-<plugin>
-  <channel id="PRO X">
-    <display-name lang="ro">PRO X</display-name>
-    <url>http://www.program24.ro</url>
-  </channel>
-</plugin>
-<plugin>
-  <channel id="PRO X">
-    <display-name lang="ro">PRO X</display-name>
-    <url>http://www.program24.ro</url>
-  </channel>
-</plugin>
-<plugin>
-  <channel id="PRO X">
-    <display-name lang="ro">PRO X</display-name>
-    <url>http://www.program24.ro</url>
-  </channel>
-</plugin>
-<plugin>
-  <channel id="PRO X">
-    <display-name lang="ro">PRO X</display-name>
-    <url>http://www.program24.ro</url>
-  </channel>
-</plugin>
 
 
+</ Plugin>
+<Plugin>
+  <canal id = "PRO X">
+    <display-name lang = "ro"> PRO X </display-name>
+    <Url> http://www.program24.ro </ url>
+  </ Canal>
+</ Plugin>
+<Plugin>
+  <canal id = "PRO X">
+    <display-name lang = "ro"> PRO X </display-name>
+    <Url> http://www.program24.ro </ url>
+  </ Canal>
+</ Plugin>
+<Plugin>
+  <canal id = "PRO X">
+    <display-name lang = "ro"> PRO X </display-name>
+    <Url> http://www.program24.ro </ url>
+  </ Canal>
+</ Plugin> 
 
 
 **********************
