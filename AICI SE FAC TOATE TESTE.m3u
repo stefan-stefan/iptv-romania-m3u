@@ -5,13 +5,18 @@
     <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
 </dir>
 *******************************
-
+<plugin>
+    <title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR red]LISTA -[COLOR yellow](TEST1) [/COLOR][/B]</title>
+<link>http://abonament-tvonline.000webhostapp.com/ListaspecialaKodi.m3u</link>
+    <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
+    <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
+</plugin>
 
 **********************
 
 <plugin>
     <title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR red]LISTA -[COLOR yellow](TEST1) [/COLOR][/B]</title>
-<link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/test.m3u</link>
+<link>http://raw.githubusercontent.com/stefan-stefan/filme-online/master/test.m3u</link>
     <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
     <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
 </plugin>
@@ -25,7 +30,7 @@
 
 <plugin>
     <title>[COLOR blue][/COLOR] [B][COLOR blue]Netflix[/COLOR] [COLOR blue][/COLOR][/B] [COLOR yellow] (TEST)/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=http://abonament-tvonline.000webhostapp.com/ListaspecialaKodi.m3u</link>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://abonament-tvonline.000webhostapp.com/ListaspecialaKodi.m3u</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Netflix-new-icon.png/768px-Netflix-new-icon.png</thumbnail>
     <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Netflix-new-icon.png/768px-Netflix-new-icon.png</fanart>
 </plugin>
