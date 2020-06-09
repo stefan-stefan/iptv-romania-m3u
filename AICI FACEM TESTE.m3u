@@ -11,6 +11,13 @@
   <fantart></fantart>
 </dir>
 
+<plugin>
+    <title>[COLOR lime][B]»PLAY[/COLOR] [COLOR lime] STEFAN TV»(Digi)»(Update-08-06-2020!) [/B][/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://textbin.net/raw/sFKKK4YHDu</link>
+    <thumbnail>https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTAzdHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTQl/MkYwOSUyRjMwJTJGMzI0MDAwXzMyNDAw/MF9kaWdpX3BlbnRydV9mYW1pbGlhX3Rh/XzE2XzA5LmpwZyZ3PTgwMCZoYXNoPWEw/YzMzMmViNGRlYmY2N2I1Yzk1YjNmM2U5MTIzODMw.thumb.jpg</thumbnail>
+    <fanart>https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTAzdHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTQl/MkYwOSUyRjMwJTJGMzI0MDAwXzMyNDAw/MF9kaWdpX3BlbnRydV9mYW1pbGlhX3Rh/XzE2XzA5LmpwZyZ3PTgwMCZoYXNoPWEw/YzMzMmViNGRlYmY2N2I1Yzk1YjNmM2U5MTIzODMw.thumb.jpg</fanart>
+</plugin>
+
    <dir>
         <title>Genres</title>
         <link>https://textbin.net/raw/sFKKK4YHDu</link>
