@@ -5,36 +5,8 @@
     <thumbnail></thumbnail>
 </dir>
 <dir>
-<name>[COLOR dodgerblue]Â¤ [/COLOR] [B][COLOR white]1Click Hd Movies[/COLOR][/B] [COLOR dodgerblue] Â¤[/COLOR]</name>
-<link>https://bitbucket.org/threw/greenhat/raw/master/greenhat/1click/main_1click.xml</link>
-<thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_greenhat.png</thumbnail>
-<fanart>https://bitbucket.org/threw/greenhat/raw/master/greenhat/green.jpg</fanart>
-</dir>
-
-<dir>
-<name>[COLOR dodgerblue]Â¤ [/COLOR] [B][COLOR white]1Click Hd Movies By Year[/COLOR][/B] [COLOR dodgerblue] Â¤[/COLOR]</name>
-<link>https://bitbucket.org/threw/greenhat/raw/master/greenhat/1click/series9/test9.xml</link>
-<thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_greenhat.png</thumbnail>
-<fanart>https://bitbucket.org/threw/greenhat/raw/master/greenhat/green.jpg</fanart>
-</dir>
-
-<dir>
-<name>[COLOR dodgerblue]Â¤ [/COLOR] [B][COLOR white]1Click Kids Hd Movies[/COLOR][/B] [COLOR dodgerblue] Â¤[/COLOR]</name>
-<link>https://bitbucket.org/threw/greenhat/raw/master/greenhat/1click/hatkids.xml</link>
-<thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_greenhat.png</thumbnail>
-<fanart>https://bitbucket.org/threw/greenhat/raw/master/greenhat/green.jpg</fanart>
-</dir>
-
-<dir>
-<name>[COLOR dodgerblue]Â¤ [/COLOR] [B][COLOR white]1Click Uhd RD Movies[/COLOR][/B] [COLOR dodgerblue] Â¤[/COLOR]</name>
-<link>https://bitbucket.org/threw/greenhat/raw/master/greenhat/4k/4k.xml</link>
-<thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_greenhat.png</thumbnail>
-<fanart>https://bitbucket.org/threw/greenhat/raw/master/greenhat/green.jpg</fanart>
-</dir>
-
-<dir>
-<name>[COLOR dodgerblue]Â¤ [/COLOR] [B][COLOR white]1Click RD Collection[/COLOR][/B] [COLOR dodgerblue] Â¤[/COLOR]</name>
-<link>https://bitbucket.org/threw/greenhat/raw/master/greenhat/1click/rdcollections.xml</link>
-<thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_greenhat.png</thumbnail>
-<fanart>https://bitbucket.org/threw/greenhat/raw/master/greenhat/green.jpg</fanart>
+<title>[COLORlime]Netflix[COLOR]</title>
+<tmdb>network/shows/213</tmdb>
+<thumbnail>https://i.imgur.com/BRNk1re.png</thumbnail>
+<fanart>https://i.imgur.com/iN37Kxy.jpg</fanart>
 </dir>
