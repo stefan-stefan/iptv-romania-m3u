@@ -5,23 +5,36 @@
     <thumbnail></thumbnail>
 </dir>
 <dir>
-  <title>HBO</title>
-  <tmdb>network/shows/49</tmdb>
-  <thumbnail></thumbnail>
-  <fantart></fantart>
+<name>[COLOR dodgerblue]Â¤ [/COLOR] [B][COLOR white]1Click Hd Movies[/COLOR][/B] [COLOR dodgerblue] Â¤[/COLOR]</name>
+<link>https://bitbucket.org/threw/greenhat/raw/master/greenhat/1click/main_1click.xml</link>
+<thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_greenhat.png</thumbnail>
+<fanart>https://bitbucket.org/threw/greenhat/raw/master/greenhat/green.jpg</fanart>
 </dir>
 
-<plugin>
-    <title>[COLOR lime][B]»PLAY[/COLOR] [COLOR lime] WORLD IPTV 2» [/B][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/Mikolaj2019/TheSamsungFreak-TV-Addon/e5ac4020ca1c200650f9af56610bb87a12d07294/TheSamsungFreakTVMenueTEST</link>
-    <thumbnail>https://1.bp.blogspot.com/-6FdtWusB0gE/XUWKd3_HlEI/AAAAAAAAAKE/dej-nb3PENYfaM5I7IrRF_xJNz92e4RHwCLcBGAs/s1600/images%2B%25283%2529.jpg</thumbnail>
-    <fanart>https://1.bp.blogspot.com/-6FdtWusB0gE/XUWKd3_HlEI/AAAAAAAAAKE/dej-nb3PENYfaM5I7IrRF_xJNz92e4RHwCLcBGAs/s1600/images%2B%25283%2529.jpg</fanart>
-</plugin>
+<dir>
+<name>[COLOR dodgerblue]Â¤ [/COLOR] [B][COLOR white]1Click Hd Movies By Year[/COLOR][/B] [COLOR dodgerblue] Â¤[/COLOR]</name>
+<link>https://bitbucket.org/threw/greenhat/raw/master/greenhat/1click/series9/test9.xml</link>
+<thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_greenhat.png</thumbnail>
+<fanart>https://bitbucket.org/threw/greenhat/raw/master/greenhat/green.jpg</fanart>
+</dir>
 
-   <dir>
-        <title>Genres</title>
-        <link>https://textbin.net/raw/sFKKK4YHDu</link>
-        <summary>Search Shows by Genre</summary>
-        <thumbnail>http://i66.tinypic.com/9tnb50.jpg</thumbnail>
-        <fanart>http://i64.tinypic.com/10cvn7d.jpg</fanart>
-    </dir>
+<dir>
+<name>[COLOR dodgerblue]Â¤ [/COLOR] [B][COLOR white]1Click Kids Hd Movies[/COLOR][/B] [COLOR dodgerblue] Â¤[/COLOR]</name>
+<link>https://bitbucket.org/threw/greenhat/raw/master/greenhat/1click/hatkids.xml</link>
+<thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_greenhat.png</thumbnail>
+<fanart>https://bitbucket.org/threw/greenhat/raw/master/greenhat/green.jpg</fanart>
+</dir>
+
+<dir>
+<name>[COLOR dodgerblue]Â¤ [/COLOR] [B][COLOR white]1Click Uhd RD Movies[/COLOR][/B] [COLOR dodgerblue] Â¤[/COLOR]</name>
+<link>https://bitbucket.org/threw/greenhat/raw/master/greenhat/4k/4k.xml</link>
+<thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_greenhat.png</thumbnail>
+<fanart>https://bitbucket.org/threw/greenhat/raw/master/greenhat/green.jpg</fanart>
+</dir>
+
+<dir>
+<name>[COLOR dodgerblue]Â¤ [/COLOR] [B][COLOR white]1Click RD Collection[/COLOR][/B] [COLOR dodgerblue] Â¤[/COLOR]</name>
+<link>https://bitbucket.org/threw/greenhat/raw/master/greenhat/1click/rdcollections.xml</link>
+<thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_greenhat.png</thumbnail>
+<fanart>https://bitbucket.org/threw/greenhat/raw/master/greenhat/green.jpg</fanart>
+</dir>
