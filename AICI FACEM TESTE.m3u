@@ -5,20 +5,8 @@
     <thumbnail></thumbnail>
 </dir>
 <dir>
-<title>[COLORlime]Live Music[/COLOR]</title>
-<link>http://myatom.one/broken%20chains/Music/Concerts.txt</link>
-<thumbnail>https://i.imgur.com/BRNk1re.png</thumbnail>
-<fanart>https://i.imgur.com/VrmHOhn.jpg</fanart>
-</dir>
-<dir>
-<title>[COLORlime]IMDB TV Shows[/COLOR]</title>
-<link>http://myatom.one/broken%20chains/TV%20SHOWS/tv_scrapers.txt</link>
-<<thumbnail>https://i.imgur.com/BRNk1re.png</thumbnail>
-<fanart>https://i.imgur.com/iN37Kxy.jpg</fanart>
-</dir>
-<dir>
-<title>[COLORlime]TV Locker[/COLOR]</title>
-<link>http://myatom.one/broken%20chains/TV%20SHOWS/tv%20locker%20main.txt</link>
-<thumbnail>https://i.imgur.com/BRNk1re.png</thumbnail>
-<fanart>https://i.imgur.com/iN37Kxy.jpg</fanart>
-</dir>
+  <title>[COLORlime]MOVIES[/COLOR]</title>
+  <link>http://myatom.one/broken%20chains/MOVIES/movies%20main.txt</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+ </dir>
