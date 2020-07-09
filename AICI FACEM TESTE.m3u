@@ -4,17 +4,4 @@
     <fanart></fanart>
     <thumbnail></thumbnail>
 </dir>
-<dir>
-  <title>[COLORlime]MOVIES[/COLOR]</title>
-  <link>http://myatom.one/broken%20chains/MOVIES/movies%20main.txt</link>
-  <thumbnail></thumbnail>
-  <fanart></fanart>
- </dir>
 
- <dir>
-        <title>Popular</title>
-        <tmdb>tv/popular</tmdb>
-        <summary>Popular Shows</summary>
-        <thumbnail>http://i67.tinypic.com/65ab8h.jpg</thumbnail>
-       <fanart>http://i64.tinypic.com/10cvn7d.jpg</fanart>
-    </dir>
