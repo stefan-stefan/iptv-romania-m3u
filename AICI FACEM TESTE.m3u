@@ -20,3 +20,11 @@
 <jsonrpc>plugin://plugin.video.sport365.live</jsonrpc>
 <info>Agenda Sport365.live</info>
 </item>
+
+
+<plugin>
+                <title>[COLOR lightgreen]SPORT TV 01[/COLOR] - LINK 01</title>
+                <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://wstream.to/embed/cyqomyts14egn|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36</link>
+                <thumbnail>https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/stv1.png</thumbnail>
+                <fanart>https://i.imgur.com/xtDfb70.jpg</fanart>
+            </plugin>
