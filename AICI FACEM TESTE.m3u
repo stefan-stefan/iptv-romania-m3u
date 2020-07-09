@@ -16,3 +16,11 @@
 <jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=Sport365.live&amp;url=sss</jsonrpc>
 <thumbnail>http://broadbandtvnews.broadbandtvnews.netdna-cdn.com/wp-content/uploads/2012/09/sport365-logo.jpg</thumbnail>
 </item>
+item>
+<title>[COLOR lightblue]» [COLOR orangered]SPORT[/COLOR][COLOR white]365.[/COLOR][COLOR orangered]live[/COLOR]</title>
+<link>http://nopr0n</link>
+<thumbnail>https://koditips.com/wp-content/uploads/Sport365-Kodi.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/irmu/moria/master/_tools_tools/art/stadium.jpg</fanart>
+<jsonrpc>plugin://plugin.video.sport365.live</jsonrpc>
+<info>Agenda Sport365.live</info>
+</item>
