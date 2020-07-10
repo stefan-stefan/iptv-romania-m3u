@@ -1,7 +1,13 @@
 <dir>
-    <title>[COLOR FFff8000][B]»»»»»CATEGORIE[/COLOR] [COLOR blue]TESTE»»»»»[/B][/COLOR]</title>
+    <title>[COLOR FFff8000][B]»»»»»CATEGORIE[/COLOR] [COLOR blue]TESTE»»1»»»[/B][/COLOR]</title>
     <link>https://bitbucket.org/team-crew/xmls/raw/master/sports/mlb/mlb.xml</link>
     <fanart></fanart>
     <thumbnail></thumbnail>
 </dir>
 
+<dir>
+    <title>[COLOR FFff8000][B]»»»»»CATEGORIE[/COLOR] [COLOR blue]TESTE»»2»»»[/B][/COLOR]</title>
+    <link>https://bitbucket.org/team-crew/xmls/raw/master/sports/mlb/mlb.xml</link>
+    <fanart></fanart>
+    <thumbnail></thumbnail>
+</dir>
