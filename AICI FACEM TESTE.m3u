@@ -13,25 +13,14 @@
 </dir>
 <dir>
     <title>[COLOR FFff8000][B]»»»»»CATEGORIE[/COLOR] [COLOR blue]TESTE»»222»»»[/B][/COLOR]</title>
-    <link>http://live.vidoo.de/live/weltderwunder/master.m3u8</link>
+    <link>https://pastebin.com/raw/0rMMuVrj</link>
     <fanart></fanart>
     <thumbnail></thumbnail>
 </dir>
 <plugin>
     <title>[COLOR orchid]Â¤[/COLOR] [B][COLOR white]LIVE TV[/COLOR] [COLOR orchid] (YSS)[/COLOR][/B] [COLOR orchid]Â¤[/COLOR]</title>
-    <link>plugin://script.crew.sports/?mode=82</link>
+    <link>https://pastebin.com/raw/0rMMuVrj</link>
     <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/iptv.png</thumbnail>
     <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
 </plugin>
-<plugin>
-    <title>[COLOR orchid]Â¤[/COLOR] [B][COLOR white]LIVE TV CHANNELS[/COLOR] [COLOR orchid] (WS)[/COLOR][/B] [COLOR orchid]Â¤[/COLOR]</title>
-    <link>plugin://script.crew.sports/?mode=214</link>
-    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/iptv.png</thumbnail>
-    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
-</plugin>
-<plugin>
-    <title>[COLOR orchid]Â¤[/COLOR] [B][COLOR white]LIVE TV CHANNELS[/COLOR] [COLOR orchid] (SB)[/COLOR][/B] [COLOR orchid]Â¤[/COLOR]</title>
-    <link>plugin://script.crew.sports/?mode=226</link>
-    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/iptv.png</thumbnail>
-    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
-</plugin>
+
