@@ -4,7 +4,12 @@
     <fanart></fanart>
     <thumbnail></thumbnail>
 </dir>
-
+<dir>
+    <title>[COLOR orchid]Â¤[/COLOR] [B][COLOR white]MAD TITAN NCAA[/COLOR] [COLOR orchid] DIRECTS[/COLOR][/B] [COLOR orchid]Â¤[/COLOR]</title>
+    <link>https://magnetic.website/Mad%20Titan/NCAA%20GAMES.xml</link>
+    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/titan.png</thumbnail>
+    <fanart>special://home/addons/script.thecrew.artwork/resources/fanart/ncaa_fanart.jpg</fanart>
+</dir>
 <dir>
     <title>[COLOR FFff8000][B]»»»»»CATEGORIE[/COLOR] [COLOR blue]TESTE»»2»»»[/B][/COLOR]</title>
     <link>https://bitbucket.org/team-crew/xmls/raw/master/sports/nfl/nfl.xml</link>
