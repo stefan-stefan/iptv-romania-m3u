@@ -5,18 +5,6 @@ https://www.wirelesshack.org/wp-content/uploads/2020/03/How-To-Install-The-Crew-
     <thumbnail>https://www.wirelesshack.org/wp-content/uploads/2020/03/How-To-Install-The-Crew-Kodi-Addon.jpg</thumbnail>
 </dir>
 
-<dir>
-    <title>[COLOR FFff8000][B]»»»»»CATEGORIE[/COLOR] [COLOR blue]TESTE»»2»»»[/B][/COLOR]</title>
-    <link>https://bitbucket.org/team-crew/xmls/raw/master/sports/nfl/nfl.xml</link>
-    <fanart></fanart>
-    <thumbnail></thumbnail>
-</dir>
-<dir>
-    <title>[COLOR FFff8000][B]»»»»»CATEGORIE[/COLOR] [COLOR blue]TESTE»»222»»»[/B][/COLOR]</title>
-    <link>https://pastebin.com/raw/0rMMuVrj</link>
-    <fanart></fanart>
-    <thumbnail></thumbnail>
-</dir>
 <plugin>
     <title>[COLOR FFff8000][B]»»»CLICK LISTA-TV[/COLOR] [COLOR blue]»»»(teste!)»»»[/B][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/0rMMuVrj</link>
